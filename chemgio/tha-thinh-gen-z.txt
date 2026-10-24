@@ -1,0 +1,330 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Cho anh xin một phút quảng cáo: sản phẩm này hiền, biết nấu mì, biết nghe em kể chuyện, bảo hành trọn đời. Em có muốn dùng thử không?",
+   "author": ""
+  },
+  {
+   "name": "Anh lowkey thích em lâu rồi. Hôm nay anh quyết định highkey nói ra luôn: anh thích em.",
+   "author": ""
+  },
+  {
+   "name": "Phải gọi anh bằng sư phụ thôi, vì anh dạy em được cả môn… nhớ một người.",
+   "author": ""
+  },
+  {
+   "name": "Em không mê trai đâu, em chỉ mê người cười hiền như anh thôi.",
+   "author": ""
+  },
+  {
+   "name": "Em đi học, đi làm, đi gym đủ cả… chỉ còn thiếu đi chơi với anh nữa thôi.",
+   "author": ""
+  },
+  {
+   "name": "Vị trí “người đặc biệt” của anh còn trống, hồ sơ chỉ cần một nụ cười. Em ứng tuyển không?",
+   "author": ""
+  },
+  {
+   "name": "Cuối tuần này anh có vé xem phim, có xe đưa đón, chỉ thiếu mỗi người ngồi ghế bên cạnh.",
+   "author": ""
+  },
+  {
+   "name": "Bạn anh hỏi gu của anh là gì. Anh không nói gì, chỉ khẽ nhìn về phía em.",
+   "author": ""
+  },
+  {
+   "name": "Anh chill guy với mọi thứ trên đời, chỉ trừ lúc em nhắn “anh ơi”.",
+   "author": ""
+  },
+  {
+   "name": "Anh giỏi tiếng Anh không? Dạy em đọc câu “I like you” cho chuẩn, để em nói với anh.",
+   "author": ""
+  },
+  {
+   "name": "Em là bài hát nào vậy? Nghe một lần đã thuộc, nghe trăm lần vẫn chưa chán.",
+   "author": ""
+  },
+  {
+   "name": "Em không thả thính đâu. Em chỉ đăng story ở chế độ “chỉ mình anh xem” thôi.",
+   "author": ""
+  },
+  {
+   "name": "Anh hỏi AI định nghĩa “dễ thương”, nó trả lời mất 3 giây. Anh nhìn em, hiểu trong 1 giây.",
+   "author": ""
+  },
+  {
+   "name": "Anh định gatekeep em cho riêng mình, mà em xinh quá, giấu không nổi.",
+   "author": ""
+  },
+  {
+   "name": "Em cho anh chọn nè: anh nói “có” thì mình đi ăn kem, anh nói “không” thì mình đi ăn chè.",
+   "author": ""
+  },
+  {
+   "name": "Anh không seen không rep đâu. Anh chỉ đang soạn tin thứ bảy, sáu tin trước xóa vì thấy chưa đủ hay.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ anh dặn đừng tiêu xài hoang phí, nên anh để dành hết sự quan tâm cho em.",
+   "author": ""
+  },
+  {
+   "name": "Anh là mã freeship à? Thấy anh là em muốn chốt đơn liền.",
+   "author": ""
+  },
+  {
+   "name": "Em không giỏi thả thính, nên em thả luôn câu hỏi: tối nay anh rảnh không?",
+   "author": ""
+  },
+  {
+   "name": "Điện thoại anh có cả trăm ứng dụng, nhưng thứ anh mở nhiều nhất vẫn là khung chat với em.",
+   "author": ""
+  },
+  {
+   "name": "Em hỏi AI: “Làm sao để anh ấy để ý mình?”. AI bảo: “Nhắn trực tiếp đi”. Nên em nhắn nè.",
+   "author": ""
+  },
+  {
+   "name": "Anh định viết thơ tặng em, gõ được chữ “Em” xong là ngồi cười một mình tới sáng.",
+   "author": ""
+  },
+  {
+   "name": "Anh ship được đồ ăn, ship được quà, ship được hoa… nhưng thứ anh muốn ship nhất là anh với em.",
+   "author": ""
+  },
+  {
+   "name": "Người ta bảo con gái nên chờ con trai mở lời. Em chờ ba tuần rồi, giờ em mở lời luôn: đi trà sữa với em không?",
+   "author": ""
+  },
+  {
+   "name": "Anh không giỏi săn sale, nhưng gặp em là biết mình vừa trúng deal hời nhất năm.",
+   "author": ""
+  },
+  {
+   "name": "Anh là chill guy à? Vậy cho em làm chill girl ngồi cạnh nha.",
+   "author": ""
+  },
+  {
+   "name": "Em không cần người hoàn hảo. Em cần người chịu nghe em kể chuyện mà không lướt điện thoại. Anh làm được không?",
+   "author": ""
+  },
+  {
+   "name": "Anh có chơi game không? Em đang thiếu đồng đội, cả trong game lẫn ngoài đời.",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi, cho em mượn cây bút. Không cần trả đâu, chỉ cần nhớ mặt người mượn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng khuyên anh sống chậm lại. Anh thử rồi, mà cứ thấy em là tim lại chạy nhanh.",
+   "author": ""
+  },
+  {
+   "name": "Em hay nói “làm đại đi”. Hôm nay em làm đại thật: anh có muốn làm quen với em không?",
+   "author": ""
+  },
+  {
+   "name": "Anh không phải AI, nhưng câu hỏi nào của em anh cũng muốn trả lời ngay lập tức.",
+   "author": ""
+  },
+  {
+   "name": "Story của em chỉ tồn tại 24 giờ, còn em thì ở trong đầu anh 24/7.",
+   "author": ""
+  },
+  {
+   "name": "Học online anh lag suốt, riêng nghĩ về em thì mượt không giật giây nào.",
+   "author": ""
+  },
+  {
+   "name": "Bạn em bảo anh là red flag. Em xem kỹ rồi, anh chỉ là cờ… đỏ mặt mỗi lần em nhìn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Cơm nước gì chưa người đẹp? Chưa thì để anh ship tới, phí ship là một nụ cười.",
+   "author": ""
+  },
+  {
+   "name": "Em là bản cập nhật mới nhất à? Sao mỗi ngày một xịn hơn vậy.",
+   "author": ""
+  },
+  {
+   "name": "Anh biết em không thích vòng vo, nên anh nói gọn: anh thích em. Chiều nay đi ăn bánh tráng trộn không?",
+   "author": ""
+  },
+  {
+   "name": "Em hay quên lắm: quên ô, quên sạc, quên chìa khóa… mà lạ ghê, chưa lần nào quên anh.",
+   "author": ""
+  },
+  {
+   "name": "Em hỏi thật: anh có người yêu chưa? Nếu chưa thì tốt. Nếu có rồi thì… em hỏi đường ra chợ thôi.",
+   "author": ""
+  },
+  {
+   "name": "Em biết anh bận, nên em chỉ xin 5 phút. 5 phút mỗi ngày, trong 50 năm.",
+   "author": ""
+  },
+  {
+   "name": "Anh dốt toán lắm, nhưng tính đi tính lại kiểu gì đáp án cũng ra em.",
+   "author": ""
+  },
+  {
+   "name": "Anh nấu ăn dở lắm, nhưng nấu cháo điện thoại với em thì anh nấu được cả đêm.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ dặn con gái phải biết giữ. Nên em giữ… chỗ ngồi bên cạnh cho anh nè.",
+   "author": ""
+  },
+  {
+   "name": "Em không biết cua trai, em chỉ biết ăn lẩu cua. Anh đi ăn với em không?",
+   "author": ""
+  },
+  {
+   "name": "Em nhắn “haha” một cái, anh cười theo ba ngày.",
+   "author": ""
+  },
+  {
+   "name": "Em có phải deadline không? Sao đêm nào anh cũng thức để nghĩ về em.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn anh chơi bóng rổ, em chẳng biết tỉ số bao nhiêu, chỉ biết tim em vừa bị ghi điểm.",
+   "author": ""
+  },
+  {
+   "name": "Streak nhắn tin của mình 100 ngày rồi, hay mình nâng cấp lên streak đi cà phê ngoài đời nhé?",
+   "author": ""
+  },
+  {
+   "name": "Em không biết sửa xe, nhưng em biết sửa tâm trạng cho anh sau một ngày chạy deadline.",
+   "author": ""
+  },
+  {
+   "name": "Em có phải ngày thứ Sáu không? Vì cả tuần anh chỉ mong tới lúc gặp em.",
+   "author": ""
+  },
+  {
+   "name": "Tim em đang ét o ét, cần một người dễ thương cứu hộ khẩn cấp. Anh rảnh không?",
+   "author": ""
+  },
+  {
+   "name": "Em đừng tìm đâu xa, người kiên nhẫn chờ em trả lời tin nhắn đang ở đây nè.",
+   "author": ""
+  },
+  {
+   "name": "Em giống cà phê sáng ghê: thiếu một ngày là anh không tỉnh nổi.",
+   "author": ""
+  },
+  {
+   "name": "Trời trở lạnh rồi. Anh có áo khoác, có trà gừng, có cả một người rảnh để đưa em về. Em chỉ cần gật đầu thôi.",
+   "author": ""
+  },
+  {
+   "name": "Em đang làm khảo sát nhỏ: anh thích con gái tóc dài, hay con gái… đang nhắn tin với anh?",
+   "author": ""
+  },
+  {
+   "name": "Mai mốt anh đi đâu chơi thì rủ em nha. Em không phiền đâu, em chỉ dễ thương thôi.",
+   "author": ""
+  },
+  {
+   "name": "Tháng này em có KPI làm quen một người dễ thương. Anh giúp em hoàn thành chỉ tiêu được không?",
+   "author": ""
+  },
+  {
+   "name": "Anh có tin vào duyên số không? Không tin cũng không sao, em nhắn tin rồi đây.",
+   "author": ""
+  },
+  {
+   "name": "Người ta flex xe, flex nhà. Anh chỉ mong một ngày được flex: “Đây là bạn gái anh.”",
+   "author": ""
+  },
+  {
+   "name": "Em đang tập nấu ăn, cần tuyển một người thử món. Yêu cầu: dũng cảm và đẹp trai như anh.",
+   "author": ""
+  },
+  {
+   "name": "Em mới học từ “green flag”, đang tìm ví dụ minh họa thì gặp ngay anh.",
+   "author": ""
+  },
+  {
+   "name": "Trời hôm nay đẹp nhỉ? Em thấy đẹp hơn hẳn từ lúc anh trả lời tin nhắn em.",
+   "author": ""
+  },
+  {
+   "name": "Em là wifi nhà bên à? Sóng mạnh vậy mà anh chưa có mật khẩu.",
+   "author": ""
+  },
+  {
+   "name": "Anh mặc sơ mi đi làm mà em tưởng đang xem trailer phim, tuyệt đối điện ảnh luôn.",
+   "author": ""
+  },
+  {
+   "name": "Em nấu ăn không giỏi, nhưng đặt đồ ăn thì đỉnh. Anh muốn ăn gì, em đặt cho hai đứa.",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói anh giỏi Toán? Giải giúp em bài này: em + anh + một buổi cà phê = ?",
+   "author": ""
+  },
+  {
+   "name": "Lịch tuần này của anh kín hết rồi, còn đúng một khung giờ trống: giờ nào em rảnh.",
+   "author": ""
+  },
+  {
+   "name": "Valentine em không cần quà đắt tiền. Anh nhận lời đi ăn bún chả với em là em vui cả tuần.",
+   "author": ""
+  },
+  {
+   "name": "Em có phải tiếng Anh không? Học mãi mà anh vẫn muốn học thêm về em.",
+   "author": ""
+  },
+  {
+   "name": "Thầy dạy anh “học, học nữa, học mãi”. Từ khi gặp em, anh chỉ thuộc “nhắn, nhắn nữa, nhắn mãi”.",
+   "author": ""
+  },
+  {
+   "name": "KPI năm nay của anh chỉ có một dòng: làm em cười mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Em theo chủ nghĩa tối giản: ít đồ, ít drama, chỉ muốn nhiều anh thôi.",
+   "author": ""
+  },
+  {
+   "name": "11.11 cái gì cũng giảm 50%, riêng tình cảm anh dành cho em thì tăng 200%.",
+   "author": ""
+  },
+  {
+   "name": "Em cười một cái thôi mà anh thấy cả ngày… đủ wow rồi đó.",
+   "author": ""
+  },
+  {
+   "name": "Anh có phải sạc dự phòng không? Ở gần anh là pin vui của em lúc nào cũng đầy.",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi, tên anh viết sao? Để em lưu danh bạ cho đúng, sau này đổi thành “Người ấy” cho tiện.",
+   "author": ""
+  },
+  {
+   "name": "11.11 em mua đủ thứ, chỉ thiếu một món không bán online: người cùng em ngồi bóc hàng.",
+   "author": ""
+  },
+  {
+   "name": "Em đặt báo thức 7 giờ sáng mai, tên là “Chào buổi sáng anh”. Giờ chỉ thiếu được nói thật thôi.",
+   "author": ""
+  },
+  {
+   "name": "Em là trà sữa à? Ngọt vừa phải mà anh vẫn bị ghiền.",
+   "author": ""
+  }
+ ]
+}

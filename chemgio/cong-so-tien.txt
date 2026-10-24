@@ -1,0 +1,1326 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Nếu bây giờ, mua lọ keo 502 đổ vào chảo chống dính:\n- Nếu dính: kiện công ty chảo kiếm được 1 mớ\n- Nếu không dính: kiện công ty keo kiếm tiền đền bù",
+   "author": ""
+  },
+  {
+   "name": "Bọn đi SH với ô tô trông thế thôi chứ mở ví ra... chắc gì đã nhiều tiền lẻ bằng mình.",
+   "author": ""
+  },
+  {
+   "name": "Bảo hiểm nhân thọ là thứ giữ cho bạn sống trong nghèo khó và chết trong giàu có.",
+   "author": ""
+  },
+  {
+   "name": "Các cô gái à, thật ra thì trong cuộc sống này, giữa rất nhiều người đàn ông khác nhau, người đàn ông trên tờ Polyme vẫn là người làm cho mình hạnh phúc nhất.",
+   "author": ""
+  },
+  {
+   "name": "Cần một bạn nữ làm người yêu, xong rồi chê mình nghèo... chia tay mình... lấy động lực 2 năm sau làm chủ tịch.",
+   "author": ""
+  },
+  {
+   "name": "Giám đốc gọi trưởng phòng tổ chức và ra lệnh:\n- Anh tìm trong nhà máy một người trẻ tuổi, có năng lực, có thể thay thế tôi trong tương lai.\n- Tìm xong thì giao cho anh ta việc gì?\n- Đuổi anh ta ngay lập tức.",
+   "author": ""
+  },
+  {
+   "name": "Vì còn 520k. Đi ăn với gái thể hiện cho ăn xin 20k. Lúc tính tiền mở ví ra còn 20k.",
+   "author": ""
+  },
+  {
+   "name": "Sau 2 năm làm Ngân hàng, tôi đã nhận lời làm con dâu tổng cộng 18 hộ gia đình.",
+   "author": ""
+  },
+  {
+   "name": "Tiền ko phải là tất cả, cái gì thì cũng có giới hạn\nMày bỏ tiền mua rolex, chưa chắc mày có thời gian\nMày mua đc chăn ấm đệm êm, nhưng không mua đc giấc ngủ yên.\n-- Thế giới này giá bao nhiêu --",
+   "author": ""
+  },
+  {
+   "name": "- Cảm giác hạnh phúc nhất là được nắm tay người mình yêu\n- Mày chưa bao giờ cầm cọc tiền trăm triệu đúng không",
+   "author": ""
+  },
+  {
+   "name": "Cần thuê thêm người tìm hộ cái sim bị rơi trong đống kim cương ở nhà, mấy chục người tìm rồi mà vẫn ko thấy.",
+   "author": ""
+  },
+  {
+   "name": "Màn hình ATM không thể hiển thị số dư tài khoản của tôi nên đã bị đơ máy và ngừng hoạt động rồi...",
+   "author": ""
+  },
+  {
+   "name": "Tôi có thể cho cậu sự thông cảm nhưng gia hạn thì không.",
+   "author": ""
+  },
+  {
+   "name": "4 năm trước ba mẹ bán mảnh đất được 200 triệu đầu tư cho tôi học đại học. Ra trường làm lương 5 triệu / tháng... còn mảnh đất đó giờ bán 20 tỷ.",
+   "author": ""
+  },
+  {
+   "name": "Tui: Em hỏi anh câu này, anh trả lời ngay và luôn nhé\nSếp: ok!\nTui: Anh cho em ứng trước lương tháng này được không?\nSếp: Công ty đang gặp khó khăn em à.\nTui: Anh phải trả lời \"ngay và luôn\" chứ. Hứa zồi mà.",
+   "author": ""
+  },
+  {
+   "name": "Mười ngàn để túi làm chi\nMua tờ vé số nhiều khi lên đời",
+   "author": ""
+  },
+  {
+   "name": "Ông bà ta ngày xưa có câu \"1 câu nhịn 9 câu lành\".\nEm làm luật sư bào chữa im phăng phắc thế nào bị đuổi.",
+   "author": ""
+  },
+  {
+   "name": "Lúc chuyển tiền, không cẩn thận nhập nhầm số điện thoại vào số tiền cần chuyển, chuyển khoản thành công!",
+   "author": ""
+  },
+  {
+   "name": "Đối với bác sĩ thuộc nằm lòng câu \"Lương y như từ mẫu\"\nCòn Công chức thì: \"Lương y... như tháng trước\"",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ có thông báo là chưa có thông báo gì mới, chừng nào nhận được thông báo thì sẽ thông báo, còn bây giờ hết thông báo.",
+   "author": ""
+  },
+  {
+   "name": "Phòng làm việc là nơi bút luôn mất tích 1 cách bí ẩn, nhưng điện thoại, chìa khóa, ví tiền để quên trên bàn chả ai thèm đụng.",
+   "author": ""
+  },
+  {
+   "name": "Quán buffet miễn phí vé cho những trẻ em dưới 1m4. Cô giáo viên nhanh trí dắt cả lớp mẫu giáo vào...",
+   "author": ""
+  },
+  {
+   "name": "Nghe lời thằng bạn đi kinh doanh, nó bảo đầu tư 100 triệu chỉ sau 1 ngày là nhận lại gấp đôi. Dốc hết vốn mua 100 triệu thẻ cào Viettel, cuối cùng nhân đôi thật... mà xài không hết.",
+   "author": ""
+  },
+  {
+   "name": "Năng lực mạnh mẽ nhất của sếp là dừng mọi cuộc buôn chuyện chỉ bằng cách xuất hiện.",
+   "author": ""
+  },
+  {
+   "name": "- Thời gian sẽ thay đổi mọi thứ kể cả ước mơ mày ạ?\n- Sao thế\n- Trước đây tao mơ thành triệu phú đô la...\n- Ừm\n- Giờ chỉ mong thoát nghèo",
+   "author": ""
+  },
+  {
+   "name": "Muốn mua đồ không cần nhìn giá, thì phải lao động không cần nhìn giờ.",
+   "author": ""
+  },
+  {
+   "name": "- Cậu làm thế nào mà chỉ trong 3 năm đã có được một sản nghiệp đàng hoàng như thế này?\n- Tớ liên kết với một doanh nghiệp có nhiều vốn.\n- Tỷ lệ đóng góp thế nào?\n- Anh ta lo vốn còn tớ góp kinh nghiệm.\n- Kết quả ra sao?\n- Như cậu thấy đấy, tớ thì có tiền còn anh ta tích lũy được kinh nghiệm.",
+   "author": ""
+  },
+  {
+   "name": "Cần thuê một bạn, làm việc ngay, không yêu cầu nhiều, lương tháng 50 triệu. Nhiệm vụ duy nhất mỗi tháng là kiếm về cho mình 100 triệu... Nhanh tay nào.",
+   "author": ""
+  },
+  {
+   "name": "\"Thiệp cưới\" giấy báo nợ không chính thức ở Việt Nam.",
+   "author": ""
+  },
+  {
+   "name": "Tôi vừa rút tiền ra, ngân hàng liền phá sản.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nọ đi đường gặp ông già ăn xin thương quá cho cụ mấy đồng. Mấy hôm sau thấy ổng lên TV chia sẻ bí quyết trở thành người giàu thứ 2 Thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Có 1 băng cướp vào nhà tao cướp và hô: \"Muốn sống thì giao hết tiền bạc, tài sản ra đây\". Gần 3 năm nay nhà tao vẫn chưa giao hết cho bọn chúng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 người có triệu chứng:\n- Không muốn đi đâu\n- Không muốn ăn gì\n- Không muốn nói chuyện với ai\nThi không phải bị đau ốm gì mà do: HẾT TIỀN THÔI",
+   "author": ""
+  },
+  {
+   "name": "- Khuyết điểm lớn nhất của anh là gì?\n- Thành thật\n- Tôi không nghĩ thành thật là 1 khuyết điểm\n- Ông nghĩ gì kệ ông",
+   "author": ""
+  },
+  {
+   "name": "Có chuyên gia cố vấn khuyên giám đốc muốn nâng tinh thần làm việc của nhân viên, nên treo khẩu hiệu: \"Việc hôm nay chớ để ngày mai\". Tuần sau, người này hỏi giám đốc:\n- Nhân viên của anh phản ứng thế nào với khẩu hiệu đó?\n- Thủ quỹ của tôi mất tích cùng với tiền ngay hôm ấy, trưởng phòng tổ chức biến mất với cô thư ký của tôi và tất cả người khác đồng loạt đòi tăng lương.",
+   "author": ""
+  },
+  {
+   "name": "Đang chán đời bỗng anh Leader bảo \" Cố lên đi gái, anh chuẩn bị nghỉ việc rồi em\" thấy đời bỗng sáng ra",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói muốn làm việc được tốt phải có đam mê, phải tràn đầy năng lượng, phải có lương tâm nghề nghiệp\nTôi thì lại có suy nghĩ khác, qua bao nhiêu chuyện quanh mình tôi nhận thấy lương tâm không bằng lương tháng, và muốn có năng lượng phải có lương nặng.",
+   "author": ""
+  },
+  {
+   "name": "Để dành một khoản tiền nhỏ vào mỗi tháng, và đến cuối năm bạn sẽ vô cùng ngạc nhiên bởi khoản tiền bạn dành dụm được ít ỏi làm sao",
+   "author": ""
+  },
+  {
+   "name": "Chi tiết tôi cần là 1 cái chi tiết... chi tiết hơn cái chi tiết mà ông đã cung cấp cho tôi, cái chi tiết mà ông đã cung cấp cho tôi nó không chi tiết bằng cái chi tiết mà tôi nghĩ nó là chi tiết.",
+   "author": ""
+  },
+  {
+   "name": "Đi một ngày đàng\nMất mấy chục ngàn tiền xăng",
+   "author": ""
+  },
+  {
+   "name": "Công cha như núi Thái Sơn\nThủ trưởng nâng đỡ còn hơn cha nhiều",
+   "author": ""
+  },
+  {
+   "name": "Đầu tháng tôi ăn gì chó ăn nấy\nCuối tháng chó ăn gì tôi ăn nấy.",
+   "author": ""
+  },
+  {
+   "name": "- Em không sợ khổ, nhưng lương lậu trả sao vậy chị?\n- Khởi đầu là 5 triệu nhưng năm sau có thể lên 10 triệu\n- Dạ hay quá, vậy năm sau em quay lại.",
+   "author": ""
+  },
+  {
+   "name": "Tiền của anh có thể đập nát Nokia.",
+   "author": ""
+  },
+  {
+   "name": "Từ hôm nay nhịn tiền ăn sáng để năm sau mở công ty",
+   "author": ""
+  },
+  {
+   "name": "Có một ông đại gia đến một cửa hàng bán tranh hiện đại, toàn những loại tranh thật cao siêu và đắt tiền. Xem mãi mà vẫn không cảm nhận được bức nào, cuối cùng ông tập trung thưởng thức một bức nhỏ không đề giá. Bức tranh hình vuông, màu trắng và có một chấm đen ở giữa khung kẹp bằng đồng. Nó tạo cho ông cảm giác nhẹ nhàng thanh khiết vì bố cục và màu sắc giản dị. Biết rằng tranh ở đây không rẻ, chần chừ mãi mới nổi quyết tâm, ông hỏi người bán hàng:\n- Bức tranh này bao nhiêu tiền?\n- Thưa ông, đấy chỉ là cái công tắc điện thôi ạ!",
+   "author": ""
+  },
+  {
+   "name": "Không có tiền tiêu cứ nói với tôi, để tôi biết không phải chỉ có mình tôi không có tiền.",
+   "author": ""
+  },
+  {
+   "name": "Nếu anh muốn biết giá trị đồng tiền, hãy thử hỏi mượn ai đó.",
+   "author": ""
+  },
+  {
+   "name": "Người iu người ta thiên thần\nNgười iu tui... tâm thần =))",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi ta không buông được những thứ làm mình đau, chẳng hạn như tiền tệ mà ta vẫn yêu.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn ở độ tuổi 20-30, cái bạn cần tìm là một người sếp giỏi chứ không phải một công ty xịn.\nKhi bạn ở độ tuổi 40-50, bạn nên làm những gì mà bạn giỏi.\nKhi bạn 50-60, việc bạn phải làm là trao cơ hội cho người trẻ.\nHơn 60, ở nhà với cháu.",
+   "author": ""
+  },
+  {
+   "name": "Xã hàng tồn kho, giá rẻ như cho, không lo về giá.\nGiá bèo, giá bèo, giá cho người nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Thế giới cần có 1 ngày ở giữa thứ 7 và chủ nhật.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không mang lại hạnh phúc cho những người không có chúng!",
+   "author": ""
+  },
+  {
+   "name": "Chân dài là của đại gia\nĐùi to chân ngắn mới là vợ anh",
+   "author": ""
+  },
+  {
+   "name": "Biển tiệm quán ăn ốc: \"Các bạn chỉ việc ăn ốc. Đổ vỏ là việc của chúng tôi\"",
+   "author": ""
+  },
+  {
+   "name": "Tôi vẫn thức khi phố phường an giấc. Bởi cái nghèo đeo bám mãi không buông.",
+   "author": ""
+  },
+  {
+   "name": "Khi còn trẻ phải làm những việc bạn nên làm, thì khi về già mới có thể làm những việc bạn muốn làm.",
+   "author": ""
+  },
+  {
+   "name": "Em bị rối loạn tiền xài",
+   "author": ""
+  },
+  {
+   "name": "Trước kia tóc của bần tăng thường rất khô và cứng\nTừ khi bần tăng chuyển sang dùng downy 1 lần xả\nBần tăng ko còn thấy dấu hiệu gì của tóc nữa",
+   "author": ""
+  },
+  {
+   "name": "Nổi buồn lớn nhất của dân công sở sau chuyến du lịch vài ngày là gần như không thể tìm được ghế của mình dù đã gắn biển tên.",
+   "author": ""
+  },
+  {
+   "name": "Đúng là người yêu của người ta chưa bao giờ làm tôi thất vọng cả",
+   "author": ""
+  },
+  {
+   "name": "Tiền không phải là thứ quan trọng nhất trên thế giới mà đó là tình yêu. Nhưng thật may mắn, tôi là người yêu tiền",
+   "author": ""
+  },
+  {
+   "name": "Dự án lâu đời, sếp hỏi lời đâu?",
+   "author": ""
+  },
+  {
+   "name": "Muốn biết giá trị của đồng tiền thì bạn hãy đi hỏi những người nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Anh cứ suốt ngày lao mình vào công việc như vậy để làm cái gì? Em đâu có cần giàu sang, em cần một cuộc sống ổn định, vui vẻ, thế là đủ rồi anh ạ. Không cần phải quá cố gắng đâu anh, vừa sức, vừa hơi, cuộc sống còn nhiều thứ để tận hưởng anh ạ. Nếu như công việc không được như ý, anh phải luôn nhớ rằng, anh vẫn còn em! Hỗ trợ tài chính Phương Thảo, alo là có liền anh nhé.",
+   "author": ""
+  },
+  {
+   "name": "Cho \"bồ\" bạc triệu chẳng sao\nGiúp người nghèo khó rêu rao truyền hình",
+   "author": ""
+  },
+  {
+   "name": "Đời tôi nghèo lấy đâu ra mộng đẹp\nKiếp phong trần thu hẹp chuyện yêu đương",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn có thể đếm được mình có bao nhiêu tiền thì thực sự bạn chẳng phải là người giàu có",
+   "author": ""
+  },
+  {
+   "name": "Ước gì tiền biết làm tình,\nNgày ngày trong ví xếp hình sinh con",
+   "author": ""
+  },
+  {
+   "name": "\"Trong môi trường như hiện nay, nếu đã giàu rồi, anh sẽ phải cố gắng rất nhiều để không giàu thêm\"",
+   "author": ""
+  },
+  {
+   "name": "Nghèo không phải là cái tội, mà là một phong cách sống.",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nNhân viên bật sếp lương thường không tăng.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không mua được hạnh phúc nhưng tiền mua được những thứ làm con người hạnh phúc",
+   "author": ""
+  },
+  {
+   "name": "Nghèo không phải cái tội. Cái tội nhà tớ không giàu...",
+   "author": ""
+  },
+  {
+   "name": "Công việc của tôi không phải là dễ dãi với mọi người.\nCông việc của tôi là khiến họ trở nên tốt đẹp hơn.",
+   "author": ""
+  },
+  {
+   "name": "Người ta có chí thì nên\nCòn tôi có chí càng thêm ngứa đầu",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn sinh ra trong một gia đình nghèo khó thì đó không phải lỗi của bạn nhưng đến khi bạn chết mà vẫn nghèo thì đó lại là lỗi của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Hãy hết mình với khách... khách sẽ hết tiền với mình",
+   "author": ""
+  },
+  {
+   "name": "Nếu phụ nữ không tồn tại, tất cả tiền bạc trên thế giới này đều trở nên vô nghĩa",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn chăm chỉ làm ăn thì bạn chỉ là người có tiền. Nếu có gan đầu tư vào lô đề, bạn có thể trở thành tỷ phú.",
+   "author": ""
+  },
+  {
+   "name": "Bạn trai người ta nhìn là muốn theo đuổi\nBạn trai tui nhìn là muốn theo đuổi... đánh",
+   "author": ""
+  },
+  {
+   "name": "Giàu đổi bạn. Sang đổi vợ. Vỡ nợ đổi sim",
+   "author": ""
+  },
+  {
+   "name": "Chiều nay có trận mưa rào.\nMua tờ vé số nợ nào cũng qua.",
+   "author": ""
+  },
+  {
+   "name": "Nhớ hồi đó tuy nghèo nhưng vui, giờ hết vui nhưng vẫn còn nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Chấp nhận nợ dai, không xù ai cả",
+   "author": ""
+  },
+  {
+   "name": "Điều 1 sếp luôn đúng.\nĐiều 2 nếu sếp sai xem lại điều 1",
+   "author": ""
+  },
+  {
+   "name": "- Sao có đi mua cái áo thôi mà cũng lâu thế mày?\n- Tao không biết mua cái gì, tao mắc chứng sợ lựa chọn.\n- Lại còn chứng sợ lựa chọn, chứng nghèo thì có!",
+   "author": ""
+  },
+  {
+   "name": "Nhân dịp Black Friday mình cũng xin giảm 50% tất cả lương của nhân viên.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người biến mình thành người chỉ biết nói “vâng ạ” để có một công việc.",
+   "author": ""
+  },
+  {
+   "name": "Rẻ như bèo, nghèo cũng có tiền mua!",
+   "author": ""
+  },
+  {
+   "name": "Người yêu người ta tuyệt vời, người yêu tui thì tuyệt... tình",
+   "author": ""
+  },
+  {
+   "name": "Trong cuộc chiến mang tên công bằng, tiền sẽ thắng!",
+   "author": ""
+  },
+  {
+   "name": "Đau đầu vì tiền, điên đầu vì tình, đâm đầu vào tường",
+   "author": ""
+  },
+  {
+   "name": "Sống trong chăn mới biết chăn có rận\nKhông sống cùng thì đừng so sánh mình với Con Nhà Người Ta",
+   "author": ""
+  },
+  {
+   "name": "Sếp: Bức thư anh đọc rõ ràng thế mà em đánh sai đến hàng trăm lỗi chính tả.\nThư ký: Vâng, sếp đọc thì rất rõ, nhưng mà... nhột quá em không thể tập trung được.\nSếp: Sao mà nhột?\nThư ký: Dạ, hình như sáng nay sếp... quên cạo râu.",
+   "author": ""
+  },
+  {
+   "name": "Quý nhau tặng mấy tập thơ\nChẳng bằng đem tặng mấy tờ Mỹ kim",
+   "author": ""
+  },
+  {
+   "name": "Nhà chồng giàu có gì đâu\nEm về bên ấy làm dâu cũng buồn",
+   "author": ""
+  },
+  {
+   "name": "Cha mẹ ngồi đấy không hỏi, không han.\nBước vào cơ quan cúi chào thủ trưởng.",
+   "author": ""
+  },
+  {
+   "name": "Nước chấm bún chả quý khách đang dùng được hầm từ xương, không bình thường như quán khác. Thiệt tình!",
+   "author": ""
+  },
+  {
+   "name": "Nếu phải xóa sổ loài động vật trên thế giới. Thì con đầu tiên đó phải là Con nhà người ta!",
+   "author": ""
+  },
+  {
+   "name": "Những ai nói tiền không thể mua được hạnh phúc đơn giản bởi họ không biết mua nó ở đâu",
+   "author": ""
+  },
+  {
+   "name": "Tiền thì anh không thiếu, nhưng nhiều thì không có",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc không nằm ở tiền mà là số lượng của nó!",
+   "author": ""
+  },
+  {
+   "name": "Muốn có tiền thì phải dám vay tiền.",
+   "author": ""
+  },
+  {
+   "name": "Nghèo đi giữa chợ không ai biết\nGiàu ở rừng sâu có người thăm",
+   "author": ""
+  },
+  {
+   "name": "Văn phòng = Shopping center + Bếp ăn + Quán giải khát + chỗ ngủ trưa + forum chat chit",
+   "author": ""
+  },
+  {
+   "name": "Tôi không tham tiền – Nhưng nó làm thần kinh tôi bớt căng thẳng.",
+   "author": ""
+  },
+  {
+   "name": "Nhất cận thị, nhì cận giang, muốn giàu sang thì... cận sếp.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nhỏ cứ nghĩ tiền chỉ mua được bim bim\nLớn lên mới biết tiền còn mua được trái tim người khác",
+   "author": ""
+  },
+  {
+   "name": "Tôi chẳng thiếu thứ gì ngoại trừ tiền",
+   "author": ""
+  },
+  {
+   "name": "\"Tiền\" là 1 con quỷ có thể hack não người. Nó khiến ta phải làm mọi thứ để có nó",
+   "author": ""
+  },
+  {
+   "name": "Công sở là nơi bạn có thể thư giãn sau cuộc sống căng thẳng ở nhà.",
+   "author": ""
+  },
+  {
+   "name": "Người ta mơ ngôi nhà và những đứa trẻ\nCòn ta mơ két tiền và những tấm thẻ ATM",
+   "author": ""
+  },
+  {
+   "name": "Đừng nằm trên giường quá lâu, trừ khi bạn làm ra tiền khi ở trên đó.",
+   "author": ""
+  },
+  {
+   "name": "Con nhà người ta cả ngày học hành\nCon nhà tui cả ngày học... đòi",
+   "author": ""
+  },
+  {
+   "name": "Người iu người ta, chọc cái là mắc cỡ\nNgười iu tui, chọc phát là... mắc dạy =))",
+   "author": ""
+  },
+  {
+   "name": "Tiền mua được ngôi nhà nhưng không mua được một tổ ấm\nTiền mua được đồng hồ nhưng không mua được thời gian\nTiền mua được chiếc giường nhưng không mua được giấc ngủ\nTiền mua được sách nhưng không mua được kiến thức\nTiền mua được thuốc nhưng không mua được sức khỏe\nTiền mua được địa vị nhưng không mua được sự nể trọng\nTiền mua được máu nhưng không mua được cuộc sống\nTiền mua được thể xác nhưng không mua được tình yêu",
+   "author": ""
+  },
+  {
+   "name": "Túi tiền gần con tim, xa bộ não. Lấy được tim là móc được túi.",
+   "author": ""
+  },
+  {
+   "name": "Điều 1 sếp luôn đúng.\nĐiều 2 nếu sếp sai thì một nhân viên nào đó sai chứ không phải sếp",
+   "author": ""
+  },
+  {
+   "name": "- 2 quả cà chua này mấy tiền ạ?\n- 5 nghìn\n- Cháu lấy1 quả này thì mấy ạ?\n- 3 nghìn\nLặng lẽ đặt 2 nghìn xuống cầm quả cà chua còn lại rồi cút thẳng, ko cần nói nhiều...",
+   "author": ""
+  },
+  {
+   "name": "Tiền rất quan trọng, không có tiền bạn không hạnh phúc được, nhưng tiền không khiến bạn hạnh phúc trọn vẹn. Cái bạn cần là thành tựu.",
+   "author": ""
+  },
+  {
+   "name": "Lúc giàu sang, tình bạn như tình Hàn.\nKhi khốn khó thì bạn liền tàng hình.",
+   "author": ""
+  },
+  {
+   "name": "Ngân hàng là nơi bạn sẽ cho bạn vay tiền nếu bạn chứng minh rằng mình không cần chúng",
+   "author": ""
+  },
+  {
+   "name": "Nghĩ đi nghĩ lại, cố gắng kiếm tiền là cách tốt nhất. - nếu không có tiền, mỗi khi buồn chỉ có thể mua vài chai bia rồi khóc bên lề đường mà thôi. - nếu có tiền có thể đến New York khóc hay đến DuBai khóc, muốn khóc thế nào thì khóc!",
+   "author": ""
+  },
+  {
+   "name": "Bạn chỉ nhìn thấy được sự giàu có, hạnh phúc của người khác, nhưng không thấy được sự cố gắng của họ.",
+   "author": ""
+  },
+  {
+   "name": "Nhà người cất tiếng cười vang\nNhà mình như cái nghĩa trang ngoài phường",
+   "author": ""
+  },
+  {
+   "name": "Không tiền cạp đất mà ăn",
+   "author": ""
+  },
+  {
+   "name": "Thất tình có lẽ ko đáng sợ bằng thất nghiệp",
+   "author": ""
+  },
+  {
+   "name": "Còn tiền thì chung đường chung lối\nHết tiền thì lời nói mấy ai nghe...",
+   "author": ""
+  },
+  {
+   "name": "Tiền tỷ thì anh không có, nhưng mà tiền lẻ thì anh có cả tỷ",
+   "author": ""
+  },
+  {
+   "name": "Nếu phải lựa chọn giữa tình cảm và tiền bạc, tôi sẽ chọn tình cảm. Vì tình cảm có thể giúp bạn vay tiền, còn tiền thì không bao giờ mua được tình cảm thực sự.",
+   "author": ""
+  },
+  {
+   "name": "Có 1 sự thật. Thật đến phũ phàng. Phũ phàng đến ngỡ ngàng. Ngỡ ngàng đến bàng hoàng. Bàng hoàng đến sỗ sàng… Ta vừa mất 1 ngàn!",
+   "author": ""
+  },
+  {
+   "name": "Đầu tiên - Tiền đâu",
+   "author": ""
+  },
+  {
+   "name": "Thấy cô nhân viên đang gân cổ lên tranh cãi với khách hàng, sếp rất bực, gọi lại bảo:\n- Tôi đã nhiều lần lưu ý cô là khách hàng luôn luôn đúng. Tại sao cô lại làm căng với ông ta như thế?\n- Nhưng thưa sếp, ông khách này lại cứ khăng khăng rằng ông ta đã sai lầm ạ!",
+   "author": ""
+  },
+  {
+   "name": "Nhà xa công ty nên đi làm như đi phượt. Sáng đến công ty như là \"Sáng thức dậy ở một nơi xa\". Chiều về nhà thì giống như \"đi thật xa để trở về\" :)))",
+   "author": ""
+  },
+  {
+   "name": "Cha mẹ bảo thì con cãi,\nThủ trưởng bảo thì mãi mãi dạ vâng",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể mua được tình yêu, nhưng phải trả kha khá tiền để có được nó",
+   "author": ""
+  },
+  {
+   "name": "Sống trên đời phải có tiền mới làm phiền được người khác",
+   "author": ""
+  },
+  {
+   "name": "Có tiền là có quyền bời vì càng có nhiều tiền thì càng có nhiều lựa chọn",
+   "author": ""
+  },
+  {
+   "name": "Văn nghệ trường người ta: hiphop, nhảy tập thể, nhảy sôi động.\nVăn nghệ trường mình: ôi hàng cây xanh thắm dưới mái trường mến yêu...",
+   "author": ""
+  },
+  {
+   "name": "Đầu lòng hai ả tố nga\nThúy Kiều là chị, mai là thứ hai :(",
+   "author": ""
+  },
+  {
+   "name": "Tiền em đây thì bao la nhưng... nợ thì bao vây",
+   "author": ""
+  },
+  {
+   "name": "Đừng tỏ ra giàu có. Hãy tỏ ra bí hiểm.",
+   "author": ""
+  },
+  {
+   "name": "Nghèo thì phải sống cho sang\nMai này có giàu mới không bỡ ngỡ.",
+   "author": ""
+  },
+  {
+   "name": "Tiền hết tình tan đời xiêu vẹo...\nNhạc phụ chê nghèo đếck gả con",
+   "author": ""
+  },
+  {
+   "name": "Con người ta học hành ngày đêm nhìn tội nghiệp\nCòn tui cả ngày chơi game nhìn tội... đồ",
+   "author": ""
+  },
+  {
+   "name": "Sự phân chia tiền trên thế giới là điều hợp lý nhất bởi vì ai cũng kêu rằng mình không đủ tiền.",
+   "author": ""
+  },
+  {
+   "name": "Hỏi thế gian, tiền là gì? Mà sao tiêu bao nhiêu cũng hết!!!",
+   "author": ""
+  },
+  {
+   "name": "Quăng tao cái xô. Quăng tao cái xô. Quăng tao cái xô. Ta cùng đi phụ hồ...",
+   "author": ""
+  },
+  {
+   "name": "Lô đề cờ bạc muôn đời thịnh\nHọc hành chăm chỉ vạn đời suy",
+   "author": ""
+  },
+  {
+   "name": "Tiền dùng đúng, tiền hiền như Phật\nBạc xài lầm, bạc ác hơn ma.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không phải là thước đo chính xác nhất để đánh giá con người... nhưng hầu hết người ta lại sử dụng thước đo này.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có biết? Cách loại bỏ mụn trừng cá, vết nám, vết thâm đen, nốt ruồi, thậm chí là các vết sẹo trên khuôn mặt một cách nhanh chóng chỉ chưa đầy 5 phút?\nHãy đến với Photoshop, phần mềm xử lý ảnh hàng đầu thế giới,với các tính năng đa dạng và phong phú, PTS sẽ đưa bạn trở lại thời kỳ đỉnh cao mặc dù quá khứ chưa chắc bạn đã có.\n-- PTS, mang lại cảm xúc ảo cho người tình của bạn. --",
+   "author": ""
+  },
+  {
+   "name": "Sáng soi, trưa đánh,chiều chờ\nCầm tờ kết quả cứ đờ mặt ra.",
+   "author": ""
+  },
+  {
+   "name": "Tôi sẽ cho bạn biết làm thế nào để trở nên giàu có. Hãy sợ hãi khi người khác tham lam. Và hãy tham lam khi người khác sợ hãi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không cần tiền, tôi chỉ cần tình yêu… Nhưng không có tiền, tình yêu của tôi sẽ chết!",
+   "author": ""
+  },
+  {
+   "name": "Thời buổi bây giờ, đi chơi, bước zô 1 quán ăn quán uống nào đó. Bây giờ, cảm thấy vô cùng là sợ hãi là vì sao? Khách hàng đã không còn là thượng đế nữa, khách hàng giờ là thỏ đế. Phục vụ nó leo lên đầu làm cha, làm má, làm mẹ người ta =))",
+   "author": ""
+  },
+  {
+   "name": "Có quá nhiều người dành tiền mà họ không kiếm được để mua những thứ họ không muốn và để “thể hiện” với những người mà họ không thích",
+   "author": ""
+  },
+  {
+   "name": "Vợ: Anh về sớm vậy?\nTui: Tui nghỉ việc luôn rồi, không thể nào chịu được những lời nói thô bỉ, khinh thường người khác của ông ấy nữa. Thật sự don't work anymore ở nơi như thế được.\nVợ: Ổng nói gì vậy?\nTui: \"Anh bị thôi việc.\"",
+   "author": ""
+  },
+  {
+   "name": "Ngày cho vay bầu trời xanh như biếc\nNgày trả nợ gọi như điếc như câm",
+   "author": ""
+  },
+  {
+   "name": "Một năm chia làm 2 nửa: 1 nửa là những ngày hạnh phúc, 1 nửa là những ngày thứ hai :(",
+   "author": ""
+  },
+  {
+   "name": "Tiền không là gì cả...nhưng không có nó ta chẳng là gì cả!!!",
+   "author": ""
+  },
+  {
+   "name": "Tiệm sửa xe của tôi chuyên nhận:\nBơm bánh xe tank\nĐỗ xăng xe đạp\nCăng vành xe lửa\nLật ngửa xe lu",
+   "author": ""
+  },
+  {
+   "name": "Người ta dậy muộn là vì có tiền muốn dậy lúc nào thì dậy\nTôi dậy muộn là vì không có tiền, tiết kiệm bữa nào hay bữa đó.",
+   "author": ""
+  },
+  {
+   "name": "Con cái người ta tài giỏi, tui thì được cái tài lanh.",
+   "author": ""
+  },
+  {
+   "name": "Người thì không thể đem tiền vào quan tài được\nNhưng tiền thì có thể bỏ người vào quan tài",
+   "author": ""
+  },
+  {
+   "name": "Xe ôm: Không nhanh không lấy tiền. Đi mây về gió. Cho thuê người yêu!",
+   "author": ""
+  },
+  {
+   "name": "Người iu người ta mặt đầy khả ái\nNgười iu tui... mặt đầy... khả ố",
+   "author": ""
+  },
+  {
+   "name": "Không tiền mất quyền lên tiếng",
+   "author": ""
+  },
+  {
+   "name": "Khi công tác - khác công ty",
+   "author": ""
+  },
+  {
+   "name": "Giàu không tiết kiệm, nghèo liền tay.\nNghèo không tiết kiệm, sớm ăn mày.",
+   "author": ""
+  },
+  {
+   "name": "Bánh mì quá phê, ngon tê đầu lưỡi.",
+   "author": ""
+  },
+  {
+   "name": "Bạn gái người ta ăn từ tốn\nBạn gái tui ăn từ từ... mà tốn.",
+   "author": ""
+  },
+  {
+   "name": "Thuốc xịt côn trùng Raid hiệu quả, không bỏ sót loại côn trùng nào kể cả Người Nhện.",
+   "author": ""
+  },
+  {
+   "name": "Tôi thấy lương về trong giấc mơ",
+   "author": ""
+  },
+  {
+   "name": "Em nào xấu xấu, kinh kinh\nĐến anh làm tóc nhìn xinh lại liền\nBác nào nhìn mặt cáo già\nĐến em gọt tóc lại là thỏ non\nEm nào chồng bỏ chồng chê\nĐến đây làm tóc chồng mê lại liền\nBác nào tuổi đã xế tà\nĐến đây cạo tóc lại là tuổi teen",
+   "author": ""
+  },
+  {
+   "name": "Giảm giá cực mạnh thời lạm phát! Giảm giá 50% không mua đêm về mất ngủ!",
+   "author": ""
+  },
+  {
+   "name": "- Chuyện mức lương là bảo mật em nhé. (Chị HR nhắc)\n- Chị cứ yên tâm, mức lương này đủ xấu hổ để em không dám nói ra với ai mà.",
+   "author": ""
+  },
+  {
+   "name": "Kiếm tiền tỷ không khó, 5 giờ chiều là có.\nKhông cần trình độ - chỉ cần trời độ.\nVé số đê",
+   "author": ""
+  },
+  {
+   "name": "Không cho mượn tiền thì mất bạn, cho mượn tiền thì mất cả bạn và tiền!",
+   "author": ""
+  },
+  {
+   "name": "Đời người thì ngắn... khoảng cách giữa 2 kỳ lương thì quá dài.",
+   "author": ""
+  },
+  {
+   "name": "Giá trị của bạn trong con mắt xã hội không phải ở số tiền bạn có, mà ở số tiền bạn tiêu...",
+   "author": ""
+  },
+  {
+   "name": "Phải dành nhau mới giàu nhanh",
+   "author": ""
+  },
+  {
+   "name": "Cái gì không mua được bằng tiền thì có thể mua bằng rất nhiều tiền!",
+   "author": ""
+  },
+  {
+   "name": "Đang còn trẻ, bây giờ nghèo thì đã làm sao phải tập làm quen vì sau này còn nghèo dài dài nữa",
+   "author": ""
+  },
+  {
+   "name": "5 điều sếp dạy:\n- Yêu khách hàng, yêu đồng nghiệp\n- Cày việc tốt, ăn nhậu tốt\n- Đoàn kết tốt, chốt sale tốt\n- Giữ gìn văn phòng thật tốt\n- Khiêm tốn, mặt dày, cấm nản.",
+   "author": ""
+  },
+  {
+   "name": "Gửi vợ tương lai: Chắc giờ em đang yêu thằng nào đó giàu có hơn anh, em hãy cố gắng moi... được đồng nào hay đồng đó từ nó. Để sau này vợ chồng nhà mình đỡ khổ, đỡ khó nha em.",
+   "author": ""
+  },
+  {
+   "name": "Mất vài triệu năm con thú mới tiến hóa thành người.\nNhưng chỉ cần vài triệu đồng con người sẽ thành con thú.",
+   "author": ""
+  },
+  {
+   "name": "Ở đây có bán trang sức Bạc như người yêu cũ của bạn",
+   "author": ""
+  },
+  {
+   "name": "Người giàu mua tài sản, người nghèo mua tiêu sản.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi ngày đi làm tới chỗ làm, chỉ mong các chị em phụ nữ xinh đẹp... xi nhan phải thì cứ rẻ phải thôi <3",
+   "author": ""
+  },
+  {
+   "name": "Buồn buồn ngồi chửi sếp chơi\nHôm sau mất việc buồn ơi là buồn",
+   "author": ""
+  },
+  {
+   "name": "Sếp: Làm sao để giữ phòng làm việc công ty gọn gàng, sạch sẽ?\nTui: Ở nhà làm",
+   "author": ""
+  },
+  {
+   "name": "Thế giới này không thuộc về những người có tiền cũng không phải những người có quyền. Thế giới này thuộc về những người có tâm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu tình người phân cao thấp... Tiền bạc để lót mông\nNỗi buồn đem chia nhau như bao cấp có tốt không?\nQuá khó khi đồng tiền trở nên quá quan trọng\nĐam mê trở thành sự nghiệp khi nó giải quyết đc tiền nong\n-- Ko có gì quan trọng --",
+   "author": ""
+  },
+  {
+   "name": "Nói không phải khoe khoang gì chứ, tao chỉ nghèo trên trần gian này thôi chứ xuống âm phủ tao là tỉ phú nhé, vì nhà tao bán vàng mã mà.",
+   "author": ""
+  },
+  {
+   "name": "Trời nắng nóng, bạn trai em mang ô ra che...\nCon bạn trai người ta đem ô... tô ra chở...",
+   "author": ""
+  },
+  {
+   "name": "Người iu người ta nhìn như thiên sứ\nNgười iu tui nhìn như quỷ sứ",
+   "author": ""
+  },
+  {
+   "name": "Tiền bạc hoặc là phụng sự hoặc là cai trị kẻ làm chủ nó",
+   "author": ""
+  },
+  {
+   "name": "- Sống sao với 100k đến cuối tháng?\n- Dùng 100k đổ xăng đầy bình và chạy đến nhà bà Tân Vlog ăn ké. Kiểu gì chả đủ sống, sống đến hết năm cũng được ấy chứ =))",
+   "author": ""
+  },
+  {
+   "name": "Có tiền đời đẹp như mơ\nKhông tiền tình bỏ bạn lơ chẳng nhìn",
+   "author": ""
+  },
+  {
+   "name": "Nói chung cứ 10 người giàu là có 1 người ko hạnh phúc. Nhưng xịt pẹ, 10 người nghèo thì 11 người bất hạnh.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này chẳng ai thiếu ai là sống không nổi cả. Chỉ có thiếu tiền mới thừa sống thiếu chết mà thôi...",
+   "author": ""
+  },
+  {
+   "name": "Người giàu không làm việc vì tiền. Người giàu làm việc vì cơ hội.",
+   "author": ""
+  },
+  {
+   "name": "Đi hát karaoke với sếp, lúc sếp hát đang hăng lỡ tay ấn next, sếp lập tức sầm mặt. Tôi vội vàng nói:\" Tại em tưởng ca sĩ đang hát, không ai thích hát bài này nên mới next ạ.\"",
+   "author": ""
+  },
+  {
+   "name": "Muốn chó thôi sủa thì phải có xương\nMuốn được người thương thì phải có tiền",
+   "author": ""
+  },
+  {
+   "name": "Công ty có luật đến muộn phạt 50k, cắm đầu phóng xe cho kịp... Vượt đèn đỏ bị phạt 200k.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn người ta thương nhau thật đáng yêu\nNhìn tụi tui yêu nhau thật đáng thương =))",
+   "author": ""
+  },
+  {
+   "name": "Nghèo nhân, nghèo nghĩa chẳng lo. Nghèo tiền, nghèo bạc mới cho là nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Đối với tôi, việc anh giàu hay nghèo không quan trọng, miễn là… anh có tiền",
+   "author": ""
+  },
+  {
+   "name": "Nhiều tiền chưa chắc đã sung sướng\nNhưng không có tiền chắc chắn là khổ",
+   "author": ""
+  },
+  {
+   "name": "Cách chắc ăn nhất để tránh xa một người mà ta ghét là cho hắn vay tiền.",
+   "author": ""
+  },
+  {
+   "name": "Những người làm việc cùng bạn phản ánh thái độ của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói tình yêu quan trọng hơn tiền bạc, nhưng bạn đã bao giờ thử thanh toán hoá đơn với một cái ôm chưa?",
+   "author": ""
+  },
+  {
+   "name": "Sự giàu có của bạn sẽ quyết định việc bạn nhận được bao nhiêu sự tôn trọng từ những người khác.",
+   "author": ""
+  },
+  {
+   "name": "Nghèo mà có tình, xấu mà cá tính\nCòn hơn giàu mà âm binh\nĐẹp mà thần kinh khinh người",
+   "author": ""
+  },
+  {
+   "name": "Tiền có hai loại: Khi tiêu hết, đó là tiền, là tài sản. Không tiêu hết, đó là “giấy”, là di sản.",
+   "author": ""
+  },
+  {
+   "name": "Con nhà người ta đi làm ăn\nTui ở nhà làm... biếng =))",
+   "author": ""
+  },
+  {
+   "name": "Không làm gì mà vẫn giàu, chỉ có đi lừa đảo",
+   "author": ""
+  },
+  {
+   "name": "Đã không có tiền lại còn đua đòi bệnh tật.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta nghèo bởi vì chúng ta luôn muốn cuộc sống của người khác mà không hề biết rằng có rất nhiều người mong muốn được cuộc sống như của ta.",
+   "author": ""
+  },
+  {
+   "name": "Giàu sang phú quý triệu người kính\nBần cùng nghèo khó vạn người khinh",
+   "author": ""
+  },
+  {
+   "name": "Chiều thứ 6, giám đốc hỏi cô thư ký:\n- Tối Chủ Nhật này cô có bận gì không?\n- Dạ thưa không, em hoàn toàn rãnh ạ\n- Thế thì... cô cố gắng đi ngủ sớm đi để thứ 2 đừng đi làm muộn nữa",
+   "author": ""
+  },
+  {
+   "name": "Khi tiền đi trước mọi cánh cửa đều mở ra.",
+   "author": ""
+  },
+  {
+   "name": "Xa quê con nhớ mẹ hiền Con về gặp mẹ...lấy tiền xong lại xa quê",
+   "author": ""
+  },
+  {
+   "name": "Anh nào chưa có người yêu\nUống ly sinh tố sẽ nhiều em mê\nChị nào chồng bỏ chồng mê\nUống ly sinh tố chồng \"phê\" đến già\nBất luận là địch hay ta\nUống ly sinh tố là ra Thúy Kiều",
+   "author": ""
+  },
+  {
+   "name": "Có khá nhiều phương tiện để làm giàu nhưng có rất ít phương tiện để lương thiện.",
+   "author": ""
+  },
+  {
+   "name": "Tiền là 1 điều tốt đối với người tốt\nVà 1 điều xấu đối với người xấu",
+   "author": ""
+  },
+  {
+   "name": "Đi làm thêm - Thi làm đêm",
+   "author": ""
+  },
+  {
+   "name": "Có tiền mua tiên cũng được, nhưng đừng mua một \"tiên nữ\", vì thế bạn sẽ không còn tiền nữa.",
+   "author": ""
+  },
+  {
+   "name": "Người nào nói tiền không mua được hạnh phúc thì đi shopping nhầm chỗ rồi.",
+   "author": ""
+  },
+  {
+   "name": "Viêm màng túi là một căn bệnh tràn lan và rất khó chữa hiện nay",
+   "author": ""
+  },
+  {
+   "name": "Tiền không phải là tất cả.. nhưng không có tiền là vất vả",
+   "author": ""
+  },
+  {
+   "name": "Sữa mẹ là tốt nhất cho sự phát triển của bố trẻ sơ sinh và trẻ nhỏ. Chống chỉ định: Không dùng cho phụ nữ dưới 2 tuổi, trẻ em có thai và đàn ông đang cho con bú...",
+   "author": ""
+  },
+  {
+   "name": "Bạn trai người ta yêu đương có trách nhiệm\nBạn trai tui yêu đương toàn trách... móc",
+   "author": ""
+  },
+  {
+   "name": "Người iu người ta ngoan hiền\nNgười iu tui ngoan... cố",
+   "author": ""
+  },
+  {
+   "name": "Hãy nghĩ mình là giám đốc. Ai cần mình thì người đó gọi lại.",
+   "author": ""
+  },
+  {
+   "name": "Chốn xa hoa tôi xin vắng mặt\nTúi không tiền, sao góp mặt cuộc vui.",
+   "author": ""
+  },
+  {
+   "name": "Không có loại thuốc nào làm dịu đau đầu bằng tiền, có điều, phải liên tục gia tăng số lượng.",
+   "author": ""
+  },
+  {
+   "name": "Tiền bạc giết tâm hồn hơn là gươm giáo giết thể xác",
+   "author": ""
+  },
+  {
+   "name": "Sống được bằng những đồng tiền ít ỏi... đó một là tài năng.",
+   "author": ""
+  },
+  {
+   "name": "Nhà mặt phố, bố làm to, mẹ thủ kho đó là những gì a có.",
+   "author": ""
+  },
+  {
+   "name": "Hết tiền thì khách hàng cũng hết là thượng đế",
+   "author": ""
+  },
+  {
+   "name": "Vấn đề tiền với tôi chẳng quan trọng, quan trọng là tôi chẳng có tiền",
+   "author": ""
+  },
+  {
+   "name": "Bra xinh cho những bức tường cắm 2 đinh.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không quan trọng… nhưng đó là ta đang nói về tiền của người khác!",
+   "author": ""
+  },
+  {
+   "name": "Sài Gòn hoa lệ, hoa cho người giàu, lệ cho người nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Đi gặp vợ người ta đẹp như minh tinh showbiz\nVề nhà gặp vợ mình lại tưởng tinh tinh rạp xiếc",
+   "author": ""
+  },
+  {
+   "name": "Bạn trai người ta có lỗi thì lo giải quyết\nBạn trai tui có lỗi toàn ngồi giải thích",
+   "author": ""
+  },
+  {
+   "name": "Được tăng lương cũng giống như uống ly rượu, nó nâng tinh thần ta lên nhưng chỉ trong chốc lát thôi.",
+   "author": ""
+  },
+  {
+   "name": "Bạn kiếm được bao nhiêu không quan trọng, điều quan trọng là bạn giữ được bao nhiêu tiền và bạn làm thế nào để bắt tiền làm việc cho mình cũng như khiến cho \"tiền đẻ ra tiền\".",
+   "author": ""
+  },
+  {
+   "name": "Tiền không thể mua bạn bè, nhưng nó giúp bạn có ưu thế trước các đối thủ khác",
+   "author": ""
+  },
+  {
+   "name": "Thật ra, chúng ta ko hề cô đơn. Vì suốt khoảng thời gian lớn lên, lúc nào cũng có sự hiện diện của một người, khiến bản thân muốn quên cũng quên ko nổi, luôn luôn ở bên ko rời. Vâng, đó chính là con nhà người ta.",
+   "author": ""
+  },
+  {
+   "name": "Mình là tiếp viên truởng của một quán cafe. Mỗi lần xuất hiện trước khách hàng, quần áo có sáng sạch thì mình mới có đủ tự tin để tiếp khách... Một lần vắng khách, mình đi siêu thị thấy có bột giặt OMO, bao bì trông cũng tàm tạm, mình mua dùng thử, công nhận là OMO tốt thật đấy. OMO có chất tẩy tốt đến nỗi làm quần áo mình trắng sạch hẳn, lại còn tẩy ăn mòn cả quần áo, làm cho cái áo và cả cái quần của mình trở nên mỏng - trong suốt đến tuyệt vời... Khách hàng thích lắm. Từ nay mình sẽ dùng OMO thường xuyên hơn...",
+   "author": ""
+  },
+  {
+   "name": "Tiết kiệm là cái kho vô tận của kẻ nghèo, hoang phí là cạm bẫy của kẻ giàu.",
+   "author": ""
+  },
+  {
+   "name": "Làm việc 1 mình như 1 vị thần, cứ có đứa đứng cạnh nhìn là hành động như 1 thằng đần.",
+   "author": ""
+  },
+  {
+   "name": "Sếp: Sao hôm nay cậu lại đi làm trễ vậy?\nTui: Dạ, em đi làm trễ để hi sinh thân mình góp phần giảm kẹt xe.",
+   "author": ""
+  },
+  {
+   "name": "Ở đây: có bán cà phê ngon hơn người yêu cũ của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không quan trọng – Nhưng những vấn đề quan trọng đều giải quyết bằng tiền.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không mua được hạnh phúc nhưng có thể mua đc vô số thứ na ná như vậy",
+   "author": ""
+  },
+  {
+   "name": "Có một thứ tiền không thể mua được. Đó là sự nghèo khó.",
+   "author": ""
+  },
+  {
+   "name": "Giàu chưa chắc đã vui, nhưng nghèo chắc chắn là buồn.",
+   "author": ""
+  },
+  {
+   "name": "Tiền xài ba đời chưa hết.\nNợ thà chết chứ không trả ai.\nThiếu dai chứ không bao giờ giật.",
+   "author": ""
+  },
+  {
+   "name": "Hận đời đi bán bánh mì, hét lên 4 chữ: bánh mì nóng đây!",
+   "author": ""
+  },
+  {
+   "name": "Công việc không thể làm cho chúng ta chết, nhưng buồn phiền có thể giết chết chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Mấy đời bánh đúc có xương\nMây đời công chức có lương đủ xài?",
+   "author": ""
+  },
+  {
+   "name": "Có chí làm quan, có gan làm giàu.",
+   "author": ""
+  },
+  {
+   "name": "Tiền bạc của người giàu là ở trong túi, của người nghèo là ở trong tim.",
+   "author": ""
+  },
+  {
+   "name": "Người giàu trù tính chuyện tương lai, còn người nghèo chỉ lo cho hiện tại.",
+   "author": ""
+  },
+  {
+   "name": "Lãi suất kép là kỳ quan thứ 8 trong thế giới này. Những ai hiểu nó, vận dụng nó sẽ chẳng phải trả gì cho nó cả.",
+   "author": ""
+  },
+  {
+   "name": "Cây khô xuống nước vẫn khô\nPhận nghèo đi đến nơi mô cũng nghèo",
+   "author": ""
+  },
+  {
+   "name": "Ra đường, nhìn vợ người ta chảy nước miếng\nVề nhà, gặp bà tui chảy nước măt",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu của người ta lãng mạng\nNhìn lại tình yêu của tui thì lãng.. xẹt",
+   "author": ""
+  },
+  {
+   "name": "Vợ người ta thì dịu dàng như Bạch Tuyết, vợ tui thì dữ dằng như Bạch Cốt Tinh.",
+   "author": ""
+  },
+  {
+   "name": "Đừng quan tâm tại sao mình nghèo. Hãy quan tâm tại sao người khác giàu.",
+   "author": ""
+  },
+  {
+   "name": "Phú quý sinh lễ nghĩa, bần hàn sinh đạo tặc.",
+   "author": ""
+  },
+  {
+   "name": "Deadline là thời điểm bắt tay vào làm việc",
+   "author": ""
+  },
+  {
+   "name": "Thứ người ta cho bạn vay không phải là tiền, mà là lòng tin, sự tín nhiệm, sự khích lệ, là đánh cược vào bạn của ngày mai.",
+   "author": ""
+  },
+  {
+   "name": "Tiền có thể thoả mãn được tham vọng nhưng không thoả mãn được khát vọng.",
+   "author": ""
+  },
+  {
+   "name": "Số tiền còn lại trong túi mình là điều tuyệt mật.",
+   "author": ""
+  },
+  {
+   "name": "Làm giàu không khó, cái khó là sinh ra trong gia đình giàu kìa.",
+   "author": ""
+  },
+  {
+   "name": "Nghèo túng không phải là tội lỗi. Nhưng nó sẽ dẫn đến chỗ mất kính nể.",
+   "author": ""
+  },
+  {
+   "name": "PhotoCopy Rẻ nhất đại học sư phạm: Công nghệ hiện đại nhất châu Âu. Tính tiền nông thôn châu Á",
+   "author": ""
+  },
+  {
+   "name": "- Đồng đội người ta, ai cũng lợi hại\n- Đồng đội của tui, ai cũng ăn hại",
+   "author": ""
+  },
+  {
+   "name": "Có những nổi buồn bắt nguồn từ những chiếc ví.",
+   "author": ""
+  },
+  {
+   "name": "Cafe là thức uống giúp ta tỉnh táo... để không bóp cổ đồng nghiệp",
+   "author": ""
+  },
+  {
+   "name": "Lương khô là thức ăn được ưa chuộng vào những ngày khô lương.",
+   "author": ""
+  },
+  {
+   "name": "Có tiền hô mưa gọi gió, không tiền gọi chó cũng không trả lời",
+   "author": ""
+  },
+  {
+   "name": "Anh chỉ là một thằng hằng ngày đi bán bánh mì, kiếm tiền mua bánh bao ăn để sống.",
+   "author": ""
+  },
+  {
+   "name": "Tiền đi có nhớ ví không\nVí thì há miệng ngóng trông tiền về\nTiền đi chẳng giữ lời thề\nĐi rồi đi mãi có về nữa đâu.",
+   "author": ""
+  },
+  {
+   "name": "Trong khoảnh khắc, tiền nói được nhiều điều hơn một kẻ si tình hùng biện trong nhiều năm.",
+   "author": ""
+  },
+  {
+   "name": "Giàu vì bạn, sang vì vợ. Vỡ nợ vì người yêu.",
+   "author": ""
+  },
+  {
+   "name": "Tiền bạc không làm cho bạn hạnh phúc, chính cách bạn tiêu tiền mới làm cho bạn hạnh phúc.",
+   "author": ""
+  },
+  {
+   "name": "Khi tôi còn trẻ tôi thường nghĩ tiền là một thứ quan trọng nhất trong cuộc sống. Và giờ khi về già, tôi biết điều đó luôn đúng",
+   "author": ""
+  },
+  {
+   "name": "Bước xuống trạm xe buýt, một anh chàng bảnh trai tự dưng chạy lại bắt chuyện bằng tiếng Anh, cô gái thẹn thùng trả lời:\" I'm sorry, my English is so bad.\"\nChàng trai bèn mỉm cười nói:\" Đấy em thấy chưa, không giỏi tiếng Anh thiệt thòi thế đấy, trai đẹp có đến bắt chuyện cũng không nắm bắt cơ hội được. Chỗ anh đang có khoá học cấp tốc tiếng Anh căn bản miễn phí 50%, em có muốn đăng kí không?\"",
+   "author": ""
+  },
+  {
+   "name": "Phong bì trao trước, bia bọt uống sau, dâu rể ngồi đâu đố ai mà biết!",
+   "author": ""
+  },
+  {
+   "name": "Tranh thủ sống nghèo được ngày nào hay ngày ấy.\nBởi sự giàu sang.. có thể ập tới bất cứ lúc nào!",
+   "author": ""
+  },
+  {
+   "name": "Người nghèo thường rất hào phóng bởi vì họ hiểu được cảm giác thế nào là trắng tay",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống nghèo đói thế nào cũng không được luôn miệng nói ra. Bởi chẳng có ai tự nhiên đem tiền đến cho bạn.",
+   "author": ""
+  },
+  {
+   "name": "Vì sao người ta gọi là Tiền Mặt Vì cho người khác tiền, dù có cầm đập vào mặt người ta, thì người ta vẫn cười tươi như hoa",
+   "author": ""
+  },
+  {
+   "name": "- Khi bạn gặp rủi ro trong cuộc sống:\n* Người cho bạn 100k -200k đó là BẠN BÈ\n* Người cho bạn 1 triệu-2 triệu đó là HỌ HÀNG.\n* Người cho bạn 10 triệu-20 triệu đó là NGƯỜI THÂN.\n* Người đem lại cho BẠN và GIA ĐÌNH bạn 100 triệu -200 triệu( hoặc cả chục tỷ tuỳ theo mệnh giá) chỉ có thể là BẢO HIỂM NHÂN THỌ.\n=>Tham gia BẢO HIỂM NHÂN THỌ là để BÌNH YÊN trong TÂM TRÍ và để THANH THẢN trong TÂM HỒN. Tuyệt đối đừng bao giờ ngăn cản bạn bè mua BẢO HIỂM, bởi vì bạn không thể bù đắp hết được cho họ.",
+   "author": ""
+  },
+  {
+   "name": "Đồng xu tuy có hai mặt nhưng chỉ có một mệnh giá\nCon người chỉ có một mặt nhưng sao lại hai lòng",
+   "author": ""
+  },
+  {
+   "name": "Muốn giàu nuôi cá, muốn khá nuôi heo mà muồn nghèo... nuôi gái",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao bạn nghỉ việc ở công ty cũ?\n- Công ty cũ chuyển địa điểm chỗ khác mà không báo cho mình.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời có những thứ mà có tiền cũng ko thể mua đc.\nNhưng ko có tiền thì chẳng mua đc gì cả",
+   "author": ""
+  },
+  {
+   "name": "Là nhân viên chứ có phải là thần tiên tỷ tỷ đâu má.",
+   "author": ""
+  },
+  {
+   "name": "Làm những việc mình thích thì lại không ra tiền\nCòn những việc muộn phiền lại nuôi ta hàng tháng",
+   "author": ""
+  },
+  {
+   "name": "Người giàu chưa chắc sung sướng nhưng người nghèo chắc chắn khổ.\nTiền không cho bạn tất cả nhưng cho bạn nhiều thứ.",
+   "author": ""
+  },
+  {
+   "name": "Cách đòi tiền thằng bạn\nA: Tao cho mày 10 mày giúp tao 1 việc được không?\nB: Ok\nA: Trả tao 200k bữa mày mượn đê!",
+   "author": ""
+  },
+  {
+   "name": "Những người nghĩ rằng tiền có thể làm mọi thứ, tôi nghi ngờ họ có thể làm mọi thứ vì tiền.",
+   "author": ""
+  },
+  {
+   "name": "Bạc kém giá trị hơn vàng, vàng lại kém giá trị hơn đạo đức",
+   "author": ""
+  },
+  {
+   "name": "Rồi sau này, sẽ có người đến bên cạnh bạn, tha thứ hết những lỗi lầm bạn đã gây ra trong quá khứ, không quan tâm bạn từng là ai, từng làm gì, với ai. Yêu bạn bằng một con tim chân thành nhất chỉ vì đơn giản bạn giàu và đẹp.",
+   "author": ""
+  },
+  {
+   "name": "Ngân sách không rõ. Chỉ biết kho rỗng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không ham tiền tức là bạn đang không có tiền.",
+   "author": ""
+  },
+  {
+   "name": "Không phải tiền bạc, sự nghèo khó mới chính là gốc rễ của mọi xấu xa, tội lỗi.",
+   "author": ""
+  },
+  {
+   "name": "Lập ra doanh nghiệp riêng của mình tức là phải làm việc 80 giờ một tuần để khỏi làm việc 40 giờ một tuần cho người khác.",
+   "author": ""
+  },
+  {
+   "name": "Đối với những người bình thường, tiền vô cùng quan trọng. 20 là độ tuổi thích hợp để thoát nghèo, chứ không phải thoát ế.",
+   "author": ""
+  },
+  {
+   "name": "- Công ty còn tuyển ko?\n- Đang tuyển lau dọn nè\n- Có vị trí cao hơn ko?\n- Có! lau dọn tầng 2",
+   "author": ""
+  },
+  {
+   "name": "Người giàu có nhất là người biết bằng lòng với những gì mình đang có",
+   "author": ""
+  },
+  {
+   "name": "Thông minh mà nghèo thì không phải là người thông minh nữa.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có những người làm được việc mới mắc khuyết điểm. Còn những người không làm được việc thì chẳng có khuyết điểm hay lỗi lầm gì.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nhỏ cứ tưởng đẹp trai thì sẽ được gái thích. Lớn lên rồi mới biết, đẹp trai thì chỉ có trai thích thôi... còn muốn có bạn gái thì phải giàu =)))",
+   "author": ""
+  },
+  {
+   "name": "Đồng tiền không tự nhiên sinh ra, cũng không tự nhiên mất đi mà chỉ chạy từ túi người này sang túi người khác.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn giàu, chẳng những phải học cách làm ra tiền mà còn phải biết cách dùng tiền nữa.",
+   "author": ""
+  },
+  {
+   "name": "Ngay cả địa ngục cũng hoạt động nhờ tiền",
+   "author": ""
+  },
+  {
+   "name": "Chuyện j càng to thì càng phải nói nhỏ để cho chuyện nó nhỏ!!!",
+   "author": ""
+  },
+  {
+   "name": "Thành công mới ở mức biển hiệu chứ hiện nay chưa tìm được biểu hiện nào.",
+   "author": ""
+  },
+  {
+   "name": "Khi tụi tao sống tụi tao biết hài lòng\nKhi tụi tao chi, không cần tiếc vài đồng\nMày đòi đấu ai khi không có bang bệ\nNên tiền được làm ra, cần phải chi cho quan hệ\n-- SG Guideline --",
+   "author": ""
+  }
+ ]
+}

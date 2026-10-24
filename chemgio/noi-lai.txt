@@ -1,0 +1,1234 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Tôi lấy vợ - vơ lấy tội",
+   "author": ""
+  },
+  {
+   "name": "Trong chữ nhẹ, vẫn có có dấu nặng\nTrong chữ vững, vẫn có dấu ngã\nTrong chữ hiểu, vẫn có dấu hỏi\nChữ ngắn, vẫn dài hơn chữ dài.",
+   "author": ""
+  },
+  {
+   "name": "Ở đây có nhiều bóng đèn, không cần bóng đen phải phát sáng",
+   "author": ""
+  },
+  {
+   "name": "Cười là phải thế - Thề là phải cưới",
+   "author": ""
+  },
+  {
+   "name": "Tôi tên là Yến, hiện tôi đang là 1 bà nội... trợ.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc muốn thả hồn theo mây.\nNhưng lại sợ răng bay theo gió!!",
+   "author": ""
+  },
+  {
+   "name": "Có anh chàng củ chuối, nhà bên một con suối, yêu cô nàng bán muối, nhà có một cây chuối, họ yêu nhau đắm đuối, rồi cùng nhau chết đuối, thế là hết đoạn cuối nghe xong tôi cũng đuối.",
+   "author": ""
+  },
+  {
+   "name": "Tầng thượng - Thần tượng",
+   "author": ""
+  },
+  {
+   "name": "Ta nói thời trang phang thời tiết\nNhưng đôi lúc thời tiết giết thời trang",
+   "author": ""
+  },
+  {
+   "name": "Sau khi tìm hiểu kỹ lưỡng về các chiều không gian.\nMình nhận ra các bạn nữ thích nhất là không gian dối.",
+   "author": ""
+  },
+  {
+   "name": "Hiền lành là bản tính, tốt bụng vì bản thiện, làm việc bằng bản lĩnh, đi học như bản năng, chỉ nghĩ tới bản thân.",
+   "author": ""
+  },
+  {
+   "name": "ta không thể ngủ - ngu không thể tả",
+   "author": ""
+  },
+  {
+   "name": "Xoài ai nấy trồng - chồng ai nấy xài",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ tranh cãi với một thằng ngu. Vì khi đó nó sẽ kéo ta xuống ngang với trình độ của nó và đánh bại ta bằng kinh nghiệm ngu lâu năm.",
+   "author": ""
+  },
+  {
+   "name": "Chờ đi dạy - Giờ đi chạy - Giày đi chợ",
+   "author": ""
+  },
+  {
+   "name": "Á khôi - khối A",
+   "author": ""
+  },
+  {
+   "name": "TÌM NÃO LẠC\nHôm nay não tôi đã bỏ nhà đi bụi do mẹ tôi không chịu bỏ iốt vào canh khiến mâu thuẫn xảy ra. Đặc điểm nhận dạng : khi đi não không đem gì cả vì không có gì bên trong, thân não láng lượt, ít nếp nhăn.",
+   "author": ""
+  },
+  {
+   "name": "Em tên Ánh, thích ăn bánh, thấy trai là tránh, yêu ngày quốc khánh, bé bỏng như đôi cánh, ai nhìn cũng nói chảnh, người thì như cá cảnh, lúc nào cũng đỏng đảnh.",
+   "author": ""
+  },
+  {
+   "name": "Thằng ngốc tự cho mình là thông minh, còn người thông minh biết mình là thằng ngốc.",
+   "author": ""
+  },
+  {
+   "name": "ban đầu - đang bầu",
+   "author": ""
+  },
+  {
+   "name": "phù hộ - phụ hồ",
+   "author": ""
+  },
+  {
+   "name": "Khoái ăn sang - Sáng ăn khoai",
+   "author": ""
+  },
+  {
+   "name": "Chí làm công to - Chó làm công ty",
+   "author": ""
+  },
+  {
+   "name": "Thông minh biến mất... ngu đột xuất...",
+   "author": ""
+  },
+  {
+   "name": "Não bơm ko đc nhưng vòng 1 thì có thể",
+   "author": ""
+  },
+  {
+   "name": "Khổ qua - Quả khô",
+   "author": ""
+  },
+  {
+   "name": "Một đặc tính của kẻ ngu là họ có thể tự hào vô giới hạn về bản thân.",
+   "author": ""
+  },
+  {
+   "name": "Đống cành - Cánh đồng",
+   "author": ""
+  },
+  {
+   "name": "Tôi sợ cái ngày mà công nghệ sẽ lấn át sự giao tiếp giữa con người với nhau. Thế giới lúc đó sẽ có một thế hệ toàn những kẻ đần độn.",
+   "author": ""
+  },
+  {
+   "name": "Quý phải là khi bạn có rất nhiều điều để nói, nhưng bạn chọn cách im lặng trước mặt những kẻ ngốc.",
+   "author": ""
+  },
+  {
+   "name": "Cái gì mình ngu, hãy cố gắng biến nó thành phong cách.",
+   "author": ""
+  },
+  {
+   "name": "bản thân - than bẩn",
+   "author": ""
+  },
+  {
+   "name": "Lần nào gặp mày, tao cũng phải phát triển trí thông minh cho mày hết vậy",
+   "author": ""
+  },
+  {
+   "name": "Thi đua - Thua đi",
+   "author": ""
+  },
+  {
+   "name": "Kẻ đối diện bạn không ngu đâu.",
+   "author": ""
+  },
+  {
+   "name": "Đã ngu còn tỏ ra ngu hẳn",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không làm những điều ngu ngốc khi bạn còn trẻ thì bạn sẽ không có gì mỉm cười khi bạn về già.",
+   "author": ""
+  },
+  {
+   "name": "Đừng có sầu dù đầu có sừng",
+   "author": ""
+  },
+  {
+   "name": "Dũng đi tắm sông\nDũng cảm",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi có ngốc nghếch một chút cũng chẳng sao, chẳng ai phải thông minh suốt cả đời.",
+   "author": ""
+  },
+  {
+   "name": "tao nể - tê não",
+   "author": ""
+  },
+  {
+   "name": "Cho dù dũng cảm là một đức tính lớn, nhưng trong nhiều trường hợp đó cũng chỉ là biểu hiện của sự ngu ngốc bẩm sinh hết phương chữa trị.",
+   "author": ""
+  },
+  {
+   "name": "chú chơi thử - thú chơi chữ",
+   "author": ""
+  },
+  {
+   "name": "Kết hợp sự ngu dốt với tiền đi mượn thì hậu quả rất thú vị.",
+   "author": ""
+  },
+  {
+   "name": "Tri thức làm người ta khiêm tốn, ngu si làm người ta kiêu ngạo.",
+   "author": ""
+  },
+  {
+   "name": "Nguyệt điên nặng\nNguyệt điện (cung trăng)",
+   "author": ""
+  },
+  {
+   "name": "Bán hết đám cá tươi để làm đám cưới ta",
+   "author": ""
+  },
+  {
+   "name": "Nếu không muốn trở thành một thằng ngốc trong mắt người khác thì lúc đầu đừng tỏ nên quá thông minh",
+   "author": ""
+  },
+  {
+   "name": "Tảo hôn - Tổn hao - Tao hỗn",
+   "author": ""
+  },
+  {
+   "name": "cố giảm - cám dỗ",
+   "author": ""
+  },
+  {
+   "name": "ĐẠI\nĐại diên - điên dại\nĐại học - độc hại\nĐại bồi - đồi bại\nĐại thiện - điện thoại\nĐại thối - đối thoại\nĐại ly - đi lại\nĐại lứng - đứng lại\nĐại cô cầu bộc - độc cô cầu bại",
+   "author": ""
+  },
+  {
+   "name": "Tươi lên nào - Tao nên lười",
+   "author": ""
+  },
+  {
+   "name": "Đánh tung mỡ bạn để đánh tan mỡ bụng.",
+   "author": ""
+  },
+  {
+   "name": "Dáng đẹp - Đáng dẹp",
+   "author": ""
+  },
+  {
+   "name": "Bán sữa - Bữa sáng",
+   "author": ""
+  },
+  {
+   "name": "NHI\nMẫn Nhi - mĩ nhân\nVẫn Nhi - vĩ nhân\nNhi sã - nha sĩ\nNhi giận - dị nhân\nNhi tránh - nhanh trí\nNhi tiên trà - nhà tiên tri\nNhi diễn - dĩ nhiên",
+   "author": ""
+  },
+  {
+   "name": "đuổi ma quỷ - đuổi qua mỹ",
+   "author": ""
+  },
+  {
+   "name": "Thời trang công sở hay thời cơ trông sảng?",
+   "author": ""
+  },
+  {
+   "name": "Huyền không làm được bài\nHuyền bí",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có kẻ ngu mới học bằng kinh nghiệm, người khôn học bằng kinh nghiệm của người khác.",
+   "author": ""
+  },
+  {
+   "name": "Càng nặng ký - càng kỵ nắng",
+   "author": ""
+  },
+  {
+   "name": "Cà phê tươi... uống xong... cười phê ta",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm là người thầy đắt đỏ, nhưng kẻ ngu ngốc sẽ không chịu học ai khác.",
+   "author": ""
+  },
+  {
+   "name": "Bốn chàng quý tử - Bốn chàng tứ quỷ",
+   "author": ""
+  },
+  {
+   "name": "Đá banh - Bánh đa",
+   "author": ""
+  },
+  {
+   "name": "Sự khác biệt giữa thiên tài và kẻ ngu dốt là ở chỗ thiên tài luôn có giới hạn",
+   "author": ""
+  },
+  {
+   "name": "Thục phán - thán phục",
+   "author": ""
+  },
+  {
+   "name": "Từ ghét thầm tới gầm thét",
+   "author": ""
+  },
+  {
+   "name": "Khôn 3 năm dại 1 giờ",
+   "author": ""
+  },
+  {
+   "name": "Chà đồ nhôm - Chôm đồ nhà",
+   "author": ""
+  },
+  {
+   "name": "Vạn vật trên đời đều có giới hạn riêng độ ngu của mày thì kéo dài mãi ko thôi",
+   "author": ""
+  },
+  {
+   "name": "Thưa cô răng - Răng cô thừa",
+   "author": ""
+  },
+  {
+   "name": "Nhờ có mấy thằng ngu nên đời mới phong phú, nhờ có mấy thằng đú nên đời mới phát hiện thêm nhiều đứa ngu",
+   "author": ""
+  },
+  {
+   "name": "QUÝ\nQuý biết - bí quyết\nQuý triết - quyết trí\nQuý dại - quái dị\nQuý lãng - quản lý\nQuý khản - khí quản\nQuý quãi - quỷ quái\nQuý khuyển - khí quyển\nnghiệt Quý - nghị quyết",
+   "author": ""
+  },
+  {
+   "name": "mâu thuẫn - thân mẫu",
+   "author": ""
+  },
+  {
+   "name": "Thích chàng ngông sẽ lấy chồng ngang",
+   "author": ""
+  },
+  {
+   "name": "Và ai cũng chọn việc nhẹ nhàng, gian khổ dành phần… thằng ngu.",
+   "author": ""
+  },
+  {
+   "name": "Ra bờ hồ kiếm bồ hờ",
+   "author": ""
+  },
+  {
+   "name": "Ngu thì ngu có hữu hạn thôi... chứ đừng ngu vô hạn như vậy?",
+   "author": ""
+  },
+  {
+   "name": "Biệt thự - Bự thiệt",
+   "author": ""
+  },
+  {
+   "name": "Láng giềng - Giếng làng",
+   "author": ""
+  },
+  {
+   "name": "Rau má - Ra máu",
+   "author": ""
+  },
+  {
+   "name": "Công Vinh Thủy Tiên - Công viên thủy tinh",
+   "author": ""
+  },
+  {
+   "name": "Nói khó thành công - Nói không thành có",
+   "author": ""
+  },
+  {
+   "name": "Đỉnh cao của lòng khoan dung là sự chịu đựng những kẻ ngu.",
+   "author": ""
+  },
+  {
+   "name": "Tôi tắm nơi tăm tối",
+   "author": ""
+  },
+  {
+   "name": "Khoa lấy tập vở ôn lại bài cũ\nKhoa học",
+   "author": ""
+  },
+  {
+   "name": "Đụng là cháy - Chạy là đúng",
+   "author": ""
+  },
+  {
+   "name": "mèo cái - mài kéo",
+   "author": ""
+  },
+  {
+   "name": "Lợi nhỏ con\nLợi tiểu",
+   "author": ""
+  },
+  {
+   "name": "Thành không nói dối\nThành thật",
+   "author": ""
+  },
+  {
+   "name": "Người thông minh sử dụng máy tính để tiết kiệm thời gian, còn kẻ ngốc   để giết thời gian...",
+   "author": ""
+  },
+  {
+   "name": "kỹ sư - cư sĩ",
+   "author": ""
+  },
+  {
+   "name": "Chẳng có cái ngu nào giống cái ngu nào, nhưng có những cái ngu mang tính chu kỳ.",
+   "author": ""
+  },
+  {
+   "name": "Đĩa rau lang xào - Đĩa rau sang Lào",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta đều sinh ra dốt nát, nhưng phải nỗ lực lắm mới giữ nguyên được là kẻ ngu xuẩn.",
+   "author": ""
+  },
+  {
+   "name": "Cây đèn thân - Thân đèn cầy",
+   "author": ""
+  },
+  {
+   "name": "Không thể chống lại những thằng ngu vì chúng quá đông",
+   "author": ""
+  },
+  {
+   "name": "Người ngốc muốn tận tình giúp ta còn nguy hiểm hơn cả kẻ thù.",
+   "author": ""
+  },
+  {
+   "name": "Nhung hôm nay kiểm tra miệng được 10\nNhung nhớ",
+   "author": ""
+  },
+  {
+   "name": "Tính anh thực tồi - tối anh thực tình",
+   "author": ""
+  },
+  {
+   "name": "tường trình - tình trường",
+   "author": ""
+  },
+  {
+   "name": "Lần sau đi chơi, nhớ mang não theo nha ku.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ ngu dốt có học ngu dốt hơn người vô học nhiều.",
+   "author": ""
+  },
+  {
+   "name": "bà con - còn ba",
+   "author": ""
+  },
+  {
+   "name": "dân cư - dư cân",
+   "author": ""
+  },
+  {
+   "name": "Không gì nguy hiểm hơn bạn bè ngu dốt; tôi thà có kẻ thù khôn.",
+   "author": ""
+  },
+  {
+   "name": "Mò tôm - Mồm to",
+   "author": ""
+  },
+  {
+   "name": "Ân bị lừa tình\nÂn hận",
+   "author": ""
+  },
+  {
+   "name": "Tâm hôm nay bị cô mắng, thầy la, bố rầy, mẹ chửi... 4 lần đau đớn\nTâm tư",
+   "author": ""
+  },
+  {
+   "name": "Chả sợ chi - Chỉ sợ cha",
+   "author": ""
+  },
+  {
+   "name": "Kha ăn uống khoa học và luyện tập hợp lý\nKha vạn cân",
+   "author": ""
+  },
+  {
+   "name": "Hoàng hôn - Hồn hoang",
+   "author": ""
+  },
+  {
+   "name": "Thức đêm được thêm đức =))",
+   "author": ""
+  },
+  {
+   "name": "chứa chan - chán chưa",
+   "author": ""
+  },
+  {
+   "name": "Thông minh thì mới cần giả ngu, chứ ngu sẵn rồi không cần giả nữa",
+   "author": ""
+  },
+  {
+   "name": "Tân cắn môi bạn gái\nTân hôn",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có hai điều là vô hạn: vũ trụ và sự ngu xuẩn của con người, và tôi không chắc lắm về điều đầu tiên.",
+   "author": ""
+  },
+  {
+   "name": "Ngu dốt không đáng xấu hổ như không chịu học hỏi.",
+   "author": ""
+  },
+  {
+   "name": "Cường kẻ chân mày bị đậm\nCường điệu",
+   "author": ""
+  },
+  {
+   "name": "Thần tiên - Tiền thân",
+   "author": ""
+  },
+  {
+   "name": "Ai dám đặt câu hỏi, chỉ bị ngu năm phút. Ai không dám đặt câu hỏi sẽ bị ngu cả đời.",
+   "author": ""
+  },
+  {
+   "name": "Khi thấy bản thân nhọ - mua bảo hiểm nhân thọ.",
+   "author": ""
+  },
+  {
+   "name": "Người sáng suốt không cần nhận lời khuyên\nNgười ngu ngốc không chịu nhận lời khuyên.",
+   "author": ""
+  },
+  {
+   "name": "Một khi đã quyết thì đửng hỏi mẹ Bạch Tuyết là ai.",
+   "author": ""
+  },
+  {
+   "name": "Chơi hụi thì chết - chơi hết thì trụi",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời tôi chỉ đi mưa... chứ chưa đi mỹ",
+   "author": ""
+  },
+  {
+   "name": "Đời là phù du, ngu thì phù mỏ",
+   "author": ""
+  },
+  {
+   "name": "Đậu ve xào - Đậu xe vào",
+   "author": ""
+  },
+  {
+   "name": "Kẻ ngốc thường khôn ngoan không đúng tuổi.",
+   "author": ""
+  },
+  {
+   "name": "Tao giả ngu rất giỏi. Tụi mày chửi tao ngu là bị tao lừa rồi... :v",
+   "author": ""
+  },
+  {
+   "name": "Tìm cách bào chữa cho điều ngu ngốc có nghĩa là nhân nó lên.",
+   "author": ""
+  },
+  {
+   "name": "chống thính - chính thống",
+   "author": ""
+  },
+  {
+   "name": "Trà đá thuốc lào hay trà đào thuốc lá",
+   "author": ""
+  },
+  {
+   "name": "Cái chổi - chối cãi",
+   "author": ""
+  },
+  {
+   "name": "Lạng Sơn có lợn sang",
+   "author": ""
+  },
+  {
+   "name": "Con công, con sên - Con kênh, con sông",
+   "author": ""
+  },
+  {
+   "name": "LAN\nLan quạt - lạc quan\nLai quại - quan lại\nLan như - lư nhang\nLan giận - gian lận\nLan bưu - lưu ban\nLan dao - gian lao\nLan điện - luyện đan\nLan gớn - gan lớn\nLan ghì - gan lì\nVay Lan nặng lãi - van lạy nâng lãi",
+   "author": ""
+  },
+  {
+   "name": "Thưa thẩm toà tôi tên trần thiếu tiền! Thuở thiếu thời tôi theo thằng tù tội tiếp thu toàn tư tưởng thối tha tồi tệ. Tối thứ tư tháng tám trăng tròn trĩnh, tôi trèo tường thấy tên trưởng trại thiêm thiếp trên trõng tre, tôi thò tay túm túi tiền thì tên trưởng trại từ từ tỉnh thức túm tóc tạt tai tương tôi tới tấp. Tôi tiền túng tình tan tiến tới tù tội.",
+   "author": ""
+  },
+  {
+   "name": "Khi 1 người say rượu đi xe và đâm vào cột điện bên đường thì định luật Hook được phát biểu như sau: Độ lớn của khối u sẽ tỉ lệ thuận với độ ngu của khối óc",
+   "author": ""
+  },
+  {
+   "name": "Cua bể - Bê của",
+   "author": ""
+  },
+  {
+   "name": "Ngu thì người ta khinh, khôn thì người ta ghét.\nKhôn mà làm như ngu mới thật là khôn",
+   "author": ""
+  },
+  {
+   "name": "Máy giặt nằm ngang - Mất dạy ngàn năm",
+   "author": ""
+  },
+  {
+   "name": "ĐẠT\nBánh Đạt - đánh bạc\nĐạt mời - mạt đời\nĐạt ben - đen bạc\nĐạt bạm - đạm bạc\nĐạt là - lạc đà - Đà Lạt\nĐạt lề - lạc đề\nĐạt nhạo - đạo nhạc\nĐạt phền - phạt đền\nĐạt quyện - quạt điện\nĐạt thầu - thoạt đầu\nĐạt bề - đề bạt",
+   "author": ""
+  },
+  {
+   "name": "Một ngày đi tu chắc chưa thành chính quả nhưng một ngày ngu thì nhận biết bao nhiêu hậu quả.",
+   "author": ""
+  },
+  {
+   "name": "Rất thích mấy đứa có tính kiên định. Dù là nó ngu nhưng nó vẫn giữ quan điểm ngu của nó để cãi lại người khác. MẠNH MẼ :v",
+   "author": ""
+  },
+  {
+   "name": "thủy điện - Thụy Điển",
+   "author": ""
+  },
+  {
+   "name": "Người ngốc nghếch một mực muốn người khác hiểu mình\nNgười thông minh lại nổ lực hiểu chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Giỡn quá lố - Giỗ quá lớn",
+   "author": ""
+  },
+  {
+   "name": "Khoa học chỉ phục vụ có một điều: cho ta hình dung về kích thích những điều ngu dốt của chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Phương không ngủ được\nPhương thức",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn tự coi mình là người thông minh nhất thì cũng đừng có khóc khi những người khác không hiểu bạn.",
+   "author": ""
+  },
+  {
+   "name": "Mày ngu như lợn, xin lỗi nói thế hơi xúc phạm con lợn.",
+   "author": ""
+  },
+  {
+   "name": "Người khôn ngoan hỏi nguyên do lầm lỗi ở bản thân, kẻ dại khờ hỏi nguyên do ở người khác.",
+   "author": ""
+  },
+  {
+   "name": "Thông minh là tốt nhưng đừng giấu dốt rồi đột ngột thông minh.",
+   "author": ""
+  },
+  {
+   "name": "Mạnh chưa có bạn gái\nMạnh khỏe",
+   "author": ""
+  },
+  {
+   "name": "Ngắn gọn thể hiện sự thông minh nhưng không đúng trong trường hợp người ta nói ” Anh yêu em ”",
+   "author": ""
+  },
+  {
+   "name": "Công thức cho sự ngu dốt chung thân là: Thỏa mãn với quan điểm của mình và hài lòng với tri thức của mình.",
+   "author": ""
+  },
+  {
+   "name": "Làm thân - Lầm than",
+   "author": ""
+  },
+  {
+   "name": "nằm ngang - ngàn năm",
+   "author": ""
+  },
+  {
+   "name": "Thủ Đức - thức đủ",
+   "author": ""
+  },
+  {
+   "name": "Bí mật mà không bật mí chắc chắn sẽ bị mất",
+   "author": ""
+  },
+  {
+   "name": "tinh thần - thân tình",
+   "author": ""
+  },
+  {
+   "name": "hổ chết - hết chỗ",
+   "author": ""
+  },
+  {
+   "name": "Có 3 thứ ngu dốt: không biết điều gì mình cần biết, không rành những gì mình biết và biết điều gì mình không cần biết",
+   "author": ""
+  },
+  {
+   "name": "bò đến - bến đò",
+   "author": ""
+  },
+  {
+   "name": "Minh ngắm trăng\nMinh Nguyệt",
+   "author": ""
+  },
+  {
+   "name": "Vui vẻ vài ve về với vợ\nVơ vét vùng vằn vợ vẫn vui.",
+   "author": ""
+  },
+  {
+   "name": "Ba của ba của ba là một người rất là tài ba bởi vì ông đã bôn ba trước bao nhiêu sóng gió phong ba để nuôi ba của ba và vào ngày ba tháng ba năm 1933 thì ba của ba của ba đã trở thành một người chủ tài ba đứng hàng thứ ba trong việc cung cấp bia ba số ba trong quán bar.",
+   "author": ""
+  },
+  {
+   "name": "Tranh cãi với một kẻ ngốc sẽ chứng minh rằng có hai kẻ ngốc.",
+   "author": ""
+  },
+  {
+   "name": "Người khôn nghĩ rồi mới nói, người ngu đần nói rồi mới nghĩ đến điều anh ta nói.",
+   "author": ""
+  },
+  {
+   "name": "Tâm có phép\nTâm thần",
+   "author": ""
+  },
+  {
+   "name": "Bình nghịch đất\nBình địa",
+   "author": ""
+  },
+  {
+   "name": "Người khôn và kẻ ngốc luôn luôn là điều bí ẩn đối với nhau.",
+   "author": ""
+  },
+  {
+   "name": "Yếu như sên - Sến như yêu",
+   "author": ""
+  },
+  {
+   "name": "tính lười - lưới tình",
+   "author": ""
+  },
+  {
+   "name": "Không phải chú dốt... mà chỉ vì mẹ chú quên bỏ i ốt vào canh.",
+   "author": ""
+  },
+  {
+   "name": "Tại mày xui - Tụi mày sai",
+   "author": ""
+  },
+  {
+   "name": "PHONG\nPhong ú - phú ông\nPhong nú - phú nông\nKu Phong - công phu\nPhong ki - phi công\nPhong si - song phi\nPhong sương - song phương\nPhong tù - phòng tu - tòng phu\nCản Phong - phản công\nĐi-ếm Phong - đóng phim",
+   "author": ""
+  },
+  {
+   "name": "Trí uống cafe để đọc sách\nTrí thức",
+   "author": ""
+  },
+  {
+   "name": "Ngu không phải cái tội mà cái tội là không biết mình ngu",
+   "author": ""
+  },
+  {
+   "name": "Khỉ sợ chó - Chỉ sợ khó",
+   "author": ""
+  },
+  {
+   "name": "Ngu ngốc không phải là do thiếu kiến thức, không phải là do không muốn học mà do tin rằng đã biết hết tất cả.",
+   "author": ""
+  },
+  {
+   "name": "Đứng lại cái cửa xanh, nhớ lại cái cảnh xưa",
+   "author": ""
+  },
+  {
+   "name": "Thức tỉnh - thích tửng",
+   "author": ""
+  },
+  {
+   "name": "GIANG\nHòa Giang - hoàng gia\nGiang sầu - sang giàu\nGiang trả - giả trang (cải trang)\nGiang ta - tang gia",
+   "author": ""
+  },
+  {
+   "name": "TUẤN\nTuấn đập Huy - Đi tập huấn\nTuấn búng - bấn túng",
+   "author": ""
+  },
+  {
+   "name": "YẾN\nYến con đa - á con điên\nYến cô ta (Kota) - á cô tiên",
+   "author": ""
+  },
+  {
+   "name": "NGÂN\nNgân nhệ - nghệ nhân\nNgân dư - ngư dân\nNgân du - ngu dân\nNgân tử - tân ngữ",
+   "author": ""
+  },
+  {
+   "name": "Tiền cháu mua tàu chiến",
+   "author": ""
+  },
+  {
+   "name": "Con ngan con sếu - Con nghêu con sán",
+   "author": ""
+  },
+  {
+   "name": "Trâu chó - Tro trấu",
+   "author": ""
+  },
+  {
+   "name": "Chả sợ gì - Chỉ sợ già",
+   "author": ""
+  },
+  {
+   "name": "Tôi không ăn được sao? - Tao không ăn được xôi",
+   "author": ""
+  },
+  {
+   "name": "THÁI\nThái sống - thống soái\nThái tế - tái thế\nThái ân - thân ái\nThái quai - quái thai\nThái tui - thúi tai",
+   "author": ""
+  },
+  {
+   "name": "Con cú tha con cá thu",
+   "author": ""
+  },
+  {
+   "name": "ĐỨC\nĐức thánh - Đánh thức\nĐức thẳng - Đẳng thức\nĐức tha - Đa thức",
+   "author": ""
+  },
+  {
+   "name": "Con dế con sâu - Con sấu con dê",
+   "author": ""
+  },
+  {
+   "name": "MAI\nMai khạc - khai mạc\nMai khỏe - khoe mãi\nMai gắt - gai mắt\nMai khôn - khoai môn\nMai láu - máu lai",
+   "author": ""
+  },
+  {
+   "name": "DUNG\nDung tru - trung du\nDung hử - hung dữ\nDung Trang - trung gian",
+   "author": ""
+  },
+  {
+   "name": "Con quy con mã - Con ma con quỷ",
+   "author": ""
+  },
+  {
+   "name": "Con ốc con nhện - Con ếch con nhộng",
+   "author": ""
+  },
+  {
+   "name": "Nhung Khoa: Add oi. gần tới sinh nhật em tặng bài tên Khoa đi ạ.\n\nSách giáo khoa nói Khoa từng thủ khoa trường Bách Khoa ngành phụ khoa, nhà bán hoa đường Cộng Hoà, nhà có điều hoà nên đào hoa, chút hào hoa, hiền hoà, về hội hoạ bậc tài hoa tinh hoa sáng toả của tạo hoá, thích thăng hoa trên tàu hoả nhưng ghét ra toà vì chuyện trăng hoa.",
+   "author": ""
+  },
+  {
+   "name": "Món quái đảng - Món quán đãi",
+   "author": ""
+  },
+  {
+   "name": "một chú chuột đồng - một đống chuột chù",
+   "author": ""
+  },
+  {
+   "name": "THANH\nThanh dành - thành danh\nThanh diếp - danh thiếp\nThanh chủ - tranh thủ\nThần Thanh - thành thân\nThanh túi - tanh thúi\nThâm canh - Thanh câm\nKhung thành - Thanh khùng",
+   "author": ""
+  },
+  {
+   "name": "Chặng đường dài - Chạy đường dằn",
+   "author": ""
+  },
+  {
+   "name": "THẮNG\nThắng vanh - thanh vắng\nThắng mét - mắng thét",
+   "author": ""
+  },
+  {
+   "name": "Chúc chảnh chọe: Làm hộ minh tên chúc đi mà. Cảm ơn ad :v\n\nChúc chói chang, Chúc chăm chỉ, chi chít chàng chải chuốt chỉnh chu chen chúc chờ Chúc chịu cho chiều chuộng, chở che. Chúc chẳng chảnh chọe, chanh chua chỉ chọn chồng chính chủ chín chắn chững chạc chèo chống chấn chỉnh châu chấu, chẻ châu (trẻ trâu), chó chít :v\n\nNăn nỉ nũng nịu quá nha, chưa đến tên chế đâu, mà tại thấy xuất hiện nhiều nên chiều chút thôi đó :v thật lòng là làm văn kiểu này mình rất tốn thời gian :D Mình cũng phải đi kiếm con dâu cho trả nợ má nữa nên mỗi ngày mình chỉ làm 1 tên kiểu này thôi nhé :(",
+   "author": ""
+  },
+  {
+   "name": "SƠN\nSơn đơ - đơn sơ\nSơn trạch - sạch trơn\nSơn cốt - cơn sốt",
+   "author": ""
+  },
+  {
+   "name": "quỷ đây - quẩy đi",
+   "author": ""
+  },
+  {
+   "name": "VINH\nVinh long - vong linh\nVinh tồ - vô tình\nVinh sô - vô sinh\nVinh sệ - vệ sinh\nVinh lị - linh vị\nVinh tệ - vệ tinh\nVinh ti - tinh vi",
+   "author": ""
+  },
+  {
+   "name": "hồi sinh - sình hôi",
+   "author": ""
+  },
+  {
+   "name": "Sút em một phát - Sát em một phút",
+   "author": ""
+  },
+  {
+   "name": "Con trai con gấu - Con trâu con gái",
+   "author": ""
+  },
+  {
+   "name": "Bồ tát - bà tốt",
+   "author": ""
+  },
+  {
+   "name": "Ai đó làm chứng - Ai đứng làm chó",
+   "author": ""
+  },
+  {
+   "name": "Lưu manh - Lanh mưu",
+   "author": ""
+  },
+  {
+   "name": "Con bò con sáo - Con báo con sò",
+   "author": ""
+  },
+  {
+   "name": "Câu gì đó? - Có gì đâu",
+   "author": ""
+  },
+  {
+   "name": "DƯƠNG\nDương trần - dân trường\nDương lân - lương dân\nDương cây - dây cương",
+   "author": ""
+  },
+  {
+   "name": "Có ai quan tâm - Cấm ai quan to",
+   "author": ""
+  },
+  {
+   "name": "LỘC\nLộc đập - độc lập\nLộc man - mộc lan\nLộc bão - lão bộc",
+   "author": ""
+  },
+  {
+   "name": "tối đa - đá tôi",
+   "author": ""
+  },
+  {
+   "name": "Bà đó bị bò đá",
+   "author": ""
+  },
+  {
+   "name": "tương xứng - xưng tướng",
+   "author": ""
+  },
+  {
+   "name": "Giá bèo - Béo già",
+   "author": ""
+  },
+  {
+   "name": "Yên vị trong y viện",
+   "author": ""
+  },
+  {
+   "name": "KHANG\nKhang trẩu - khẩu trang\nKhang lai - khoai lang\nKhang hai - khai hoang\nKhang quách - khách quan\nKhang chơi dông - không chơi gian",
+   "author": ""
+  },
+  {
+   "name": "MẠNH\nMạnh láu - máu lạnh\nMạnh lùa - mùa lạnh\nMạnh láy - máy lạnh\nMạnh lưu bon - bọn lưu manh",
+   "author": ""
+  },
+  {
+   "name": "Tiền lãi - Tải liền",
+   "author": ""
+  },
+  {
+   "name": "Nó là bò sáng phải rống\nCòn mày là người thì ráng phải sống",
+   "author": ""
+  },
+  {
+   "name": "Nguyễn Bảo: Đại ca làm bài tên Bảo tặng em cái đi, thấy cũng hài hài\n\n- Bao bọc bởi bấp bênh bộn bề, bồng bột bực bội, buồn bã bỏ bê bán bánh bao, bẽ bàng bái biệt bạn bè, Bảo bức bách bước bên bờ biển buôn bong bóng.",
+   "author": ""
+  },
+  {
+   "name": "Trò đố - Đồ chó",
+   "author": ""
+  },
+  {
+   "name": "QUYÊN\nQuyên nhả - quả nhiên\nQuyên ngán - nguyên quán\nỨ Lan Quyên - ứ liên quan\nQuyên kiếp nhân dã - quả kiếp nhân duyên\nQuyên van 2 họ - quan viên 2 họ\nQuyên thi - quy thiên\nQuyên ty - quy tiên\nQuyên kiết - kiên quyết\nQuyên lân - liên quân",
+   "author": ""
+  },
+  {
+   "name": "Thuận thiên hành đạo - Thuận đao hành thiện",
+   "author": ""
+  },
+  {
+   "name": "PHƯỢNG\nPhượng dũng - phụng dưỡng\nPhượng thạm - phạm thượng",
+   "author": ""
+  },
+  {
+   "name": "Người không có - Ngó không cười",
+   "author": ""
+  },
+  {
+   "name": "MỸ\nMỹ qua - ma quỷ\nMỹ ngáp - nghỉ mát\nMỹ vô - vĩ mô\nMỹ tụi mình - tỷ muội mình\nMỹ nhàn - màng nhĩ",
+   "author": ""
+  },
+  {
+   "name": "tình yêu đích thực - tình yêu đứt thịt",
+   "author": ""
+  },
+  {
+   "name": "Đức thánh - Đánh thức",
+   "author": ""
+  },
+  {
+   "name": "Tôi đây - tay đôi",
+   "author": ""
+  },
+  {
+   "name": "Ngồi trên đó - Ngó trên đồi",
+   "author": ""
+  },
+  {
+   "name": "Trần Thanh Thảo: Add ơi làm bài viết tên thảo đi add\nZô xinh Cá rô xinh: Anh làm cho em bài tên Thảo nha :-)\n… 6, 7 bạn nữa. Tên này nhiều người yêu cầu ghê.\n\nGhét phong trào, ghét tự cao, ghét bố láo, ghét ba xạo, ghét nhốn nháo, ghét tào lao, vênh váo, trơ tráo, ngổ ngáo, hổ báo, ko não đáng ghét. Thảo bá đạo táo bạo sáng tạo thông thạo đi dạo đại náo gây bão điên đảo thế giới ảo :v",
+   "author": ""
+  },
+  {
+   "name": "PHÚ\nPhú cáp - cú pháp\nPhú chù - phù chú",
+   "author": ""
+  },
+  {
+   "name": "Con ốc con kiến - Con yến con cóc",
+   "author": ""
+  },
+  {
+   "name": "thương tích - tương thích",
+   "author": ""
+  },
+  {
+   "name": "Tuấn Tử Tế: Add ơi. làm zùm mình bài thơ. Tên tuấn được k ạ. Cảm ơn bạn nhiều lắm.\n\nThích giúp mấy đứa yếu đuối nhút nhát\nTuấn tú chất phát rất đúng chất sát gái\nLắm lúc ước muốn chiếu sáng với ánh nắng\nCó chí nhất quyết sớm bước đến chiến thắng.\n\n:v Ok của ông đây! Hôm nay 3/8 cũng là ngày sổ tay chém gió đc 1 tuổi :v Chắc tới lúc cưới cái app này của tui đóng sách là vừa =))",
+   "author": ""
+  },
+  {
+   "name": "THỊNH\nThịnh điên - thiên định\nThịnh đẩm - thẩm định\nThịnh tanh - thanh tịnh\nThịnh nần - nịnh thần\nThịnh tân - tịnh thân",
+   "author": ""
+  },
+  {
+   "name": "Đừng nghe mà anh - Đành nghe mà ưng",
+   "author": ""
+  },
+  {
+   "name": "Con sóc con cò - Con sò con cóc",
+   "author": ""
+  },
+  {
+   "name": "Đời là chó - Đó là trời",
+   "author": ""
+  },
+  {
+   "name": "Khổng lồ - Khổ lòng",
+   "author": ""
+  },
+  {
+   "name": "VƯƠNG\nVương hết thở - hở vết thương\nVương kị - cương vị\nVương gỡ - gương vỡ\nVương chăn - văn chương\nVương thụ - thương vụ\nVương hị - hương vị",
+   "author": ""
+  },
+  {
+   "name": "Chúng mày - cháy mùng",
+   "author": ""
+  },
+  {
+   "name": "Trò không muốn chơi - Trời không muốn cho",
+   "author": ""
+  },
+  {
+   "name": "Tự cao thì tao cụ",
+   "author": ""
+  },
+  {
+   "name": "LINH\nLinh miên - liên minh\nLinh bực - binh lực\nLinh đển - lên đỉnh\nLinh sát sò - lò sát sinh",
+   "author": ""
+  },
+  {
+   "name": "PHƯƠNG\nPhương vi - vương phi\nPhương thẩm - thương phẩm\nPhương tản - tương phản\nPhương trô - phô trương\nPhương nát - phát nương (chặt cây cỏ)",
+   "author": ""
+  },
+  {
+   "name": "NHUNG\nÝ Trân Nhung - Ý trung nhân\nNhung mua trà - nhà mua chung\nNhung gian - dung nhan",
+   "author": ""
+  },
+  {
+   "name": "Cá tháng tư - Cứ tháng ta",
+   "author": ""
+  },
+  {
+   "name": "Đơn đấu - Đau đớn",
+   "author": ""
+  },
+  {
+   "name": "PHÚC\nPhúc báp - bút pháp\nPhúc thụ - thúc phụ\nPhúc xạm - xúc phạm\nPhúc xích xế - xúc xích phế",
+   "author": ""
+  },
+  {
+   "name": "LÂM\nLâm tương - lương tâm\nLâm tao - lao tâm\nLâm điều - đâm liều\nLâm tinh - tâm linh\nLâm xược - xâm lược",
+   "author": ""
+  },
+  {
+   "name": "ác báo - áo bác",
+   "author": ""
+  },
+  {
+   "name": "Mai sinh nhật E rồi. ad giúp E viết cái gì đó hay hay để tự thưởng cho mình được k ạ. cảm ơn ad nhiều lắm. E tên Thủy.\n\nSắc đẹp hoa thuỷ tiên, bôn ba như thuỷ thủ, lênh đênh trên thuỷ triều, tinh khiết như thuỷ tinh. Làn thu thuỷ, nét xuân sơn, em chung thuỷ chẳng ai hơn. Yêu ko cần xem phong thuỷ nhưng nếu ghen sẽ là phù thuỷ. Đó là Thuỷ ahihi!\n\nChúc em sinh nhật đọc kinh phật coi đô vật, sau này tất bật lật đật đi Nhật hưởng tuần trăng mật nha :v",
+   "author": ""
+  },
+  {
+   "name": "Đấy không có thời - Đời không có thấy",
+   "author": ""
+  },
+  {
+   "name": "Cháu làm gì? - Chí làm giàu",
+   "author": ""
+  },
+  {
+   "name": "CHIẾN\nChiến cứng - chứng kiến\nChiến túy - chí tuyến\nChiến im - chim yến",
+   "author": ""
+  },
+  {
+   "name": "Hoa giã quỳ - Hoa quỹ già",
+   "author": ""
+  },
+  {
+   "name": "Con sóc con cáo - Con sáo con cóc",
+   "author": ""
+  },
+  {
+   "name": "Lạ nước lạ cái - Lại nước lại cá",
+   "author": ""
+  },
+  {
+   "name": "Giả từ - Tử già",
+   "author": ""
+  },
+  {
+   "name": "TOÀN\nToàn đập - tập đoàn\nToàn điểu - tiểu đoàn\nToàn đỉnh - tỉnh đoàn\nToàn hục - hoàn tục",
+   "author": ""
+  },
+  {
+   "name": "Báo đời - Bới đào",
+   "author": ""
+  },
+  {
+   "name": "TỨ kiều: Add làm cho em tên Tứ Kiều ik ạ\n\nKiều kính cận cung cấp kim cương cao cấp, cực kỳ kỹ càng cặn kẽ, kiêng cử cọc cằn cau có kiêu kỳ kênh kiệu kỳ cục.",
+   "author": ""
+  },
+  {
+   "name": "QUÂN\nQuân nhí - quý nhân\nQuân dê - dân quê\nQuân nhả - nhân quả\nQuân phiền - phân quyền",
+   "author": ""
+  },
+  {
+   "name": "NGUYỆT\nNguyệt đã từng yêu - ngừng yêu đã tuyệt\nNguyệt tệ - tuyệt nghệ\nNguyệt tu - tuyệt ngu",
+   "author": ""
+  },
+  {
+   "name": "Sắc đẹp - Xếp đặt",
+   "author": ""
+  },
+  {
+   "name": "Quỷ trấn - quẫn trí",
+   "author": ""
+  },
+  {
+   "name": "PHƯƠNG\nVy Phương - vương phi\nPhương thì - phi thường\nPhương trì - phi trường\nPhương trô - phô trương\nPhương tùng - tương phùng\nPhương yêu thụ - phụ yêu thương",
+   "author": ""
+  },
+  {
+   "name": "Ban luôn một ngày - Bay luôn một ngàn",
+   "author": ""
+  },
+  {
+   "name": "TRÂN\nChú Trân - trú chân\nẢ Trân - trả ân\nTrân y - Tri ân\nTrân dí - dân trí\nTrân quang - quân trang\nTrân tới chơi bời - bơi tới chân trời",
+   "author": ""
+  },
+  {
+   "name": "hiệu quả - quạ hiểu",
+   "author": ""
+  },
+  {
+   "name": "KIỆT\nKiệt viều - việt kiều\nKiệt bá - cá biệt\nKiệt bích - biệt kích\nKiệt tự - cự tuyệt\nKiệt lê - liệt kê\nKiệt ngay - cay nghiệt",
+   "author": ""
+  },
+  {
+   "name": "Đồng hồ - Đồ hồng",
+   "author": ""
+  },
+  {
+   "name": "Ngồi tựa - Ngựa tồi",
+   "author": ""
+  },
+  {
+   "name": "cầu gia đạo - cạo da đầu",
+   "author": ""
+  },
+  {
+   "name": "VY\nVy phương - vương phi\nVy dật - di vật\nVy la - va li\nVy đề - đi về\nVy đắng - đi vắng\nVy đào - đi vào",
+   "author": ""
+  },
+  {
+   "name": "Trân trọng người trong trận",
+   "author": ""
+  },
+  {
+   "name": "Đê tiện - Điên tệ",
+   "author": ""
+  },
+  {
+   "name": "Thằng em - thèm ăn",
+   "author": ""
+  },
+  {
+   "name": "Cú đấm - cấm đú",
+   "author": ""
+  },
+  {
+   "name": "THU\nThu phê - phu thê\nThu tầy - thầy tu - thù tây\nThu dần - dân thù\nThu xế - xu thế\nThu tân - tu thân\nDượng Thu - thượng du\nThu phất - thất phu",
+   "author": ""
+  },
+  {
+   "name": "HẢI\nHải giạn - giải hạn\nHải cối - hối cải",
+   "author": ""
+  },
+  {
+   "name": "THẮM\nThắm muối - mắm thúi\nThắm nóp - nắm thóp\nThắm lan - than lắm\nThắm lối - thối lắm",
+   "author": ""
+  },
+  {
+   "name": "Đôi bàn tay tau - Đau bàn tay tôi",
+   "author": ""
+  },
+  {
+   "name": "Yêu thật lòng - Ông thật liều",
+   "author": ""
+  },
+  {
+   "name": "Con cua con rồng - Con công con rùa",
+   "author": ""
+  },
+  {
+   "name": "KIÊN\nKiên thổ - Thiên cổ\nKiên thơ - Thiên cơ\nKiên thung - Thiên cung\nKiên dơ - Cơ duyên\nKiên ninh - Kinh niên",
+   "author": ""
+  },
+  {
+   "name": "TÂM\nTâm thi - ti thâm\nThím Tâm - thâm tím\nChấm to - chó Tâm",
+   "author": ""
+  },
+  {
+   "name": "xuân lộc: A có thể làm giúp e bài thơ...về e đc ko ad?\n\nKo =)) Thế giới nào đàn ông lại tặng thơ cho nhau nhỉ =)) Tui sẽ làm dành cho các bạn có nữ có tên bắt đầu chữ L.\n\nLung linh lúc lọt lòng\nLệ lưu luyến long lanh\nLặng lẽ lòng lưu lạc\nLiệu lầm lỗi lâm li",
+   "author": ""
+  },
+  {
+   "name": "Kết con chó - Có con chết",
+   "author": ""
+  },
+  {
+   "name": "Hoảng chưa - Chửa hoang",
+   "author": ""
+  },
+  {
+   "name": "VIỆT\nViệt thiếp đi - đi viết thiệp\nViệt bĩnh - vĩnh biệt\nViệt dong - diệt vong",
+   "author": ""
+  },
+  {
+   "name": "Ngô Chi: Bài viết tên chi đi ạ\n\nĐây là Chi, trước dậy thì xấu xí huyền bí lạ kỳ, nay thẩm mỹ xa xỉ, đẹp hoang phí tâm trí nam nhi. Đề nghị ban thánh chỉ, cấp chứng chỉ Tây Thi tâm lý nhu mì. Có ý nghĩ đăng ký công ty giải trí Tây Du Ký nhưng Chi ghét lễ nghi cầu kỳ phung phí; ghét báo chí âm ỉ vô vị; ghét quản lý sửu nhi ấu trĩ; ghét nghệ sĩ năn nỉ phong bì; ghét ca sĩ, nhạc sĩ lập dị, ích kỷ, đố kỵ, ác ý nhảm nhí xàm xí nhạc lý trên ti vi.\n\nBài viết của tui tiến tới showbiz lun rồi =))",
+   "author": ""
+  }
+ ]
+}

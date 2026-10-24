@@ -1,0 +1,78 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "qpLye4OL6FA",
+   "name": "Đậu Phộng TV - Tập 87: Lần Chia Tay Thứ 30"
+  },
+  {
+   "idvideo": "kQpYP93pKeE",
+   "name": "Đậu Phộng TV - Tập 86: Ai Giàu Ba Họ, Ai Khó Ba Đời"
+  },
+  {
+   "idvideo": "-2VUXaeiS0A",
+   "name": "Đậu Phộng TV - Tập 85: Nợ Tình"
+  },
+  {
+   "idvideo": "nN43CeGt8Sc",
+   "name": "Đậu Phộng TV - Tập 84: Làm Anh"
+  },
+  {
+   "idvideo": "py2y_1EtM2c",
+   "name": "Đậu Phộng TV - Tập 83: Ước Nguyện Cuối Cùng"
+  },
+  {
+   "idvideo": "77L7SbPFsxs",
+   "name": "Đậu Phộng TV - Tập 82: Mãi Là Bạn Thân"
+  },
+  {
+   "idvideo": "prfsB7d_zmA",
+   "name": "Đậu Phộng TV - Tập 81: Đứng Về Lẽ Phải"
+  },
+  {
+   "idvideo": "Qicn8W8duv8",
+   "name": "Đậu Phộng TV - Tập 80: Phi Vụ Lừa Đảo Ba"
+  },
+  {
+   "idvideo": "gjwllXEjUNk",
+   "name": "Đậu Phộng TV - Tập 78: Mùa Hè Của Cháu Ngoại"
+  },
+  {
+   "idvideo": "Af_SvAfjz1E",
+   "name": "Đậu Phộng TV - Tập 77: Gia Đình Hạnh Phúc"
+  },
+  {
+   "idvideo": "25uO8j5TNDs",
+   "name": "Đậu Phộng TV - Tập 76: Thư Ký Ơi Sao Thế?"
+  },
+  {
+   "idvideo": "DZ46oAaOO3M",
+   "name": "Đậu Phộng TV - Tập 75: Tình Già"
+  },
+  {
+   "idvideo": "pCRpVPPmr-Y",
+   "name": "Đậu Phộng TV - Tập 74: Gia Đình Văn Hóa"
+  },
+  {
+   "idvideo": "MCwpR-5Cs1A",
+   "name": "Đậu Phộng TV - Tập 72: Điệp Viên 0 0 Chuyên"
+  },
+  {
+   "idvideo": "VhiMbtLSvoA",
+   "name": "Đậu Phộng TV - Tập 71: Ở Rể - Phần 2: Con Rể Hụt"
+  },
+  {
+   "idvideo": "avvpp4kLLxQ",
+   "name": "Đậu Phộng TV - Tập 70: Ở Rể - Phần 1: Ghen"
+  },
+  {
+   "idvideo": "lvHPe1rQWBI",
+   "name": "Đậu Phộng TV - Tập 64: Tết Này Có Con - Phim Tết 2026"
+  }
+ ]
+}

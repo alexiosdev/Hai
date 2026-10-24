@@ -1,0 +1,1598 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Mình 22 tuổi và đã tự mua bánh mì ăn sáng, quần áo, iphone, xe SH. Tất cả những gì bản thân muốn, mình tự mua hết... tiền thì xin mẹ.",
+   "author": ""
+  },
+  {
+   "name": "Thực đơn giảm cân nhanh nhất là:\n- Sáng: Ăn cháo đá bát\n- Trưa: Ăn miếng trả miếng\n- Tối: Ăn năn sám hối",
+   "author": ""
+  },
+  {
+   "name": "Dear Muỗi,\nPhải chi mày biết hút mỡ thay vì hút máu thì có lẽ tao đã dâng hiến thân xác này cho mày từ rất lâu rồi :)",
+   "author": ""
+  },
+  {
+   "name": "Lùn thì sao? Tốc độ nhặt tiền sẽ nhanh hơn...",
+   "author": ""
+  },
+  {
+   "name": "Tui rất ghét những thằng đẹp trai\nVì thế tui chẳng bao giờ soi gương.",
+   "author": ""
+  },
+  {
+   "name": "Cố tình trồng hoa... hoa không nở\nVô tình hít thở... lại tăng cân",
+   "author": ""
+  },
+  {
+   "name": "Không phải mình lười... mình chỉ đang trong chế độ tiết kiệm năng lượng thôi",
+   "author": ""
+  },
+  {
+   "name": "Người ta ai ai trông cũng thật tử tế và tốt đẹp cho đến khi bạn khám phá ra lịch sử trình duyệt của họ.",
+   "author": ""
+  },
+  {
+   "name": "Bản chất nông thôn. Tâm hồn bông lúa.",
+   "author": ""
+  },
+  {
+   "name": "Thằng nào sáng tạo ra app Camera 360, Photoshop,... nợ tất cả đàn ông trên thế giới này một lời xin lỗi.",
+   "author": ""
+  },
+  {
+   "name": "Sẽ có 1 đứa mập tới mức vừa bước lên cân, bác sĩ xem số hiện trên cân cũng phải thét lên: \"Trời đậu phụng, đó là số điện thoại của tao mà...\"",
+   "author": ""
+  },
+  {
+   "name": "Giảm cân đối với tôi là giảm tuổi thọ của cái cân.",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm trong cõi thiên hà,\nEm tuy hơi láo nhưng mà cute.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ai nói xấu tao thì nói trước mặt, đừng nói sau lưng tao. Bởi lưng tao không xấu, mặt tao mới xấu...",
+   "author": ""
+  },
+  {
+   "name": "Thượng đế hỡi, nếu người không thể giúp con gầy đi. Vậy hãy khiến tất cả bạn bè xung quanh con béo lên.",
+   "author": ""
+  },
+  {
+   "name": "Thời buổi bây giờ mà, trào lưu nào rồi cũng sẽ qua thôi, mặt tròn, Vline rồi cũng hết thời cứ mặt dày là xinh nhứt.",
+   "author": ""
+  },
+  {
+   "name": "Ngay cả những thẩm mỹ viện hàng đầu cũng đành chịu thua sức mạnh của Camera 360 và Photoshop",
+   "author": ""
+  },
+  {
+   "name": "Tôi có Crush một người trên Facebook... nhưng mọi chuyện chấm dứt sau khi tài khoản Photoshop cô ấy hết hạn sử dụng.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi buồn chả có một ai\nSoi gương mới thấy đẹp zai vô cùng\nĐẹp zai mà lại bị khùng\nBị khùng mới ngỡ vô cùng đẹp zai",
+   "author": ""
+  },
+  {
+   "name": "Lúc trước cũng đẹp zai lắm, bây giờ đỡ nhiều rồi!!!",
+   "author": ""
+  },
+  {
+   "name": "Nói xấu sau lưng tôi ư? Xin lỗi cả trước và sau của tôi đều là LƯNG...",
+   "author": ""
+  },
+  {
+   "name": "Đỉnh cao của sự khinh bỉ... là \"đã xem\"",
+   "author": ""
+  },
+  {
+   "name": "- Em đồng ý làm người yêu anh nhé?\n- Chẳng ai tỏ tình trên Messenger cả\n- Vậy em có Gmail không?",
+   "author": ""
+  },
+  {
+   "name": "Thức khuya không tốt cho sức khỏe... nên tôi đề nghị mọi người thức qua đêm luôn.",
+   "author": ""
+  },
+  {
+   "name": "Dân thường chơi đẹp, đè bẹp dân chơi",
+   "author": ""
+  },
+  {
+   "name": "Những năm vừa qua... Tôi đã từng khóc, đã từng cười, đã từng mất mát, đã từng điên cuồng, đã từng vấp ngã, cũng đã từng mạnh mẽ... Chỉ, chưa bao giờ gầy!!!",
+   "author": ""
+  },
+  {
+   "name": "Tao từng ước, tao có body như Thor. Và cuối cùng, Thor đã có body như tao. #EndGame",
+   "author": ""
+  },
+  {
+   "name": "Ai nói càng béo càng khó chọn đồ? Từ lúc mình béo lên thấy dễ dàng lắm vì to quá đâu có cái nào vừa đâu mà chọn.",
+   "author": ""
+  },
+  {
+   "name": "Bạn đánh răng hằng ngày, nhưng có bao giờ bạn nghĩ rằng vi khuẩn cũng có cuộc sống, gia đình và những đứa con nhỏ chỉ cần đến trường hay không? Không, vì bạn là 1 đứa ích kỉ chỉ nghĩ cho bản thân mình =))",
+   "author": ""
+  },
+  {
+   "name": "Mình sợ đi máy bay, nên bình thường đi đâu cần qua biển, mình toàn vung tiền lên mặt biển để hút khô nước, sau đó lái xe qua.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đẹp trai là cái tội thì tôi vô tội!",
+   "author": ""
+  },
+  {
+   "name": "Bước tới đèo ngang bỗng mất đà\nĐập đầu vào đá máu tuôn ra\nLom khom dưới núi tìm y tá\nY tá theo trai chẳng có nhà",
+   "author": ""
+  },
+  {
+   "name": "Nỗi buồn nào cũng phải qua\nHót girl nào cũng sẽ ra bà già",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa tôi cũng là loại người dựa vào nhan sắc để kiếm cơm đấy... Sau đó suýt chết đói",
+   "author": ""
+  },
+  {
+   "name": "Trời... dạo này bị đẹp trai một cách lãng phí... thôi tắt máy tính đi ra ngoài cho mấy bạn nữ ngắm thôi...",
+   "author": ""
+  },
+  {
+   "name": "Tôi muốn Ctrl-Alt-Del hết đống mỡ của mình.",
+   "author": ""
+  },
+  {
+   "name": "Ba xạo không có nhưng chém gió có thừa",
+   "author": ""
+  },
+  {
+   "name": "Anh có thể bỏ rượu chè, thuốc lá, cờ bạc, thậm chí là game tất cả vì em... nhưng đừng bắt a bỏ chém gió.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ cô đơn nhất khi tụ tập... đó chính là cái đứa... quên mang điện thoại.",
+   "author": ""
+  },
+  {
+   "name": "Điều trân quý của Facebook là nhiều cụ U40 chịu khó cãi nhau ngang hàng và ngang tầm các cháu SV năm nhất cao đẳng.",
+   "author": ""
+  },
+  {
+   "name": "Tại Sao ko có chương trình hiến mỡ cho người gầy như hiến máu cho người thiếu máu nhỉ",
+   "author": ""
+  },
+  {
+   "name": "Nếu đẹp trai mà mài ra để ăn được. Thì tôi xin chấp nhận hy sinh để 90 triệu dân Việt Nam được no ấm.",
+   "author": ""
+  },
+  {
+   "name": "\"Cảm giác thế giới càng ngày càng thu bé lại\" - 1 thanh niên lên 5kg sau mùa Tết chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "Mỗi ngày tôi đều cầu Chúa giúp mình tăng chiều cao và giảm cân nặng\nNhưng có vẻ ngài vẫn nhầm lẫn giữa hai thứ đó...",
+   "author": ""
+  },
+  {
+   "name": "Tiền trong túi thì quá bạc tình phụ nghĩa\nMỡ trên người thì mãi không chịu lìa xa!",
+   "author": ""
+  },
+  {
+   "name": "Mỗi lần cắt tóc là một lần đánh bạc nhan sắc của mình và tôi chưa một lần thắng...",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua tao nằm mơ thấy mình ko ngủ được, sáng dậy hai con mắt thâm quầng luôn :))",
+   "author": ""
+  },
+  {
+   "name": "Những lúc chán đời bạn hãy thử đi cắt tóc. Vì biết đâu cắt xong bạn sẽ chán cái bản mặt bạn hơn cả đời.",
+   "author": ""
+  },
+  {
+   "name": "Thân hình thể thao, chiều cao mét rưỡi\nNgồi ghế sa lông, chân không chạm đất.",
+   "author": ""
+  },
+  {
+   "name": "Câu hỏi luôn làm khó chúng ta: \"Nên tin vào gương hay camera trước?\" Tại sao trong gương mình coi cũng được lắm mà, chụp hình một phát nó xấu không thể tả.",
+   "author": ""
+  },
+  {
+   "name": "Trời mưa ướt áo ướt quần\nLàm sao ướt được tinh thần dân chơi",
+   "author": ""
+  },
+  {
+   "name": "Tui yêu lớp cơ 6 múi của mình lắm, thế nên tui quyết định sẽ bảo vệ chúng bằng một lớp mỡ dày.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa mình gầy lắm, tương lai mình cũng sẽ rất gầy, nên giờ mình phải béo một thời gian đã, không thì đời này không viên mãn được.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này, mỡ chính là thứ chung thủy nhất. Dù giảm kiểu gì, ghét bỏ kiểu gì thì nó vẫn ở đó mãi không rời xa.",
+   "author": ""
+  },
+  {
+   "name": "Mình năm nay 17 tuổi, tự kinh doanh, tháng nào cũng tự kiếm ra được 40tr-50tr. Trừ lặt vặt và đưa cho ba mẹ thì cũng bỏ túi được 20tr-30tr. Nhưng số tiền đấy vẫn chưa đủ để chữa bệnh cho mình. Mình bị bệnh hay nói phét.",
+   "author": ""
+  },
+  {
+   "name": "Tôi vẫn nhớ như in lần đầu tiên, mình quyết định không trang điểm mà đến gặp anh. Kể từ đó, tôi không tài nào liên lạc được với anh nữa...",
+   "author": ""
+  },
+  {
+   "name": "Facebook luôn thông báo cho tui biết ngày sinh nhật của mọi người, cứ như tui là người bán bánh kem vậy á?",
+   "author": ""
+  },
+  {
+   "name": "Với số chảo đang bán tại chợ Kim biên vẫn ko thể rán hết lượng mỡ bụng mình.",
+   "author": ""
+  },
+  {
+   "name": "Không phải tôi béo, mà đây là do dị ứng với cuộc sống nên bị phù!",
+   "author": ""
+  },
+  {
+   "name": "Đời không trả cát-sê nên em không cần phải diễn.",
+   "author": ""
+  },
+  {
+   "name": "Hồi bé lười ăn nên lùn. Lớn lên chăm chỉ ăn để cao nhưng sao trờ nên vừa lùn vừa béo.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ghét của nào trời cho của đó thì em xin hứa từ nay em sẽ ghét tiền, ghét trai đẹp, ghét đồ ăn ngon, ghét mua sắm, làm đẹp, du lịch...",
+   "author": ""
+  },
+  {
+   "name": "Tôi cao không bằng ai….nhưng được cái nằm xuống thì tôi dài 1m76!",
+   "author": ""
+  },
+  {
+   "name": "Có những ngày tự nhiên cô đơn đến cùng cực... cô đơn đến mức chỉ còn mỗi nhan sắc bên cạnh ta.",
+   "author": ""
+  },
+  {
+   "name": "Phất áo lên vai đời lãng tử\nChào mẹ con đi 9 rưỡi con về",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn làm rơi điện thoại xuống đất thì trái tim của bạn chạm đất trước điện thoại.",
+   "author": ""
+  },
+  {
+   "name": "Bạn bao nhiêu tuổi không quan trọng, quan trọng là mặt bạn trông như bao nhiêu tuổi =))",
+   "author": ""
+  },
+  {
+   "name": "Khoảnh khắc tệ nhất là khi tôi muốn chạy đến ôm một người vô cùng xinh đẹp và gợi cảm nhưng rồi tôi lại đụng phải tấm gương.",
+   "author": ""
+  },
+  {
+   "name": "Tối thứ 7, tui tắt hết điện thoại, laptop. Để bạn bè tưởng tui đi chơi với gấu. Lúc đó tui có thể cười vào mặt tụi nó 1 cách mãn nguyện... :(((",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn nặng 100kg ở Trái Đất. Lúc lên Sao Hỏa bạn chỉ còn 38kg.\nThấy chưa? Chúng ta không hề mập! Chỉ đang sống không đúng hành tinh mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Gái xinh bây giờ nhan nhản, ra đường quơ tay 1 phát là vớ được cả rổ. Còn gái xấu như mình lại hiếm, trở thành một nét chấm phá giữa rừng ngàn hoa =))",
+   "author": ""
+  },
+  {
+   "name": "Ta ko cần phải cứ mãi lo về chiều cao, ta còn chiều ngang mà!",
+   "author": ""
+  },
+  {
+   "name": "Mặt học sinh mà thân thể phụ huynh",
+   "author": ""
+  },
+  {
+   "name": "Bức ảnh của mày phải qua bao nhiêu cái app thì mới lên đc Facebook?",
+   "author": ""
+  },
+  {
+   "name": "Cứ chơi đi cho hết thời tuổi trẻ, rồi về già vui vẻ đạp xích lô.",
+   "author": ""
+  },
+  {
+   "name": "Người ta sáu múi để chưng\nAnh đây bụng bự nhìn cưng hơn nhiều",
+   "author": ""
+  },
+  {
+   "name": "Mình mua xe bao giờ cũng mua liền lúc 7, 8 màu. Vì sao ư? Để phối hợp với quần áo chứ sao.",
+   "author": ""
+  },
+  {
+   "name": "Thấp nhưng đẳng cấp của hạng nhất, chẳng chấp mấy đứa cao chỉ tính từ mặt đất.",
+   "author": ""
+  },
+  {
+   "name": "- Theo mày thì tao hoàn hảo hay xấu xí\n- Cả hai\n- Sao lạ vậy???\n- Bởi vì mày xấu xí một cách hoàn hảo",
+   "author": ""
+  },
+  {
+   "name": "Gió đưa cành trúc la đà\nẤn like 1 phát đúng là đẹp trai\nNếu mà có ấn sụp roai (subcribe)\nThêm quả chuông nữa chuẩn bài soái ca",
+   "author": ""
+  },
+  {
+   "name": "Họ ném tôi vào 1 bầy sói... khi trở lại tôi là con đầu đàn",
+   "author": ""
+  },
+  {
+   "name": "Muốn đi nhanh thì đi một mình\nMuốn đi chậm thì vừa đi vừa chụp hình.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta là thế hệ WTF: WhatsApp, Twitter và Facebook :D",
+   "author": ""
+  },
+  {
+   "name": "Tháng Giêng là tháng ăn chơi\nTháng Hai cờ bạc, tháng Ba rượu chè\nTháng Tư là tháng lè phè\nTháng Năm, tháng Sáu hội hè vui chơi\nTháng Bảy là tháng nghỉ ngơi\nTháng Tám, tháng Chín xả hơi bạn bè\nTháng Mười, Mười Một xôi chè\nTháng Chạp cá chép cá mè vớt lên",
+   "author": ""
+  },
+  {
+   "name": "Ăn chọn nơi, chơi chọn hàng, lang thang chọn địa điểm.",
+   "author": ""
+  },
+  {
+   "name": "Thức sớm make up đẹp lung linh lồng lộn chói lóa... make up xong phát hiện quên đánh răng rửa mặt",
+   "author": ""
+  },
+  {
+   "name": "Sông có thể cạn núi có thể mòn song việc chúc em ngủ ngon không bao giờ thay đổi.",
+   "author": ""
+  },
+  {
+   "name": "Dân chơi không sợ mưa rơi, chỉ sợ mưa đá vớ̃ đầu dân chơi",
+   "author": ""
+  },
+  {
+   "name": "Tôi nhịn không phải tôi hiền mà là bạn chưa đủ tư cách để làm phiền đến tôi",
+   "author": ""
+  },
+  {
+   "name": "Điều đầu tiên tôi làm khi thức dậy... là cố gắng ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "\"Nước mắt lăn dài trên khóe mi, lòng không đau, không buồn nhưng những giọt lệ cứ lăn dài trên má.\"\n- 1 cô đang sụt sịt thái hành tây",
+   "author": ""
+  },
+  {
+   "name": "Trời cho cái nhan sắc sơ sài để che dấu cái thiên tài bên trong",
+   "author": ""
+  },
+  {
+   "name": "Đẹp cũng chỉ để yêu, yêu kiều cũng chỉ để ngắm ^^\nNhưng … Xấu mà đằm thắm thì say đắm cả cuộc đời! =))",
+   "author": ""
+  },
+  {
+   "name": "\"Tôi nói thật với các đấng mày râu nhé! Làm trai, thà mình đánh cả thế giới chứ không bao giờ được để thế giới này đánh lại mình.\"\n- Một thanh niên đánh giày hùng hiện.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật ngắn ngủi\nKhi bạn đọc được stt này thì có lẽ\n...\nTôi đang âm thầm viết stt mới rồi",
+   "author": ""
+  },
+  {
+   "name": "Học ko chơi đánh rơi tuổi trẻ\nChơi ko học thấy khỏe người ra\nHọc hành thì cứ loa qua\nĂn chơi là phải bán nhà mới ghê\nHọc giỏi cũng chẳng ai mê\nChơi ngu cả lũ nó chê ăn mày",
+   "author": ""
+  },
+  {
+   "name": "Tôi không phải đồ chơi, để người chơi rồi vứt\nTôi không phải công thức, đề người cộng rồi chia",
+   "author": ""
+  },
+  {
+   "name": "Mấy đứa hay up ảnh bồ lên Facebook. Sau khi chia tay, nhìn chúng nó ngồi xóa ảnh mà thấy tội =))",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu của em nó khùng khùng điên điên nhưng lại tự nhiên hơn người khác",
+   "author": ""
+  },
+  {
+   "name": "Ở face này, có nhìu người tuổi đời nhìu hơn cân nặng. Đúng ko? Like đê...",
+   "author": ""
+  },
+  {
+   "name": "Em xấu nhất việt nam\nEm xấu lấn sang châu á\nEm xấu lan tỏa châu âu\nEm xấu rạng rỡ địa cầu\nEm xấu buồn rầu 5 châu 4 bể\nEm xấu ê chề khắp hành tinh\nEm xấu rung rinh cái dải ngân hà là em đó",
+   "author": ""
+  },
+  {
+   "name": "Tôi rất biết ơn những người đã nói không với tôi. Nhờ vậy mà tôi biết cách tự mình giải quyết sự việc.",
+   "author": ""
+  },
+  {
+   "name": "Anh đẹp trai, nhà giàu, có xe đạp riêng.",
+   "author": ""
+  },
+  {
+   "name": "Đừng buồn vì bạn xấu mà hãy tự hào bạn có vẻ đẹp tiềm ẩn... càng tìm càng ẩn",
+   "author": ""
+  },
+  {
+   "name": "Tui ghét những người ăn trộm ý tưởng của tui... trước khi tui nghĩ ra nó",
+   "author": ""
+  },
+  {
+   "name": "Nếu tôi quan tâm chăm sóc cho diện mạo của mình, tôi sẽ không còn là chính tôi nữa.",
+   "author": ""
+  },
+  {
+   "name": "Mới gọi lên nhà mạng hỏi mạng hôm nay mạng bị gì mà đăng status cả tiếng không có đứa nào like",
+   "author": ""
+  },
+  {
+   "name": "Tôi có trái tim hiền như 1 lọ lem nhưng mẹ tôi bảo khi con bị tổn thương con hãy là 1 phù thủy để tự bảo vệ mình đừng chờ hoàng tử cứu con vì đến khi hoàng tử tới có chắc con còn sống không?",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi phải tư duy, suy nghĩ, cân nhắc, xem xét, uớc tính, ước lượng, phân tích, chọn lọc cẩn thận tỉ mỉ xem người nào xứng đáng để được mình ngỏ lời, chứ đâu phải ai cũng được mình cũng hỏi mượn tiền đâu.",
+   "author": ""
+  },
+  {
+   "name": "Sống để chơi chứ không phải vì chơi mà đánh rơi bản chất",
+   "author": ""
+  },
+  {
+   "name": "Mấy đứa lùn thường khiêm tốn. Vì nó không tự cao.",
+   "author": ""
+  },
+  {
+   "name": "Em ăn bơ muốn vỡ bụng rồi đây ạ. Làng Face ai hảo tâm làm ơn cứu em với. Chỉ cần cái status này 500 like, bụng em lại lành!",
+   "author": ""
+  },
+  {
+   "name": "Em chỉ cần phồng má - chu miệng thôi\nCòn lại cứ để camera 360 lo",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống này công bằng lắm! Nếu buổi chiều bạn ngủ nhiều, thì buổi tối sẽ khó ngủ. Thế thôi.",
+   "author": ""
+  },
+  {
+   "name": "Bố tiên sư mấy con muỗi, thấy người đẹp cứ bâu vào =.=. Ai like cho sự xinh đẹp của em đi ạ",
+   "author": ""
+  },
+  {
+   "name": "Còi ko phải là xấu, mà thời thơ ấu lười ăn",
+   "author": ""
+  },
+  {
+   "name": "Messenger là một cái app vô dụng và gây thất vọng nhất trên appstore. Mặc dù liên tục được update và cải tiến nhưng lại không có những tin nhắn của em...",
+   "author": ""
+  },
+  {
+   "name": "Sáng ra chưa kịp mở mắt là quơ tay kiếm cái điện thoại trước tiên đã =))",
+   "author": ""
+  },
+  {
+   "name": "\"Giết người là đi tù đã đành, đằng này e tạo ra con người cũng phải đi tù là sao???\" - 1 thanh niên lãnh án hấp diêm tự bào chữa",
+   "author": ""
+  },
+  {
+   "name": "Từ ngày có Facebook, quà sinh nhật chỉ toàn là ảnh với chữ.",
+   "author": ""
+  },
+  {
+   "name": "G: Giữa con trai và con gái có tình bạn đơn thuần không?\nB: Chỉ cần xấu, người dưng bốn bể đều là anh em...",
+   "author": ""
+  },
+  {
+   "name": "Nếu em là thuốc phiện, anh có nghiện em không?",
+   "author": ""
+  },
+  {
+   "name": "Đời buồn cắt tóc đi tu\nNghĩ đi nghĩ lại ngồi tù sướng hơn\nVào tù làm chủ giang sơn\nMột căn phòng đá với dăm ba thằng",
+   "author": ""
+  },
+  {
+   "name": "Béo không phải là một cái tội mà là sự vượt trội về thể xác",
+   "author": ""
+  },
+  {
+   "name": "Tôi có thể làm tất cả vì tiền thậm chí đó là...những việc tốt.",
+   "author": ""
+  },
+  {
+   "name": "Tôi yêu bạn không phải vì bạn là ai, mà là vì tôi sẽ là người thế nào khi ở bên bạn.",
+   "author": ""
+  },
+  {
+   "name": "Facebook lạnh lẽo lướt trong veo\nMột sờ ta tút bé tẻo teo\nChẳng ai comment hơi bị cú\nBấm share về wall khẽ cái vèo\nBão Like lơ lửng là em tắt\nTimeline quanh co khách vắng teo\nTựa phím di chuột rồi phang click\nLike cho 1 phát động viên nèo",
+   "author": ""
+  },
+  {
+   "name": "Ai like status này tuổi sẽ thọ bằng số tập phim “Cô dâu tám tuổi”!",
+   "author": ""
+  },
+  {
+   "name": "Bạn hãy cho tôi biết bạn kiếm tiền như thế nào, tôi sẽ cho bạn biết bạn xài tiền ra sao.",
+   "author": ""
+  },
+  {
+   "name": "Muốn tao bớt nhạt chẳng khác nào tụi mày lấy một cốc nước lọc đổ vào máy xay sinh tố rồi nhấn nút và đợi kết quả",
+   "author": ""
+  },
+  {
+   "name": "Đừng trách tôi ác\nCũng đừng hỏi vì sao tôi khác\nChỉ là tôi đang mất cảm giác\nKhi bị người khác bóp nát niềm tin",
+   "author": ""
+  },
+  {
+   "name": "Bên ngoài đổ nát hoang sơ, bên trong nội thất tiện nghi bất ngờ.",
+   "author": ""
+  },
+  {
+   "name": "Đề nghị không phát ngôn những từ ngữ chưa qua kiểm dịch, nó có thể gây sock cho người khác, tổn thương tinh thần và tâm hồn mong manh dễ vỡ của tui.",
+   "author": ""
+  },
+  {
+   "name": "Đừng thắc mắc tại sao tôi buồn\nTôi là người bán niềm vui",
+   "author": ""
+  },
+  {
+   "name": "Đúng là ông trời không cho ai hết tất cả mọi thứ bao giờ, cô ấy xinh đẹp, tài giỏi, thông minh, thành đạt và nổi tiếng nhưng cô ấy không có được tôi.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn vào tấm gương sáng, rọi vào đó mới thấy thân xác hoang tàn... nhưng đẹp trai.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người ơi, nút like bị gì rồi nè, không click vào được. Mọi người thử like coi được không?",
+   "author": ""
+  },
+  {
+   "name": "Thực tình tôi cũng muốn giảm béo, nhưng 1 người đã vừa thông minh xinh đẹp như tôi nay còn thon thả, sẽ khiến các cô gái khác rất mặc cảm",
+   "author": ""
+  },
+  {
+   "name": "Năm mới con chỉ ước cho các chị gái xinh đẹp như trong ảnh avatar trên Facebook thôi!",
+   "author": ""
+  },
+  {
+   "name": "Biết không, tôi có 1 khả năng đặc biệt đó là kệ mẹ thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Trưởng thành là khi trời lạnh tự biết lấy áo khoác mặc chứ không lên phải facebook đăng status kiếm người yêu.",
+   "author": ""
+  },
+  {
+   "name": "Thỉnh thoảng tôi hay viết status rồi để chế độ một mình, bởi vì có những thứ mà người ta không còn xứng đáng để đọc nữa!",
+   "author": ""
+  },
+  {
+   "name": "Xinh xắn thì mới được gọi là sành ăn, còn xấu thì được gọi là phàm ăn tục uống.",
+   "author": ""
+  },
+  {
+   "name": "Đã pik mình sống ảo rồi thì... mua kính 3d để sống ảo tiếp =))",
+   "author": ""
+  },
+  {
+   "name": "Lùn là sự tận cùng của dễ thương",
+   "author": ""
+  },
+  {
+   "name": "Tôi cảm thấy thanh thản vì không phải lo lắng đến vấn đề tiền bạc! Tại sao lại phải lo lắng về thứ mình không có cơ chứ?",
+   "author": ""
+  },
+  {
+   "name": "Mụn là ai đi qua chốn này... Tàn nhang là ai trong cuộc đời tao đấy...",
+   "author": ""
+  },
+  {
+   "name": "Sở thích của tôi là ngủ. Nhưng... tôi lại không thích đi ngủ sớm.",
+   "author": ""
+  },
+  {
+   "name": "Bật chế độ em giả bộ thất tình\nBật cấu hình em lừa tình tất cả.",
+   "author": ""
+  },
+  {
+   "name": "Gái nhà lành, ko nên để lộ nhan sắc nhiều quá, đeo khẩu trang zô má",
+   "author": ""
+  },
+  {
+   "name": "Ai mà chê em xấu... chúng nó không thấy quá đáng ư\nAnh mà chê em xấu... thì ngày đó là ngày cá tháng tư",
+   "author": ""
+  },
+  {
+   "name": "- Đại học thực sự là nơi khởi đầu của những giấc mơ sao?\n- Ừ, ngủ ngon lắm.",
+   "author": ""
+  },
+  {
+   "name": "Những điều tôi biết chỉ là 1 hạt cát.\nNhững điều tôi chưa biết là cả 1 đại dương.",
+   "author": ""
+  },
+  {
+   "name": "Chưa biết gì về tôi xin đừng đánh giá\nNếu đã biết tôi rồi thì xin đừng đánh tôi",
+   "author": ""
+  },
+  {
+   "name": "Ưu điểm của tôi là ăn rồi lăn vào ngủ, ngủ dậy là chạy vào bàn ăn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi thấy truyền hình rất có tính giáo dục. Mỗi khi ai đó bật ti vi lên 1 chút, tôi lại sang phòng khác và đọc sách.",
+   "author": ""
+  },
+  {
+   "name": "Xã hội thế kỷ XXI xuất hiện nhiều mâu thuẫn giai cấp. Điển hình là mâu thuẫn giữa Fan cứng và Fan mềm trên Facebook.",
+   "author": ""
+  },
+  {
+   "name": "Nể nhất mấy đứa con gái, mặt trắng như tuyết mà cổ đen như gỗ mun :v",
+   "author": ""
+  },
+  {
+   "name": "Sống là phải làm chủ được cuộc chơi, phải tự tô màu đời",
+   "author": ""
+  },
+  {
+   "name": "Mặc đồ đụng hàng không cần sợ, đứa nào xấu đứa ấy ngại. =))",
+   "author": ""
+  },
+  {
+   "name": "Mất ngủ vì không có đối thủ.",
+   "author": ""
+  },
+  {
+   "name": "Tao đăng cái này không phải để câu like tụi bay đâu mà chỉ để bộc lộ cảm xúc chân thành của tao thôi. Tao chờ 3 phút có trên 30 lượt like tao kể nha!",
+   "author": ""
+  },
+  {
+   "name": "Hướng ngược gió, càng hợp để bay, tôi không sợ ngàn vạn người ngăn cản, chỉ sợ chính bản thân mình đầu hàng.",
+   "author": ""
+  },
+  {
+   "name": "Sợ nhất là thấy \"mấy chị ngành\" có huy hiệu fan cứng.",
+   "author": ""
+  },
+  {
+   "name": "Đừng dễ dàng tin vào những gì bạn nghe.\nĐừng tiêu xài hết tiền bạn đang có.\nKhông nên muốn ngủ bao lâu thì ngủ.",
+   "author": ""
+  },
+  {
+   "name": "Ai thích tui thì tỏ tình sớm đi nha. Facebook ra ứng dụng hẹn hò thì có người cướp mất tui đấy. Lúc đó thấy tiếc thì đã muộn rồi.",
+   "author": ""
+  },
+  {
+   "name": "\"Chỉ cần chạm tay nhau một giây thôi là nhớ nhau cả đời\"\n- Một thanh niên chạm tay vào ổ điện chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "Xấu trai SH năng tương ngộ\nĐẹp trai đi bộ bất tương phùng =))",
+   "author": ""
+  },
+  {
+   "name": "Tôi không phải là những gì tôi đã làm được, tôi là những gì tôi đã vượt qua.",
+   "author": ""
+  },
+  {
+   "name": "Kể từ lúc bạn nhìn thấy ảnh chứng minh thư của bản thân, bạn mới có thể biết thì ra từ bỏ người mình thích đơn giản như thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Khi trên mạng là 1 vựa muối... ở ngoài đời như là một hồ nước suối...",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay tôi vào toilet mà quên mang theo smart phone... và phát hiện thì ra sàn nhà lót bằng 128 viên gạch bông.",
+   "author": ""
+  },
+  {
+   "name": "Choy oy, con nhà ai mà xinh quá zậy nè! Ôi tên nhìn quen thế, haizzz lại click nhầm vào facebook mình rồi!",
+   "author": ""
+  },
+  {
+   "name": "Tướng này hái dừa không cần thang :v",
+   "author": ""
+  },
+  {
+   "name": "Lùn còn có thể đi giày cao, thách mấy đứa cao dám lùn lại đấy",
+   "author": ""
+  },
+  {
+   "name": "Mặc dù em không xinh nhưng trên hành tinh này thì em là phiên bản duy nhất.",
+   "author": ""
+  },
+  {
+   "name": "\"Xấu\" là nguyên nhân không có Gấu",
+   "author": ""
+  },
+  {
+   "name": "Quyết tâm mỗi ngày ít lướt FB lại dể học bài; mỗi ngày chỉ chơi 2 lần; mỗi lần chỉ 11 tiếng 2 tiếng còn lại để ăn với ngủ =]]]",
+   "author": ""
+  },
+  {
+   "name": "\"Ta thà phụ người trong thiên hạ, chứ không để người thiên hạ phụ ta\"\n- 1 thanh niên phụ hồ tâm sự",
+   "author": ""
+  },
+  {
+   "name": "Tôi chỉ mất 1 giây để nói tôi yêu em nhưng phải mất cả cuộc đời để chứng tỏ điều đó.",
+   "author": ""
+  },
+  {
+   "name": "Đi ngoài đường đạp phải sh!t lên fb đăng status: \"Đường đời cạm bẫy vì vậy hãy luôn cảnh giác!\"",
+   "author": ""
+  },
+  {
+   "name": "Đêm năm canh em nhớ anh canh đầu\nBốn canh sau em u sầu ngủ tiếp",
+   "author": ""
+  },
+  {
+   "name": "Sáng ngủ dậy, cơ thể tràn đầy năng lượng...\nNên quyết định ngủ tiếp để bảo toàn năng lượng...",
+   "author": ""
+  },
+  {
+   "name": "Bạn không cần phải thích tui. Tui không phải cái status facebook đâu.",
+   "author": ""
+  },
+  {
+   "name": "Dân chơi không sợ mưa rơi\nMưa rơi ướt áo đem về mẹ phơi",
+   "author": ""
+  },
+  {
+   "name": "Điều cay đắng nhất là khi đang ngủ ngon mà nghe báo thức",
+   "author": ""
+  },
+  {
+   "name": "Thà xấu lạ còn hơn đẹp đại trà",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có buồn ngủ mới không làm chủ được bản thân.\nChỉ có giảm cân mới nâng tầm nhan sắc.",
+   "author": ""
+  },
+  {
+   "name": "Chụp cả đống son rồi ghi caption là: \"Đợi ngày gặp được em, tất cả đều cho em\".",
+   "author": ""
+  },
+  {
+   "name": "Giảm béo làm cái gì nhỉ?\nĐời người ngắn ngủi, gầy cho ai nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Khi tui buồn ngủ nhân cách đạo đức của tui cũng không được tỉnh táo đâu.",
+   "author": ""
+  },
+  {
+   "name": "Tao là con người không thích like, like có nuôi sống con người được không? Quan trọng là lòng mày hiểu tao. Nhưng tao hơi bị khờ, chưa chắc tao biết mày hiểu tao nên thôi like phát để tao biết lòng dạ tụi mày nhé!",
+   "author": ""
+  },
+  {
+   "name": "Hai năm như giấc ngủ trưa\nNgủ trưa thức giấc vẫn còn Hai năm :)))",
+   "author": ""
+  },
+  {
+   "name": "Trời buồn trời đổ cơn mưa,\nTa buồn ta ngủ từ trưa đến chiều.\nNgủ xong dậy ăn cơm chiều,\nĂn xong rồi ngủ từ chiều đến trưa...",
+   "author": ""
+  },
+  {
+   "name": "Bình tĩnh sống đi Tôi ơi!",
+   "author": ""
+  },
+  {
+   "name": "Thần tượng của tôi chính là tôi ở trong quá khứ",
+   "author": ""
+  },
+  {
+   "name": "Cứ giả vờ ngu... để có điều kiện tiếp thu... Giang hồ hiểm ác... nai tơ ngơ ngác cho lành",
+   "author": ""
+  },
+  {
+   "name": "Tao góp ý nhé. Ý kiến của tao cũng ngắn gọn là như thế này, nếu tao nói ra có mất lòng ae thì tao cũng chịu, tại vì tao chỉ muốn đóng góp một chút ý kiến cho ae biết là tao cũng là một người có định kiến riêng của bản thân mình. Đấy nói tóm lại là tao góp ý vậy thôi còn ae hiểu hay không thì cũng không biết. Chỉ mong ae hiểu là tao cũng chỉ muốn đóng góp ý kiến thôi. :v cảm ơn đã lắng nghe ý kiến của t. t chỉ mún góp ý vậy thôi!",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn chinh phục chính mình, thì bạn có thể chinh phục thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Không có phụ nữ xấu, chỉ có phụ nữ mang vẻ đẹp triết học",
+   "author": ""
+  },
+  {
+   "name": "Thứ 7 máu chảy về tim lim dim đi tìm chỗ ngủ!",
+   "author": ""
+  },
+  {
+   "name": "Chim khôn kêu tiếng rảnh rang\nNgười khôn tìm kiếm trên trang Google",
+   "author": ""
+  },
+  {
+   "name": "Giang hồ quậy phá tao chơi được\nChứ 2 mặt giả tạo tao xin thua",
+   "author": ""
+  },
+  {
+   "name": "Trưởng thành là khi thất tình không đăng tus tâm trạng :))))",
+   "author": ""
+  },
+  {
+   "name": "Có thể tôi ko hoàn hảo nhưng tôi là duy nhất",
+   "author": ""
+  },
+  {
+   "name": "Facebook sẽ không thể truy cập được trong 3 ngày 29, 30, 31 tháng 2 này! Hãy chia sẽ để mọi người cùng biết!",
+   "author": ""
+  },
+  {
+   "name": "Thế giới của tôi tĩnh mịch ko lời... ko dung nạp bất kì một ai.",
+   "author": ""
+  },
+  {
+   "name": "\"Có những lúc phải mạnh mẽ gạt bỏ một số thứ để tiếp tục theo đuổi ước mơ của mình.\"\n- Một sinh viên vừa đập chiếc đồng hồ báo thức cho hay",
+   "author": ""
+  },
+  {
+   "name": "T đã suy nghĩ rất kỹ rồi, thời buổi khó khăn, xã hội thì đang hội nhập, cái gì cũng cần nhanh, chỉ cần mình sơ sẩy chậm tay, hay là mạng lác chút thôi là chúng nó cướp mất Top của mình. Vì thằng nào cũng chờ chực cả thôi, bật cả chế độ ưu tiện xem trước nữa kìa. Vậy nên lần này t nghĩ mãi mới ra cái cmt này quyết định táo bạo để được mấy bạn cho lên Top 1 lần thôi. Để cảm nhận Top có phê hay ko thôi mà.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ xấu nhân gian nhiều vô kể\nNgười tốt như anh được mấy người",
+   "author": ""
+  },
+  {
+   "name": "Chán! Dạo này mất ngủ trầm trọng, ngày chỉ ngủ đc 1-2 tiếng còn... đêm thì khá hơn, khoảng hơn chục tiếng.",
+   "author": ""
+  },
+  {
+   "name": "Dù bạn ko cao nhưng người khác vẫn phải cúi nhìn",
+   "author": ""
+  },
+  {
+   "name": "Tình online là tình nhiều thiên tai",
+   "author": ""
+  },
+  {
+   "name": "Phía sau một cô gái đẹp như tiên, phía trước một cô gái là thằng điên biết xài tiền",
+   "author": ""
+  },
+  {
+   "name": "Ghét thì cứ unfriend chứ huỷ kết bạn làm gì?",
+   "author": ""
+  },
+  {
+   "name": "Đừng nhầm lẫn tính cách tôi và thái độ tôi. Tính cách của tôi nói lên con người tôi, còn thái độ của tôi tuỳ thuộc vào con người bạn",
+   "author": ""
+  },
+  {
+   "name": "Ngủ trưa không phải là lười\nNgủ trưa trốn tránh loài người xấu xa :p",
+   "author": ""
+  },
+  {
+   "name": "Nếu đẹp trai là một tội lỗi Thì khi ta chết thế giới này sẽ được cứu rỗi",
+   "author": ""
+  },
+  {
+   "name": "Tối qua túi của tôi bị giật mất rồi, tôi rất buồn, vì chuyện này mà tôi khóc cả đêm, tôi thực sự nghĩ không thông, rốt cuộc tôi có chỗ nào không bằng cái túi.",
+   "author": ""
+  },
+  {
+   "name": "Newsfeed mình khá nhạt cho đến buổi trưa chiều, khi những con người thất nghiệp thức giấc, họ sẽ bắt đầu luyên thuyên về cuộc sống.",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai là 1 loại tài nguyên, thấy đẹp trai mà ko ngắm. Đó gọi là lãng phí.",
+   "author": ""
+  },
+  {
+   "name": "\"Em đến bên ta thật nhẹ nhàng rồi trao nụ hôn thật nồng nàn khi ta chợt nhận ra em mãnh liệt cỡ nào, ta đưa em vào giấc ngủ ngàn thu\"\n- 1 thanh niên mới bị muỗi đốt tâm sự",
+   "author": ""
+  },
+  {
+   "name": "Tôi lùn nhưng ùn ùn người theo. :v",
+   "author": ""
+  },
+  {
+   "name": "Ớt nào mà ớt chẳng cay\nGái ngoan là gái ngủ ngày lẫn đêm",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống vốn dĩ màu hường\nAnh mà không tốt tránh đường em đi",
+   "author": ""
+  },
+  {
+   "name": "Ai mà bị tớ nợ tiền thì like để tớ còn biết đường mà trả nợ nhé!",
+   "author": ""
+  },
+  {
+   "name": "Đã giúp tôi lúc hoạn nạn... thì chuyện của bạn cũng là của tôi.",
+   "author": ""
+  },
+  {
+   "name": "Có những người luôn nhớ tới mình. Dù tạo facebook mới vẫn không quên block mình trước.",
+   "author": ""
+  },
+  {
+   "name": "Mái tóc anh nhuộm màu sương gió\nYêu giang hồ nghèo khó lắm em ơi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm gian truân\nCớ sao em lại tăng cân thế này?",
+   "author": ""
+  },
+  {
+   "name": "Có thể mấy chế chưa biết: Gấu trúc là 1 ví dụ điển hình cho việc ăn rau cũng mập. Nên đừng cố giảm cân làm gì :v",
+   "author": ""
+  },
+  {
+   "name": "Tôi thì không có gì nổi trội nhưng dù bạn có lặn lội cả đời cũng chẳng có cơ hội tìm được người giống tôi :)",
+   "author": ""
+  },
+  {
+   "name": "Tôi không hoàn hảo nhưng tôi biết học hỏi. Không chỉ vì đội bóng, huấn luyện viên hay người hâm mộ, tôi làm điều đó vì chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tôi nói ai cũng có một mặt tốt đẹp nào đó, xem ra tôi là hình tròn",
+   "author": ""
+  },
+  {
+   "name": "Đừng ảo tưởng vị trí của mình trong trái tim người khác",
+   "author": ""
+  },
+  {
+   "name": "Đã có lúc, em mong eo mình bé lại... để nét giống heo không thể nhiều thêm nữa...",
+   "author": ""
+  },
+  {
+   "name": "Trời cho cái vẻ bên ngoài\nĐể che đậy cái sơ sài bên trong",
+   "author": ""
+  },
+  {
+   "name": "Vì học hành căng thẳng nên nhiều đứa đã... ngủ thẳng cẳng mà không thèm ôn thi.",
+   "author": ""
+  },
+  {
+   "name": "\"Tình yêu của em giành cho anh, không có đồng tiền nào mua nỗi!\" - Một em gái vào shop lựa đồ sau khi nhìn giá",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu bây giờ, 3% nhờ duyên phận, 7% nhờ cố gắng, còn 90% là dựa vào gương mặt hết!",
+   "author": ""
+  },
+  {
+   "name": "Là một con người hòa nhã, nhẹ nhàng, hiền lành và không chửi ai bao giờ. Nhưng mỗi khi thấy mấy câu chửi hay ho thì tôi lại nhanh tay lưu về để dành xài.",
+   "author": ""
+  },
+  {
+   "name": "- Tôi bị mất ngủ lâu ngày rồi, nên làm sao đây?\n- Đến trường nghe giảng đi.",
+   "author": ""
+  },
+  {
+   "name": "Tại hạ tình cờ đi ngang qua chốn này! Thấy các vị huynh đệ cùng các tỉ muội xôn xao bàn tán bèn mạn phép ghé vào cho thỏa lòng soi mói. Giật mình, kinh ngạc khi thấy lời nói của các vị vô cùng sắc bén, ngữ ngôn truyền cảm, thiết nghĩ Độc Cô Cầu Bại ngày xưa có đội mồ sống dậy cũng thêm phần nể sợ. Nay xuất hiện thêm nhiều anh hùng bàn phím như thế này cũng khiến cho tại hạ mở mang tầm mắt, học hỏi được nhiều điều. Nếu các vị huynh đệ đây không cảm thấy phiền nhiễu thì với một cú Click chuột chúng ta hãy kết nghĩa bàn thờ, à không bàn đào! Ngày hôm nay được gặp các vị huynh đệ, các vị tỉ muội ở đây cũng là phước phần cho tại hạ. Xin nhận của tại hạ một like gọi là để kết nghĩa thâm giao!",
+   "author": ""
+  },
+  {
+   "name": "Tôi chỉ giận với những ai tôi mến...\nVà chỉ buồn vì những kẻ tôi thương...\nĐối với tôi, những người khác bình thường...\nTôi vô tư không bao giờ giận họ =))",
+   "author": ""
+  },
+  {
+   "name": "Muốn tát sml mấy đứa sống giả tạo... mà tụi nó nhiều mặt quá không biết nên tát mặt nào.",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nKhông ăn salad sẽ thành như Thor\n#EndGame",
+   "author": ""
+  },
+  {
+   "name": "Trong xã hội bây giờ thứ chênh lệch lớn nhất giữa người với người không phải là chỉ số thông minh đâu, mà là nhan sắc.",
+   "author": ""
+  },
+  {
+   "name": "Nếu lười là 1 căn bệnh thì tôi vô phương cứu chữa.",
+   "author": ""
+  },
+  {
+   "name": "Người ta đẹp không góc chết. Còn em tìm mãi cũng ko ra được góc đẹp.",
+   "author": ""
+  },
+  {
+   "name": "Nổi buồn nào cũng sẽ qua, chỉ có buồn ngủ không tha ngày nào",
+   "author": ""
+  },
+  {
+   "name": "Mập đẹp, ốm dễ thương, cao sang, lùn quý phái, bình thường mới... thấy ghê.",
+   "author": ""
+  },
+  {
+   "name": "\"Xong rồi thì hãy đi ra.\nNgoài kia có kẻ xót xa đợi chờ.\"\n- 1 thanh niên đợi WC chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "Xấu là một cái tội, ko phải là tội trong tội lỗi, mà là tội trong tội nghiệp",
+   "author": ""
+  },
+  {
+   "name": "Lý do đàn ông không trang điểm là vì khi ấy phụ nữ không còn là phái đẹp nữa.",
+   "author": ""
+  },
+  {
+   "name": "Hình hài để trang trí! Tâm lý không bình thường...",
+   "author": ""
+  },
+  {
+   "name": "Mỗi sáng thức dậy phải soi gương xem mình là ai, làm công việc gì!",
+   "author": ""
+  },
+  {
+   "name": "Sâu răng là phong cách, hôi nách là dân chơi",
+   "author": ""
+  },
+  {
+   "name": "Chớ chê em xấu, em già\nEm đi phẫu thuật đẹp ra bây giờ",
+   "author": ""
+  },
+  {
+   "name": "Đời người có một gang tay, ai hay ngủ ngày mất hết nửa gang",
+   "author": ""
+  },
+  {
+   "name": "Tôi thực sự cần 5 giờ trên Facebook để cân bằng cuộc sống sau 5 phút học tập.",
+   "author": ""
+  },
+  {
+   "name": "Tính cách của tôi là lười, hơn người ở chỗ chơi\nSở trường là ăn và kỹ năng là ngủ.",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi anh kO phải soái ca, anh chỉ là cá khoai kho tộ",
+   "author": ""
+  },
+  {
+   "name": "Trước lạ sau quen\nTrước mượn sau xin",
+   "author": ""
+  },
+  {
+   "name": "Lúc đầu xem chả hiểu gì cả, nhưng sau khi xem lại status này, đồng thời xâu chuỗi những dữ kiện và tổng hợp suy nghĩ của bản thân theo một trình tự logic dưới góc độ khoa học, tôi rút ra kết luận là tôi vẫn không hiểu cái mẹ gì hết!!!",
+   "author": ""
+  },
+  {
+   "name": "Gửi đồng hồ báo thức! Sẽ có 1 ngày tao thức sớm hơn mày. Để làm chi? Để tao kêu bíp bíp bíp vô cái mặt mày.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa chữ mình xấu lắm... nhưng từ khi chuyển qua Facebook chữ mình đẹp như sách giao khoa ý",
+   "author": ""
+  },
+  {
+   "name": "Nói thật tao không cần người yêu đẹp như hoa hậu hay người mẫu mà chỉ cần người yêu đẹp như ảnh đại diện của nó thôi :))",
+   "author": ""
+  },
+  {
+   "name": "Tài sắc vẹn toàn. Tài thì kiếm thầy mà luyện. Sắc thì đến thẩm mỹ viện mà cầu",
+   "author": ""
+  },
+  {
+   "name": "Trên face em trắng nõn nà\nỞ ngoài em giống đàn bà châu phi",
+   "author": ""
+  },
+  {
+   "name": "Dù trong cuộc sống hay công việc, tôi có những yêu cầu nhất định của mình và không phải là người chạy theo đám đông",
+   "author": ""
+  },
+  {
+   "name": "Hãy cho em 1 nụ cười\nEm sẽ trả anh bằng 10 cái like",
+   "author": ""
+  },
+  {
+   "name": "Phong độ là tạm thời – Đẹp trai là vĩnh viễn.",
+   "author": ""
+  },
+  {
+   "name": "Khoảnh khắc mà bạn đọc lại những status từ khi bắt đầu chơi facebook và tự hỏi :\"Làm tđn mà mình lại có thể viết ra được những thứ nhảm shjt như thế này\"",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm ăn chơi: \"Trẻ xông pha, già... hối hận\"",
+   "author": ""
+  },
+  {
+   "name": "Mấy đời bánh đúc có xương.\nMấy đời chơi Net không vương tơ tình.",
+   "author": ""
+  },
+  {
+   "name": "Lười cái gì mà chảy xác, nhớt thây. Lười trây ra đường phố, lười khủng bố tầng ô-zôn, lười héo hon vũ trụ, lười tích tụ 1 làng lười, lây lan từng cen-ti-met, lười vơ-đét, lười đi-va, lười tàng trữ lười bao show nhất studio làng hài mở hội.",
+   "author": ""
+  },
+  {
+   "name": "\"Những thứ nhỏ bé bạn coi thường có thể làm nên những điều phi thường.\"\n- Một thanh niên sau khi bị muỗi đốt suy tư khi nghĩ về bệnh sốt xuất huyết",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ story không phải để đọc mà để lướt.\nBây giờ chúng ta nói chuyện không bằng miệng mà là bằng ngón tay.\nChúng ta không nghe bằng tai, mà chúng ta nghe bằng mắt.",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân như một tách trà\nSống không cà khịa thì trà mất ngon",
+   "author": ""
+  },
+  {
+   "name": "Tôi thách các bạn bấm được nút Like bằng ngón chân ấy.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa sống ảo chỉ cần đếm like, nay còn phải đếm like, love, haha, wow, sad, angry...",
+   "author": ""
+  },
+  {
+   "name": "Sáng sớm thức dậy,\nThể dục thể thao,\nDa dẻ hồng hào,\nHứng khởi tuôn trào,\nĐi vào ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Thờ ơ với cuộc sống, chống đối với cuộc đời.",
+   "author": ""
+  },
+  {
+   "name": "Facebook là nơi để mọi người bóc phốt lẫn nhau và đào mộ cái thời trẻ trâu lên",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân như một tách trà\nSống mà cà khịa hẳn là rất vui.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ những người đang ngủ mới không mắc sai lầm",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua ra ngoài đường bị xe tông. 1000 like cho em hồi sinh với!",
+   "author": ""
+  },
+  {
+   "name": "Tôi từng có nhiều ham muốn, ham muốn quá nhiều thứ. Bây giờ tôi chỉ có một ham muốn, là làm sao loại bỏ được những ham muốn đó.",
+   "author": ""
+  },
+  {
+   "name": "Khuyết điểm của tôi là hay quên những ưu điểm của mình.",
+   "author": ""
+  },
+  {
+   "name": "Ai bán thuốc chuột mà có ship không? Liên hệ facebook tớ nhé. Nhiều like thì tớ sẽ sử dụng sản phẩm luôn",
+   "author": ""
+  },
+  {
+   "name": "Cái chuyện giảm béo lúc nào cũng là người béo hô hào, còn người gầy thực hiện.",
+   "author": ""
+  },
+  {
+   "name": "Đi bar không phải là hư\nĐi bar là để lắc lư đỡ buồn",
+   "author": ""
+  },
+  {
+   "name": "Tôi rất ít suy nghĩ bằng câu từ. Khi một ý nghĩ đến, về sau tôi mới cố gắng thể hiện nó ra thành lời nói.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu với tôi thật là xa xỉ\nLúc này tôi chỉ cần tiền tỷ mà thôi",
+   "author": ""
+  },
+  {
+   "name": "Đây là Yến\nYến chơi facebook\nYến không dùng teencode trên facebook\nYến biết bạn bè không đọc được tiếng ngoài hành tinh\nHãy như Yến",
+   "author": ""
+  },
+  {
+   "name": "Nếu mọi chuyện trên đời đều dễ như ta tăng cân thì thật tốt biết bao...",
+   "author": ""
+  },
+  {
+   "name": "\"Thế giới của tôi vốn tràn ngập màu đen, nên khi bước vào, anh bổng trở thành nguồn sáng duy nhất\"\n- Một em gái FA chia sẻ nhẹ với chiếc bóng đèn",
+   "author": ""
+  },
+  {
+   "name": "Vũ trường là chốn ăn chơi\nChí Hoà là chỗ nghỉ ngơi giang hồ.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay Faceboook chỉ có 1 like: ôi cả thế giới đang bỏ rơi mình.",
+   "author": ""
+  },
+  {
+   "name": "Lửa gần rơm lâu ngày cũng bén\nNhắn tin nhiều có lúc sẽ yêu",
+   "author": ""
+  },
+  {
+   "name": "Các bạn gái thường nói mình đẹp trai nên tui đẹp tui trân trọng đìu đó =))",
+   "author": ""
+  },
+  {
+   "name": "Việc khắc trên bia mộ dòng chữ “Tôi là người giàu nhất thế gian” chẳng có ý nghĩa gì. Điều quan trọng là mỗi đêm trước khi đi ngủ, bạn có thể nói rằng mình đã làm được điều gì đó ý nghĩa.",
+   "author": ""
+  },
+  {
+   "name": "Em chỉ muốn có một cuộc sống bình thường như anh Cường đô la.",
+   "author": ""
+  },
+  {
+   "name": "Ông trời thật bất công, ban tặng cho em sự đẹp gái nhưng lại lấy đi người công nhận nó :v",
+   "author": ""
+  },
+  {
+   "name": "Mua xe mà không độ... thà đi bộ còn hơn.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay não tôi đã bỏ nhà đi bụi do mẹ tôi không chịu bỏ iốt vào canh khiến mâu thuẫn xảy ra. Đặc điểm nhận dạng : khi đi não không đem gì cả vì không có gì bên trong, thân não láng lượt, ít nếp nhăn.",
+   "author": ""
+  },
+  {
+   "name": "Cần kiếm 1 bạn ngồi thống kê tỉ lệ người dân đi xe số và tay ga... phân tích doanh số, thị trường các hãng xe. Hay nói đơn giản là... đi uống cafe lề đường.",
+   "author": ""
+  },
+  {
+   "name": "Đừng nhìn tau rồi phán 3 từ bẩn thỉu \"NHÌN LÀ BIẾT\". Bởi, thế kỷ ngày nay Tôn Ngộ Không với Thiên Lý Nhãn chẳng nhập nổi mày đâu =)))",
+   "author": ""
+  },
+  {
+   "name": "Tôi chưa bao giờ khám phá ra điều gì bằng cách tư duy hợp lý",
+   "author": ""
+  },
+  {
+   "name": "Mỗi ngày thức dậy, tôi nhìn vào danh sách những người giàu nhất nước Mỹ. Nếu không có tên mình ở đó, tôi sẽ dậy và làm việc.",
+   "author": ""
+  },
+  {
+   "name": "Được các bạn yêu, tôi mạnh mẽ hơn\nBị các bạn ghét, tôi trở nên không thể cản bước.",
+   "author": ""
+  },
+  {
+   "name": "Tôi chưa có nhiều tiền đến mức nghĩ rằng tiền không mang lại hạnh phúc",
+   "author": ""
+  },
+  {
+   "name": "Mở toang cửa sổ đón ánh bình minh... nắng chói giật mình thôi vào ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn lên trời cao.. Hỏi các vì sao.. Lý do tại sao??? Mà mình không cao...",
+   "author": ""
+  },
+  {
+   "name": "Giới trẻ thời nay, sống khép kín với gia đình mà rất nhiệt tình với xã hội.",
+   "author": ""
+  },
+  {
+   "name": "Tôi bị bệnh ngược đãi bản thân, những lúc một mình tôi thường đem chuyện cũ ra ngược đãi mình. Cho đến khi, ruột gan đau đến lẫn lộn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi ghét ai nói tôi già chỉ là tôi lớn tuổi thôi mà!",
+   "author": ""
+  },
+  {
+   "name": "Tập thể dục ba năm không bằng nằm thêm một tí!",
+   "author": ""
+  },
+  {
+   "name": "Cảm giác vào xem trộm facebook đứa mình ghét, rồi lỡ tay bấm nút like, quả thực như phim kinh dị.",
+   "author": ""
+  },
+  {
+   "name": "Tôi thích lúc nhỏ! Cái lúc mà tôi :\nChưa chạm tay vào \"Cuộc Sống\".\nChưa bước chân vào \"Xã Hội\"\nChưa chạm mặt với \"Đời\".\nNụ cười của tôi hồn nhiên đến \"Vô tư\".\nRồi...từ cái lúc tôi hiểu được \"Lòng người\"\nNụ cười của tôi \"nhạt dần\" và... trở nên \"Giả tạo\".\nNếu có thể, tôi sẽ xin một vé đi tuổi thơ..\nVui thì cười... Buồn thì khóc...\nKhông như bây giờ...\nDù như thế nào tôi vẫn phải cười\nThay câu trả lời cho tất cả...",
+   "author": ""
+  },
+  {
+   "name": "Mình vừa bước xuốg sân bay ở Pháp, mình đã thấy Vạn Lý Trường Thành hùng vĩ, nhìn xa xăm ôi núi Phú Sĩ tuyệt vời, bước thêm vài bước nữa ô kìa tượng Nữ thần Tự Do",
+   "author": ""
+  },
+  {
+   "name": "Tôi không đẹp, không giàu nhưng tôi tự hào vì mình là trai ngoan",
+   "author": ""
+  },
+  {
+   "name": "Em đẹp mà, em phải có quyền chảnh chứ, đẹp mà có đạo đức quá người ta bắt em đi làm hoa hậu rồi sao :p",
+   "author": ""
+  },
+  {
+   "name": "Làm chủ ngủ ngày, ăn mày cày đêm",
+   "author": ""
+  },
+  {
+   "name": "Với tôi, máy tính là thứ công cụ có ý nghĩa lớn lao nhất mà loài người từng sáng tạo ra. Nó giống như một chiếc xe đạp chở tư duy của chúng ta vậy.",
+   "author": ""
+  },
+  {
+   "name": "Đi học thì ấm vào thân nhưng mà... đi ngủ thì ấm từ chân đến đầu",
+   "author": ""
+  },
+  {
+   "name": "Một số đứa mãi mãi không bao giờ đẹp lên được chỉ vì nó tin rằng nó đã đẹp rồi.",
+   "author": ""
+  },
+  {
+   "name": "Xấu không phải cái tội, tội là không có tiền để trùng tu nhan sắc",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua... đang chuẩn bị đi ngủ...bỗng...vấp chân vào nệm...đập đầu vào gối... rồi lại bị cái chăn đè lên.. Ngất sáng nay mới tỉnh",
+   "author": ""
+  },
+  {
+   "name": "Thầy giáo đánh thức một bạn đang ngủ gật.\n- Em có biết em mắc khuyết điểm gì không?\n- Thưa thầy... ngủ không mắc màn...ạ!",
+   "author": ""
+  },
+  {
+   "name": "Thích nhất là cái cảm giác giật mình thức giấc rồi nhận ra mình còn mấy tiếng để... ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Thiếu anh như thiếu mặt trời.\nMà thiếu mặt trời là ban đêm rồi.\nBan đêm thì phải đi ngủ nên hẹn anh ngày khác nha.",
+   "author": ""
+  },
+  {
+   "name": "Hồi đó Facebook là cái gì mà chúng nó nghiện thế nhỉ???\nBây giờ, chúng nó là cái gì mà lại ko biết Facebook nhỉ???",
+   "author": ""
+  },
+  {
+   "name": "Tôi cảm thấy tự hào về cả những điều mình không làm và những thứ đã làm được. Sáng tạo thực tế là nói “không” với hàng ngàn thứ.",
+   "author": ""
+  },
+  {
+   "name": "Lưng của tôi không phải là một hộp thư thoại. Vui lòng nói bất cứ điều gì bạn muốn trước mặt tôi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không bất ngờ khi ai đó khiến tôi thất vọng.\nTôi chỉ bất ngờ việc tôi đã để họ có cái quyền đó mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Cố tình trồng hoa, hoa ko nở\nVô tình cà khịa, nghiệp tràn lan",
+   "author": ""
+  },
+  {
+   "name": "Suy cho cùng chúng ta là con người. Không phải là cây cỏ nên không cần tắm mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Người đâu đẹp lạ đẹp lùng\nĐẹp từ mặt nước đẹp tung lên bờ",
+   "author": ""
+  },
+  {
+   "name": "Mỗi khi tôi buộc phải chọn lựa giữa hai tật xấu, tôi thường chọn cái mà tôi chưa bao giờ được thử.",
+   "author": ""
+  },
+  {
+   "name": "Nếu có ai đó bảo tôi xấu. Tôi sẽ quay lại đập thẳng vào mặt đứa đó.\nĐể người đó biết, tôi không những xấu mà còn ác nữa. =))",
+   "author": ""
+  },
+  {
+   "name": "Khuyết điểm của tôi là không loại bỏ được những khuyết điểm của mình",
+   "author": ""
+  },
+  {
+   "name": "Trời buồn trời đổ cơn mua\nTa buồn ta ngủ từ trưa đến chiều\nNgủ xong dậy ăn cơm nhiều\nĂn xong lại ngủ từ chiếu đến mai",
+   "author": ""
+  },
+  {
+   "name": "Đeo kính là thời trang, hở hang là phong cách, hôi nách là dân chơi :\")",
+   "author": ""
+  },
+  {
+   "name": "Anh đã trở lại lợi hại gấp 2... đẹp zai gấp 4... và khiên tốn gấp 10...",
+   "author": ""
+  },
+  {
+   "name": "Ngủ nướng buổi sáng, ngủ ráng buổi trưa, ngủ say sưa buổi tối",
+   "author": ""
+  },
+  {
+   "name": "Tôi không phải là loại người bị tiền làm cho mờ mắt.\nBằng chứng là mỗi khi thấy tiền mắt tôi sáng hẳn ra",
+   "author": ""
+  },
+  {
+   "name": "Trẻ ko chịu chơi già sinh đổ đốn...",
+   "author": ""
+  },
+  {
+   "name": "Thực ra thì tôi cũng đã từng ở mức cân nặng dưới 50kg, nhưng tôi không biết trân trọng điều đó.",
+   "author": ""
+  },
+  {
+   "name": "Có khi nào bạn tự nhìn vào gương rồi tự hỏi: \"Cái của nợ gì trước mắt mình đây??\"",
+   "author": ""
+  },
+  {
+   "name": "Xấu từ mầm non, xấu sang trung cấp, xấu sập đất bể bờ, xấu nát nhà thờ, xấu dơ bệnh viện, xấu mất điện bitexco, xấu solo ko đối thủ.",
+   "author": ""
+  },
+  {
+   "name": "Sinh ra tôi đã hiền lành\nDòng đời xô đẩy tôi thành hiền khô",
+   "author": ""
+  },
+  {
+   "name": "\"Con gái à. Giờ thời đại mới rồi,các bạn hãy dũng cảm đi tìm hạnh phúc của đời mình, qua cái thời trâu đi tìm cọc rồi.\" - Một thanh niên FA nhát gái chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc ngự trị quá cao\nChân dài nhiêu đây em sao với tới",
+   "author": ""
+  },
+  {
+   "name": "Mình rep inbox nó thì nhanh như gió\nNó rep inbox mình thì lâu như chó",
+   "author": ""
+  },
+  {
+   "name": "Giá như thứ đè lên mình bây giờ là crush chứ không phải áp lực.",
+   "author": ""
+  },
+  {
+   "name": "Thà lùn bản chất bất khuất còn hơn cao chất ngất vì bị cắm sừng.",
+   "author": ""
+  },
+  {
+   "name": "Hậu tiên tiền quỷ\n(Phía sau 1 cô gái đẹp như tiên, phía trước 1 cô gái chưa được sáng tác)",
+   "author": ""
+  },
+  {
+   "name": "Bất mãn chiều cao … Tự hào chiều rộng",
+   "author": ""
+  },
+  {
+   "name": "Không cần mình đẹp.Chỉ cần người khác xấu.",
+   "author": ""
+  },
+  {
+   "name": "Cố tình thả tim cậu không đổ\nVô tình phẫn nộ lại nên duyên",
+   "author": ""
+  },
+  {
+   "name": "Tuy mình không đẹp...nhưng còn lâu mới xấu.",
+   "author": ""
+  },
+  {
+   "name": "Mày tự gọi mày là bạn thân nhất của tao. Thế mày ở đâu khi mà ảnh tự sướng của tao chỉ có 4 like và tao đang chìm sâu trong tuyệt vọng =))",
+   "author": ""
+  },
+  {
+   "name": "Vì cao ráo nên rất hổ báo với tủn ngủn.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi buồn không biết làm chi\nThôi thì đi ngủ ngồi chi cho buồn.",
+   "author": ""
+  },
+  {
+   "name": "Béo mà khôn khéo thì khối người theo",
+   "author": ""
+  },
+  {
+   "name": "Mình rất giỏi chuyện giường chiếu... mình có thể ngủ 16 tiếng 1 ngày.",
+   "author": ""
+  },
+  {
+   "name": "Hạ sang trời dỗi làm mưa\nBất ngờ đột ngột chẳng vừa lòng ai\nDịu dàng tựa khẽ đôi vai\nChe ô dành dỗ tim này ngủ yên.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa sắc đẹp trời cho\nNgay nay sắc đẹp là do người làm",
+   "author": ""
+  },
+  {
+   "name": "Đừng giảm cân nữa Bát giới đi bộ hàng ngàn dặm cũng thấy có gầy được đâu, hơn nữa người ta còn ăn chay...",
+   "author": ""
+  },
+  {
+   "name": "Không phải tôi hạ thấp bạn, mà là bạn thấp thật...",
+   "author": ""
+  },
+  {
+   "name": "Đệt... sao mình có thể nằm yên một chỗ mà lười biếng như vậy chứ. Siêng năng lên... lăn qua lăn lại nào.",
+   "author": ""
+  },
+  {
+   "name": "Nhan sắc sẽ tàn phai. Đất đai mới là mãi mãi.",
+   "author": ""
+  },
+  {
+   "name": "\"Cuộc đời anh một đường thẳng tắp, chỉ vì gặp gỡ em mà rẽ ngang\"\n- 1 thanh niên tham gia giao thông gặp biển báo STOP chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "Ngày dài tháng rộng em không sợ\nChỉ sợ béo rồi, anh không thương",
+   "author": ""
+  },
+  {
+   "name": "Tôi làm gì cũng sớm ngoại trừ dậy sớm...",
+   "author": ""
+  },
+  {
+   "name": "Em không xinh cũng không xấu\nEm không đầu gấu nhưng không phải dạng vừa đâu",
+   "author": ""
+  },
+  {
+   "name": "Người âm phủ, ngủ ngày đêm bay",
+   "author": ""
+  },
+  {
+   "name": "Mọi người lướt qua cho mình ít cmt để khỏi bị trôi bài",
+   "author": ""
+  },
+  {
+   "name": "Tăng xin, giảm cho, tích cực cầm nhầm, ươm mầm ăn cắp vặt",
+   "author": ""
+  },
+  {
+   "name": "Mẹ bảo tóc dài, dài quét nhà mới sạch",
+   "author": ""
+  },
+  {
+   "name": "Có một anh chàng đang ngồi câu cá, có một chiếc lá đang trôi trên sông, có một con công đang tập múa, có một công chúa đang ngủ trong mùng, và có một đứa khùng đang đọc tin nhắn này... hahaha!! Ngủ ngon nhé đồ khùng!",
+   "author": ""
+  },
+  {
+   "name": "Em là phải giảm cân giữ dáng, tự tin tỏa sáng",
+   "author": ""
+  },
+  {
+   "name": "Quần đùi nhặt rác, dứt khoát đẹp trai...",
+   "author": ""
+  },
+  {
+   "name": "Anh đây tuy xấu không có gấu nên anh cũng cần gì giấu",
+   "author": ""
+  },
+  {
+   "name": "Đường tao đi có quý nhân phù hộ\nViệc tao làm có quỷ dữ bảo kê",
+   "author": ""
+  },
+  {
+   "name": "Thích màu hồng và ghét sự giả dối",
+   "author": ""
+  },
+  {
+   "name": "Gầy nhưng đầy quyến rũ!",
+   "author": ""
+  },
+  {
+   "name": "Ý em chê anh xấu hả? Kệ! Xấu mà có duyên... còn hơn đẹp như tiên mà bị khùng.",
+   "author": ""
+  },
+  {
+   "name": "Tuy anh không được đẹp nhưng mà... chịu khó nhìn thì cũng được =]]",
+   "author": ""
+  },
+  {
+   "name": "Cái j nói chơi thì nói, chứ đừng lấy sắc đẹp người ta ra đùa giỡn nha",
+   "author": ""
+  },
+  {
+   "name": "Khi nào Phan Mạnh Quỳnh hết đẹp zai thì lúc đó mày muốn đẹp bằng ai cũng được!",
+   "author": ""
+  },
+  {
+   "name": "Mày thật là xâu sắc...(xấu)",
+   "author": ""
+  },
+  {
+   "name": "Không ít phụ nữ già đi nhanh chóng có khi do họ động não suy nghĩ phải làm sao để mình trẻ lại.",
+   "author": ""
+  },
+  {
+   "name": "Mập mà tấp nập người theo",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai có gì sai",
+   "author": ""
+  },
+  {
+   "name": "Bản chất ngoan hiền! Chỉ văng tục khi bị sỉ nhục:)",
+   "author": ""
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "Zswsz5aDGj0",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 07 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "bCzonyCqaNk",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 06 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "KKUHyQEjBs8",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 05 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "xCvL0ETtIfg",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 04 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "BPoRb1FxZU8",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 03 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "YyiEdFiUOV8",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 02 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "C-DbPddvdQM",
+   "name": "Kỳ Nghỉ Thiên Đàng - Tập 01 | Hài Bình Trọng 2026"
+  },
+  {
+   "idvideo": "043pHYTScAk",
+   "name": "Vợ Của Cụ Đoành | Bình Trọng, Trung Hiếu, Quang Tèo, Chí Trung"
+  },
+  {
+   "idvideo": "Yns1aT_1ils",
+   "name": "Coi Cấm Cười | Chiến Thắng, Bình Trọng, Kim Xuyến, Hoàng Yến"
+  },
+  {
+   "idvideo": "n_SzyVXDxIw",
+   "name": "Hài Trưởng Thôn | Bình Trọng, Trung Hiếu, Quang Tèo, Hiệp Gà"
+  },
+  {
+   "idvideo": "Oa_2A_TkOzg",
+   "name": "Xem Là Cười | Bình Trọng, Chiến Thắng, Kim Xuyến, Yến Xôi"
+  },
+  {
+   "idvideo": "GAMkT35aZfU",
+   "name": "Cười Từ Đầu Tới Cuối | Quang Thắng, Bình Trọng, Quang Tèo, Hiệp Gà"
+  },
+  {
+   "idvideo": "reh1LQO2NCU",
+   "name": "Cười Toe Toét | Chiến Thắng, Bình Trọng"
+  }
+ ]
+}

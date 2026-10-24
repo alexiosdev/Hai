@@ -1,0 +1,2590 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Xa em 2 tuần anh tưởng chừng nửa tháng,\nCơm không ăn, chỉ bún phở cầm hơi",
+   "author": ""
+  },
+  {
+   "name": "Nếu khoảng cách giữa 2 ta là 1000 bước thì em chỉ cần bước 1 bước thôi, còn 999 bước để hôm sau bước tiếp cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Em thân mến!\n\nAnh rất hân hạnh thông báo cho em rằng trái tim anh đã thuộc về em kể từ ngày thứ 4, 14/2/2018. Với buổi gặp mặt tổ chức vào ngày hôm ấy lúc 18h, anh xin được tự giới thiệu mình như một người yêu đầy triển vọng.\n\nChuyện tình của chúng ta sẽ trải qua thời gian thử nghiệm trong vòng 3 tháng, sau đó căn cứ vào sự hòa hợp giữa hai ta nó sẽ được quyết định có kéo dài mãi mãi hay không.\n\nTất nhiên khi kết thúc thời gian thử nghiệm, vẫn sẽ có những khoá huấn luyện tiếp theo và những kế hoạch thẩm định để tiến hành thăng chức người yêu lên bạn đời.\n\nThời gian đầu, chi phí phát sinh cho cà phê và giải trí sẽ chia đều cho hai ta. Sau này tùy thuộc vào hiệu quả xử sự của em, anh có thể sẽ gánh phần trăm lớn hơn. Tuy nhiên, nếu chi tiêu bằng tài khoản của em thì anh rất sẵn lòng.\n\nXin em vui lòng trả lời trong vòng 30 ngày kể từ ngày nhận được lá thư này. Bằng không lời tỏ tình này sẽ hết hiệu lực mà không cần thông báo gì thêm và anh sẽ xem xét các ứng cử viên khác.\n\nAnh rất biết ơn nếu em gửi chuyển tiếp bức thư này đến chị gái của em trong trường hợp em không nhận lời.\n\nXin chân thành cám ơn em trước!",
+   "author": ""
+  },
+  {
+   "name": "- Em ghét hút thuốc lắm, quen em anh có bỏ được không?\n- Có gì đâu em, bỏ thuốc dể ẹc, anh bỏ hoài.",
+   "author": ""
+  },
+  {
+   "name": "Em!\n\nĐây là câu đầu tiên anh viết dành cho em. Kế đến, anh viết cho em câu thứ hai. Anh muốn nói với em rằng, câu này anh viết đã là câu thứ ba rồi đó!\n\nEm à, em có biết câu em đang đọc đã là câu thứ tư rồi không? Vậy mà anh vẫn không thể bắt đầu câu chuyện ở câu thứ năm này. Anh hy vọng sẽ nói được điều muốn nói với em ở câu thứ sáu, nhưng sao thấy khó mở lời quá, hẹn em ở câu thứ bảy nha. Mà thôi, đợi thư xuống dòng, anh sẽ tâm sự với em được nhiều hơn.\n\nEm ơi, em có biết giờ đã là câu thứ mấy rồi không? Anh dạo này trí nhớ kém quá nên không thể đếm nhiều được. Nếu anh không nhầm thì đã là câu thứ mười rồi. Nếu đúng thế thì khi anh chấm hết câu này cũng là lúc anh chuyển sang câu thứ mười hai rồi đó. Anh dự định sẽ nói điều muốn nói ra ở đây, nhưng cứ sợ em không đủ bình tĩnh, nên anh đành để nó ở câu sau nữa.\n\nEm à! Em vẫn đang đọc bức thư của anh đó chứ? Điều anh muốn nói với em là hãy kiên nhẫn đọc câu kế tiếp. Cũng sắp hết giấy rồi nên anh sẽ nói ngay thôi. Nếu em vẫn tin anh, hãy đọc thêm câu này nữa. Anh không muốn làm mất thêm thời gian của em, nên anh sẽ cho em biết ngay bây giờ. Em à, anh muốn nói là… là… em hãy đọc lại lá thư này và trả lời anh ngay, em nhé!\n\nRất mong thư của em!",
+   "author": ""
+  },
+  {
+   "name": "Ôi tiêu rồi - Tôi yêu rồi!",
+   "author": ""
+  },
+  {
+   "name": "Anh đây không biết bốc đầu\nAnh đây chỉ biết đâm đầu yêu em",
+   "author": ""
+  },
+  {
+   "name": "thừa ân: Những câu tán gái hay nhất mọi thời đại là gì những câu nào vậy ad?\n\nKhông phải là mình để trong sổ tay hết rồi sao :v Dạo này, với xưa nay mình hay dùng câu này:\n- Hết cá tháng tư rồi nhưng anh vẫn muốn khen em dễ thương\n- Mắt em dính gì kìa,... hình bóng anh\n- Nhìn em quen lắm, con của bà ngoại con anh nè.\n- Anh tên Yêu, em có thể gọi anh là anh yêu\n- Ồ, em 23 tuổi à, người ta nói \"nhất gái hơn 2 nhì trai hơn 1\", mình thì ko đc nhất... hơi tiếc nhưng nhì là đc rồi em nhờ.\n- Em tên Linh à, mai mốt chắc anh ko đặt cho con tên này đâu... sợ trùng tên với mẹ nó\n- Nếu 2 + 1 = 1 + 2 thì anh thích em cũng như em thích anh phải ko?\n-...\nHehe, sách vở chỉ là kinh nghiệm, tốt nhứt là hãy nên để não luôn hoạt động để luôn sáng tạo... à mà phải có kinh nghiệm mới sáng tạo được nhé... đọc sách, đọc truyện nhiều vào :D Hồi xưa mình thích đọc truyện của Kim Dung, Cổ Long, rồi mấy truyện như Harry Potter, Tam Quốc Chí, One Piece,... Sổ tay chém gió =))",
+   "author": ""
+  },
+  {
+   "name": "Có lần em bị sét đánh mà không chết... đó là lần đầu tiên gặp anh!",
+   "author": ""
+  },
+  {
+   "name": "Chào anh,\n\nHôm nay là ngày cuối năm không biết chồng yêu chưa bao giờ gặp mặt của em bây h đang làm gì nhỉ? Anh đang ôm chăn ngủ nướng,đang ôm sách học bài, đang chống cằm nghĩ tới vợ tương lai hay là đang chống đẩy miệt mài với người yêu cũ tạm thời ở đâu đó!\n\nVợ tương lai của anh thì vẫn thế, đi làm không có ngày nghỉ luôn anh à. Do không được lớn lên trong gia đình nhung lụa nên em phải tự mình bươn chải giữa cuộc đời đầy cạm bẫy nào. Cũng bởi vì chú tâm vào công việc quá nên hai mươi mấy mùa hoa rụng em vẫn chưa tìm thấy anh, xin lỗi vì đã để anh đợi lâu đến thế. Anh biết không mỗi ngày trôi qua trong cơn đói, trong giấc mơ mê man chập chờn em lại nghĩ về anh về căn nhà nhỏ của mình. Dẫu bây giờ em làm chỉ đủ nuôi thân. Nhưng anh yên tâm với sự thông minh và điếc không sợ súng của em thì một ngày nào đó em có thể nuôi thêm một con chó và anh :))\n\nAnh đừng giận em nhé. Từ nhỏ ba mẹ em đã nói mày vừa xấu vừa vô duyên thế này thì sau này có chó nó lấy mày. Lớn lên em mới biết em k chỉ xấu, vô duyên mà em còn nghèo nữa anh ạ! Nhưng anh yên tâm tuy em nghèo nhưng em sẽ cố gắng để nuôi chó và anh. Anh đừng thắc mắc tại sao phải có chó. Đơn giản vì em thích chó thế thôi :))\n\nĐể em tưởng tượng xem chồng em chắc chắn là một người vừa đáng yêu, cười nhiều và ít nói. ( Giống Chí Phèo quá anh nhỉ ). Đùa tí thôi anh phải đảm đang, chăm chỉ nhé. Đừng như em rồi suốt ngày lại tranh nhau cái giường. Các cụ bảo thuận vợ thuận chồng đông con mệt lắm :)) em không muốn chúng ta sau này chỉ ngồi ăn và đếm con đâu.\n\nEm buồn lắm, vì ngày cuối năm người ta hạnh phúc nắm tay nhau ngắm pháo hoa đêm giao thừa, còn em vẫn phải đi làm rồi về nhà một mình ăn cơm rồi ngủ một mình. Mong rằng anh cũng vậy. Có phúc cùng hưởng, có hoạ cùng chia phải không anh :)) nếu thực sự không như em nghĩ, nếu anh đang hạnh phúc tạm thời với con ny tạm thời của anh thì hứa với em là đón giao thừa xong rồi về anh nhé!\n\nThôi thư đã dài em dừng bút tại đây. Năm mới chúc anh sớm ct con người yêu sắp cũ để tìm thấy em, chúc con chó của chúng mình sớm ra đời và chúc cho hạnh phúc của chúng mình sớm đơm bông kết trái, mong nó là trái ngọt :)))",
+   "author": ""
+  },
+  {
+   "name": "Em là hạt muối của mạng xã hội nhưng là viên đường của riêng anh =))))",
+   "author": ""
+  },
+  {
+   "name": "- Em à, nếu anh muốn đi chơi em có đi cùng anh k?\n- Tất nhiên là em sẽ đi cùng anh rồi\n- Vậy lúc anh buồn\n- Thì em sẽ buồn cùng anh\n- Vậy nếu anh đang buồn ngủ thì sao???\n- Khoan đã! Định gài bà à =))",
+   "author": ""
+  },
+  {
+   "name": "Em không thích anh cũng chẳng sao, đâu phải ai cũng biết thưởng thức cái đẹp đâu.",
+   "author": ""
+  },
+  {
+   "name": "Đang ngồi cafe trong quán, 1 anh giai đép trai đến nói: để anh trả tiền cho em nhé? Thế là em k ngại ngùng lôi ra 1 đống hóa đơn điện, nước, gas và điện thoại.",
+   "author": ""
+  },
+  {
+   "name": "Khi các cô gái đang cố gắng tìm kiếm cho mình một người đàn ông tốt bụng, chung thủy, hiền lành. Thì tôi bắt đầu cảm thấy lo lắng vì sớm muộn gì mình cũng bị phát hiện.",
+   "author": ""
+  },
+  {
+   "name": "Anh nhớ em, là thật. Trước dấu phẩy là đùa!",
+   "author": ""
+  },
+  {
+   "name": "Giang hồ hiểm ác em không sợ\nChỉ sợ đường về nắng cháy da",
+   "author": ""
+  },
+  {
+   "name": "Này bỏ ngay cây kem ấy xuống!!! Em đã quá ngọt ngào rồi.",
+   "author": ""
+  },
+  {
+   "name": "Em à! Lấy anh nhé, tất cả mọi thứ sau này anh có thể nhường hết cho em. Từ nấu cơm, rửa chén, giặt đồ đến chăm con... anh nhường cho em hết!",
+   "author": ""
+  },
+  {
+   "name": "Con nhà lính, tính nhà nông, biết cảm thông, dễ rung động... mỗi tội hay chém gió",
+   "author": ""
+  },
+  {
+   "name": "Khi mệt mỏi chỉ muốn nép vào người anh mà trốn và khẽ thì thầm:\n- Thế giới ngoài kia đáng sợ quá... cho em 500 chiệu để can đảm hơn đi!",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nTrai không ăn thính trăm đường trai ngu",
+   "author": ""
+  },
+  {
+   "name": "Khi đi xem phim, hãy mua 4 vé. Nàng sẽ bối rối nhưng bạn hãy nói với nàng rằng \"Người duy nhất được ngồi cạnh em là anh và cạnh anh là em thôi\"",
+   "author": ""
+  },
+  {
+   "name": "E nhớ phải chấp hành luật lệ giao thông nhé.\nĐừng có mà lấn chiếm vỉa hè và lòng lề đường trong tâm trí anh nhiều như vậy.\nVi phạm là a bắt nhốt vào trái tim a đó.",
+   "author": ""
+  },
+  {
+   "name": "Em đừng nghĩ là hình mình chán, tại anh để nó làm màn hình chính.",
+   "author": ""
+  },
+  {
+   "name": "Trước mắt em, anh là thằng hai lúa\nSau lưng em, anh là chúa giang hồ",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc tôi nghĩ có 1 con ma nữ luôn bám theo mình. Vì mỗi khi muốn tỏ tình với gái là bọn nó bỏ chạy hết.",
+   "author": ""
+  },
+  {
+   "name": "Em là ảo thuật gia à? Mỗi lần anh nhìn em, tất cả mọi người xung quanh đều biến mất.",
+   "author": ""
+  },
+  {
+   "name": "- Nghe nói em đang giảm cân?\n- Thì sao?\n- Anh có cách này giúp em giảm 1kg ngay lập tức luôn\n- Cách gì?\n- Đưa trái tim của em cho anh.",
+   "author": ""
+  },
+  {
+   "name": "- Người ta nuôi heo ngày 3 bữa lấy thịt, nuôi em ngày 30 bữa mốt ko biết để lấy cái gì hết?\n- Lấy em",
+   "author": ""
+  },
+  {
+   "name": "Thất bại đầu tiên trong việc tán gái là để nó biết mình thích nó.",
+   "author": ""
+  },
+  {
+   "name": "Mọi sông lớn đều chảy ra biển cả. Anh sẽ là sông nhỏ chảy ngược về phía em!",
+   "author": ""
+  },
+  {
+   "name": "Anh yêu em như cây yêu lá... nhưng em à có cây nào một lá đâu em",
+   "author": ""
+  },
+  {
+   "name": "Nếu như khoảng cách giữa chúng ta là 1000 bước, anh hãy tự vận động đi, xin lỗi, em lười đi bộ.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng cần bán gì em vẫn cứ là thương nhân của tôi.",
+   "author": ""
+  },
+  {
+   "name": "Gọi em là Sài Gòn 1975 vì nụ cười em đẹp như ngày giải phóng.",
+   "author": ""
+  },
+  {
+   "name": "Mày yêu tao không để tao còn tán con khác?",
+   "author": ""
+  },
+  {
+   "name": "Anh nghĩ em nên học ngành y tá hay bác sĩ gì đó để đo nhịp tim cho người khác đi chứ giờ anh cảm thấy tim đập loạn xạ lắm rồi ý.",
+   "author": ""
+  },
+  {
+   "name": "Cậu là buổi trưa hè\nVới làn gió mát mẻ\nLại đây tớ bảo nè\nLàm người yêu tớ nhé.",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi lấy hộ em cái\n- Lấy gì dùm cái gì?\n- Lấy em",
+   "author": ""
+  },
+  {
+   "name": "Em thèm đồ ngọt nhưng sợ béo\nLựa chọn khéo nhất là môi anh",
+   "author": ""
+  },
+  {
+   "name": "Đời anh yêu ai chỉ một, tình yêu anh đã trao ai thì sẽ không có người thứ 2 có được, em hiểu không?",
+   "author": ""
+  },
+  {
+   "name": "Số trời đã định, không phải lòng em, chắc chắn anh sẽ ế.",
+   "author": ""
+  },
+  {
+   "name": "- Em có kén ăn ko vậy?\n- Ko anh\n- Vậy ăn anh luôn đi",
+   "author": ""
+  },
+  {
+   "name": "Phạt anh một chút - Chụt anh một phát",
+   "author": ""
+  },
+  {
+   "name": "Hằng ngày em còn làm việc gì khác không? Ngoài việc phải khiến cho các chàng trai phải ngoái nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu sắc đẹp là một cái tội thì em đáng tội tử hình đó, em biết không?",
+   "author": ""
+  },
+  {
+   "name": "Vì kiếp trước em không cứu được cả giải ngân hà, nên kiếp này em không may mắn được như cô gái được cưới idol của chính mình",
+   "author": ""
+  },
+  {
+   "name": "Người ta gọi em là thánh yêu\nNhưng họ đâu biết là vì em thiếu anh",
+   "author": ""
+  },
+  {
+   "name": "Tôi muốn tắt nắng đi\nCho màu đừng nhạt mất\nTôi muốn buộc cậu lại\nCho cậu thành của tôi",
+   "author": ""
+  },
+  {
+   "name": "Em có dự định gì cho phần đời còn lại chưa? Anh thì định dành trọn của mình cho em.",
+   "author": ""
+  },
+  {
+   "name": "Hẹn hò với a mà ko đẹp... thì dẹp... ko có đi đâu hết nhá",
+   "author": ""
+  },
+  {
+   "name": "Có 2 con heo, một con tên \"Anh yêu em\" và một con tên \"Em yêu anh\". Nếu 1 ngày con \"Anh yêu em\" chết thì còn lại con nào?",
+   "author": ""
+  },
+  {
+   "name": "- Em à. em đã có người yêu chưa.\n- Dạ. em chưa có.\n- Vậy em để suất đó cho anh nhé.",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi em thích đồng hồ\nThích luôn cả chuyện làm bồ của anh",
+   "author": ""
+  },
+  {
+   "name": "Anh muốn học lại địa lý để xác định được vị trí của anh trong tim em.",
+   "author": ""
+  },
+  {
+   "name": "Tháng 5 là mùa cây thay lá\nĐồng ý làm rễ má em nha",
+   "author": ""
+  },
+  {
+   "name": "Mẹ mày... có muốn làm thông gia với mẹ tau không? :(",
+   "author": ""
+  },
+  {
+   "name": "Đi khám, bác sĩ nội soi kết luận rằng: Trong lòng anh chỉ có em.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi một mình thì đẹp gái... Mà nếu ngồi cùng anh nữa thì đẹp đôiiii...",
+   "author": ""
+  },
+  {
+   "name": "Hàng ngày nhìn anh qua màn hình đã trở thành thói quen đối với em, và em thích thói quen đó. Cho nên, anh đó, nhất định phải sống thật tốt để em dõi theo. Có biết không?",
+   "author": ""
+  },
+  {
+   "name": "Em thích thứ lấp lánh\nThích cả bầu trời xanh\nQuên chưa nói anh biết\nEm cũng cực thích anh",
+   "author": ""
+  },
+  {
+   "name": "- Hôm nay sao em nhận nhiều quà vậy?\n- Sinh nhật em mà anh\n- Nhận luôn cả anh đi, miễn phí đó.",
+   "author": ""
+  },
+  {
+   "name": "Trời xanh mây trắng nắng vàng\nHôm nay anh đã sẵn sàng yêu chưa?",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói anh mới ra trường\nKiếm việc hoãn lại, lên phường với em",
+   "author": ""
+  },
+  {
+   "name": "Từ giờ tới lúc em 28 tuổi, anh với em mà còn ế thì tụi mình lấy nhau nhé.",
+   "author": ""
+  },
+  {
+   "name": "Đau đầu em có paradol\nĐau bụng em có berberin\nĐau tim em có thể tìm đến anh không?",
+   "author": ""
+  },
+  {
+   "name": "Em có tin vào tình yêu từ cái nhìn đầu tiên không, hay để anh đi qua một lần nữa?",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói nhà anh cầm đồ đúng không? Nè... cầm tay em cả đời đi <3",
+   "author": ""
+  },
+  {
+   "name": "Hoàng hôn thì ở phía tây\nBình yên thì ở phía em đây này",
+   "author": ""
+  },
+  {
+   "name": "- Em không thích mùi nước hoa X-men, nồng lắm\n- Ừ, lần sau gặp anh... em thích mùi gì, thì xài nhiều nhiều chút, rồi ôm anh truyền cho anh ít nè.",
+   "author": ""
+  },
+  {
+   "name": "- Hết halloween sao e còn hóa trang zậy???\n- Em hóa trang j cơ?\n- Em hóa trang thành 1 thiên thần :v",
+   "author": ""
+  },
+  {
+   "name": "- Nếu một ngày em tỉnh giấc trong 1 căn phòng toàn màu đỏ em nghĩ là mình đang ở đâu?\n- Ở nhà ma\n- Không, trong trái tim anh đó.",
+   "author": ""
+  },
+  {
+   "name": "- Cái xe kia không chịu cho anh lên nếu mà không có em...\n- Xe nào???\n- Xe hoa",
+   "author": ""
+  },
+  {
+   "name": "Đi thả thính nhưng chả dính được ai :(",
+   "author": ""
+  },
+  {
+   "name": "- Anh gì ơi, anh có thấy em dễ thương ko?\n- Ừm em dễ thương lắm\n- Vậy cái nào dễ mình làm trước đi anh.",
+   "author": ""
+  },
+  {
+   "name": "Có lẽ bởi con người ta thường không nhớ được mình có những gì nhưng lại nhớ rất rõ những gì mình không thể có.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay là ngày trời không có gió, vậy mà không hiểu điều gì vô tình đã đẩy anh xa em.",
+   "author": ""
+  },
+  {
+   "name": "Khi nào em cưới chồng, mời anh làm chú rễ nha <3",
+   "author": ""
+  },
+  {
+   "name": "Anh đã bị các thiên thần gọi ra tòa vì đã đánh cắp trái tim em, quấy rối giấc mơ của em. Anh đã bị kết án chung thân với em rồi. Anh phải bào chữa thế nào đây???",
+   "author": ""
+  },
+  {
+   "name": "- Anh muốn dẫn em đến chỗ này, có muốn đi cùng anh không?\n- Đi đâu cơ?\n- Đi tìm đường vào tim em",
+   "author": ""
+  },
+  {
+   "name": "Tiết kiệm nước là chính sách quốc gia, thế nên anh đừng tắm một mình nữa.",
+   "author": ""
+  },
+  {
+   "name": "- Cậu vẽ đẹp thật đấy, tớ thích người nào vẽ đẹp lắm.\n- Thế cậu thích tớ à?\n- Tớ tưởng cậu chỉ vẽ đẹp thôi, ai ngờ còn thông minh phết",
+   "author": ""
+  },
+  {
+   "name": "Từ giờ muội sẽ là khói... còn huynh là thịt heo. Tại vì thịt heo được hun khói.",
+   "author": ""
+  },
+  {
+   "name": "Anh quyết định rồi, anh sẽ lấy em về làm vợ\nĐể thằng khác lấy em anh không an tâm",
+   "author": ""
+  },
+  {
+   "name": "- Anh làm nghề gì?\n- À, anh bán hàng online\n- Anh bán online cái gì vậy?\n- Anh bán thân =))",
+   "author": ""
+  },
+  {
+   "name": "Thầm thương em nên tôi mới thường thăm em.",
+   "author": ""
+  },
+  {
+   "name": "Gió lay cành trúc la đà\nNgười đang đọc tus chắc là thích tôi <3",
+   "author": ""
+  },
+  {
+   "name": "- Cậu có thấy tớ giống Sơn Tùng không?\n- Không\n- Đúng rồi. Tại vì Sơn Tùng chỉ thích cậu của ngày hôm qua thôi, còn tớ thì thích cậu của tất cả các ngày.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi một chiếc bút của em đều biết tên anh.",
+   "author": ""
+  },
+  {
+   "name": "Chim thiếu ăn chim tìm con sâu\nEm thiếu anh em sầu con tim",
+   "author": ""
+  },
+  {
+   "name": "Anh chụp em 1 tấm đc ko, để anh post lên fb nói rằng trên đời này có tồn tại thiên thần",
+   "author": ""
+  },
+  {
+   "name": "Yêu là phải trả giá... vậy a cứ ra giá để e còn trả",
+   "author": ""
+  },
+  {
+   "name": "Anh iu em ko hề giả tạo\nTình yêu này bá đạo nhất Việt Nam.",
+   "author": ""
+  },
+  {
+   "name": "Bàn tay em nhỏ quá, rất hợp nằm trong lòng tay anh.",
+   "author": ""
+  },
+  {
+   "name": "Em có thể cho anh mượn một nụ hôn được không? Anh hứa là sẽ trả lại đầy đủ.",
+   "author": ""
+  },
+  {
+   "name": "Tớ cùng sự vui vẻ, khoảng cách là cậu đó.",
+   "author": ""
+  },
+  {
+   "name": "Em là một nhành hoa bất tử. Lấy được em rồi, em là sư tử đời anh.",
+   "author": ""
+  },
+  {
+   "name": "Anh Khánh đẹp zai ơi e là Phương Thảo mong anh làm giúp e với ạ đề tài là thả thính bọn con trai vs ạ\n\nHehe, con gái thì dễ thả thính rồi :v Độ xinh tỷ lệ thuận với độ yêu tinh mà :v Em có thể tham khảo status của anh: \"Tình hình bạn mình vừa mới thất tình, vừa đặt xong 2 vé xem phim thì chia tay vs người iu, nỗi buồn của người này nhưng là niềm vui của người khác... bạn nữ nào muốn chia sẻ niềm vui đó với mình thì pm nha\"",
+   "author": ""
+  },
+  {
+   "name": "- Anh thích bánh trung thu nhân gì?\n- Nhân cơ hội này nói yêu em",
+   "author": ""
+  },
+  {
+   "name": "Cô đơn mà biến thành vàng\nTớ sẽ tặng nàng một chiếc Dylan",
+   "author": ""
+  },
+  {
+   "name": "Đứng chết im tức khắc nàng nhẹ nhàng bước qua\nTiếng sét ái tình đã đánh xem như duyên chúng ta\nTay buông cả ly mì xuống nhiều người nhìn quá đê\nAnh ko nói tiếng hàn quốc chỉ biết nói saranghae\n-- SIMPLE LOVE -- Obito x Seachains",
+   "author": ""
+  },
+  {
+   "name": "Em có thể mua vé máy bay đến nhiều vùng đất\nNhưng em muốn hạ cánh ở trái tim anh.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời anh là chuỗi dài nghiện ngập\nGame, mạng xã hội và giờ là em",
+   "author": ""
+  },
+  {
+   "name": "- Anh bị cận à?\n- Ừ\n- Bảo sao không thấy em thích anh.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua, em vừa mơ thấy anh tỏ tình với em. Anh có thể biến giấc mơ của em trở thành sự thật được không?",
+   "author": ""
+  },
+  {
+   "name": "Em đừng xem mấy cuộc thi hoa hậu nữa, lấy gương ra mà soi cho đỡ mất thời gian.",
+   "author": ""
+  },
+  {
+   "name": "- Ừ, mà sao em buôn thuốc phiện hả?\n- Sao anh hỏi thế??? (ngơ ngác)\n- Cơm em nấu ngon quá, anh nghiện rồi.",
+   "author": ""
+  },
+  {
+   "name": "Corona thì tìm bác sĩ\nCodonqua (cô đơn quá) thì tìm tui nha =)))",
+   "author": ""
+  },
+  {
+   "name": "Anh nghĩ mình nên làm bạn... không phải bạn thân, hay bạn siêu thân, không phải bạn trai, bạn gái, càng không phải bạn tình mà đó là bạn đời.",
+   "author": ""
+  },
+  {
+   "name": "Chờ ngón áp út của anh lấp lánh, em sẽ đi tìm chú rễ cho riêng mình.",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 nụ cười có thể giết người thì em hẳn là kẻ sát nhân hàng loạt.",
+   "author": ""
+  },
+  {
+   "name": "Em không hề có ý định sẽ yêu thương một ai, cho đến khi gặp anh.",
+   "author": ""
+  },
+  {
+   "name": "- Đố em ông, bà, cha, mẹ, chồng ai là người ko có máu mủ với em?\n- Chồng\n- Ơi.",
+   "author": ""
+  },
+  {
+   "name": "Heiii em ăn tối chưa nhở? Nếu rồi thì làm 1 ly\nAnh chỉ muốn cởi mở hơn, đừng lo mình sẽ dại dột đi\nEm là cô gái đẹp, phải nói với em bằng những lời hay ho\nĐược ngồi cùng em khiến anh cảm thấy mình cũng rất gì và này nọ\n-- Mượn Rượu Tỏ Tình -- ft Emily",
+   "author": ""
+  },
+  {
+   "name": "Cho anh mua lại sự độc thân của em nhé?",
+   "author": ""
+  },
+  {
+   "name": "Nấu anh một chén đậu hồng\nCho thơm một cái, làm chồng em nha.",
+   "author": ""
+  },
+  {
+   "name": "Lần đầu anh nhìn thấy em, tưởng không sao mà lao đao không tưởng.",
+   "author": ""
+  },
+  {
+   "name": "Anh là hoàng hôn vì em thích được yêu chiều",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa em thích lò cò\nNgày nay em thích hẹn hò cùng anh.",
+   "author": ""
+  },
+  {
+   "name": "Anh muốn xây thêm những con đường\nĐi khắp muôn nơi, khắp muôn phương\nNối dài và nối dài đến trái tim em\n-- Phải có em -- (Đinh Kai)",
+   "author": ""
+  },
+  {
+   "name": "Em là sản phẩm lỗi của bố mẹ em à? Vậy thôi, cho anh xin lỗi.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em anh muốn góp nữa ADN",
+   "author": ""
+  },
+  {
+   "name": "Anh tồn tại trên thế gian này chỉ để yêu em.",
+   "author": ""
+  },
+  {
+   "name": "Hay là em chấp nhận mã gen của anh nhá?",
+   "author": ""
+  },
+  {
+   "name": "Từng yêu, hiện tại vẫn còn yêu và tương lai cũng sẽ tiếp tục yêu, yêu một người bạn vừa xa lạ lại vừa quen thuộc",
+   "author": ""
+  },
+  {
+   "name": "- Bố em có phải siêu đầu bếp Nhật không?\n- Không ạ, nhưng tại sao ạ?\n- Bởi vì trông em rất là ngon. =))",
+   "author": ""
+  },
+  {
+   "name": "Mày có biết mày vs H2O khác nhau chỗ nào ko?\nH2O chỉ mới chiếm 70% trong cơ thể tao còn mày chiếm 100% rồi đấy",
+   "author": ""
+  },
+  {
+   "name": "Mỗi người đều có quyền yêu cái đẹp. Vì vậy, tớ yêu cậu.",
+   "author": ""
+  },
+  {
+   "name": "Đất xấu trồng cây khẳng khiu\nThằng nào cua gái toàn điều ngọt ngon",
+   "author": ""
+  },
+  {
+   "name": "- Em quá đáng lắm luôn á\n- Em quá đáng cái gì?\n- Em quá đáng yêu lắm luôn ý",
+   "author": ""
+  },
+  {
+   "name": "Thế gian tình ái vô biên\nCớ sao ta lại phát điên vì chàng",
+   "author": ""
+  },
+  {
+   "name": "Halloween này em có thể hoá trang thành người yêu anh đc không?",
+   "author": ""
+  },
+  {
+   "name": "Trời hôm nay âm u quá nhỉ, nắng trốn hết vào đôi mắt em rồi.",
+   "author": ""
+  },
+  {
+   "name": "Nắng mưa là chuyện của trời\nTương tư là chuyện của tôi yêu nàng",
+   "author": ""
+  },
+  {
+   "name": "Trúc xinh trúc đứng một mình.\nEm xinh em cũng rình rình theo trai.",
+   "author": ""
+  },
+  {
+   "name": "Nếu anh muốn cưới vợ hiền\nAlô nhấc máy gọi liền cho em",
+   "author": ""
+  },
+  {
+   "name": "Girl: Anh cõng em có nặng không?\nBoy: Thế anh hỏi em cõng cả thế giới trên lưng có nặng ko?",
+   "author": ""
+  },
+  {
+   "name": "Này anh, có muốn cùng em trải qua cảm giác không còn độc thân không?",
+   "author": ""
+  },
+  {
+   "name": "Nếu nói nỗi nhớ của anh nhiều như sao trên trời thì thật vô lí! Vì sao trời còn có ngày không mọc nhưng anh thì không có đêm nào không nhớ về em",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân như một tách trà\nĐậm nhạt cũng được, miễn là có anh...",
+   "author": ""
+  },
+  {
+   "name": "Dăm ba cây kẹo mút\nSao có sức hút bằng anh",
+   "author": ""
+  },
+  {
+   "name": "Thức đêm anh tỉnh bằng trà\nThích em anh trả bằng tình được không",
+   "author": ""
+  },
+  {
+   "name": "Mặt trời mọc ở đằng đông\nHỏi ngông chị có phi công chưa nè?",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói anh thích hoa hồng\nVậy anh có thích làm chồng em không?",
+   "author": ""
+  },
+  {
+   "name": "Thà yêu thần tượng còn hơn tình yêu nam nữ, chỉ nhận được đắng cay, còn thần tượng của tôi, anh ấy luôn yêu fan của mình",
+   "author": ""
+  },
+  {
+   "name": "Cứ chờ đấy, rồi sẽ đến 1 ngày em sẽ là mẹ của những đứa con của anh",
+   "author": ""
+  },
+  {
+   "name": "Anh đi anh đứng thế nào\nNăm lần bảy lượt ngã vào tim em",
+   "author": ""
+  },
+  {
+   "name": "Cam sành lột vỏ còn chua.\nThương em còn nhỏ anh cua để dành.",
+   "author": ""
+  },
+  {
+   "name": "Tin em đi. Cả cuộc đời này của em chẳng làm việc gì tốt hơn ăn, ngủ và yêu anh đâu.",
+   "author": ""
+  },
+  {
+   "name": "Trân châu nấu với đường đen.\nUống xong cho thiếp làm quen với chàng.",
+   "author": ""
+  },
+  {
+   "name": "Lạm phát là sự gia tăng hàng hóa liên tục trong thời gian và em biết gì không con tym anh đang ở trạng thái siêu lạm phát vì em đấy.",
+   "author": ""
+  },
+  {
+   "name": "- Anh muốn đi chơi với em vào ngày Valentine ko?\n- Ko... Anh muốn đi chơi với em mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Yêu...\nNếu em chỉ xem như là danh từ trừu tượng\nAnh sẽ cho em thấy hành động cụ thể\nNếu em chỉ nghe qua những lời kể\nĐể anh vẽ nên câu chuyện mà em thuộc về",
+   "author": ""
+  },
+  {
+   "name": "Trời đã sinh ra em… sao lại còn sinh ra vợ anh.",
+   "author": ""
+  },
+  {
+   "name": "Trong bóng đá, nếu bạn tấn công, bạn sẽ không cảm thấy mệt mỏi như khi bạn đang theo đuổi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật ngắn ngủi, ngắn đến mức chẳng cho em gặp được anh lấy một lần.",
+   "author": ""
+  },
+  {
+   "name": "Đồ phàm phu tục tử kia, nhà ngươi có muốn nếm thử hương vị của tiên nữ không?",
+   "author": ""
+  },
+  {
+   "name": "La bàn chỉ hướng nam\nRồi lại chỉ hướng Bắc\nTớ chỉ hướng về cậu\nNhững thứ khác không ham.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu em là mặt trời anh sẽ là gì?\n- Mặt trăng\n- Sai rồi anh sẽ là cây kem.\n- Tại sao?\n- Vì em khiến trái tim anh tan chảy =))",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay trời nắng dịu dàng\nHay là mình cứ nhẹ nhàng yêu nhau",
+   "author": ""
+  },
+  {
+   "name": "- Anh đang làm công việc gì đấy ạ?\n- Anh đang làm Construction Site Assistant Engineer cho 1 dự án bất động sản\n- Uầy nghe xịn ghê, thế cụ thể là gì ạ?\n- Là phụ hồ em ạ",
+   "author": ""
+  },
+  {
+   "name": "Ông trời cho anh mọi thứ... trừ số điện thoại của em!\nGod gave me everything, except your number!",
+   "author": ""
+  },
+  {
+   "name": "- Cho anh mượn CMND\n- Để làm gì anh?\n- Liên quan đến chính quyền... ra xã làm giấy kết hôn",
+   "author": ""
+  },
+  {
+   "name": "Trông bạn quen quen, hình như tớ... chưa gặp bao giờ.",
+   "author": ""
+  },
+  {
+   "name": "Ấy ơi trà sữa tôi mời\nUống xong thì phải nhận lời yêu tui.",
+   "author": ""
+  },
+  {
+   "name": "Có một người bí ẩn đang lẩn quẩn xem hình em",
+   "author": ""
+  },
+  {
+   "name": "Tên em nghe thật mĩ miều\nPhải chăng em là nàng Kiều hóa thân\nTên đã xinh đẹp muôn phần\nThế nhưng khuôn mặt ngàn lần đẹp hơn\nEm ơi chớ giận chớ hờn\nCho anh cơ hội một lần làm quen",
+   "author": ""
+  },
+  {
+   "name": "Em vốn không chọn người hoàn hảo, người em chọn là người làm em mỉm cười mỗi ngày",
+   "author": ""
+  },
+  {
+   "name": "Ai thích anh không quan trọng\nQuan trọng là anh đã thích ai chưa :v",
+   "author": ""
+  },
+  {
+   "name": "- Em biết tại sao anh tập gym mỗi ngày ko?\n- Sao anh?\n- Để có sức gánh em cả cuộc đời á.",
+   "author": ""
+  },
+  {
+   "name": "Chúc em iu của anh ngủ thật ngoan... Để cả thế giới được bình yên ^^ ahihi",
+   "author": ""
+  },
+  {
+   "name": "Muốn thấy cọp thì vào sở thú\nMuốn tìm chỗ trú thì vào tim anh.",
+   "author": ""
+  },
+  {
+   "name": "Dù ai nói tới nói lui\nYêu anh một chút vẫn vui hơn nhiều",
+   "author": ""
+  },
+  {
+   "name": "Anh chẳng ước ông già Noel tặng gì cả. Vì anh biết túi của ông ấy không có em :p",
+   "author": ""
+  },
+  {
+   "name": "- Chỗ này ko ai ngồi phải ko em?\n- Dạ ko ạ\n- Sao em nhìn anh dữ vậy? Hôm nay a dậm phấn đậm lắm hả :v",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh với vận tốc không nhanh, dù mong manh nhưng anh là tất cả.",
+   "author": ""
+  },
+  {
+   "name": "Thịt mỡ, dưa hành, câu đối đỏ\nNhẹ nhàng nói nhỏ: \"EM YÊU ANH\"",
+   "author": ""
+  },
+  {
+   "name": "Boy: Em chấp nhận làm người yêu anh nhé\nGirl: Dạ, em đồng ý. Anh cho em mượn con dao anh đang cầm để em gọt hoa quả cho anh ăn nhé.",
+   "author": ""
+  },
+  {
+   "name": "Bố em là Thiên Lôi à? Bởi thằng nào gặp em chắc chắn sẽ bị 'sét đánh'",
+   "author": ""
+  },
+  {
+   "name": "Nếu cuộc đời đưa em vào thế khó\nNói với anh để anh đổi thế cho",
+   "author": ""
+  },
+  {
+   "name": "Tớ thấy \"7 hằng đẳng thức đáng nhớ\" cũng ko thể nào đáng nhớ bằng cậu đc!",
+   "author": ""
+  },
+  {
+   "name": "Tôi nghĩ kĩ rồi, nếu 3 năm sau cô nhất định là bạn gái của tôi vậy tại sao tôi không sớm sử dụng quyền đó của mình.",
+   "author": ""
+  },
+  {
+   "name": "Em có hàng ngàn hàng vạn lí do muốn gặp anh, nhưng lại thiếu mất duy nhất thân phận để gặp lại người.",
+   "author": ""
+  },
+  {
+   "name": "Anh vẫn là giấc mộng thuở ban đầu của em.",
+   "author": ""
+  },
+  {
+   "name": "- Anh làm nghề gì\n- Thanh tra mạng\n- Nghề lạ thế ạ, cụ thể là làm gì vậy anh\n- Chủ yếu là bắt những cô bé thức khuya ngủ nướng như em phải đi ngủ nè :)",
+   "author": ""
+  },
+  {
+   "name": "Chưa xin phép nhưng mà trái tim bắt ép phải chào em.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không có gì là mãi mãi, anh có thể là \"không có gì\" của em được không?",
+   "author": ""
+  },
+  {
+   "name": "Vũ trụ của người ta... là màu đen huyền bí\nVũ trụ anh bé tí... thu nhỏ lại là em.",
+   "author": ""
+  },
+  {
+   "name": "- Số điện thoại của bạn trai em là bao nhiêu?\n- Em chưa có bạn trai.\n- Vậy được rồi, mau nhớ số anh đây này!",
+   "author": ""
+  },
+  {
+   "name": "Trái đất có mất trọng lực anh vẫn sẽ đổ vì em﻿.",
+   "author": ""
+  },
+  {
+   "name": "Boy: Đi đám cưới em bị đuổi lần nào chưa?\nGirl: Sao ạ?\nBoy: Trong đám cưới cô dâu đẹp nhất mà em dám đẹp hơn cô dâu luôn hả?",
+   "author": ""
+  },
+  {
+   "name": "Ngoài chân trái và chân phải ra, anh còn 1 chân rất quan trọng, không phải chân giữa mà đó là chân thành.",
+   "author": ""
+  },
+  {
+   "name": "Gió đưa cành trúc la đà.\nMới quen anh đã thuê nhà cùng em.",
+   "author": ""
+  },
+  {
+   "name": "Anh iu em nồng nàn thơm tho, đậm đặc như Comfort 1 lần xả.",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi! Hôm qua em bị thương đó\n- Sao vậy?\n- Em bị thương anh rồi",
+   "author": ""
+  },
+  {
+   "name": "- Em rảnh không?\n- Có ạ!\n- Vậy để anh nhắn tin cho em xóa...",
+   "author": ""
+  },
+  {
+   "name": "- Số đt anh có đuôi 35 kìa\n- Nếu em đã tin vào những con số, anh sẽ làm cho em tin vào cả duyên số nữa",
+   "author": ""
+  },
+  {
+   "name": "Một chờ, hai đợi, ba trông\nHỏi người có định yêu không mà nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Làm người yêu anh được ko? Nếu ko được để anh nghĩ cách khác!",
+   "author": ""
+  },
+  {
+   "name": "Anh với em như người đẹp với quái vật á, nhưng mà ít có con quái vật nào xinh như em.",
+   "author": ""
+  },
+  {
+   "name": "Ngày anh kết hôn em nhất định phải tới nhé, đám cưới mà không có cô dâu thì buồn cười lắm",
+   "author": ""
+  },
+  {
+   "name": "Mình nhìn bình thường, mình giờ mình mình và tầm giờ này mình thuờng buồn. Mình cần tìm người buồn cùng mình. Mình cùng trà đào, mì xào, ngồi càm ràm tầm phào vì đời còn nhiều buồn phiền; rồi cùng lòng vòng ngoài đường hàng giờ liền. Mình và người cùng bày nhiều trò làm tình mình càng nồng nàn.",
+   "author": ""
+  },
+  {
+   "name": "Em đang làm cái quái gì ở đây vậy? Chỗ này đâu phải cuộc thi Hoa hậu hoàn vũ!",
+   "author": ""
+  },
+  {
+   "name": "Không có gì tiết kiệm thời gian và tiền bạc hơn là yêu ngay từ cái nhìn đầu tiên, em ạ.",
+   "author": ""
+  },
+  {
+   "name": "Tớ nghĩ đến cậu có lẽ rất bận.\nVậy nên chỉ cần nhìn bốn chữ đầu thôi.",
+   "author": ""
+  },
+  {
+   "name": "Con gái nhà ai mà xinh zậy trời? Con gái má vợ anh đúng hông =))",
+   "author": ""
+  },
+  {
+   "name": "Ba đồng một mớ trầu cau\nAnh cho em hỏi cưới nhau ngày nào?",
+   "author": ""
+  },
+  {
+   "name": "- Giờ chơi ai cử động trước người đó thua nha.\n- Ok a,\n- Anh thua rồi\n- Đâu có đâu\n- Anh rung động trước em rồi.",
+   "author": ""
+  },
+  {
+   "name": "Thần tượng một con người cũng giống như đeo tai phone và vặn volume hết cỡ vậy, nhìn vào thì nghĩ im ắng, thật ra chỉ có một mình mình mới hiểu nó cuồng nhiệt cỡ nào",
+   "author": ""
+  },
+  {
+   "name": "Đủ nắng hoa sẽ nở. Đủ văn vở anh sẽ là chồng em.",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc của em đôi khi đơn giản chỉ là được nhìn thấy anh cười qua màn hình điện thoại",
+   "author": ""
+  },
+  {
+   "name": "Chào người lạ mùa hạ, em làm nhiễm phóng xạ con mắt rồi nhìn đi... thấy chưa... hình bóng em đó.",
+   "author": ""
+  },
+  {
+   "name": "Hãy cầm lấy chìa khóa đến trái tim anh đi! Á nhầm rồi, đấy là chìa khóa cái Ferrari của anh.",
+   "author": ""
+  },
+  {
+   "name": "Đôi lời gửi gắm tới bé Tâm, cô gái ngành... ngôn ngữ Anh :v\n\nĐây sẽ là một bức thư anh dành hết tâm tư, tâm tình, tâm trạng, tâm trí, tâm lý, tâm ý, tâm can, tâm nhĩ, tâm thất để viết về Tâm.\n\nPhải nói sao nhỉ? Đúng là trên đường đời tấp nập, ta vô tình đã gặp nhau...\n\nTừ khi quen biết em thì cái app Foody bị hư hay sao á, mọi bữa ăn đều chỉ về quán cơm của em... Mỗi lần gặp e thì trời đều âm u, dường như mọi tia nắng đã trốn đi vì không dám sánh bước cùng nụ cười của e...\n\n... Haiz\n\nĐấy là mấy thằng ất ơ nó sẽ viết như vậy để tả về e, anh thì không nhé!\nEm bước vào cuộc đời anh như một vị thần, nên anh sẽ gọi em là Tâm thần.\n\nPhục vụ cái kiểu gì mà vừa nhây, vừa lầy, vừa quậy, nhảy nhót hót ca cả ngày nghe điếc cả tai. Phục vụ kiểu gì mà cứ thích chọt eo người khác, con gái con lứa không biết “Nam nữ thọ thọ bất tương thân” à? Phục vụ cái kiểu gì mà trả treo với khách, mới có giả bộ complain 1 chút là “Anh có ăn không?”\n\nThái độ bố thiên hạ, mẹ thiên nhiên, độ điên vô đối là em... Đôi khi còn lảm nhảm một cách dũng cảm nữa chứ... Lại có cái tính xấu là ăn cắp vặt nữa... sơ hở ra một tí là bị lấy mất trái tim lúc nào không hay... nhưng anh là người rộng rãi anh không lấy lại đâu.\n\nEm đó, khùng như em thả rông nguy hiểm lắm... cũng có ngày bị bắt cóc cho coi... Nghĩ đến việc để thằng khác bước vào cuộc đời e... a lại ko an tâm... cho nó.\n\nCho nên cho dù quá khứ e a đã ko tham dự, nhưng tương lai chắc chắn anh sẽ tới sinh sự. Lu pa ca chi :v",
+   "author": ""
+  },
+  {
+   "name": "Cái khiến người khác thương cảm không phải là hồi ức đau buồn mà là quãng thời gian đẹp đẽ qua đi không cách nào lấy lại được.\n_Wanna One_",
+   "author": ""
+  },
+  {
+   "name": "Dear Crush, em chỉ cần nói dạ có và tin anh. Anh sẽ tạo nên những câu chuyện tình yêu thật ghen tỵ cho chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "- Anh yêu em\n- Em...\n- Người ta nói bày tỏ sự yêu quý của mình với kẻ thù là cách chọc tức nhanh nhất",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ anh ở đây rồi, còn 2 điều nữa em mưốn ước là gì?",
+   "author": ""
+  },
+  {
+   "name": "- Có thể cho anh sđt của em ko?\n- Em có bạn trai rồi anh!\n- Gôn nào mà trả có thủ môn thế mà tiền đạo giỏi vẫn ghi bàn đó em :)))",
+   "author": ""
+  },
+  {
+   "name": "Anh không dùng Iphone hay điện thoại đắt tiền, anh chỉ dùng điện thoại mà khi em gọi thì anh luôn nghe.",
+   "author": ""
+  },
+  {
+   "name": "Có rất nhiều cách để hạnh phúc. Nhanh nhất chính là nhìn thấy anh.",
+   "author": ""
+  },
+  {
+   "name": "Khi váy cưới e chạm đất chở thành cô dâu của người khác thì anh vẫn sẽ là tín ngưỡng đẹp nhất trong lòng e.",
+   "author": ""
+  },
+  {
+   "name": "Anh đang đi trên con đường mà điểm cuối cùng lúc nào cũng là em",
+   "author": ""
+  },
+  {
+   "name": "Giang hồ đấm máu... anh không sợ\nChỉ sợ đường về... vắng bóng em",
+   "author": ""
+  },
+  {
+   "name": "Tớ sắp chết rồi, vì trái tim tớ đi tìm cậu mãi, cậu trả lại cho tớ đi",
+   "author": ""
+  },
+  {
+   "name": "- Anh chỉ muốn cho em biết là anh chưa bao giờ để mắt đến em đâu\n- Thì sao, tôi cũng có bao giờ để mắt đến anh đâu\n- Anh chỉ để trong tim thôi.",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nCòn anh chưa có người thương đây nè.",
+   "author": ""
+  },
+  {
+   "name": "- Phiền em chạm vào ly cafe anh 1 cái được không?\n- Được ạ, nhưng vì sao ạ?\n- Em chạm vào thì nó ko còn đắng nữa :D",
+   "author": ""
+  },
+  {
+   "name": "Anh là dân chuyên lý... biết em và không khí quan trọng như nhau",
+   "author": ""
+  },
+  {
+   "name": "Nắng kia làm má em hồng\nVậy anh có chịu làm chồng em hông?",
+   "author": ""
+  },
+  {
+   "name": "Anh ghét em :3 mà ta nói ghét của nào trời cho của đó ý",
+   "author": ""
+  },
+  {
+   "name": "- Anh muốn làm quen với em à, gu thẩm mỹ của anh cũng khá đấy!\n- Bằng thế nào được khiếu hài hước của em\n- Gớm, sắp tới sẽ có mấy triệu thằng đàn ông ế vợ anh đã chuẩn bị gì chưa?\n- Anh đã chuẩn bị cho mình 1 tâm hồn đẹp",
+   "author": ""
+  },
+  {
+   "name": "Anh có biết điều gì tuyệt vời nhất trên thế gian này không? Là chữ đầu tiên của câu này đấy.",
+   "author": ""
+  },
+  {
+   "name": "Cầu vồng cần cơn mưa để xuất hiện\nEm cần anh để làm đại diện trái tim <3",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân chỉ có một lần\nChi bằng chia sẻ một phần cùng em",
+   "author": ""
+  },
+  {
+   "name": "Em có biết sự giống nhau giữa em và Hà Nội là gì không... Đó là đều được anh yêu suốt 1000 năm.",
+   "author": ""
+  },
+  {
+   "name": "Nhóc ơi, tớ sẽ lưu tên cậu trong danh bạ là xe ôm, còn cậu lưu tớ thành khách hàng thân thiết nhé.",
+   "author": ""
+  },
+  {
+   "name": "- Anh phát hiện ra mắt em khá đẹp nha, nhưng không đẹp bằng mắt anh. Biết tại sao ko?\n- Tại sao ạ?\n- Vì trong mắt anh có em.",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh đi, khùng như em thả rông nguy hiểm lắm",
+   "author": ""
+  },
+  {
+   "name": "- Em có bạn trai chưa?\n- Chưa!\n- Vậy thì giờ em có rồi đó!",
+   "author": ""
+  },
+  {
+   "name": "Em biết mình rất cute\nAnh thương thì nói, im re làm gì?",
+   "author": ""
+  },
+  {
+   "name": "Em và Anh là 2 cá thể cùng loài nhưng không cùng quần thể. Dưới tác động của các nhân tố ngẫu nhiên em đã được phán tán đến chỗ anh, để sinh tồn bắt buộc em phải hình thành đặc điểm thích nghi: là yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "- Anh xin lỗi em nha...\n- Sao anh lại xin lỗi em?\n- Tại chưa có sự đồng ý của em mà anh đã thích em mất rồi :p",
+   "author": ""
+  },
+  {
+   "name": "Bụng kêu Thất tịch tình tang\nĐi ăn đậu đỏ, mong chàng của em",
+   "author": ""
+  },
+  {
+   "name": "Fb :Trương Thị Minh Thuận: Adm ơi e tên Thuận, làm tặng e bài thơ về chàng trai tên Nghĩa với ạ, chúng e đang yêu nhau hì hì\n\nThuận thích Nghĩa nghĩa là Nghĩa phải thuận theo Thuận mới đúng nghĩa chữ nghĩa. Chuyện tình nghĩa của chuyện tình Nghĩa và Thuận thì trước là Thuận theo Nghĩa nên Nghĩa cũng nên thuận theo nghĩa mà Nghĩa theo Thuận đi là vừa.\n\n=)) tự nhiên đang viết phải lên google search 'nghĩa nghĩa là gì'",
+   "author": ""
+  },
+  {
+   "name": "Anh vẫn luôn suy nghĩ lãng mạn là như thế nào... giờ anh biết rồi... có em thì mọi thứ đều trở nên lãng mạn.",
+   "author": ""
+  },
+  {
+   "name": "Đi đâu mà vội mà vàng\nChúc nhau ngày mới đàng hoàng rồi đi",
+   "author": ""
+  },
+  {
+   "name": "Giữa chốn phồn hoa đô hội\nAnh có ngại lặn lội tìm em không???",
+   "author": ""
+  },
+  {
+   "name": "- Còn nhiều việc làm tốt đẹp, em tuổi còn thanh xuân, tương lai còn rất tươi sáng! Lo học hành sau này chọn cái nghề lương thiện mà làm, sao lại chọn con đường này, hả em?\n- Con đường gì anh?\n- Con đường vào tim anh, em dễ thương lắm!",
+   "author": ""
+  },
+  {
+   "name": "- Em biết anh thích gì nhất trên môi em không?\n- Không ạ\n- Là môi anh trên đó.",
+   "author": ""
+  },
+  {
+   "name": "Trên đường đời tấp nập... em vô tình bắt gặp trái tim anh",
+   "author": ""
+  },
+  {
+   "name": "Em có muốn làm bạn gái anh không?\nA. Có\nB. Muốn\nC. Cả A và B",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em anh lại muốn đi tù nữa rồi đấy.",
+   "author": ""
+  },
+  {
+   "name": "Cá thiếu muối, cá ươn và thiu\nAnh vắng em, thiếu yêu và thương.",
+   "author": ""
+  },
+  {
+   "name": "Hẳn là em đã mỏi nhừ, vì em chạy trong tâm trí anh suốt cả ngày.",
+   "author": ""
+  },
+  {
+   "name": "Mình yêu nhau em nhé, ta cùng sinh em bé :v",
+   "author": ""
+  },
+  {
+   "name": "Trong 36 kế thì anh thích nhất... kế bên em.",
+   "author": ""
+  },
+  {
+   "name": "Hi vọng sau này không phải đưa em về nhà... vì ta sẽ cùng về nhà",
+   "author": ""
+  },
+  {
+   "name": "Thay vì học sử, sao anh không thử yêu em?",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn trai cũ và bạn trai hiện tại của em bị rơi xuống nước. Liệu em... có để anh làm bạn trai em ko?",
+   "author": ""
+  },
+  {
+   "name": "Hay là mình thử yêu đi\nBiết đâu hợp ý đến khi bạc đầu",
+   "author": ""
+  },
+  {
+   "name": "Em vốn chẳng thích làm thơ\nThích anh nên mới ngẩn ngơ đợi chờ",
+   "author": ""
+  },
+  {
+   "name": "Chỉ mong sao lúc về già còn lưu lại chút kí ức tuổi thanh xuân, vẫn còn nhớ được cái tên bạn từng điên cuồng theo đuổi năm nào.",
+   "author": ""
+  },
+  {
+   "name": "Mắt em màu đen\nMôi em màu đỏ\nLại em hỏi nhỏ\nAnh có yêu em không?",
+   "author": ""
+  },
+  {
+   "name": "Từ lâu anh đã muốn hỏi em điều này \"em có yêu anh không\" nhưng không dám hỏi vì anh sợ em... gật đầu.",
+   "author": ""
+  },
+  {
+   "name": "Anh có thể là một chút trong một ai đó nhưng anh lại là tất cả trong em.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có yêu em nhiều không?\n- Nhiều hơn Adam yêu Eva\n- Căn cứ vào đâu mà anh nói thế\n- Vì Adam không có sự lựa chọn nào khác ngoài Eva, còn anh thì có rất nhiều :D",
+   "author": ""
+  },
+  {
+   "name": "Tôi thật sự hy vọng có kiếp sau bởi vì kiếp này sao đủ để tôi yêu thương anh",
+   "author": ""
+  },
+  {
+   "name": "Mê gái không phải là dê. Nếu không mê gái ế chồng muôn nơi",
+   "author": ""
+  },
+  {
+   "name": "- Em biết dự báo thời tiết hôm nay nói gì không?\n- Dạ, không\n- Nói là hôm nay có em ở đây với anh",
+   "author": ""
+  },
+  {
+   "name": "Cơm đâu nuôi chó nuôi mèo\nĐể nuôi em zợ dẫu nghèo cũng zui",
+   "author": ""
+  },
+  {
+   "name": "Em ơi trái đất vẫn tròn\nDẫu trời có sập vẫn còn có anh",
+   "author": ""
+  },
+  {
+   "name": "Bồ Công Anh chỉ bay khi trời có gió. Em mỉm cười khi nơi đó có anh.",
+   "author": ""
+  },
+  {
+   "name": "Anh nói thích trời mưa, em liền là mùa hạ\nAnh nói thích của lạ, vâng ạ có em đây!",
+   "author": ""
+  },
+  {
+   "name": "Giá như em xuất hiện sớm hơn... thì bài kiểm tra Văn tả về thiên thần của anh đã không để giấy trắng.",
+   "author": ""
+  },
+  {
+   "name": "Lá cây cần nắng quang hợp\nCòn tớ cần cậu quan tâm",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ kiện em vì tội ăn cắp trái tim anh nhưng anh là người rộng rãi anh không lấy lại đâu.",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ không để ai bắt nạt em đâu... trừ anh!",
+   "author": ""
+  },
+  {
+   "name": "Nếu có ai hỏi em thích gì, em sẽ trả lời thật to và rõ ràng là em thích anh.",
+   "author": ""
+  },
+  {
+   "name": "Sao không có sấm chớp nhỉ, chán ghê đó, chẳng tìm được lý do để chạy vào lòng anh.",
+   "author": ""
+  },
+  {
+   "name": "- Em tên gì?\n- Thùy Linh\n- Ohm, tên đẹp lắm mà sau này a có con gái sẽ không đặt cho con tên này\n- Sao vậy anh?\n- Mẹ con tên giống nhau, khó phân biệt lắm em.",
+   "author": ""
+  },
+  {
+   "name": "- Này, em có thể biết sở thích của anh được không??\n- Anh thích xem phim, đọc truyện...\n- Vậy từ giờ tập mang tên em đặt vào đầu sở thích đó là vừa rồi",
+   "author": ""
+  },
+  {
+   "name": "Nhìn lên mây trắng trời hồng\nGặp em xin hỏi có chồng hay chưa",
+   "author": ""
+  },
+  {
+   "name": "- Bà biết vì sao tui cao hơn bà không?\n- Cao hơn mà cũng có lý do nữa hả\n- Là vì trời có sập thì tui sẽ che cho bà",
+   "author": ""
+  },
+  {
+   "name": "Em sinh ra không phải để sống vất vả\nMà là để sau này được gả cho anh",
+   "author": ""
+  },
+  {
+   "name": "Em sẽ cố gắng học giỏi toán để tính quãng đường vào tim anh",
+   "author": ""
+  },
+  {
+   "name": "- Anh có thể không?\n- Có thể làm gì?\n- Có thể chụp một tấm hình của em, bởi vì anh muốn ông già Nô-en gửi cho anh đúng món quà mà anh muốn cho Giáng sinh",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu thường có những lý lẽ không ai hiểu được, dù cho những lý lẽ của nó mang đến rất nhiều nước mắt, nỗi đau và cả sự tổn thương.",
+   "author": ""
+  },
+  {
+   "name": "- Em có yêu bản thân em ko?\n- Có ạ\n- Vậy làm tình địch với anh đi.",
+   "author": ""
+  },
+  {
+   "name": "Giường nhà anh sập rồi, liệu sáng mai anh có được phép thức dậy bên cạnh em không?",
+   "author": ""
+  },
+  {
+   "name": "1 người anh hùng mới có thể yêu 1 mụ phù thủy\nAnh không phải anh hùng nhưng vẫn có thể yêu em!",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi, điện thoại a bị hư rồi nè\n- Sao đâu, em thấy bình thường mà.\n- Nó không có số điện thoại của em :v",
+   "author": ""
+  },
+  {
+   "name": "Muốn mặn thì ăn muối\nMuốn đắm đuối thì ăn em",
+   "author": ""
+  },
+  {
+   "name": "Chắc chắn chúng ta chưa từng gặp nhau, vì anh không bao giờ quên đc những người xinh đẹp.",
+   "author": ""
+  },
+  {
+   "name": "Chúc em đêm nay gặp thật nhiều ác mộng... Và anh sẽ hiện ra để cùng em chạy trốn",
+   "author": ""
+  },
+  {
+   "name": "Họ hỏi anh thuốc phiện là gì?\nAnh kể cho họ về nụ cười của em",
+   "author": ""
+  },
+  {
+   "name": "Với anh, em còn quan trọng hơn wifi miễn phí phủ sóng toàn cầu.",
+   "author": ""
+  },
+  {
+   "name": "Em thật nóng bỏng, em chính là nguyên nhân gây nóng lên toàn cầu đấy.",
+   "author": ""
+  },
+  {
+   "name": "- Tặng em thỏi son nè\n- Tại sao lại tặng em\n- Vì anh nghĩ mỗi ngày em sẽ trả lại anh 1 ít.",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi, Em có nhà riêng không?\n- Dạ không\n- Vậy thì cứ sống trong trái tim của anh mãi nhé",
+   "author": ""
+  },
+  {
+   "name": "Crush: Mày thích tao à?\nMe: Mày nghĩ tao thích mày ư mà hỏi vậy... Xin lỗi mày nhé! Nếu mày nghĩ như vậy là mày nghĩ đúng rồi đấy =))",
+   "author": ""
+  },
+  {
+   "name": "Khoảnh khắc xem Fancam và nhìn thấy hàng ngàn người phía dưới reo hò tên anh làm em có cảm giác mất mác, giống như nhận ra \"à thì ra anh ở xa đến vậy\". Anh biết không cảm giác đó thật đáng sợ. Nhưng nếu một ngày anh không còn đứng trên sân khấu đó nữa còn đáng sợ hơn.",
+   "author": ""
+  },
+  {
+   "name": "- Em thích chó hay mèo?\n- Chó\n- Gâu =))",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay bỗng thấy yêu đời\nNgồi chờ anh đến nói lời yêu em",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ đứa nào béo... sẽ được làm người yêu tao.",
+   "author": ""
+  },
+  {
+   "name": "Hà Nội thì không nắng\nChả biết chỗ nào mưa\nEm chẳng để ý nữa\nAnh đã yêu em chưa?",
+   "author": ""
+  },
+  {
+   "name": "Kiên: làm e bài tên Bình mà khen nịnh tý ạ\n\nDù đã trải qua bao nhiêu sự tình, tình hình là anh đang vẫn giữ mình cho Bình, mong em sẽ hiểu chút cảm tình bự chình ình rập rình sập sình sập triều đình của anh. Từ thân hình, ngoại hình đến cấu hình mô hình của em thực tình đẹp đúng quy trình, đẹp điên đảo dân tình, truyền hình thẩm định đẹp chuẩn ko cần chỉnh, đẹp đỉnh của đỉnh. Lòng kiên định, tâm xác định và anh khẳng định chúng mình: anh và Bình cùng nhau đi đến cuối cuộc hành trình.",
+   "author": ""
+  },
+  {
+   "name": "Người ta thì thích xà phòng\nCòn em thì thích xà vào lòng anh",
+   "author": ""
+  },
+  {
+   "name": "Anh gì ơi... nay 8/3 đã mua quà gì cho mẹ chưa ạ? Nếu chưa thì đưa em về làm quà cho bác nà.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta vẫn là người lạ trong danh bạ của nhau nhỉ",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay anh mệt rã rời\nMuốn ôm em ngủ kệ đời được không?",
+   "author": ""
+  },
+  {
+   "name": "Em có muốn sau này những bài viết của mình tăng lên 1 like ko? Cho anh nick facebook đi.",
+   "author": ""
+  },
+  {
+   "name": "Lâu lâu làm điều thuốc lào\nYêu em không biết khi nào hết đây",
+   "author": ""
+  },
+  {
+   "name": "Cẩn thận cái miệng của anh đi, bởi vì tùy lúc em sẽ hôn nó đó.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi tôi chẳng thể hiểu mình, tại sao lại làm quá nhiều điều lãng phí thời gian đến vậy. Nhưng rồi người ấy đã mỉm cười. Ồ, nếu vậy thì có lãng phí thời gian thêm nữa cũng có sao đâu.",
+   "author": ""
+  },
+  {
+   "name": "Em đã xem hết \"Mười vạn câu hỏi vì sao\" những vẫn chẳng giải thích được vì sao em thích anh nhiều đến thế.",
+   "author": ""
+  },
+  {
+   "name": "- Hi, em là Mẫn Nhi phải ko?\n- Dạ không ạ\n- Anh nghĩ ai đẹp như mĩ nhân thì phải tên Mẫn Nhi chứ :D",
+   "author": ""
+  },
+  {
+   "name": "Thế bây giờ em yêu anh hay muốn làm siêu nhân. Em có thấy lãng mạn không chúng ta đang ở tầng cao nhất của tòa nhà đấy. Mát và cao lắm",
+   "author": ""
+  },
+  {
+   "name": "Lưu số anh đi, Valentine này có cần socola thì gọi cho anh",
+   "author": ""
+  },
+  {
+   "name": "Người đang đứng trước mặt em đang ẩn chế độ, đẹp zai, thông minh, ga lăng.\nVui lòng đồng ý làm bạn gái để kích hoạt chế độ.",
+   "author": ""
+  },
+  {
+   "name": "Em đã muốn đi, thì cứ làm như thế\nSau này nếu ế, hãy quay lại tìm anh",
+   "author": ""
+  },
+  {
+   "name": "- Anh làm nghề gì thế?\n- Anh làm nghề lái xe 1 bánh\n- Là nghề gì ạ?\n- Là xe rùa ý, em ngồi lên đó anh đẩy em đi",
+   "author": ""
+  },
+  {
+   "name": "Tách ly dùng để uống trà\nTình ca để hát, cậu là để yêu",
+   "author": ""
+  },
+  {
+   "name": "- Em thấy quả bóng bay vào lưới không?\n- Sao ạ?\n- Nó đẹp như khoảnh khắc em bước vào cuộc đời anh vậy",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần gặp em một lần thì lịch sử đã chép chung hai cuộc đời là một rồi.",
+   "author": ""
+  },
+  {
+   "name": "Đến khi nào trái đất ngừng quay, mây ngừng bay, cô dâu 8 tuổi ngừng phát sóng. Anh sẽ ngừng yêu em.",
+   "author": ""
+  },
+  {
+   "name": "Lão Hạc tha thiết cậu Vàng\nCòn tôi tha thiết mỗi nàng mà thôi",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống thì giống cuộc đời\nCòn em thì giống bạn đời của anh",
+   "author": ""
+  },
+  {
+   "name": "Trông em có vẻ bồn chồn. Có phải em định lên kế hoạch cướp ngân hàng tối nay không?",
+   "author": ""
+  },
+  {
+   "name": "Em, ngày mai đi lên phường với anh để thực hiện thủ tục đăng ký độc quyền quan tâm em mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "- Lúc nào đó anh mời em đi cafe đc ko?\n- Em bị say cafe ạ\n- Đây là 1 lý do mà a có thể lợi dụng được nó á :v",
+   "author": ""
+  },
+  {
+   "name": "Nhìn vào sách sử, em thấy được quá khứ\nCòn nhìn vào anh, em thấy được tương lai",
+   "author": ""
+  },
+  {
+   "name": "Hỡi em con gái nhà ai\nĐi đâu sao chẳng thấy zai đi cùng",
+   "author": ""
+  },
+  {
+   "name": "Mốt đừng chụp chung với hoa nữa, anh chả phân biệt được đâu là hoa đâu là em.",
+   "author": ""
+  },
+  {
+   "name": "Em có đồng ý đẩy mối quan hệ bằng hữu của chúng ta lên một tầm cao mới không?",
+   "author": ""
+  },
+  {
+   "name": "- Thành, cậu có biết tại sao mình muốn làm công chúa không?\n- Tại sao?\n- Vì công chúa sống trong thành.",
+   "author": ""
+  },
+  {
+   "name": "Em, em làm bảo vệ khu này đúng ko? Nãy anh thấy em lầu dưới giờ lầu này cũng thấy em... hay anh đang bị tình nghi là người xấu hả.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay anh sẽ là gà\nĐể xem em thịt hay là em nuôi",
+   "author": ""
+  },
+  {
+   "name": "Nếu mỗi lần nhớ tới em anh được 500 đồng chắc giờ này anh đã vượt xa Bill Gates.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có biết em và CH4 khác nhau ở điểm nào không?\n-...\n- CH4 là Mêtan, còn em thì mê Anh đó",
+   "author": ""
+  },
+  {
+   "name": "Khi em gọi tên anh. Bão tố cũng hoá dịu dàng.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần ở bên anh... em uống nước lã cũng cảm thấy ngọt ngào",
+   "author": ""
+  },
+  {
+   "name": "- Sao anh nói em khùng?\n- Khùng là sự tận cùng của dễ thương mà em :v",
+   "author": ""
+  },
+  {
+   "name": "Đối với thế giới này em chỉ là 1 ai đó nhưng đối với 1 ai đó thì em lại là cả thế giới này!",
+   "author": ""
+  },
+  {
+   "name": "Nam quốc sơn hà nam đế cư\nEm đẹp thế này anh để em ế ư",
+   "author": ""
+  },
+  {
+   "name": "Anh có thể nâng bổng trái đất bằng 1 tay\nMiễn sao tay kia là tay em đang nắm",
+   "author": ""
+  },
+  {
+   "name": "Có mai, có trúc, có đào\nCó thêm anh nữa ngọt ngào cả năm.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ mua cho con heo đất\nTiền anh đem cất, sau này cưới em",
+   "author": ""
+  },
+  {
+   "name": "Vạn hạt mưa rơi, không hạt nào nhầm chỗ.\nVạn người anh gặp, không người nào là em.",
+   "author": ""
+  },
+  {
+   "name": "Em không hối hận vì đã yêu anh - một tình yêu mãi mãi không có đền đáp.\nEm chỉ hối hận vì sao bản thân không yêu anh sớm hơn để phải tốn chừng ấy thời gian mới tìm thấy tình yêu cả đời mình.",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi mua sim không?\n- Sim gì ạ?\n- Simple love",
+   "author": ""
+  },
+  {
+   "name": "- Nếu chúng ta chia tay, anh sẽ làm gì\n- Hẹn hò với bạn gái cũ\n- À ra vậy, đồ khốn, thích thì về với con đó đi, chúng ta chia tay!\n- Ok, hẹn tối nay 8h nhé, bạn gái cũ của anh",
+   "author": ""
+  },
+  {
+   "name": "Bạn ơi ngồi nhích lại giùm. Tuy rằng khác lớp nhưng chung một trường.",
+   "author": ""
+  },
+  {
+   "name": "Nếu yêu em là sai thì anh không cần đúng!",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh tới chân trời góc bể... thế nhưng... anh còn chả biết em là ai?",
+   "author": ""
+  },
+  {
+   "name": "Chào anh, em đang phải làm một khảo sát. Cho em hỏi anh tên gì? Số điện thoại bao nhiêu? Thứ 7 tuần tới anh có rảnh không?",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi! Em phận gái già\nNếu anh đồng ý 1 nhà được không? =))",
+   "author": ""
+  },
+  {
+   "name": "Thay mặt hiệp hội chúc ngủ ngon toàn cầu, ủy ban vì sự ngủ ngon của gấu trúc. Cục trưởng cục chăm sóc giấc ngủ. Hội trưởng hội những người ngủ ngon. Chúc em ngủ ngon.",
+   "author": ""
+  },
+  {
+   "name": "Một khi đã kết nối wifi nhà anh là đã nhập hộ khẩu rồi đấy",
+   "author": ""
+  },
+  {
+   "name": "Bàn thờ phải có bát hương\nĐời em cần có anh thương yêu mình\nĐời em là hệ phương trình\nAnh là đáp số phương trình bên trên",
+   "author": ""
+  },
+  {
+   "name": "Bò không ăn cỏ bò ngu, cậu không yêu tớ cậu ngu hơn bò",
+   "author": ""
+  },
+  {
+   "name": "Trong tình cảm, không có đúng hoặc sai, chỉ có yêu hoặc không yêu.",
+   "author": ""
+  },
+  {
+   "name": "Em không thích cạnh tranh, em chỉ thích cạnh anh.",
+   "author": ""
+  },
+  {
+   "name": "- Mấy nay anh ngủ mơ toàn ác mộng.\n- Tại sao?\n- Vì những giấc mơ không có em chỉ toàn là ác mộng",
+   "author": ""
+  },
+  {
+   "name": "Tán gái là bản năng\nLăng nhăng là bản chất",
+   "author": ""
+  },
+  {
+   "name": "Trời đang rất lạnh, quần áo mong manh\nĐiều em muốn nhất, là gần bên anh",
+   "author": ""
+  },
+  {
+   "name": "Quá khứ của em anh đã không tham dự, nhưng tương lai của em anh nhất định sẽ sinh sự :v đợi đi",
+   "author": ""
+  },
+  {
+   "name": "Từ lúc em còn rất gầy thì anh đã thích em rồi. Cho dù bây giờ em béo lên cũng không sao cả, vì như thế em sẽ mắc kẹt luôn trong tim anh, không còn lo em chạy thoát ra ngoài nữa!",
+   "author": ""
+  },
+  {
+   "name": "Giá như trên đời ko có giấc ngủ để anh không phải nhắm mắt... nghĩ về em.",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi, nếu anh đi thẳng đường này... có đến trái tim của em ko?",
+   "author": ""
+  },
+  {
+   "name": "Nhìn anh em thấy mờ mờ\nHoá ra đơn giản là mờ ê mê",
+   "author": ""
+  },
+  {
+   "name": "Muốn mời anh uống chén trà\nMuốn trở thành người một nhà với anh",
+   "author": ""
+  },
+  {
+   "name": "- Sao ở đâu cũng thấy anh thế?\n- Vậy ở trong tim em thấy anh chứ :v",
+   "author": ""
+  },
+  {
+   "name": "Despacito có thể bị xoá khỏi Youtube, nhưng EM không thể bị xoá khỏi TIM ANH.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như 2+1 cũng bằng với 1+2, thì có phải anh yêu em cũng đồng nghĩa với em yêu anh đúng chưa?",
+   "author": ""
+  },
+  {
+   "name": "Gửi chồng tương lai, kiếp sau ta lấy nhau nhé. Kiếp này em là đàn ông rồi.",
+   "author": ""
+  },
+  {
+   "name": "Thích em thì nói một câu\nĐể em còn học làm dâu nhà chàng!",
+   "author": ""
+  },
+  {
+   "name": "- Nhiều lúc tao thấy mình vô dụng quá m ạ.\n- Vậy m cho tao đi",
+   "author": ""
+  },
+  {
+   "name": "Đừng đuổi theo bus nữa, theo đuổi em đi. Em chạy chậm, còn dễ thương nữa.",
+   "author": ""
+  },
+  {
+   "name": "Màu em thích là màu xanh dương\nCòn anh vẫn mãi là người em thương",
+   "author": ""
+  },
+  {
+   "name": "- Nếu mỗi lần em trong tâm trí anh mà được 1 nghìn... thì anh sẽ được 1 nghìn\n- 1 nghìn thôi à\n- Vì lần đầu tiên đến bây giờ em vẫn chưa rời khỏi đầu anh bao giờ",
+   "author": ""
+  },
+  {
+   "name": "Em không sợ xuống địa ngục\nChỉ sợ địa ngục không có anh :)))",
+   "author": ""
+  },
+  {
+   "name": "Em có mua bán nội tạng không? Anh tặng em trái tim của anh này :p",
+   "author": ""
+  },
+  {
+   "name": "Trước đây, anh từng tự vẽ cho bản thân một câu chuyện tình lãng mạn. Nhưng giờ đây, khi đứng trước em, anh nghĩ bức tranh anh vẽ sẽ là em.",
+   "author": ""
+  },
+  {
+   "name": "Giữa cuộc đời hàng trăm ngàn cám dỗ\nEm chỉ cần một bến đỗ là anh",
+   "author": ""
+  },
+  {
+   "name": "Em biết em không dành hết cái thanh xuân của mình cho Anh, nhưng Anh là người tạo ra một phần của cái thanh xuân này.",
+   "author": ""
+  },
+  {
+   "name": "- Yêu hay không yêu trả lời một chữ thôi\n- Không yêu\n- Môn Văn của em là thầy toán hay thầy thể dục dạy vậy? Một chữ! Trả lời lại!",
+   "author": ""
+  },
+  {
+   "name": "- Em có thích chó ko?\n- Có ạ\n- Mẹ anh có nuôi 1 thằng \"ế như chó\" để anh mang qua cho em nhé",
+   "author": ""
+  },
+  {
+   "name": "Messi đá hỏng penalty, Ronaldo cũng vậy. Nhưng em lại ghi bàn vô tim anh mất rồi.",
+   "author": ""
+  },
+  {
+   "name": "Không có gì tiết kiệm thời gian và tiền bạc hơn là yêu ngay từ cái nhìn đầu tiên.",
+   "author": ""
+  },
+  {
+   "name": "- Tự nhiên lại muốn kết hôn\n- Sao vậy?\n- Bởi vì đúng lúc gặp được anh.",
+   "author": ""
+  },
+  {
+   "name": "Em dễ thương quá, em tỏ tình với anh đi.",
+   "author": ""
+  },
+  {
+   "name": "- Anh mới đi xem bói, ông thầy nói anh năm nay làm tướng ^^\n- Liên quan gì tới em?\n- Anh sẽ làm tướng công của em :p",
+   "author": ""
+  },
+  {
+   "name": "Tự do ngoài kia, anh có cả cuộc chơi...\nAn phận bên em thì anh có cả cuộc đời!",
+   "author": ""
+  },
+  {
+   "name": "Anh biết sửa Tivi không. Sao kênh nào cũng chiếu toàn những nhung nhớ về anh thế này.",
+   "author": ""
+  },
+  {
+   "name": "Anh biết thế nào là sống tử tế ko? Là ko để một người như em phải ế",
+   "author": ""
+  },
+  {
+   "name": "Em đây không thích la cà\nEm đây chỉ thích mặn mà với anh",
+   "author": ""
+  },
+  {
+   "name": "Em từ chối rất nhiều người, vì đơn giản họ không phải là anh.",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai anh không dám đọ\nYêu em anh chấp cả họ nó luôn",
+   "author": ""
+  },
+  {
+   "name": "Người yêu ơi yêu mình em được không :)))",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ bắt em vì tội ra đường ko đeo khẩu trang",
+   "author": ""
+  },
+  {
+   "name": "Em là một đứa rất hiếm khi cố gắng, nhưng cứ nghĩ đến chuyện sẽ làm bạn gái của anh là em không thể tiếp tục lười",
+   "author": ""
+  },
+  {
+   "name": "Năm ngoái anh đến đây với người yêu cũ, anh hỏi cô ấy có yêu anh không. Cô ấy bảo không. Thế là anh ấy đẩy cô ấy xuống hồ này. Bây giờ chưa thấy nổi lên… Giờ anh lại hỏi em “Em có yêu anh không?”.",
+   "author": ""
+  },
+  {
+   "name": "- Sao ngày xưa anh yêu nhiều người vậy?\n- Anh chưa gặp em, nên anh phải tìm kiếm em trong biển người.",
+   "author": ""
+  },
+  {
+   "name": "Tháp Mười đẹp nhất bông sen\nTình anh đẹp nhất có thêm em vào",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời này không giống như một bộ phim để cho mình có nhiều lần gặp gỡ. Để cho duyên mình được lỡ em có đồng ý làm nữ chính trong cuộc đời anh không?",
+   "author": ""
+  },
+  {
+   "name": "Thần tượng của tôi không phải là pho tượng thần kì, anh ấy cũng là con người bình thường có đầy đủ hỉ nộ ái ố và những khuyết điểm, lỗi lầm! Quan trọng là cách anh ấy giải quyết những khuyết điểm lỗi lầm ấy. Đấy là lí do mà chúng tôi yêu anh ấy!!!",
+   "author": ""
+  },
+  {
+   "name": "Anh gì ơi, đúng rồi là anh đó, bàn tay anh có vẻ nặng nề quá, hihi, hãy để em cầm nó giúp anh.",
+   "author": ""
+  },
+  {
+   "name": "Cho dù chỉ có 1 trong nghìn tỉ lệ thành công. Tôi vẫn sẽ chỉ tin tưởng người ấy.",
+   "author": ""
+  },
+  {
+   "name": "Em đây rất ghét cách ly\nNhưng em tình nguyện ở lỳ bên anh",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh đi... nhà anh có điều hòa... nóng lại bật kkkkk",
+   "author": ""
+  },
+  {
+   "name": "Lát nữa anh nghĩ là em nên gửi hình tự sướng qua NASA... tại vì em xinh như một ngôi sao vậy đó.",
+   "author": ""
+  },
+  {
+   "name": "Người ấy vẫn là cảnh đẹp phương xa\nTôi nhìn mà mắt ướt nhòa",
+   "author": ""
+  },
+  {
+   "name": "Nhất quỷ, nhì ma, thứ ba em đi chơi với anh nha.",
+   "author": ""
+  },
+  {
+   "name": "Này cô con gái nhà ai\nCớ sao dám hái hoa nhài nhà tôi\nHái rồi thì hãy lấy thôi\nCòn chưa hái được để tôi hái dùm",
+   "author": ""
+  },
+  {
+   "name": "- Em tên gì vậy?\n- Anh hỏi chi vậy?\n- Để ghi vào gia phả nhà anh",
+   "author": ""
+  },
+  {
+   "name": "- Em có phải là Google ko?\n- Ý anh là sao ạ?\n- Vì ở em có mọi thứ mà anh luôn tìm kiếm",
+   "author": ""
+  },
+  {
+   "name": "- Nay xem phim, anh thấy đoạn nào đáng nhớ nhất?\n- Đoạn em ngừng xem rồi quay qua nhìn trộm anh",
+   "author": ""
+  },
+  {
+   "name": "- Good morning!\n- Mấy giờ rồi mà còn mó ning? Anh ở VN mà sống theo múi giờ nào vậy?\n- Tại giờ anh mới thấy mặt trời của anh xuất hiện mà",
+   "author": ""
+  },
+  {
+   "name": "Đừng chúc em ngủ ngon khi anh là điều khiến em thao thức",
+   "author": ""
+  },
+  {
+   "name": "Em độc thân. Anh độc thân. Chắc không phải ngẫu nhiên đâu nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh... theo cách riêng của em\nNgấm ngầm... âm thầm rồi từ từ anh sẽ thấm\nNgấm như thuốc phiện... mà nghiện thì không thể cai...",
+   "author": ""
+  },
+  {
+   "name": "Anh là người duy nhất trên thế giới này em từng yêu và cũng là người đầu tiên cho em biết yêu là thế nào",
+   "author": ""
+  },
+  {
+   "name": "Úi úi, đau bụng quá, gặp em là anh thấy động lòng rồi...",
+   "author": ""
+  },
+  {
+   "name": "- Nếu chỉ còn được yêu em 4 ngày, thì anh sẽ yêu em 4 ngày xuân, hạ, thu, đông\n- Nếu chỉ còn được yêu em 3 ngày, thì anh sẽ yêu em ngày hôm qua, ngày hôm nay và ngày mai\n- Nếu chỉ còn được yêu em 2 ngày, thì anh sẽ yêu em ngày chẵn và ngày lẻ\nVà nếu chỉ còn lại 1 ngày, thì anh sẽ yêu em ngày mà anh còn sống.",
+   "author": ""
+  },
+  {
+   "name": "Đi đi kẻo lỡ đèn xanh\nYêu đi kẻo lỡ tình anh bây giờ",
+   "author": ""
+  },
+  {
+   "name": "- Cho anh bốn từ, \"bò\", \"cỏ\", \"anh\", \"ăn\", anh đặt một câu giúp em đi.\n- Lại bẫy gì đây? Anh chịu thôi.\n- Đáp án là \"bò ăn cỏ\"\n- Thế \"anh\" đâu?\n- Anh chiếm trọn trái tim em rồi.",
+   "author": ""
+  },
+  {
+   "name": "cần 1 cái tên: Chào a khánh ẹp dai.hôm nay e có chuyện nhờ a giúp giùm.mong a làm thơ về nàng, nàng tên hương. a có thể viết sao cho nó tình cảm 1 chút, bá đạo 1 chút, làm sao cho nó trông giống phim kiếm hiệp ý. mong a giúp giùm\n\nNhững lời ta sắp nói với Hương nhi, ko đơn thuần là trao thương gửi nhớ mà còn để thuyết phục trái tim cố chấp của nàng. Nam tử hán đại trượng phu đầu đội trời chân đạp đất xin thề kiếp này ta chỉ có một mình nàng. Đôi mắt này không còn ngó ngàng cô gái khác, đôi tay chẳng còn nắm người khác sánh vai, trái tim này đã ko còn chỗ cho kẻ thứ hai. Mặc dù ta và nàng đã ko gặp nhau giữa non nước hữu tình, nhưng ta nguyện lấy thân mình để báo đáp ân nhân. À ta nhầm, phải nói là anh hùng khó qua ải mỹ nhân chứ hả. Nếu chuyện tình thiên hạ có 4 chữ lắm thì chúng ta cũng có 4 chữ duyên: Duyên kiếp đã cho ta gặp nàng, Duyên số đã khiến ta yêu nàng, Duyên nợ đã giúp ta bên nàng và Duyên phận liệu có chấp nhận trao chúng ta 1 danh phận. Hương cô nương à, nàng có bằng lòng theo ta làm nương tử nâng khăn sửa túi suốt đời này ko?",
+   "author": ""
+  },
+  {
+   "name": "Vector chỉ có một chiều\nAnh dân chuyên toán chỉ yêu một người",
+   "author": ""
+  },
+  {
+   "name": "Đố ai quét sạch lá rừng\nĐố ai bảo được em ngừng thương anh",
+   "author": ""
+  },
+  {
+   "name": "- Là con gái, ai cùng thích nhất cái này. Em thích nhất là cái gì?\n- Ờm, em thích... ờm...\n- Đừng nói là em thích anh nha.",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm hút cỏ hút cần\nKhông bằng một phút được gần bên em",
+   "author": ""
+  },
+  {
+   "name": "Em biết tại sao bây giờ anh mới gặp em không? Đó là bởi vì anh muốn trở nên hoàn hảo nhất trước mặt em.",
+   "author": ""
+  },
+  {
+   "name": "Ngoài trời thì mưa tầm tả... Liệu em có thể ngã vào lòng anh???",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay em học toán hình\nTròn vuông chẳng có, toàn hình bóng anh",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi! Cho em vay bát họ hạnh phúc\nLãi suất này em xin trả bằng con tim",
+   "author": ""
+  },
+  {
+   "name": "Anh là cos, em là sin. Khi bình phương, chúng ta là một.",
+   "author": ""
+  },
+  {
+   "name": "Nước trong nước chảy quanh chùa\nKhông yêu tao cũng bỏ bùa cho yêu.",
+   "author": ""
+  },
+  {
+   "name": "Em yêu Anh, thì Anh yêu trả lại\nCó bao giờ, ăn lãi của nhau đâu!",
+   "author": ""
+  },
+  {
+   "name": "Cậu có phải google maps không? Vì tớ cảm thấy lạc lối khi không có cậu ở bên.",
+   "author": ""
+  },
+  {
+   "name": "Đường thì dài mà chân em thì ngắn, phải đi bao xa nữa mới có thể tìm thấy anh?",
+   "author": ""
+  },
+  {
+   "name": "Cho anh một cốc trà đào\nTiện cho anh hỏi lối vào tim em",
+   "author": ""
+  },
+  {
+   "name": "Chữ tình vốn không có quy tắc gì cả, do tâm mà sinh, nếu nghĩ là thích, vậy thì chắc chắn là thích rồi.",
+   "author": ""
+  },
+  {
+   "name": "- Em là rác phải ko?\n- Khùng hả\n- Sao gặp là cứ muốn đổ là sao?",
+   "author": ""
+  },
+  {
+   "name": "Anh như đoàn tàu chạy với vận tốc không nhanh!!! Nhưng... Em đuổi cả \"thanh xuân\" vẫn không kịp",
+   "author": ""
+  },
+  {
+   "name": "Em mún biết chồng tương lai của e ko? Quen anh đi.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như thể hái hoa\n1 tay muốn hái tới 3, 4 cành",
+   "author": ""
+  },
+  {
+   "name": "Anh là bộ phim đẹp nhất, là khúc hát em từng đắm say",
+   "author": ""
+  },
+  {
+   "name": "Em muốn tập làm hacker chuyên nghiệp, không cần mã bẻ khoá trái tim anh",
+   "author": ""
+  },
+  {
+   "name": "- Anh đang gặp khó khăn. Em có thể giúp a làm một việc được không?\n- Việc gì vậy a. Nếu được e sẽ giúp\n- Làm bạn gái a nhé ^^",
+   "author": ""
+  },
+  {
+   "name": "Anh là mây, em là gió đứa nào xen vào là con chó",
+   "author": ""
+  },
+  {
+   "name": "Khi ngã từ thiên đường xuống trần gian, em có đau không?",
+   "author": ""
+  },
+  {
+   "name": "Theo luật dân sự, mọi sự trao đổi phải đồng giá. Em có muốn trao đổi một nửa cuộc đời em lấy một nửa cuộc đời anh không?",
+   "author": ""
+  },
+  {
+   "name": "Ngoài ngoại hình với tính cách của anh, em còn thích a ở chỗ nào nữa ko?",
+   "author": ""
+  },
+  {
+   "name": "Anh có biết con sư tử và anh khác nhau điểm gì không?\nSư tử trong sở thú còn anh ở trong tim em",
+   "author": ""
+  },
+  {
+   "name": "- Em thấy anh có đẹp trai ko?\n- Xấu\n- Em nghĩ anh sau này cưới vợ có lấy đc vợ xinh ko?\n- Đàn ông xấu thường lấy đc vợ rất xinh anh ạ\n- Sao em tự kỷ thế nhờ.",
+   "author": ""
+  },
+  {
+   "name": "Ngoài kia gió thổi rì rào\nĐầu tiên xin gửi lời chào thân thương",
+   "author": ""
+  },
+  {
+   "name": "Là một Fan girl xinh xắn long lanh, em không khuynh nước khuynh thành, mà em khuynh gia bại sản",
+   "author": ""
+  },
+  {
+   "name": "Suy nghĩ của anh nhàm chán lắm, ngoài em ra thì chả có gì cả",
+   "author": ""
+  },
+  {
+   "name": "Em ơi sao ta lại cùng đường thế này? Duyên số đã đưa ta đi cùng nhau, mà người ta nói cái duyên đi cùng với cái số. Cho anh số em nhé :v",
+   "author": ""
+  },
+  {
+   "name": "E cứ nghĩ a là hoa đã có chủ\nNhưng đâu biết a là chủ một vườn hoa :))",
+   "author": ""
+  },
+  {
+   "name": "Tập nào của \"Kỳ quan thế giới\" anh cũng coi hết, mà sao vẫn chưa có tập nào nói về em nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Thời tiết trái gió trở trời\nTrái tim lỡ nhịp cả đời thương em",
+   "author": ""
+  },
+  {
+   "name": "Gái đã có chủ.. cao thủ vẫn tán đổ",
+   "author": ""
+  },
+  {
+   "name": "Chỉ mỗi anh là không biết rằng chúng ta đang yêu xa.",
+   "author": ""
+  },
+  {
+   "name": "- Nè!\n- Nghe?\n- Sao cậu kết tủa trong tim tớ như BaSO4 vậy",
+   "author": ""
+  },
+  {
+   "name": "Tôi có 1 trái tim, 2 con mắt, 7 lít máu, 206 cái xương, 5,5 triệu hồng cầu, 60 tỷ tỷ ADN chúng đều đang muốn nói: \"tôi yêu em!\" :)",
+   "author": ""
+  },
+  {
+   "name": "Nếu em không chê khoai anh nhỏ thì em ngỏ lời yêu anh đi",
+   "author": ""
+  },
+  {
+   "name": "Ngoài kia đám cưới linh đình\nBao giờ mới đến lượt mình đây anh?",
+   "author": ""
+  },
+  {
+   "name": "Anh đẹp troai, em xấu gái. Đến vs nhau có gì đó sai sai.",
+   "author": ""
+  },
+  {
+   "name": "Em ơi anh bảo em này\nThu kia đã hết, đến ngày đông sang\nGió lạnh từng hồi miên man\nĐưa tay anh nắm bình an một đời",
+   "author": ""
+  },
+  {
+   "name": "Anh đâu phải người bán gà\nMà cho em một ký ức",
+   "author": ""
+  },
+  {
+   "name": "Anh đi phượt nhiều rồi nhưng vẫn chưa thấy con đèo nào nhiều đường cong như em.",
+   "author": ""
+  },
+  {
+   "name": "Anh là Vinh... người gặp em hôm bữa đó... em có đồng ý làm tình... hình của chúng ta thêm tốt đẹp hơn không? Làm bạn gái anh nha.",
+   "author": ""
+  },
+  {
+   "name": "Ánh Sơn: Anh làm bài tên Ánh giùm e đươc không...\n\nViết đại nha.\nÁnh có biết là Ánh là một phần trong khÁNH, chẳng phải nếu anh có sắc là sẽ có được Ánh. Trời có đánh thì đó là duyên, nếu Ánh là tiên thì tui sẽ là tề thiên đại náo cung đình chứng minh người chung tình nhất là tui. Ánh zui là tui ko sầu, Ánh rầu là tui đau đầu sầu lo. Lo là sẽ có một ai đó, gửi vào gió những lời yêu thương ngọt như đường, tui bình thường, tui tầm thường thì có quyền gì yêu đương? 2 bình phương là 4, còn tình đơn phương là 1 người trốn 1 người tìm. Chắc đang thắc mắc tại sao tui lại nhắc tới số ở đây phải ko? \"Gặp nhau là do duyên số, bên nhau là ẩn số cần đi tìm\". Tui quá ngốc phải ko? Bớt công nhận điều đó đi, tui chỉ là đang nhìn thẳng vào vấn đề, chứ ko phải làm hề cho bà cười đâu. Trước khi kết thúc cho tui hỏi bà 1 câu: Trong lớp mình... nếu ko tính tui vô... thì bà thích ai?",
+   "author": ""
+  },
+  {
+   "name": "FA ko phải là ế Mà là ko có người thay thế M-TP.",
+   "author": ""
+  },
+  {
+   "name": "Muốn bình yên thì lên chùa cầu chúc\nMuốn hạnh phúc thì qua nhà tìm em",
+   "author": ""
+  },
+  {
+   "name": "Mắt mũi để đâu mà va vào tim anh thế này.",
+   "author": ""
+  },
+  {
+   "name": "Nếu một ngày tớ muốn đi du lịch vòng quanh thế giới, tớ có thể đi quanh cậu một vòng không?",
+   "author": ""
+  },
+  {
+   "name": "Nếu anh là cây cột đèn giao thông thì anh sẽ đỏ mãi để em đứng đó cho anh ngắm thôi.",
+   "author": ""
+  },
+  {
+   "name": "Anh không biết nói lời hoa mỹ, anh chỉ muốn dắt em về nhà.",
+   "author": ""
+  },
+  {
+   "name": "Tôi cho phép em yêu tôi đấy...",
+   "author": ""
+  },
+  {
+   "name": "Em có biết lịch sử và em giống nhau điểm nào không? Đó là cả 2 đều khiến anh phải nhớ thật nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Anh có biết cài Win không? Cài hộ em cái hệ điều hành nào mà có giao diện chính là anh được không?",
+   "author": ""
+  },
+  {
+   "name": "Dăm ba chén rượu ly trà\nThứ em say nhất chỉ là anh thôi",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi em, em có hôn người lạ không? Không à? Vậy thì hãy để anh tự giới thiệu nhé.",
+   "author": ""
+  },
+  {
+   "name": "Em muốn yêu trước khi cưới hay cưới sau khi yêu?",
+   "author": ""
+  },
+  {
+   "name": "Sáng nay ăn bát cháo lòng\nAnh ăn hết cháo, để lòng yêu em",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười ươm đầy nắng, ánh mắt dư ngọt ngào\nNếu tim cậu còn vắng, cho tớ vô với nào",
+   "author": ""
+  },
+  {
+   "name": "Đêm Sơn La sương mù bao phủ\nNhớ em anh có ngủ được đâu",
+   "author": ""
+  },
+  {
+   "name": "Em vụng về nên làm gì cũng đổ\nTấm thân này cũng lỡ đổ vào anh",
+   "author": ""
+  },
+  {
+   "name": "Cầm vàng còn sợ vàng rơi\nYêu trai xây dựng đời đời an tâm",
+   "author": ""
+  },
+  {
+   "name": "Ai mà chẳng thích kim cương hay hột xoàng...\nNhưng tôi lại thích cậu với những hạt trân châu này...\nTrà sữa trân châu thạch chese đây.",
+   "author": ""
+  },
+  {
+   "name": "- Trong 12 con giáp anh thích con gì?\n- Anh thích con ong được không?\n- Hơ\n- Để có thể thưởng thức được sự ngọt ngào từ bông hoa như em :v",
+   "author": ""
+  },
+  {
+   "name": "Có phải anh làm ở cây xăng? Sao cứ gặp anh là em lại đổ",
+   "author": ""
+  },
+  {
+   "name": "Lời tỏ tình đáng yêu nhất từng nghe: ngoài việc để anh yêu thì em chả được cái tích sự gì!",
+   "author": ""
+  },
+  {
+   "name": "Bắc Đẩu đã có Nam Tào\nCòn anh đã có người nào hay chưa?",
+   "author": ""
+  },
+  {
+   "name": "Em là cô gái mặc váy trắng\nChấp nhận bị mẹ mắng để yêu anh",
+   "author": ""
+  },
+  {
+   "name": "Anhyêuem viết thế này để không ai có thể xen vào.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nào em muốn kết hôn thì nói anh... anh lấy em",
+   "author": ""
+  },
+  {
+   "name": "- Cho anh ôm em 1 cái nhé\n- Hihi\n- Cho anh hôn 1 cái nhé\n- Hihi\n- Em bị làm sao thế, sao anh hỏi mà không nói\n- Thế anh bị làm sao mà thấy nói mà không làm",
+   "author": ""
+  },
+  {
+   "name": "Nếu em bẻ khóa vượt rào\nThì liệu có thể chui vào tim anh?",
+   "author": ""
+  },
+  {
+   "name": "- Em nhắm mắt lại đi... em thấy gì ko?\n- Màu đen\n- Đó là cuộc sống của anh khi không có em đó.",
+   "author": ""
+  },
+  {
+   "name": "- Em có siêu năng lực đó.\n- Năng lực gì?\n- Siêu thích anh",
+   "author": ""
+  },
+  {
+   "name": "Anh dốt Tiếng Anh nhưng anh biết My Love là em.",
+   "author": ""
+  },
+  {
+   "name": "- Sắp sinh nhật em rồi đúng ko?\n- Dạ\n- Sinh nhật thứ 19 đúng ko?\n- Đúng rồi\n- Vậy anh xin lỗi nha\n- Sao phải xin lỗi?\n- Vì đã để em đợi tới 19 năm anh mới xuất hiện",
+   "author": ""
+  },
+  {
+   "name": "Điều duy nhất đôi mắt em chưa nói cho anh biết là tên của em.",
+   "author": ""
+  },
+  {
+   "name": "Em không cần kết quả, cũng không cần hứa hẹn gì, có thể yêu thêm được 1 ngày thì sẽ yêu 1 ngày, có thể nhìn thêm được 1 lần thì sẽ nhìn thêm 1 lần",
+   "author": ""
+  },
+  {
+   "name": "Nếu em xem tình yêu của anh là hạt cát. Thì anh hứa sẽ đổ cả sa mạc vào tim em.",
+   "author": ""
+  },
+  {
+   "name": "Tạo hóa đã tạo 2 thứ tuyệt vời nhất :v 1 là em còn lại là anh",
+   "author": ""
+  },
+  {
+   "name": "Làm chồng em nhé,... em có 1 vòng 2 rất rộng :p",
+   "author": ""
+  },
+  {
+   "name": "Em là để ngắm, việc say đắm cứ để anh.",
+   "author": ""
+  },
+  {
+   "name": "Đang bùn, đang chán ai tán tôi... tôi tán lại",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ hỏi em câu chán chưa, vì tình cảm em dành cho anh luôn chứa chan.",
+   "author": ""
+  },
+  {
+   "name": "Bí kíp võ công tán gái: Đô la chưởng, Kim cương chảo, Biệt thự thần công, 6 múi chân kinh, Đẹp trai thập bát chưởng",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi, mắt anh dính gì kìa?\n- Dính gì?\n- Bóng dáng em",
+   "author": ""
+  },
+  {
+   "name": "Đời em sẽ hóa màu hồng\nNếu như anh chịu làm chồng của em",
+   "author": ""
+  },
+  {
+   "name": "Vượt qua lễ giáo... cuốn quần áo... tìm zai :v",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu giữa fan và thần tượng giống như ranh giới giữa vực thẳm và trời xanh. Tỉnh táo, lí trí, ngẩng cao đầu thì bạn thấy thế giới như bầu trời - trong vèo xanh ngắt. Còn u mê lún sâu, mất lí trí thì bạn chính là đang từ từ rơi xuống vực thẳm, càng ngày càng không thoát ra được. Nhưng đừng sống 1 cuộc đời vô ích - 1 năm mà sống tới tận hơn 70 lần. Mà hãy tự tạo ra cuộc sống mới, biết thoả mãn bản thân, lỡ thích rồi thì cứ thích đi vì thời gian như hơi nước, phút chốc là bay hơi!",
+   "author": ""
+  },
+  {
+   "name": "Trai Nghệ An như cây thuốc phiện.\nGái ba miền không nghiện cũng phê",
+   "author": ""
+  },
+  {
+   "name": "- Anh chê em mập hả?\n- Mập mà tấp nập người theo :D",
+   "author": ""
+  },
+  {
+   "name": "Áo trắng ơi, em là ai giữa cuộc đời này. Em là ai bước tới nơi đây thế. Làm tôi say, làm tôi khát khao 1 kiểu mà khó chịu ấy :v",
+   "author": ""
+  },
+  {
+   "name": "Trái tim con người không phải là máy bán hàng tự động, muốn soda thì sẽ ra soda. Em yêu anh chính là sử dụng trái tim cố chấp này",
+   "author": ""
+  },
+  {
+   "name": "Ai yêu em có lẽ sẽ bị tiểu đường vì đôi môi ngọt ngào của em mất.",
+   "author": ""
+  },
+  {
+   "name": "Nếu khoảng cách giữa chúng ta là 1000 bước, chỉ cần em đi 1 bước đầu tiên, anh sẽ bước 999 bước còn lại về phía em.",
+   "author": ""
+  },
+  {
+   "name": "Kể cả trái đất này không có trọng lực, em vẫn cứ đổ vì anh.",
+   "author": ""
+  },
+  {
+   "name": "Trên tay tứ quý át không bằng một lát ở bên em.",
+   "author": ""
+  },
+  {
+   "name": "- Anh tên gì?\n- Anh tên Yêu, em có thể gọi anh là anh yêu :v",
+   "author": ""
+  },
+  {
+   "name": "Tính em không thích lưng chừng\nYêu em chẳng sợ cắm sừng đâu anh",
+   "author": ""
+  },
+  {
+   "name": "Không mơ cổ tích hoang đường\nChỉ xin giấc mộng bình thường có em",
+   "author": ""
+  },
+  {
+   "name": "Em đây thích nhạc không lời\nThích luôn cả chuyện trọn đời có anh.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ để đứng giữa một biển người để nhìn anh lâu hơn một chút mà em chẳng còn tí tiền tiết kiệm nào nữa.",
+   "author": ""
+  },
+  {
+   "name": "- Tương lai ở phía trước hay phía sau hả anh?\n- Phía trước!\n- Thế thì chúng mình là tương lai của nhau nhé! Vì phía trước anh là em, mà phía trước em cũng là anh đó ^^!",
+   "author": ""
+  },
+  {
+   "name": "- Em tên gì?\n- Nhi ạ\n- Vậy em biết ngày nào trong năm làm anh buồn nhất ko?\n- Ngày nào?\n- 1/6\n- Tại sao?\n- Đó là ngày quốc tế thiếu Nhi",
+   "author": ""
+  },
+  {
+   "name": "Em muốn cùng anh, làm tất cả những chuyện lãng mạn, trên thế giới này một lần...\nEm không đặc biệt thích gì, chỉ có anh là em thích nhất...",
+   "author": ""
+  },
+  {
+   "name": "- Anh nên đi mua thuốc diệt kiến đi.\n- Tại sao?\n- Tại vì anh ngọt quá kiến sẽ bu anh đấy...",
+   "author": ""
+  },
+  {
+   "name": "Không cầu đáp trả, chỉ cầu anh đừng cự tuyệt",
+   "author": ""
+  },
+  {
+   "name": "Tiên nữ bị đày xuống phàm này muốn làm vợ anh!",
+   "author": ""
+  },
+  {
+   "name": "Anh luôn hãnh diện vì sự lương thiện\nAnh là hiện diện cho sự thánh thiện\nNhưng mà nghiện em hơn cả thuốc phiện\nThì anh sẵn lòng vào vai phản diện.",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi trái đất hình tròn\nTrốn mà không kỹ là còn gặp em",
+   "author": ""
+  },
+  {
+   "name": "Yêu em anh để trong lòng\nYêu thêm em nữa đề phòng rủi ro",
+   "author": ""
+  },
+  {
+   "name": "Dạo này có tin đồn anh thích em, sai rồi... anh muốn đính chính lại: Đó ko phải là tin đồn.",
+   "author": ""
+  },
+  {
+   "name": "Đen Vâu muốn trồng rau và nuôi thêm cá\nCòn anh lại muốn hỏi má để nuôi thêm em",
+   "author": ""
+  },
+  {
+   "name": "Yêu em anh để trong lòng\nChừng nào em muốn có chồng tìm anh!",
+   "author": ""
+  },
+  {
+   "name": "Lừa tình thì chẳng bằng ai nhưng chung tình thì hiếm ai bằng mình.",
+   "author": ""
+  },
+  {
+   "name": "Không ngờ cạnh anh lại có 1 nhân tài ẩn dật mà chưa khai quật như em",
+   "author": ""
+  },
+  {
+   "name": "- Mai đi xem phim End Game không anh?\n- Anh không phải fan Avenger, xem có hiểu gì đâu...\n- Thì em cũng thế mà :))\n- Thế em muốn gì?\n- 3 tiếng bên anh <3",
+   "author": ""
+  },
+  {
+   "name": "Trái tim a nhìu ngăn... a đa tình... nên e không trách",
+   "author": ""
+  },
+  {
+   "name": "Xinh đẹp dễ thương em không có\nCần cù chịu khó có yêu không?",
+   "author": ""
+  },
+  {
+   "name": "Bao nhiêu cân thính cho vừa\nBao nhiêu cân bả mới lừa được anh",
+   "author": ""
+  },
+  {
+   "name": "Trung thu em ngắm chị Hằng\nCòn anh ngồi cạnh nói rằng thích em",
+   "author": ""
+  },
+  {
+   "name": "Sau này, tương lai mọi thứ đã ổn. Lúc đó đừng thuộc về ai nhé. Vì anh nhất định sẽ tìm em.",
+   "author": ""
+  },
+  {
+   "name": "Đậu hủ phải có mắm tôm\nYêu anh sẽ được anh ôm mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Thích là phải nhích cho tới đích\nMột khi không nhích thì mất tích không cần giải thích.",
+   "author": ""
+  },
+  {
+   "name": "Em đây chẳng thích nhiều lời\nNhìn anh là biết bạn đời của em",
+   "author": ""
+  },
+  {
+   "name": "- Tớ có thích một người\n- Chắc bạn ấy xinh lắm\n- Cậu tự kỷ vừa thôi",
+   "author": ""
+  },
+  {
+   "name": "Anh không thích ăn cơm với cá\nAnh thích được hôn má em thôi",
+   "author": ""
+  },
+  {
+   "name": "- Em có người yêu chưa?\n- Em có rồi :))\n- Vậy hả? Anh có thể làm thầy giáo của em không?\n- Sao?\n- Vì anh có thể dạy em cách cắm sừng :))",
+   "author": ""
+  },
+  {
+   "name": "Mình yêu nhau e nhé, ta cùng sanh e bé",
+   "author": ""
+  },
+  {
+   "name": "Làm trai cho đáng nên trai\nĐi đâu cũng có chân dài bám theo",
+   "author": ""
+  },
+  {
+   "name": "Nhìn môi em có vẻ cô đơn\nChào em đây là môi anh\nĐể chúng nó làm quen nha.",
+   "author": ""
+  },
+  {
+   "name": "Em đây không thích nói nhiều\nAnh nào đứng đợi từ chiều lên xe",
+   "author": ""
+  },
+  {
+   "name": "Nếu thích 1 người thì hãy can đảm nói ra. Còn không thì hãy can đảm nhìn người ta yêu người khác.",
+   "author": ""
+  },
+  {
+   "name": "Người ta có bằng cử nhân, bằng thạc sĩ còn cậu có bằng lòng làm người thương của tớ không?",
+   "author": ""
+  },
+  {
+   "name": "Em gầy vào mùa hạ\nVà béo vào mùa đông.\nAnh có thương em không\nHả chàng trai trong mộng?",
+   "author": ""
+  },
+  {
+   "name": "Thà tỏ tình thất bại, còn hơn ăn hại nhận lời làm anh trai.",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi tôi đã làm mất số điện thoại của mình. Tôi có thể mượn số của cô được không?",
+   "author": ""
+  },
+  {
+   "name": "Thời buổi này, phải giữ tâm bất dính giữa dòng đời vạn thính.",
+   "author": ""
+  },
+  {
+   "name": "Mai này lỡ trăng tàn sao rơi, người không còn được hào quang chiếu sáng. Xin hãy tin tưởng ở tôi, tôi sẽ dùng ánh đèn lightstick đơn độc này thắp sáng nhiệt huyết năm xưa cùng người",
+   "author": ""
+  },
+  {
+   "name": "- Em vừa soi gương xong liền chạy vội đến đây gặp anh!\n- Ủa tại sao?\n- Vì mỗi lần thấy cái gì xinh đẹp, em đều muốn mang tặng cho anh.",
+   "author": ""
+  },
+  {
+   "name": "- Em có thích nước không?\n- Thích ạ\n- Vậy thì hay quá. Em đã thích anh 75% của anh rồi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời tôi là phương trình, nếu thiếu anh, chắc chắn sẽ vô nghiệm!",
+   "author": ""
+  },
+  {
+   "name": "- Ở đây có bán đồ take away ko em?\n- Dạ có ạ!\n- Vậy tí nữa anh xách em về nha.",
+   "author": ""
+  },
+  {
+   "name": "- Em có thấy da anh bị đen đi ko?\n- Hơi hơi thôi ạ\n- Tại em cả đấy, tại em cứ cười toả nắng làm da anh đen.",
+   "author": ""
+  },
+  {
+   "name": "Em có sẵn lòng giúp 1 người vô gia cư không? Đưa anh về nhà em với :v",
+   "author": ""
+  },
+  {
+   "name": "Chào em cô gái mới quen\nCho anh xin hỏi em tên là gì?",
+   "author": ""
+  },
+  {
+   "name": "Nhìn anh trông có đủ ngầu\nĐể em quên mối tình đầu hay chưa?",
+   "author": ""
+  },
+  {
+   "name": "Dành cho các bạn thích thả thính\n14/1: Ngày nhật ký\n14/2: Valentine\n14/3: Valentine trắng\n14/4: Valentine đen\n14/5: Ngày hoa hồng/ngày vàng\n14/6: Ngày của những chữ \"K\" lãng mạn\n14/7: Ngày bạc\n14/8: Ngày âm nhạc\n14/9: Ngày chụp ảnh\n14/10: Ngày rượu vang\n14/11: Ngày của những cái ôm thân ái\n14/12: Ngày tất",
+   "author": ""
+  },
+  {
+   "name": "Thuốc lá thì gây ung thư\nCòn em thì gây tương tư dài hạn",
+   "author": ""
+  },
+  {
+   "name": "Núi non phong cảnh hữu tình\nLiệu anh có muốn chúng mình bên nhau?",
+   "author": ""
+  },
+  {
+   "name": "- Em có thích Sơn Tùng hông?\n- Dạ, có anh!\n- Anh thì không phải Sơn Tùng, nhưng anh sẽ luôn \"Âm thầm bên em\"",
+   "author": ""
+  },
+  {
+   "name": "- Hỏi thiệt anh có người yêu chưa?\n- Em ừ cái có liền à",
+   "author": ""
+  },
+  {
+   "name": "Anh mới phát hiện ra 1 điều rất thú vị. Tên anh đi với tên em thôi chưa đủ, phải có một chữ YÊU ở giữa mới đẹp đôi em ạ",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần anh muốn hẹn hò\nĐò xưa bến cũ cứ để Quỳnh lo.",
+   "author": ""
+  },
+  {
+   "name": "Xinh đẹp dịu dàng không có\nBa xạo chảnh chó anh có yêu không?",
+   "author": ""
+  },
+  {
+   "name": "Trời xanh mây trắng nắng vàng\nAnh thơm vào má của nàng được không?",
+   "author": ""
+  },
+  {
+   "name": "Em ế là lỗi tại em, nhưng để em ế quá lâu là lỗi tại anh đó ạ =)))",
+   "author": ""
+  },
+  {
+   "name": "Chị không thể biến mùa hạ thành đông\nNhưng có thể biến em thành phi công của chị.",
+   "author": ""
+  },
+  {
+   "name": "- Em làm người yêu anh nhé...anh làm ăn khá lắm, làm một ngày ăn một năm.\n- Anh làm nghề gì\n- Anh làm muối",
+   "author": ""
+  },
+  {
+   "name": "Nhớ em chẳng biết nhắn gì\nNhắn yêu thì ngại cũng vì ít văn\nTrong lòng anh cứ băn khoăn\nThôi anh nhắn đại nay em ăn gì?",
+   "author": ""
+  },
+  {
+   "name": "Anh có thể không rượu bia, không hút thuốc, không gái gú... nhưng không thể thiếu em được.",
+   "author": ""
+  },
+  {
+   "name": "Thế em là mây sao anh thấy em là mê.",
+   "author": ""
+  },
+  {
+   "name": "- Anh! Anh có dám hét lên với thế giới rằng anh yêu em không?\n- Chàng trai thì thầm vào tai cô gái: \"Anh yêu em!\"\n- Em muốn anh hét thật to cho cả thế giới nghe cơ!\n- Anh không cần phải làm thế đâu em, vì em chính là thế giới của anh rồi!",
+   "author": ""
+  },
+  {
+   "name": "Dù em không phải ca sĩ nhưng anh xin làm người hâm mộ được không? :v",
+   "author": ""
+  },
+  {
+   "name": "Nếu em gọi anh một tiếng \"bạn trai\" anh có dám đồng ý không?",
+   "author": ""
+  },
+  {
+   "name": "Anh hỡi, nay em cũng lớn rồi\nQua nhà hỏi má rước em thôi\nBạn bè gặp gỡ luôn cà khịa\nChưa cưới nhân phẩm khó phục hồi",
+   "author": ""
+  },
+  {
+   "name": "Anh không được rời xa em. Vì bác sĩ bảo bệnh nhân không được tháo bình oxi.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như em là 1 giọt nước mắt trong mắt anh thì anh sẽ ko bao giờ khóc... bới vì a ko muốn mất em :v",
+   "author": ""
+  },
+  {
+   "name": "Có duyên nhưng không có số thì có mà bố anh cũng không tán đổ được em",
+   "author": ""
+  },
+  {
+   "name": "Em biết em và cái ly khác nhau ở điểm gì không?\nCái ly dễ vỡ, em thì dễ thương!",
+   "author": ""
+  },
+  {
+   "name": "- Em là nhân vật nào trong 12 con giáp?\n- Dạ, Bạch Dương\n- Hợp với anh, anh cung thiên... thiên gì nè...\n- Thiên Bình anh\n- Thiên Thần em",
+   "author": ""
+  },
+  {
+   "name": "Ngoài kia gió lạnh từng cơn\nVề bên em sẽ ấm hơn anh à!",
+   "author": ""
+  },
+  {
+   "name": "Con cóc là cậu ông trời\nCòn cậu là cả cuộc đời của tui",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi, nắng ấm xa dần\nĐông sang gió lạnh chỉ cần có anh",
+   "author": ""
+  },
+  {
+   "name": "Monday là thứ hai\nTuesday là thứ ba\nCòn bao giờ tôi mới được benemday?",
+   "author": ""
+  },
+  {
+   "name": "Hỏi anh đi đứng thế nào\nNăm lần bảy lượt ngã vào tim em.",
+   "author": ""
+  },
+  {
+   "name": "- Em có chị em sinh đôi gì không?\n- Dạ không có ạ\n- Thế không có cô gái thứ 2 nào dễ thương như là em rồi :v",
+   "author": ""
+  },
+  {
+   "name": "- Anh thấy em còn thiếu 1 chút xíu nữa để thành hoa hậu?\n- Thiếu gì anh?\n- Em phải đi thi đi. Người ta mới trao giải được.",
+   "author": ""
+  },
+  {
+   "name": "Trên trái đất này có 9 tỷ người nhưng anh chỉ nhắn tin chúc em ngủ ngon thôi, vì Anh không đủ tiền để nhắn tin đến 8 tỷ 999999 người còn lại",
+   "author": ""
+  },
+  {
+   "name": "- Em ko có nhà hay sao vậy?\n-????\n- Ở đâu ko ở lại ở trong tâm trí anh.",
+   "author": ""
+  },
+  {
+   "name": "Đời này em có 2 lần tập đi đường... 1 là lúc nhỏ... 2 là lúc chạy về phía anh.",
+   "author": ""
+  },
+  {
+   "name": "Kính gửi:...\n\nMình tên là..., học sinh lớp...\n\nLý do viết đơn: Vì mình chưa có ai yêu lại thấy bạn cũng không có ai yêu. Cuộc sống không yêu thật là buồn và cô đơn. Vậy nên mình viết đơn này kính mong bạn làm người yêu của mình. Mình hứa sẽ yêu cậu, yêu cho tới khi có người xinh hơn cậu yêu mình.\n\nĐược vậy mình xin được cảm ơn!",
+   "author": ""
+  },
+  {
+   "name": "Buổi tối em đói cồn cào\nShip cho em chút ngọt ngào đi anh.",
+   "author": ""
+  },
+  {
+   "name": "Tự nhiên em thấy lờ đờ\nTưởng đâu say nắng, ai ngờ say anh",
+   "author": ""
+  },
+  {
+   "name": "A: Làm người yêu anh nhé...\nE: Em chỉ xem anh như là anh trai thôi :(\nA: của ba chú bộ đội hay phết em nhở.. em nghe bài đó chưa...mà em nói cái gì anh trai đấy =]]",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi, em thích màu gì?\n- Nếu anh đã hỏi thì em cũng trả lời thật lòng của em là... tại anh mặc màu đỏ nên em thích màu đỏ.",
+   "author": ""
+  },
+  {
+   "name": "Gái quê chân chất thật thà\nNhìn xinh như vậy chắc là vợ anh",
+   "author": ""
+  },
+  {
+   "name": "- Anh thấy em giống 1 người thân của mẹ anh lắm nha.\n- Giống ai cơ?\n- Giống con dâu của mẹ anh.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có muốn ghé qua nhà nếm thử đồ mẹ em làm ko?\n- Mẹ em làm món gì thế?\n- Em :\">",
+   "author": ""
+  },
+  {
+   "name": "Em chẳng có bất cứ mục đích gì đối với anh cả. Ngoài chuyện em yêu anh ra.",
+   "author": ""
+  },
+  {
+   "name": "Đang đi trên đường thấy em mà anh đột quỵ vì không chịu được sấm sét",
+   "author": ""
+  },
+  {
+   "name": "- Trà sữa là trà đổ vào sữa hay sữa đổ vào trà.\n- Như nhau mà.\n- Thế tại sao anh đổ em mà em ko đổ anh?",
+   "author": ""
+  },
+  {
+   "name": "Mùa hạ cái gì cũng hạ giá, vậy nếu như có 1 chàng trai muốn làm quen em có làm ngơ ko?",
+   "author": ""
+  },
+  {
+   "name": "Tình cảm em lớn bằng trời\nThế nên xin nguyện một đời yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "Anh thấy em có vất vả không?\nĐã đi kiếm tiền rồi phải kiếm luôn cả anh.",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh thì đừng có chối\nMẹ anh bảo nói dối là hư",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời em chắc còn dang dở\nAnh bước vào che chở có được không",
+   "author": ""
+  },
+  {
+   "name": "Giá em mở hiệu cầm đồ\nHôm nào anh đến giả vờ cầm tay",
+   "author": ""
+  },
+  {
+   "name": "Nếu như không có mặt trời ở ngoài kia thì em là thứ nóng bỏng nhất mà anh từng thấy đấy.",
+   "author": ""
+  },
+  {
+   "name": "Yêu tớ không? Im lặng là đồng ý, lên tiếng là nhất trí, cãi lại là đồng tình, thanh minh là thú tội. Có yêu không thì bảo?",
+   "author": ""
+  },
+  {
+   "name": "Những chú trâu thích cỏ\nTụi trẻ nhỏ thích kem\nLẽ nào em không biết\nCó người thầm thích em",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm hơn 10 năm coi Tây Du ký. Đẹp thế này là yêu quái chắc luôn. Anh thu phục em nhé.",
+   "author": ""
+  },
+  {
+   "name": "- Ngày sinh của em bao nhiêu nhỉ?\n- Tự dưng hỏi làm gì?\n- Anh quên mật khẩu rồi.",
+   "author": ""
+  },
+  {
+   "name": "Đẹp nhất không phải là ngày mưa mà là ngày cùng anh nhận giấy khen Gia đình văn hóa.",
+   "author": ""
+  },
+  {
+   "name": "\"Ngày cá tháng 4\" không phải ngày nói dối mà là ngày để tỏ tình.",
+   "author": ""
+  },
+  {
+   "name": "- Sao miệng em hôi vậy?\n- Gì?\n- Miệng em hôi như rác vậy á, anh đổ em được không?",
+   "author": ""
+  },
+  {
+   "name": "Muốn cho thiên hạ trầm trồ\nSao anh không thử làm bồ của em",
+   "author": ""
+  },
+  {
+   "name": "Tớ sẽ kiện cậu vì tội gây thương nhớ và 1 ngày nào đó tòa sẽ kết tội cậu bằng một tờ giấy kết hôn",
+   "author": ""
+  },
+  {
+   "name": "Thank god you are here :v Ơn giời em đây rồi. Trưởng phòng của em nè, à em quên anh tên gì rồi à... để anh giới thiệu lại nhé.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em hấp dẫn như cục tạ vậy á, anh chỉ muốn bưng lên và đẩy thôi.",
+   "author": ""
+  },
+  {
+   "name": "Anh không ngại việc ra Hà Nội, anh chỉ cần có lý do thôi.",
+   "author": ""
+  },
+  {
+   "name": "Mục đích em đến trái đất là gì vậy?",
+   "author": ""
+  },
+  {
+   "name": "Mời em đi cho! Em khiến mọi cô gái ở đây trông thật xấu xí thảm hại.",
+   "author": ""
+  },
+  {
+   "name": "Đường tình anh thua nhưng đường đua anh chấp hết.",
+   "author": ""
+  }
+ ]
+}

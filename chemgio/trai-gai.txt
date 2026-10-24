@@ -1,0 +1,1078 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Có sức \"hút\" là đặc điểm của một cô gái thích uống nhiều trà sữa nhiều trân châu và thật nhiều topping.",
+   "author": ""
+  },
+  {
+   "name": "Con gái và các nhà dự báo thời tiết giống nhau ở chỗ họ thường chỉ thừa nhận mình đã lầm chứ không sai!",
+   "author": ""
+  },
+  {
+   "name": "Con gái khóc nức nở một mình khi xem những đoạn clip cầu hôn trên mạng nhưng liền bĩu môi chê bai ngay khi cùng đám bạn bàn tán về nó.",
+   "author": ""
+  },
+  {
+   "name": "Vâng giữa cái xã hội nghiêm túc này. Có 3 loại người tôi không bao giờ tin thứ nhất là con gái thứ hai là đàn bà và thứ ba là phụ nữ.",
+   "author": ""
+  },
+  {
+   "name": "Đố ai định nghĩa được chữ xinh\nCó khó gì đâu mà hỏi mình\nChỉ cần đơn giản là con gái\nThuộc bảng cửu chương thế là xinh",
+   "author": ""
+  },
+  {
+   "name": "Con gái thích con trai có tài. Đứa thích tài năng, đứa thích tài lẻ và nhưng đa số đều thích người có tài sản.",
+   "author": ""
+  },
+  {
+   "name": "Uống trà sữa không trả tiền, đó là lần đầu tiên tôi được một nam sinh theo đuổi.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ chẳng khác gì cảnh sát, họ có mọi bằng chứng trên thế giới nhưng vẫn muốn một lời thú tội.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em đừng để em buồn :<\nEm buồn em sẽ tắt nguồn đi chơi",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ chỉ là phụ, nhưng phụ nữ là phụ huynh là chuyện khác",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ để người con gái bạn yêu phải khóc. Vì khóc trôi hết lớp trang điểm thì bạn không thể tiếp tục yêu nữa đâu.",
+   "author": ""
+  },
+  {
+   "name": "Có một loại con gái không thích con trai chủ động... mà chỉ thích con trai chủ tịch =))",
+   "author": ""
+  },
+  {
+   "name": "Con gái nói giảm béo cũng giống như con trai cai thuốc vậy đó. Phần lớn là không thể tin được.",
+   "author": ""
+  },
+  {
+   "name": "- Vì sao mày buồn?\n- Vì tao béo\n- Vì sao mày béo?\n- Vì tao ăn nhiều\n- Vì sao mày ăn nhiều?\n- Vì tao buồn",
+   "author": ""
+  },
+  {
+   "name": "Đã nói rồi đi nhẹ nói khẽ cười duyên\nChứ ko phải đi lẹ nói khỏe cười điên",
+   "author": ""
+  },
+  {
+   "name": "Con gái ăn thì rất từ tốn... ý là ăn từ từ mà lại tốn lắm",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông tốt giống như ma vậy. Nghe kể nhiều chứ ít gặp được =))",
+   "author": ""
+  },
+  {
+   "name": "Một khi đã hiểu được phụ nữ thì hành tinh này chẳng còn gì để khám phá nữa.",
+   "author": ""
+  },
+  {
+   "name": "Con gái luôn dựa dẫm và nhờ vã con trai... ko dựa đc thì dẫm... ko nhờ đc thì vã",
+   "author": ""
+  },
+  {
+   "name": "Khi nhắc tới trai tốt, tao chạnh lòng vì... đời tư bị đem ra soi mói.",
+   "author": ""
+  },
+  {
+   "name": "Con gái mode:\nTrước người nhà: Nhỏ bé, ngoan ngoãn\nTrước người lạ: Nhẹ nhàng, ngoan hiền\nTrước người yêu: Lưu manh, hổ báo\nTrước bạn thân: Thần kinh mãn tính",
+   "author": ""
+  },
+  {
+   "name": "Cách duy nhất để khiến một cô gái lắng nghe bạn là hãy nói chuyện với một cô gái khác.",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau những cuộc đi chơi với gấu,... là nạn đói của 1 thằng con trai :(",
+   "author": ""
+  },
+  {
+   "name": "Là con trai đừng bao giờ nói câu: “Anh không có tiền, e có yêu a ko?” Mà phải nói: “Anh chẳng có tiền, yêu thì yêu không yêu thì biến\". Khi nói phải mạnh mẽ, cứng rắn, dứt khoát, không ậm à ậm ừ. Phải cho nó thấy bản lĩnh của thằng đàn ông ngay trong từng câu chữ. Đằng nào thì kết quả cũng là chẳng có người yêu nhưng vẫn giữ được phong độ của một thằng nghèo mà chất.",
+   "author": ""
+  },
+  {
+   "name": "Mình sẽ không lấy chồng cho đến lúc lên xe hoa",
+   "author": ""
+  },
+  {
+   "name": "Theo tính chất, thì con gái ăn rất từ tốn... ý là ăn từ từ mà lại tốn ghê",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ cãi nhau với bạn gái, dù đúng hay sai thì người cuối cùng xin lỗi vẫn là bạn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Trong năm con gái sẽ kiệm lời nhất vào tháng 2 vì tháng 2... có ít ngày nhất trong năm mà =))",
+   "author": ""
+  },
+  {
+   "name": "Con gái thường sống nội tâm và mê ngoại... hình",
+   "author": ""
+  },
+  {
+   "name": "Quyết định giảm cân cho trai nó mê. 5 phút sau, nghĩ lại rồi, đồ ăn nuôi mình sống chứ trai toàn làm mình mệt.",
+   "author": ""
+  },
+  {
+   "name": "Em cũng chỉ là con gái thôi, buồn là ăn... không ăn là buồn",
+   "author": ""
+  },
+  {
+   "name": "Một người phụ nữ toàn diện: Sáng diện, trưa diện, chiều diện, tối diện.",
+   "author": ""
+  },
+  {
+   "name": "Tôi mời bạn gái đi ăn sáng và chúng tôi đã có một bữa trưa vui vẻ",
+   "author": ""
+  },
+  {
+   "name": "Con trai bảo “đi đi” tức là hãy đi đi. Con gái bảo “đi đi” đôi khi là đứng ngay tại chỗ, cấm có được đi đâu hết đấy.",
+   "author": ""
+  },
+  {
+   "name": "Một cô gái tốt là cô gái sẽ sẵn sàng bỏ qua mọi khuyết điểm của bạn, bỏ qua mọi lỗi lầm của bạn và bỏ qua luôn cả bạn để đi theo một thằng đàn ông tốt hơn...",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này con gái chỉ đặt niềm tin duy nhất vào một người, đó là thợ chụp ảnh!",
+   "author": ""
+  },
+  {
+   "name": "Có 1 kiểu con trai chỉ có thể hấp dẫn được 1 sinh vật giống cái duy nhất... chính là muỗi.",
+   "author": ""
+  },
+  {
+   "name": "3 từ, 8 chữ có thể khiến phụ nữ điên đảo, nếu bạn đang nghĩ đến \"Anh yêu em\" thì vẫn tồn tại \"Đại hạ giá\"",
+   "author": ""
+  },
+  {
+   "name": "Ga-lăng là cử chỉ đẹp của người đàn ông trước những phụ nữ không phải là vợ mình.",
+   "author": ""
+  },
+  {
+   "name": "Những cô gái giống như những tên miền Internet, những tên đẹp mà ta thích đã có chủ nhân rồi!",
+   "author": ""
+  },
+  {
+   "name": "Đừng yêu người con gái ít cười\n...\nĐó là cô gái lười oánh răng =))",
+   "author": ""
+  },
+  {
+   "name": "Lý do mà con gái không thích đá bóng?\nĐơn giản thôi, họ sẽ không bao giờ chịu mặc quần áo giống hết 10 người còn lại đâu.",
+   "author": ""
+  },
+  {
+   "name": "Tiêu chuẩn con gái thấp lắm... chỉ cần con trai đẹp ngoại hình, học ngoại thương, giỏi ngoại giao, xài ngoại tệ, ở biệt thự ngoại ô, đi làm ngoại cảm...",
+   "author": ""
+  },
+  {
+   "name": "Tất cả những thằng đẹp trai nhà giàu học giỏi tốt tính đều...sinh ngày 30/2",
+   "author": ""
+  },
+  {
+   "name": "Nể nhất mấy thánh không tán được gái rồi tự nhận là trai tốt.",
+   "author": ""
+  },
+  {
+   "name": "Em chưa từng đòi ai 1 đoá hoa\nĐối với em tiền mới là quốc ca của sự hạnh phúc.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ đang ghen còn điều tra giỏi hơn cả FBI nữa.",
+   "author": ""
+  },
+  {
+   "name": "Rút kinh nghiệm từ người đi trước, đừng bao giờ hỏi: \"Em muốn ăn gì?\" mà hãy hỏi: \"Đố em anh dắt em đi ăn cái gì?\". Cô ấy nói ra món gì thì dắt đi ăn món đó luôn, thế là xong.",
+   "author": ""
+  },
+  {
+   "name": "Là đàn ông thắng ai cũng tốt nhưng đừng cố thắng vợ mình.",
+   "author": ""
+  },
+  {
+   "name": "Khi 1 người con gái bỏ xem phim để nhắn tin cho bạn. Thì đó chính là lúc quảng cáo.",
+   "author": ""
+  },
+  {
+   "name": "Ko có đàn ông xấu vì chả có thằng nào thừa nhận điều đó cả :v",
+   "author": ""
+  },
+  {
+   "name": "Yêu 1 cô gái giản dị, bạn sẽ choáng ngợp khi cô ấy trang điểm.\nCòn hơn yêu 1 cô gái lộng lẫy rồi bạn sẽ hết hồn khi cô ấy tẩy trang",
+   "author": ""
+  },
+  {
+   "name": "Anh không cần giỏi toán\nNhưng phải biết tính em.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không có phụ nữ có lẽ kho tàng thơ văn của nhân loại chắc chỉ ghi lên một USB 1Gb là đủ.",
+   "author": ""
+  },
+  {
+   "name": "Yêu một cô gái đeo kính cận mày sẽ có cảm giác đang được yêu 2 cô một lúc khi cô ấy tháo kính ra.",
+   "author": ""
+  },
+  {
+   "name": "Im lặng là thứ vàng duy nhất phụ nữ không muốn nhận.",
+   "author": ""
+  },
+  {
+   "name": "Có hàng xóm đẹp trai mệt mỏi muốn chết. Bước ra ngoài mua chai nước tương, vứt túi rác cũng phải tốn công trang điểm.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi mệt mọi chỉ ước có trai lại bảo với mình... \"Nghỉ làm đi, anh nuôi\"",
+   "author": ""
+  },
+  {
+   "name": "Là con trai sợ nhất là không thể giúp đỡ được bố mẹ và không cho người yêu mình một tương lai tử tế.",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà yêu đàn ông ít nói bởi họ cứ nghĩ rằng:người đàn ông ấy đang lắng nghe họ.",
+   "author": ""
+  },
+  {
+   "name": "Trời sinh con gái “đoan trang”.\nHơi tí nổi cáu ít chàng nào ưa.\nTrời sinh con gái “khó cưa”.\nGa lăng, sành điệu mắc lừa như chơi",
+   "author": ""
+  },
+  {
+   "name": "Nếu như con gái dùng tiền ăn uống để làm đẹp bản thân, vậy thì nhất định sẽ có người tình nguyện mời cô ấy ăn cơm.\nNếu như con trai dùng thời gian ngủ nghỉ để chăm lo cho sự nghiệp, vậy thì nhất định sẽ có người tình nguyện cùng anh ấy đi ngủ.",
+   "author": ""
+  },
+  {
+   "name": "Con trai coi quà tặng chỉ là xã giao.\nCon gái lại coi đó là dấu hiệu của tình cảm",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông thoã mãn là người phụ nữ dam dang",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng anh là một niềm tin... tin vào ngày mai tương lai sẽ tươi sáng.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông im lặng là đang suy nghĩ\nĐàn bà im lặng là đang suy diễn",
+   "author": ""
+  },
+  {
+   "name": "Được đàn ông giúp đỡ thì đàn bà có thể tự làm mọi thứ.",
+   "author": ""
+  },
+  {
+   "name": "Đừng có hỏi em thích con trai hút thuốc hay không! Em thích anh rồi thì anh có hút pháo hoa em cũng thích.",
+   "author": ""
+  },
+  {
+   "name": "Dỗi ghen vốn chuyện đàn bà\nCảm thông thấu hiểu mới là đàn ông",
+   "author": ""
+  },
+  {
+   "name": "Thằng thích uống rượu có thể vì một đứa con gái mà bỏ uống\nCòn thằng không biết uống rượu có thể vì một đứa con gái mà bắt đầu uống",
+   "author": ""
+  },
+  {
+   "name": "Con gái đẹp nhất khi không thuộc về ai\nNhưng sẽ hạnh phúc nhất khi thuộc về đúng người",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông thất bại là người đàn bà xúi dại.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ luôn thích nói về người đàn ông họ yêu.\nĐàn ông lại thích nói về người phụ nữ mà họ không có được.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông có nụ cười duyên là đàn bà mê tới phát điên.",
+   "author": ""
+  },
+  {
+   "name": "Biểu hiện đầu tiên của tình yêu chân thật ở người con trai là sự rụt rè, còn con gái là sự táo bạo.",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông vĩ đại bởi những hành động, không phải do bẩm sinh",
+   "author": ""
+  },
+  {
+   "name": "Vì là con gái! Nên hay cãi bướng, cãi không lại thì lăn đùng ra giận.",
+   "author": ""
+  },
+  {
+   "name": "Hãy yêu một cô gái luôn tha thứ cho bạn, mỗi khi cô ta sai.",
+   "author": ""
+  },
+  {
+   "name": "Con gái làm việc nhà thì được gọi là nội trợ.\nCon trai làm việc nhà thì được gọi là ăn bám vợ.",
+   "author": ""
+  },
+  {
+   "name": "Những người đàn ông nói rằng \"căn bếp là chỗ của phụ nữ\" hãy nhớ rằng đó là nơi giữ rất nhiều dao.",
+   "author": ""
+  },
+  {
+   "name": "Làm trai chí tại bốn phương, bốn bể là nhà... loại trai như thế Chắc là ăn xin.",
+   "author": ""
+  },
+  {
+   "name": "Là con gái nếu đã không xinh đẹp một cách xuất sắc, thì hãy xấu một cách động lòng người.",
+   "author": ""
+  },
+  {
+   "name": "Không có người đàn ông nào hiểu phụ nữ hơn tôi. Còn tôi thì không biết gì về họ",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông cường tráng là người đàn bà phóng khoáng.",
+   "author": ""
+  },
+  {
+   "name": "Là con gái, dù ko tìm đc hòang tử của đời mình thì cũng phải sống như 1 công chúa =))",
+   "author": ""
+  },
+  {
+   "name": "Năng lực trí óc của một người đàn ông tỉ lệ thuận với lượng cà phê mà anh ta uống.",
+   "author": ""
+  },
+  {
+   "name": "Con gái thường nói cần một sự quan tâm, nhưng để ý mà xem,\nAi càng lạnh lùng và vô tâm thì họ lại càng yêu…để rồi quên đi những tình yêu nồng nhiệt và chân thành nhất.",
+   "author": ""
+  },
+  {
+   "name": "Con trai luôn ước mình là người đầu tiên của con gái\nCon gái luôn ước mình là người cuối cùng của con trai",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà chỉ nhớ những người đàn ông làm cho họ cười,\nCòn đàn ông chỉ nhớ những người đàn bà làm họ khóc.",
+   "author": ""
+  },
+  {
+   "name": "Tôi muốn ăn ít đi\nCho mình gầy bớt lại\nTôi muốn cười ít lại\nCho mình bớt cute",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông thành công là người làm ra tiền nhiều hơn khả năng xài tiền của vợ.\nNgười phụ nữ thành công là kiếm được ông chồng ở trên.",
+   "author": ""
+  },
+  {
+   "name": "Có ba loại phụ nữ: những người thông thái, những người đẹp và những người khác.",
+   "author": ""
+  },
+  {
+   "name": "Các bạn có biết vì sao con trai chỉ thích con gái xinh đẹp mà không thích con gái tốt không? Vì tốt bụng có thể giả vờ được còn xinh đẹp thì không.",
+   "author": ""
+  },
+  {
+   "name": "Con gái sẽ nghi ngờ tất cả những gì bạn nói, trừ phi đó là lời ca ngợi nàng.",
+   "author": ""
+  },
+  {
+   "name": "Có thể đánh giá tính cách của đàn ông thông qua sự mạo hiểm dấn thân của họ.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông ở dơ là người đàn bà thờ ơ.",
+   "author": ""
+  },
+  {
+   "name": "Một cái thở dài của người phụ nữ nói lên nhiều điều hơn là một bài diễn thuyết hay của người đàn ông.",
+   "author": ""
+  },
+  {
+   "name": "Một người phụ nữ mạnh mẽ luôn cười ngay cả khi họ sắp khóc",
+   "author": ""
+  },
+  {
+   "name": "Nam nhi chí tại bốn phương\nMột ngày không tắm bình thường chẳng sao\nNữ nhi khí tại mùi hương\nMột ngày không tắm cả phường chết tươi",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông mê... trai là người đàn bà mê... cả hai!",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông tốt bụng là người phụ nữ lợi dụng",
+   "author": ""
+  },
+  {
+   "name": "Trai ngoan là trai truyền kì\nTrai đẹp mới khiến mê li các nàng",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông ăn kem là người đàn bà ngồi thèm.",
+   "author": ""
+  },
+  {
+   "name": "Đừng sợ khi người khác bàn tán sau lưng bạn. Hãy sợ khi người chẳng thèm biết bạn là ai.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông nói nhiều nhất chính là lúc sau khi say.\nPhụ nữ nói nhiều nhất chính là lúc sau khi họ lấy chồng.",
+   "author": ""
+  },
+  {
+   "name": "Không có đàn bà không đẹp, chỉ là do ít rượu thôi. Không có đàn ông không hay, chỉ là do thiếu tiền thôi.",
+   "author": ""
+  },
+  {
+   "name": "3 lợi ích khi anh có em gái:\n- Nó không bao giờ đẹp trai hơn mình.\n- Có thể làm quen với bạn gái của nó.\n- Có thể kiếm chác đôi chút từ mấy thằng thích nó.",
+   "author": ""
+  },
+  {
+   "name": "Con gái nghĩ không có quần áo để mặc nghĩa là không có quần áo mới để mặc.\nCon trai nghĩ không có quần áo để mặc nghĩa là không có quần áo sạch để mặc.",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai đừng có ba hoa\nĐẹp trai đừng có quá hai mối tình\nĐẹp trai phải biết chung tình\nNhư vậy mới đúng là mình đẹp trai",
+   "author": ""
+  },
+  {
+   "name": "Con gái là loại sáng nắng, chiều mưa, trưa bão táp",
+   "author": ""
+  },
+  {
+   "name": "Lòng chung thủy của 1 phụ nữ được thử thách khi người đàn ông của cô không có gì trong tay\nLòng chung thủy của người đàn ông được thử thách khi anh ta có mọi thứ trong tay",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông hung hãn là người bàn bà thỏa mãn.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông vũ phu là người đàn bà đi tu",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông chém gió là người đàn bà đứng ngó.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ phụ nữ mới hiểu được phụ nữ... đó cũng là lí do mà HỌ RẤT GHÉT NHAU.",
+   "author": ""
+  },
+  {
+   "name": "Con trai chỉ đi vệ sinh một mình, trong khi con gái thường đi cùng nhau.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông đang say là người đàn bà cầm dao phay.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông giống như con nghé vậy. Họ chỉ trưởng thành khi đã mọc sừng đẩy đủ. 1 số ít may mắn tiến hóa thành tê giác, trâu bò. 1 số không may tiến hóa thành nhím.",
+   "author": ""
+  },
+  {
+   "name": "Lấy lửa thử vàng\nLấy vàng thử đàn bà\nLấy đàn bà thử đàn ông",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông hư đốn là người đàn bà thiếu thốn.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông yếu đuối là người đàn bà chán chuối.",
+   "author": ""
+  },
+  {
+   "name": "Đối với người đàn ông, tha thứ điều gì cũng được, nhưng lãng quên thì không bao giờ",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông không có tiền như sói không răng.",
+   "author": ""
+  },
+  {
+   "name": "Tôi có thể chơi tất cả các loại đàn... ngoại trừ đàn bà là tôi không đánh được",
+   "author": ""
+  },
+  {
+   "name": "Đi thi nữ sinh thanh lịch. Giám khảo hỏi:\n- Em tự thấy mình có ưu điểm gì?\n- Dạ, em thấy em có lòng thương người…\n- Cụ thể ra sao, em nói nghe coi?\n- Dạ, cứ bạn nam nào nói thương em, là em thương lại liền hà!",
+   "author": ""
+  },
+  {
+   "name": "Trong nhà mình, phụ nữ thì rất đàn ông, còn đàn ông thì rất đàng hoàng.",
+   "author": ""
+  },
+  {
+   "name": "Sương gió phủ đời trai, tiền tài che mắt gái.",
+   "author": ""
+  },
+  {
+   "name": "Khen phụ nữ tức là chưa hiểu hết họ, chê phụ nữ tức là hoàn toàn không hiểu họ",
+   "author": ""
+  },
+  {
+   "name": "Ba bảo! Đừng so đo với cô gái của cuộc đời con. Làm đàn ông, đến bao dung còn không làm được, thì lấy tư cách gì để vùng vẫy biển khơi.",
+   "author": ""
+  },
+  {
+   "name": "Khi thảm họa hay tai nạn xảy ra, người ta thường ưu tiên giải cứu phụ nữ và trẻ em trước. Lý do là để những người còn lại có sự yên tĩnh cần thiết để tìm ra giải pháp.",
+   "author": ""
+  },
+  {
+   "name": "Phía sau người đàn ông là cái bóng của ổng",
+   "author": ""
+  },
+  {
+   "name": "Là con gái hãy yêu chính mình thật nhiều. Tập cách chấp nhận, đứng dậy và làm đẹp",
+   "author": ""
+  },
+  {
+   "name": "Nếu con gái có thể đọc được suy nghĩ của con trai\nThì cứ 5s là con trai sẽ bị ăn tát 1 lần =))",
+   "author": ""
+  },
+  {
+   "name": "1+1 có thể =2. Nhưng giả nai ngây thơ thì con trai cũng có thể",
+   "author": ""
+  },
+  {
+   "name": "90% con gái giờ giống Lọ Lem, không thèm ước có hoàng tử chỉ cần đồ đẹp và đi chơi.",
+   "author": ""
+  },
+  {
+   "name": "Phận là con gái chưa một lần cua trai",
+   "author": ""
+  },
+  {
+   "name": "Là con gái không được tin trai thề\nĂn gian nói dối là nghề đàn ông",
+   "author": ""
+  },
+  {
+   "name": "Con gái ngày xưa ai cũng nấu ăn giỏi như mẹ\nCon gái bây giờ ai cũng nhậu giỏi như cha",
+   "author": ""
+  },
+  {
+   "name": "Con gái sinh ra để theo đuổi... theo ko được thì đuổi =))",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông lắm tài là người đàn bà chân dài.",
+   "author": ""
+  },
+  {
+   "name": "- Con gái luôn nghĩ đến 2 thứ: đồ ăn và việc giảm cân.",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà... là những niềm đau\nDù biết nhưng vẫn theo sau đàn bà",
+   "author": ""
+  },
+  {
+   "name": "Con gái hay cười hơn người khác ở chỗ... dễ bị nếp nhăn ngay khóe mắt.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông tập tạ thì đô\nĐàn bà không tập vẫn đô như thường",
+   "author": ""
+  },
+  {
+   "name": "Nếu phụ nữ không tồn tại, tiền bạc trên thế giới này cũng trở nên vô nghĩa.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ là thiên thần khi bạn bẻ gãy cánh của họ. Họ vẫn có thể bay nhưng là trên một chiếc chổi",
+   "author": ""
+  },
+  {
+   "name": "Bạn chớ lên án người phụ nữ nào bay từ người đàn ông này đến người đàn ông khác. Cô ta đang tìm người đàn ông chung thủy.",
+   "author": ""
+  },
+  {
+   "name": "Làm trai cho đáng thân trai\nĐể gái nó tán còn oai cái gì",
+   "author": ""
+  },
+  {
+   "name": "Con gái có bạn thân là con trai. Thì bọn con gái chẳng bao giờ coi thằng đó là con trai.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông phải có tiền, thậm chí là rất nhiều tiền. Không phải là tiền để cho bản thân no đủ hay người yêu mình sung sướng. Mà tiền để người yêu mình không bị cám dỗ bởi tiền của những thằng đàn ông khác!",
+   "author": ""
+  },
+  {
+   "name": "Trai ko cờ bạc trai vô lương thiện\nGái ko này nọ gái thiếu tiền tiêu",
+   "author": ""
+  },
+  {
+   "name": "Những cô gái có hứng thú mãnh liệt với các chàng trai nổi gân guốc. Liệu các cô có phải là con muỗi.",
+   "author": ""
+  },
+  {
+   "name": "Không chua không phải là chanh\nĐàn ông ai chẳng sở khanh đôi lần",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông buồn phiền là người đàn bà đòi tiền.",
+   "author": ""
+  },
+  {
+   "name": "Đừng mong được đối xử như một nữ hoàng trong khi bạn không đối xử với anh ấy như một vị vua.",
+   "author": ""
+  },
+  {
+   "name": "Con trai có thể đùa với mọi đứa con gái trừ người mình thích\nCon gái có thể đùa với mọi đứa con trai trừ thằng mình ghét",
+   "author": ""
+  },
+  {
+   "name": "Hồng nào hồng chẳng có gai\nTrai nào trai chẳng mê hai ba nàng",
+   "author": ""
+  },
+  {
+   "name": "Con trai! Động vào họ, họ có thể bỏ qua. Nhưng động vào cha mẹ và người mà họ yêu thương thì lại là chuyện khác.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông đẹp zai là người đàn bà (dễ) mang thai.",
+   "author": ""
+  },
+  {
+   "name": "Thế giới có 2 loại con gái:\n- Hít thở thôi cũng mập\n- Có ăn bao nhiêu vẫn ốm",
+   "author": ""
+  },
+  {
+   "name": "Là đàn ông phải nhòa vết son môi người phụ nữ, chứ đừng làm nhòa mascara.",
+   "author": ""
+  },
+  {
+   "name": "Làm trai cho đáng nên trai\nĐi đâu cũng lận cái chai trong người.",
+   "author": ""
+  },
+  {
+   "name": "Con gái nghĩ tình yêu của mình giống như phim Hàn quốc\nCòn con trai nghĩ tình yêu của mình giống như... phim Nhật Bản",
+   "author": ""
+  },
+  {
+   "name": "Vì em không dậy sớm nên thích người yêu chiều.",
+   "author": ""
+  },
+  {
+   "name": "Con gái cũng như một cuốn sách. Đừng mong đọc một ngày là hiểu hết được.",
+   "author": ""
+  },
+  {
+   "name": "Con trai iu mắt, con gái iu bằng tai",
+   "author": ""
+  },
+  {
+   "name": "Con gái là để yêu chứ không phải là để hiểu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu trừng phạt đàn bà, tôi sẽ nhốt cô ta vào một cái phòng không có gương.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông không bao giờ tiếc tiền với những cô gái không quan tâm tới tiền.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ không có sức hấp dẫn mới cảm thấy đàn ông trăng hoa.\nĐàn ông không có thực lực mới cảm thấy phụ nữ thực dụng!",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông đích thực là người đàn bà thích đực.",
+   "author": ""
+  },
+  {
+   "name": "Trai khôn lấy được vợ hiền.\nNhư nhặt được tiền như trúng được lô.",
+   "author": ""
+  },
+  {
+   "name": "Đa số phụ nữ không suy nghĩ trước khi nói còn đàn ông nghĩ rồi nhưng không nói.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ chỉ thấy quần áo đẹp khi nó được mặc bởi 1 cô gái khác.\nCòn đàn ông chỉ thấy phụ nữ tốt khi cô ấy thuộc về người đàn ông khác.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông hết tiền là người đàn bà giữ tiền.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông vô tâm là người phụ nữ khóc âm thầm",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông họ yêu bằng mắt, khóc bằng tim. Đến khi thấy họ khóc bằng mắt thì họ đã yêu bạn quá nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông tỷ phú là người đàn bà mập ú",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông ăn tạp là người đàn bà mún đạp.",
+   "author": ""
+  },
+  {
+   "name": "Cỗ nào chẳng có thịt gà\nĐàn ông không có đàn bà mất vui.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông nghiện ngập là người đàn bà bầm dập",
+   "author": ""
+  },
+  {
+   "name": "Định luật ai nhắn tin trước của con gái\n- Nếu anh ấy bận, tôi làm phiền làm gì?\n- Nếu anh ấy không bận, mà cũng ko thèm nhắn tin cho tôi, vậy tôi làm phiền làm gì?",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ, không cần phải nghiêng nước nghiêng thành, chỉ cần một người đàn ông nghiêng về cô ấy cả một đời!",
+   "author": ""
+  },
+  {
+   "name": "Nghiện ngập thì có thể cai... nhưng mê trai thì chỉ có đầu thai mới lành.",
+   "author": ""
+  },
+  {
+   "name": "Người con gái là đóa hoa hồng mà năm tháng tỉa dần từng cánh.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ nhất định phải có tiền. Để xinh đẹp, để sống vui vẻ, để nuôi con và báo đáp cha mẹ. Và đặc biệt, là... để thuê giang hồ khi cần.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông thành Công luôn có bóng dáng của người đàn ông thành Thụ",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ luôn sống thọ hơn đàn ông. Vì mua sắm không dẫn đến đau tim còn thanh toán hóa đơn có thể đẫn đến đột quỵ.",
+   "author": ""
+  },
+  {
+   "name": "Sân cỏ là nơi đàn ông khóc nhiều nhất",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông thành đạt là người đàn bà đánh bạc.",
+   "author": ""
+  },
+  {
+   "name": "Là con gái thà ở giá chứ không hạ giá :))",
+   "author": ""
+  },
+  {
+   "name": "Muốn đánh giá một người phụ nữ chỉ cần biết người đàn ông mà cô ta yêu.",
+   "author": ""
+  },
+  {
+   "name": "Con trai bây giờ thay bồ như thay áo\nCòn con gái chỉ mặc thêm áo cho ấm thôi",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông không giàu đừng trách gia cảnh",
+   "author": ""
+  },
+  {
+   "name": "Khi ai đó hỏi về người con trai tốt, tôi lại kể về bản thân mình =))",
+   "author": ""
+  },
+  {
+   "name": "Có những hành động ở phụ nữ gọi là gợi cảm, còn ở đàn ông gọi là biến thái.",
+   "author": ""
+  },
+  {
+   "name": "Con gái, một khi đã quyết định thay đổi cuộc đời, thường rất thích đi cắt tóc.",
+   "author": ""
+  },
+  {
+   "name": "Con trai tò mò chuyện người lớn.\nCòn con gái thì tò mò với bất kì chuyện gì không phải của mình.",
+   "author": ""
+  },
+  {
+   "name": "Các bạn nam thường gọi gấu mình là bà xã. Thế nhưng: trên bà xã còn có bà huyện, bà tỉnh, bà trung ương. Và 1 số địa phương khác",
+   "author": ""
+  },
+  {
+   "name": "Trai ba mươi tuổi còn xinh\nGái ba mươi tuổi để sình mắm nêm",
+   "author": ""
+  },
+  {
+   "name": "Có những cô gái sinh ra để tạo nên lịch sử nhưng cũng có những cô gái sinh ra để... xóa đi lịch sử :v",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông, họ thường rất ít khi khóc. Nhưng một khi đã khóc... thì sẽ rơi nước mắt =))",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông lảm nhảm là người đàn bà thê thảm.",
+   "author": ""
+  },
+  {
+   "name": "Rạng ngời con gái Bách khoa.\nTrẻ trung xinh đẹp nết na dịu hiền.\nMắt hình viên đạn tiểu liên.\nDịu dàng ăn nói có duyên nổ mìn.",
+   "author": ""
+  },
+  {
+   "name": "Mấy ông con trai mà có em gái thì sẽ trở thành anh trai mẫu mực.\nMấy bà con gái mà có em trai thì lâu dần sẽ thành bà già khó tính.",
+   "author": ""
+  },
+  {
+   "name": "Cách đơn giản làm cho bạn trai bạn hết giận là hãy giận ngược lại nó :v",
+   "author": ""
+  },
+  {
+   "name": "Bổn cô nương lo tương lai không sự nghiệp, chứ đâu lo trần thế thiếu nam nhân.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông bụng bự vì bia\nĐàn bà bụng bự là vì... thức khuya với chồng",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao con gái không thích inbox trước?\n- Thứ nhất con gái phải có giá, thứ 2 là nghiện mà ngại",
+   "author": ""
+  },
+  {
+   "name": "Anh tuỳ tiện like status cô gái khác, em liền có cảm giác anh thích cô ta.",
+   "author": ""
+  },
+  {
+   "name": "Im lặng chính là hình thức đáng sợ nhất của người phụ nữ",
+   "author": ""
+  },
+  {
+   "name": "Một quý ông lịch lãm là người không bao giờ vô tình làm tổn thương cảm xúc của bất cứ ai.",
+   "author": ""
+  },
+  {
+   "name": "Với tư cách là một người biết có qua có lại với mọi người. Ai giận tui thì tui giận lại.",
+   "author": ""
+  },
+  {
+   "name": "Trời sinh có mận có đào\nCó trai có gái ra vào mới vui",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông tự tin sẽ khiến người phụ nữ cảm thấy an toàn.\nNgười phụ nữ tự tin sẽ khiến người đàn ông cảm thấy ấm áp.",
+   "author": ""
+  },
+  {
+   "name": "Con gái càng dễ thương... thì càng dễ làm tổn thương người khác!",
+   "author": ""
+  },
+  {
+   "name": "Con gái mà xinh xinh trên facebook, thì thường là đi kèm với bán hàng online.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông luôn kiên nhẫn với mối tình đầu của mình",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng bảo là con gái thì phải tự tin mới xinh đẹp, nhưng người ta phải xinh đẹp thì mới tự tin được chứ.",
+   "author": ""
+  },
+  {
+   "name": "Không yêu một người đàn bà đẹp như vậy là một lỗi lầm, còn yêu cô ta – một sự trừng phạt",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông tốt không phải lúc vui họ chiều chuộng bạn như thế nào mà là khi tức giận họ đối xử như thế nào với bạn...",
+   "author": ""
+  },
+  {
+   "name": "Bò không ăn cỏ bò ngu.\nTrai không mê gái trai ngu hơn bò",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ ra đường, dù bất kể trường hợp nào cũng phải thật xinh đẹp. Trước là để bản thân tự tin, sau mới đế người khác ngắm nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Con ơi nhớ lấy câu này.\nĐàn ông vốn dĩ nó hay lừa tình.",
+   "author": ""
+  },
+  {
+   "name": "Trai chở gái, gái ôm => có động lực!!!\nTrai chở trai, trai ôm => lao xuống vực!!!",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà cố gắng cả đời không thể thành đàn ông.\nĐàn ông mới nói mấy câu đã biến thành đàn bà.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ đẹp như rượu, phụ nữ thông minh như trà.",
+   "author": ""
+  },
+  {
+   "name": "Muốn nhìn rõ một người phụ nữ hãy đợi họ tẩy trang xong.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông đểu trước khi đểu đã từng là đàn ông tốt",
+   "author": ""
+  },
+  {
+   "name": "Nhiều đứa con gái cứ tưởng mình là nắng... rồi cho mình cái quyền được... chói chang.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông chỉ có 2 loại: 1 loại lừa dối phụ nữ trong thoáng chốc, 1 loại lừa dối phụ nữ cả đời.",
+   "author": ""
+  },
+  {
+   "name": "Gái bây giờ như vàng lên giá\nTrai bây giờ như đá lót đường đi",
+   "author": ""
+  },
+  {
+   "name": "Cô gái già là phụ nữ không thành công trong việc kiếm chồng\nCòn trai già là đàn ông thành công trong việc không lấy vợ.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông miệng rộng thì sang\nĐàn bà miệng rộng tan hoang cửa nhà.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông rộng miệng thì oai\nĐàn bà rộng miệng điếc tai láng giềng",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn khen 1 cô gái đẹp... bạn có khen 10001 lần cô ấy cũng không tin.\nNhưng nếu bạn chê cô ấy xấu 1 lần, chắc cô ấy sẽ nhớ cả đời!",
+   "author": ""
+  },
+  {
+   "name": "Chắc chắn trên thế gian này không có đủ đàn ông giàu có để cho phụ nữ đẹp sánh đôi.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông thành công là người đàn bà ngồi không.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ lúc nào cũng tự cho mình là chung thủy, vậy đàn ông đi ngoại tình với ai?",
+   "author": ""
+  },
+  {
+   "name": "Con gái rất dễ khóc... nhưng khi họ không khóc nữa có lẽ là họ quá tổn thương.!",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng một người đàn ông chi li là một người phụ nữ đa nghi",
+   "author": ""
+  },
+  {
+   "name": "Không có đàn ông dại gái. Chỉ có loại gặp gái đẹp là ngu thôi.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có phụ nữ nhàm chán mới ngồi khóc. Phụ nữ xinh đẹp còn bận đi mua sắm.",
+   "author": ""
+  },
+  {
+   "name": "Con gái đẹp là con gái trong mơ, con gái ngoan là con gái trong... nhà trẻ",
+   "author": ""
+  },
+  {
+   "name": "Con gái mít ướt là bẩm sinh, ương bướng là sở trường, thất thường là thói quen hay ghen là năng khiếu giận hờn là chuyên môn\nCon trai chơi là chính, học là phụ, yêu là nghĩa vụ, tán gái là kĩ năng và lăng nhăng là bản chất.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông gánh tuổi tác trên vai, đàn bà mang tuổi tác trên mặt.",
+   "author": ""
+  },
+  {
+   "name": "Con trai muốn hư hỏng phải có tiền\nCon gái muốn có tiền phải hư hỏng :v",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông giết người bằng hành động, đàn bà giết người bằng ánh mắt.",
+   "author": ""
+  },
+  {
+   "name": "Con gái mà kết con trai\nChẳng thèm nói ngắn, nói dài mất công\nChỉ cần nháy mắt hư không\nThể nào hắn cũng vỡ lòng tương tư\nTương tư thì mặc tương tư\nPhải mía, cóc, ổi... tiểu thư mới cười",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông chinh phục thế giới để chinh phục đàn bà.",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông bất lực là người đàn bà rất bực.",
+   "author": ""
+  },
+  {
+   "name": "Con trai làm quen là con gái bắt đầu làm giá :v Nhan sắc hà bá thì phá giá càng ghê :v",
+   "author": ""
+  },
+  {
+   "name": "90% phụ nữ ko thích đàn ông mặc áo màu hồng\n90% đàn ông mặc áo màu hồng ko thích phụ nữ",
+   "author": ""
+  },
+  {
+   "name": "Sau lưng người đàn ông gắt gỏng là người đàn bà hư hỏng.",
+   "author": ""
+  },
+  {
+   "name": "Càng biết nhiều về phụ nữ, càng khó có thể lạc quan.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông tốt trên thế giới này chết hết rồi, giờ chỉ còn di chỉ với hóa thạch thôi!",
+   "author": ""
+  },
+  {
+   "name": "Tôi thấy rất là phiền khi tôi đang nói chuyện mà ai đó cứ nhìn vô cái miệng của tôi, không biết liệu có phải họ muốn hôn tôi? Hay là họ chỉ nhìn vào bộ ria mép của cô gái cá tính mạnh này?",
+   "author": ""
+  },
+  {
+   "name": "Để khiến 1 thằng con trai trở thành 1 thằng đàn ông là cả 1 quá trình, không như bọn con gái trở thành đàn bà rất nhanh chóng.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông với chả đàn bà...\nQuanh đi quẩn lại vẫn là lừa nhau!",
+   "author": ""
+  },
+  {
+   "name": "Con trai có thể mặc 1 bộ quần áo trong 3 ngày.\nCon gái có thể mặc 3 bộ quần áo trong 1 ngày.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông rất sợ khi đàn bà suy diễn vì những gì họ nghĩ hoàn toàn đúng.",
+   "author": ""
+  },
+  {
+   "name": "Xinh đẹp chỉ khiến người đàn ông dừng chân, thông minh mới có thể khiến người đàn ông ở lại bên mình.",
+   "author": ""
+  },
+  {
+   "name": "Ông trời thật bất công:\n- Tạo ra con gái để làm khổ con trai\n- Nhưng tạo ra con trai để làm con gái sướng",
+   "author": ""
+  },
+  {
+   "name": "Con gái chỉ cười khi có thể cuời nhưng muốn khóc thì lúc nào cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Gái đẹp thì có chỉ số yêu tinh cao hơn gái xấu.",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà như cánh hoa tươi. Nở ra chỉ được một thời mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Làm con gái phải ngang tàn ngạo nghễ... Sống trên đời phải hóng hách kiêu sa.",
+   "author": ""
+  }
+ ]
+}

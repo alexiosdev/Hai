@@ -1,0 +1,718 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Sáng trăng chiếu trải hai hàng\nBên anh \"xập xám\", bên nàng \"tiến lên\".",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm nước chảy đá mòn\nNgày nào cũng tắm sợ mòn thịt da\n=> ở dơ sống lâu",
+   "author": ""
+  },
+  {
+   "name": "Quân tử nhất ngôn là quân tử dại,\nQuân tử nói đi nói lại là quân tử khôn.",
+   "author": ""
+  },
+  {
+   "name": "Tự nhiên con mắt liếc qua\nTự nhiên mình thấy người ta liếc mình\nTự nhiên tim đập thình thình\nTự nhiên con mắt của mình tím đen",
+   "author": ""
+  },
+  {
+   "name": "Sau trận thua lịch sử 4000 năm về trước, Thuỷ Tinh ôm hận mà mất, trước giờ lâm chung, Thuỷ Tinh gọi con cháu lại mà dặn rằng:\" sau này, hãy đặt tên cháu ta là Thuỷ Điện, nó sẽ giúp ta rửa hận.\" và quả nhiên, 4000 năm sau, Thuỷ Điện đã đánh bại con cháu Sơn Tinh là Sơn Trạch, hay còn gọi là sạch trơn giúp cho Thuỷ Tinh rửa lại mối hận năm nào...",
+   "author": ""
+  },
+  {
+   "name": "Gió mùa thu anh ru em ngủ\nEm ngủ rồi... anh cạy tủ anh đi!",
+   "author": ""
+  },
+  {
+   "name": "Một phạm nhân vừa trốn trại, để lại lời nhắn: \"Có không giữ, mất đừng tìm\". Sau đó, trên TV công an nhắn lại: \"Trốn cho kỹ, bắt đừng buồn\".",
+   "author": ""
+  },
+  {
+   "name": "Nam quốc sơn hà nam đế cư\nTại sao hút thuốc lại ung thư\nĐã biết ung thư sao vẫn hút!\nĐể đời dang dở thế là hư...!",
+   "author": ""
+  },
+  {
+   "name": "Thân em như tấm lụa đào\nGiá tiền trăm triệu đố chàng nào mua.",
+   "author": ""
+  },
+  {
+   "name": "Em ơi đêm nay, vầng trăng kia như chứng minh.\nMà đêm nay không trăng, không chứng minh được gì.\nĐêm nay 2 đứa đứa, ngồi chờ trăng lên\nChờ tới sáng mà trăng chưa lên.",
+   "author": ""
+  },
+  {
+   "name": "Vác kiếm trên vai đời lãng tử\nChào mẹ con đi đói con về",
+   "author": ""
+  },
+  {
+   "name": "Cây ngay không sợ chết đứng\nKhông ai làm chứng, chết đứng cây ngay.",
+   "author": ""
+  },
+  {
+   "name": "Nấu canh đừng để canh nhừ\nLấy chồng chớ để chần chừ mất ngay",
+   "author": ""
+  },
+  {
+   "name": "Đánh kẻ chạy đi chứ ai lại đánh kẻ chạy chọt",
+   "author": ""
+  },
+  {
+   "name": "Nhà sạch thì mát, bát sạch tốn xà bông để rửa",
+   "author": ""
+  },
+  {
+   "name": "Ngang trái vì xinh gái",
+   "author": ""
+  },
+  {
+   "name": "Một con ngựa đau cả tàu bỏ chạy\nMột người vô net cả nhà kẹt phone",
+   "author": ""
+  },
+  {
+   "name": "Để râu không phải là dê\nĐể râu để biết mình mê đàn bà.",
+   "author": ""
+  },
+  {
+   "name": "Gần mực thì dơ, gần đèn thì lóa",
+   "author": ""
+  },
+  {
+   "name": "Có những người do chân lý sinh ra\nNhưng, có những người do… sơ ý sinh ra.",
+   "author": ""
+  },
+  {
+   "name": "Tiền bao la...nợ bao vây",
+   "author": ""
+  },
+  {
+   "name": "Má ơi đừng gả con gần\nCon qua xúc gạo nhiều lần má... hao",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nEm nghe lời dụ bụng trương chình bình",
+   "author": ""
+  },
+  {
+   "name": "Con ơi nhớ lấy lời cha\nMột năm ăn trộm bằng ba năm làm",
+   "author": ""
+  },
+  {
+   "name": "Trên thế gian chỉ có 2 người không thể múa quạt. Đó là Đô-rê-mon và Mị. Mị nhớ những festival Ê đê mờ đẳng cấp, những màn rap battle, những trận đấu BBoy nảy lửa của trai bản. Mị còn trẻ, Mị muốn đi chill.",
+   "author": ""
+  },
+  {
+   "name": "Lửa gần rơm lâu ngày cũng bén\nYêu không chén yêu được bao lâu",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm chông gai\nCớ sao tui lại đẹp zai thế này.",
+   "author": ""
+  },
+  {
+   "name": "Không buồn, không chán, tán không yêu",
+   "author": ""
+  },
+  {
+   "name": "Việc người thì sáng, việc mình thì quáng.",
+   "author": ""
+  },
+  {
+   "name": "Có công mài sắt có ngày nên kim\nCó kim mà chích có ngày xiđa",
+   "author": ""
+  },
+  {
+   "name": "Một nụ cười bằng mười thang thuốc xổ",
+   "author": ""
+  },
+  {
+   "name": "Con đường tới vinh quang không có dấu chân của kẻ lười biếng vì kẻ lười biếng thì làm quái gì chịu đi bộ mà có dấu chân",
+   "author": ""
+  },
+  {
+   "name": "Con nhà tông không giống lông...đỡ giống khỉ",
+   "author": ""
+  },
+  {
+   "name": "Thời xưa chồng bỏ thì lo\nThời nay chồng bỏ trời cho đổi đời",
+   "author": ""
+  },
+  {
+   "name": "Vợ chồng đồng lòng ấy bao nhiêu cũng được",
+   "author": ""
+  },
+  {
+   "name": "Gió đưa vật giá về trời\nBỏ lương ở lại chịu đời đắng cay.",
+   "author": ""
+  },
+  {
+   "name": "Gần mực thì... bia, gần đèn thì... hút.",
+   "author": ""
+  },
+  {
+   "name": "Nước ngoài cũng giống nước ta\nCuộc đời ta sướng khi cha ta giàu",
+   "author": ""
+  },
+  {
+   "name": "Gần mực thì bia, gần khuya thì buồn ngủ.",
+   "author": ""
+  },
+  {
+   "name": "Còn nói còn tát",
+   "author": ""
+  },
+  {
+   "name": "Độc lập tự...lo.",
+   "author": ""
+  },
+  {
+   "name": "Đầu bạc, răng... rơi.",
+   "author": ""
+  },
+  {
+   "name": "Thành công vặt lông thành kiến",
+   "author": ""
+  },
+  {
+   "name": "Người tốt thì nhiều, mà người biết điều thì ít",
+   "author": ""
+  },
+  {
+   "name": "Bên ngoài thơn thớt nói cười\nBên trong nham hiểm giết người không dao",
+   "author": ""
+  },
+  {
+   "name": "Trong cái khó lại ló cái khăn.",
+   "author": ""
+  },
+  {
+   "name": "Sân si ăn mòn nhân cách\nThất hứa bán rẻ niềm tin.",
+   "author": ""
+  },
+  {
+   "name": "Bầu ơi thương lấy bí cùng,\nMai sau có lúc... nấu chung một nồi.",
+   "author": ""
+  },
+  {
+   "name": "Tiên học lễ hậu học...ăn",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm Kiều vẫn là Kiều\nĐẹp trai bị ghét là điều tất nhiên.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ tay lên trời hận đời vô đối, chỉ tay xuống gối, đi ngủ cho rồi.",
+   "author": ""
+  },
+  {
+   "name": "Được voi đòi...Hai Bà Tưng",
+   "author": ""
+  },
+  {
+   "name": "Không đẹp thì phải độc, không hay thì phải hiếm.",
+   "author": ""
+  },
+  {
+   "name": "Góp gió thành bão, góp gạo thành cơm",
+   "author": ""
+  },
+  {
+   "name": "Nhiễu điều phủ lấy giá gương\nMai sau có lúc ngoài đường đập nhau",
+   "author": ""
+  },
+  {
+   "name": "Có tiền mua tiên cũng uổng",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà là những niềm đau\nĐàn ông có thể yêu nhau cơ mà =))",
+   "author": ""
+  },
+  {
+   "name": "Mẹ ơi con muốn lấy chồng…Con ơi mẹ cũng một lòng như con.",
+   "author": ""
+  },
+  {
+   "name": "Thuận vợ thuận chồng...con đông mệt quá",
+   "author": ""
+  },
+  {
+   "name": "Nắng lên cho má em hồng\nCho môi em đỏ cho chồng em theo",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta vừa nghe một câu chuyện cổ tích... mà chuyện cổ tích thì sao?... Không có thật.",
+   "author": ""
+  },
+  {
+   "name": "Một điều nhịn là chín đứa ngồi lên đầu.",
+   "author": ""
+  },
+  {
+   "name": "Ăn ít no lâu, ăn nhiều... hao của",
+   "author": ""
+  },
+  {
+   "name": "Văn chương chữ nghĩa chẳng ra trò\nVề nhà chăn bò thế mà no",
+   "author": ""
+  },
+  {
+   "name": "Răng tung tăng đi trước, môi lã lướt theo sau.",
+   "author": ""
+  },
+  {
+   "name": "Gần mực thì beer\nGần đèn thì thuốc",
+   "author": ""
+  },
+  {
+   "name": "Đi 1 ngày đàng, ăn hàng bụng no...",
+   "author": ""
+  },
+  {
+   "name": "Em ơi đừng lấy chồng xa\nLấy anh cho khoẻ, đám ma cho gần.",
+   "author": ""
+  },
+  {
+   "name": "Sinh ra vốn đã hiền lành\nDòng đời xô đẩy hóa thành cave",
+   "author": ""
+  },
+  {
+   "name": "Có chí thì...ghê",
+   "author": ""
+  },
+  {
+   "name": "Một cây làm chẳng nên non\n3 cây chụm lại... vẫn là 3 cây",
+   "author": ""
+  },
+  {
+   "name": "Xăng … có thể cạn, lốp … có thể mòn, nhưng số máy, số khung thì không bao giờ thay đổi.",
+   "author": ""
+  },
+  {
+   "name": "Cờ bạc là bác thằng hèn\nÁo quần bán hết, tòng teng đi... ăn mày",
+   "author": ""
+  },
+  {
+   "name": "Nếu mà anh lấy phải nàng,\nAnh thà thắt cổ cho nàng ở không.",
+   "author": ""
+  },
+  {
+   "name": "Mua heo lựa nái, mua gái lựa dòng.",
+   "author": ""
+  },
+  {
+   "name": "Cưới vợ thì cưới liền tay.\nChớ để vật giá lâu ngày leo thang.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa bụng phệ làm quan\nNgày nay bụng phệ không sơ gan cũng tiểu đường.",
+   "author": ""
+  },
+  {
+   "name": "Cái nết đánh chết cái đẹp, cái đẹp nó đè bẹp cái nết.",
+   "author": ""
+  },
+  {
+   "name": "Sông dài cá lội biệt tăm\nPhải duyên chồng vợ ngàn năm vẫn chờ\nSông dài cá lội vào bờ\nPhải duyên thì lấy, đợi chờ nhau chi",
+   "author": ""
+  },
+  {
+   "name": "Nhân nhượng là tự sát, độc ác là huy hoàng",
+   "author": ""
+  },
+  {
+   "name": "Vạn sự khởi đầu nan, mà gian nan thì bắt đầu thấy nản…",
+   "author": ""
+  },
+  {
+   "name": "Chửi cha không bằng pha tiếng.",
+   "author": ""
+  },
+  {
+   "name": "Áo anh sứt chỉ đường tà\nVứt làm nùi giẻ lau nhà cho xong.",
+   "author": ""
+  },
+  {
+   "name": "Không có gì quý hơn đọc truyện tự do.",
+   "author": ""
+  },
+  {
+   "name": "Thắng làm vua, thua nhập viện...",
+   "author": ""
+  },
+  {
+   "name": "Trái đất giầy có... bom nguyên tử",
+   "author": ""
+  },
+  {
+   "name": "Uống nước nhớ tè",
+   "author": ""
+  },
+  {
+   "name": "Cái đẹp đánh bẹp cái nết",
+   "author": ""
+  },
+  {
+   "name": "Có công nhịn đói... có ngày mi nhon",
+   "author": ""
+  },
+  {
+   "name": "Đất lành chim đậu, chim chưa đậu đã nhậu mất chim..",
+   "author": ""
+  },
+  {
+   "name": "Ba đồng một mớ trầu cay\nKhông bằng tình nghĩa một cây vàng mười.",
+   "author": ""
+  },
+  {
+   "name": "1 cây làm chẳng nên non\n3 cây chụm lại mua được chiếc Siri",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua tát nước đầu đình\nTát qua tát lại cái quần mất tiêu",
+   "author": ""
+  },
+  {
+   "name": "Tiên học lắc, hậu học bay",
+   "author": ""
+  },
+  {
+   "name": "Gái xưa 1 dạ 2 vâng\nGái nay 1 dạ vâng vâng cái nồi",
+   "author": ""
+  },
+  {
+   "name": "Ăn trông nồi,ngồi trông người bên cạnh",
+   "author": ""
+  },
+  {
+   "name": "Gái xưa không chửi lung tung\nGái nay động tí là bung võ mồm",
+   "author": ""
+  },
+  {
+   "name": "Nhà sạch thì mát, bát sạch không phải rửa",
+   "author": ""
+  },
+  {
+   "name": "Năng nhặt chật nhà",
+   "author": ""
+  },
+  {
+   "name": "Người tính không bằng... máy tính",
+   "author": ""
+  },
+  {
+   "name": "Trâu ơi ta bảo trâu này\nTrâu ra ngoài ruộng trâu cày mình trâu\nViệc cày là việc của trâu\nCòn ta đi nhậu còn lâu mới về",
+   "author": ""
+  },
+  {
+   "name": "Một niềm vì nước vì dân\nNhiệm kỳ có hạn nên cần tham ô",
+   "author": ""
+  },
+  {
+   "name": "Nhặt được của rơi mang ra đấu giá",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn\nKhông có xe đẹp thôi đừng yêu em",
+   "author": ""
+  },
+  {
+   "name": "Miếng ngon giữa đàng, ai đàng hoàng là dại",
+   "author": ""
+  },
+  {
+   "name": "Củi khô dễ nấu, chồng xấu dễ xài...",
+   "author": ""
+  },
+  {
+   "name": "Một điều nhịn là chín điều nhục.",
+   "author": ""
+  },
+  {
+   "name": "Học, học nữa, hộc máu.",
+   "author": ""
+  },
+  {
+   "name": "Hữu duyên thiên lý ăn viên gạch\nChém gió liên thiên tát lệnh hàm\nCùi chỏ sang ngang răng li biệt\nĐầu gối lên môi vĩnh biệt hàm",
+   "author": ""
+  },
+  {
+   "name": "Ăn trộm quen tay...\nNgủ ngày quen mắt...",
+   "author": ""
+  },
+  {
+   "name": "Hơn nhau vì áo vì quần\nChứ đem lột trần ai cũng như ai.",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn, con không ăn muối...thiếu iot rồi con ơi.",
+   "author": ""
+  },
+  {
+   "name": "Kiến tha lâu ngày... mỏi cẳng",
+   "author": ""
+  },
+  {
+   "name": "Tiên học phí, hậu học thêm",
+   "author": ""
+  },
+  {
+   "name": "tattoo a.k.a \"tha thu\"",
+   "author": ""
+  },
+  {
+   "name": "Thương nhau trái ấu cũng tròn\nGhét nhau đôi dép dẫu mòn cũng chia",
+   "author": ""
+  },
+  {
+   "name": "Giấy rách giữ lấy... bán ve chai",
+   "author": ""
+  },
+  {
+   "name": "Có công mài sắt có ngày... chai tay",
+   "author": ""
+  },
+  {
+   "name": "Một tay làm chẳng nên non.\nBốn tay chụm lại nên sòng tiến lên.",
+   "author": ""
+  },
+  {
+   "name": "Thất bại là mẹ... cho ăn roi",
+   "author": ""
+  },
+  {
+   "name": "Đầu bạc, răng... vàng",
+   "author": ""
+  },
+  {
+   "name": "Gọt xoài đừng để xoài thâm\nThôi thì đừng gọt khỏi thâm trái xoài",
+   "author": ""
+  },
+  {
+   "name": "Nắng mưa là chuyện của trời\nGác cổng là chuyện của đời vệ binh",
+   "author": ""
+  },
+  {
+   "name": "Hãy cho tôi một điểm tựa, tôi...mỏi lắm rồi.",
+   "author": ""
+  },
+  {
+   "name": "Ăn trầu thì phải kèm vôi\nMuốn soi người khác phải coi lại mình",
+   "author": ""
+  },
+  {
+   "name": "Chiều chiều gió thổi hiu hiu... vì mê tỉ rưỡi mất tiu 10 ngàn",
+   "author": ""
+  },
+  {
+   "name": "Anh đi anh nhớ quê nhà,\nNhớ canh rau muống, nhớ cà... khịa thì nó vui",
+   "author": ""
+  },
+  {
+   "name": "Một thời để yêu và một thời để trả nợ",
+   "author": ""
+  },
+  {
+   "name": "Đau đầu vì nhà giàu",
+   "author": ""
+  },
+  {
+   "name": "Môi hở răng...hô",
+   "author": ""
+  },
+  {
+   "name": "Không mày đố thầy dạy ai",
+   "author": ""
+  },
+  {
+   "name": "Thất bại là bà ngoại thành công",
+   "author": ""
+  },
+  {
+   "name": "Má ơi cứ gả con xa\nChàng mà nổi giận, chổi chà con quơ",
+   "author": ""
+  },
+  {
+   "name": "Tôn Ngộ Không thần thông quảng đại\nTrư Bát Giới vừa dại vừa ngu\nĐường Tăng có mắt như mù\nSa Tăng gánh nặng lù lù theo sau.",
+   "author": ""
+  },
+  {
+   "name": "Thu đi để lại lá vàng\nMụn đi để lại muôn vàn vết thâm",
+   "author": ""
+  },
+  {
+   "name": "Còn trời còn nước còn non\nCòn chứng lười học là còn đau mông.",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm rùa vẫn là rùa\nNgàn năm tao vẫn xem chùa chẳng like =))",
+   "author": ""
+  },
+  {
+   "name": "Người đi một nửa hồn tôi mất!!\nMột nửa hồn kia... đứng chửi thề!!!",
+   "author": ""
+  },
+  {
+   "name": "Ớt nào là ớt chẳng cay\nGái nào là gái chẳng hay ghen chồng",
+   "author": ""
+  },
+  {
+   "name": "Ta về ta tắm ao ta\nChứ qua ao bạn đường xa quá chừng.",
+   "author": ""
+  },
+  {
+   "name": "Bàn tay ta làm lên tất cả\nCó sức người sỏi đá cũng thành bê tông",
+   "author": ""
+  },
+  {
+   "name": "Thích thì chiều...anh liều... em té",
+   "author": ""
+  },
+  {
+   "name": "Để râu không phải là dê\nĐể râu là để mân mê cho đỡ buồn\nĐể râu không phải là già\nĐể râu chứng tỏ ta là đàn ông\nĐể râu không phải là ngông\nĐể râu phân biệt đàn ông với đàn bà",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa sợ vợ là sai\nBây giờ sợ vợ ta oai nhất vùng\nNgày xưa sợ vợ là khùng\nBây giờ sợ vợ anh hùng thời nay\nNgày xưa sợ vợ là đần\nBây giờ sợ vợ muôn phần vẻ vang",
+   "author": ""
+  },
+  {
+   "name": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho đừng đập nhau.",
+   "author": ""
+  },
+  {
+   "name": "Ân quả nhớ...nhả hột ra",
+   "author": ""
+  },
+  {
+   "name": "Nhặt được của rơi tạm thời bỏ túi",
+   "author": ""
+  },
+  {
+   "name": "Qua cầu ngả nón trông cầu.\nCầu bao nhiêu nhịp...tốn xăng dầu bấy nhiêu",
+   "author": ""
+  },
+  {
+   "name": "Xấu người xấu nết, xấu cả vết chân đi",
+   "author": ""
+  },
+  {
+   "name": "Thịt gà phải có lá chanh\nĐàn ông là phải sở khanh vài lần",
+   "author": ""
+  },
+  {
+   "name": "Mệt mỏi vì học giỏi.",
+   "author": ""
+  },
+  {
+   "name": "Đi đêm cho lắm có ngày có con",
+   "author": ""
+  },
+  {
+   "name": "Hữu duyên thiên lý năng tương ngộ,vô duyên đối mặt cự um sùm",
+   "author": ""
+  },
+  {
+   "name": "Một người làm chẳng nên non\nBa người chụm lại..làm chi vậy trời",
+   "author": ""
+  },
+  {
+   "name": "Nghe có vẻ Mộ Dung Phục nhưng lại rất Hư Trúc",
+   "author": ""
+  },
+  {
+   "name": "Cái nết đánh chết cái đẹp, cái đẹp đánh dẹp cái túi",
+   "author": ""
+  },
+  {
+   "name": "Giữa đường nhặt cánh hoa rơi\nLượm lên phủi phủi: \"Cũ người mới ta\"",
+   "author": ""
+  },
+  {
+   "name": "Học đi đôi với hành,hành đi đôi với tỏi",
+   "author": ""
+  },
+  {
+   "name": "Tóc thề em xóa ngang vai\nAnh mà đụng tới bạt tai bây giờ.",
+   "author": ""
+  },
+  {
+   "name": "Không có việc gì khó, chỉ sợ tiền không nhiều, đào núi và lấp biển, không làm được thì thuê",
+   "author": ""
+  },
+  {
+   "name": "Thắng vô trại, bại vô nhà thương",
+   "author": ""
+  },
+  {
+   "name": "Thơ tôi chỉ có bốn câu\nĐã xong câu một, bắt đầu câu hai\nCâu ba sáu chữ không dài\nSắp xong câu bốn, hết bài xong thơ!",
+   "author": ""
+  },
+  {
+   "name": "Tiên học lễ, hậu học văn\nĐi học trễ, nghỉ học luôn",
+   "author": ""
+  },
+  {
+   "name": "Buồn buồn ra đứng bờ ao\nAi ngờ chó cắn buồn ơi là buồn",
+   "author": ""
+  },
+  {
+   "name": "Không có chuyện gì khó, chỉ sợ tiền không nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Văn hay chữ tốt không bằng học dốt lắm tiền",
+   "author": ""
+  },
+  {
+   "name": "Nhặt đựơc của rơi tìm nơi cất giấu",
+   "author": ""
+  },
+  {
+   "name": "Im lặng là vàng, rộn ràng là kim cương",
+   "author": ""
+  },
+  {
+   "name": "Cá không ăn muối cá ươn.\nChồng cãi lại vợ ra đường bơm xe.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa hồng nhan bạc mệnh. Ngày nay hồng nhan bạc triệu chỉ có tàng nhang bạc mệnh thôi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật quá vô tình\nTại sao sắp xếp ép mình đẹp zai.",
+   "author": ""
+  },
+  {
+   "name": "Đẹp zai cho gái phải lòng!\nXấu zai nó chửi vòng trong vòng ngoài",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm tai ương\nCớ sao ta lại dễ thương thế này!",
+   "author": ""
+  },
+  {
+   "name": "Bên ngoài đỗ nát hoang sơ\nBên trong cảnh vật nên thơ trữ tình.",
+   "author": ""
+  },
+  {
+   "name": "Phong cách đại gia dù tiền nhà không có.\nVẻ đẹp lấp ló nhưng vẫn rạng ngời.",
+   "author": ""
+  },
+  {
+   "name": "Cục Sì Lầu Ông Bê Lắp\n(Don't you know pump it up)",
+   "author": ""
+  },
+  {
+   "name": "Có cái chết hóa thành bất tử và có cái chết hóa thành … chết thử.",
+   "author": ""
+  }
+ ]
+}

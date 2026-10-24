@@ -1,0 +1,66 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "nfdpVD5OlpE",
+   "name": "Hài Tết - Hài Kịch Kén Rể Đầu Năm - Gala Cù 1977 Vlog"
+  },
+  {
+   "idvideo": "4EyM2xuExnc",
+   "name": "Hài Tết 2025 - Hài Kịch Người Thừa Đêm Giao Thừa - Gala Cù"
+  },
+  {
+   "idvideo": "7D7i7l3s01c",
+   "name": "Hài Tết 2025 - Hài Kịch Tỷ Phú Và Ăn Xin - Gala Cù"
+  },
+  {
+   "idvideo": "UDKuR5wE9SA",
+   "name": "1977 Vlog - Kiều GenZ - Tập 1 - Kiều"
+  },
+  {
+   "idvideo": "cg7ugqc3h4o",
+   "name": "1977 Vlog - Kiều GenZ - Tập 2 - Thúc Sinh"
+  },
+  {
+   "idvideo": "L9XUyl0akso",
+   "name": "1977 Vlog - Kiều GenZ - Tập 3 - Hoạn Thư"
+  },
+  {
+   "idvideo": "Q--l0vBVC-Q",
+   "name": "1977 Vlog - Kiều GenZ - Tập 4 - Từ Hải"
+  },
+  {
+   "idvideo": "kHfLpPZU6Tk",
+   "name": "1977 Vlog - Xuân Đan - Thế Kỷ Trống - Good Boy Đại Chiến"
+  },
+  {
+   "idvideo": "QFM4O5KTsxE",
+   "name": "1977 Vlog - Romeo Và Juliet - Người Giữ Tình Yêu"
+  },
+  {
+   "idvideo": "YPV5XJNRpfo",
+   "name": "1977 Vlog - Hài Tết 2023 - 12 Con Rác - Quý Mão Dọn Nhà"
+  },
+  {
+   "idvideo": "ZFjgmPeKXjg",
+   "name": "1977 Vlog - Ông Lão Đánh Cá Và Con Cá Vàng"
+  },
+  {
+   "idvideo": "03AZf2YC2r8",
+   "name": "1977 Vlog - Hài Tết - 12 Con Giáp - Nhâm Dần Nhậm Chức"
+  },
+  {
+   "idvideo": "7IorhOU4-BQ",
+   "name": "1977 Vlog - Số Đỏ Parody - Vua Bịp Bợm"
+  },
+  {
+   "idvideo": "eHd91wgSNJA",
+   "name": "1977 Vlog - Hai Đứa Trẻ - Hiệp Định Hồ Gươm"
+  }
+ ]
+}

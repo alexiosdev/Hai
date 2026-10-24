@@ -1,0 +1,2066 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Con đó hả, chị phải nói với em là nó lì tới mức mà nó dai, mà 12 con giáp mà nó không thuộc cái con nào, mà nó thuộc cái con đỉa đó biết không.",
+   "author": ""
+  },
+  {
+   "name": "Chim cú mà còn đòi đú phượng hoàng",
+   "author": ""
+  },
+  {
+   "name": "- 1ơi + 2ơi = mấy ơi?\n- 3ơi\n- ba đây",
+   "author": ""
+  },
+  {
+   "name": "- 1kg cà chua giá nhiêu vậy?\n- 30k\n- Và cái túi?\n- Túi thì miễn phí\n- Ok, cho t cái túi",
+   "author": ""
+  },
+  {
+   "name": "- Hihi, nhìn anh ngầu quá, anh đang làm ở đâu vậy?\n- Cty nước ngoài em ạ\n- Ui, chắc chức anh cao lắm nhỉ\n- Thường thôi em, trưởng phòng!\n- Iu anh rồi đó, mà phòng nào vậy anh?\n- Phòng anh quan sát được hết các phòng khác: Phòng bảo vệ!",
+   "author": ""
+  },
+  {
+   "name": "Chửi mày thì mày bảo tao giỏi văn.\nĐánh mày thì mày bảo tao giỏi võ.\nVừa chửi vừa đánh thì lại bảo tao văn võ song toàn lại khổ.",
+   "author": ""
+  },
+  {
+   "name": "- Buồn... em ấy nói tao rất tốt nhưng em ấy cần thêm thời gian...\n- Tỉnh đi mày. Nó cần thời gian để tìm thằng khác tốt hơn ấy!",
+   "author": ""
+  },
+  {
+   "name": "Cô gái khóc rấm rứt trên tàu hoả, nhân viên lại gần hỏi: \"Có chuyện gì thế em?\"\nCô gái lí nhí đáp: \"Em đi quá ga rồi\"\nNhân viên nhẹ nhàng nói: \"Không sao mà, trước tiên, mời em bù tiền vé đã\".",
+   "author": ""
+  },
+  {
+   "name": "- Mẫu người của em là ai?\n- Dạ em cũng dễ, ai cũng được miễn tốt tốt là được nhưng mà trừ cái không phải là anh là được.",
+   "author": ""
+  },
+  {
+   "name": "- Trả lại mạng cho tao...\n- Tao có lấy gì mạng của mày đâu...\n- Trả lại mạng wifi cho tao.\n- Trời...",
+   "author": ""
+  },
+  {
+   "name": "Một hôm đang đi dạo mát, bỗng có 1 chú chạy xe tới hỏi:\n- Cháu có biết đi tới ABC ở chỗ nào k??\n- Dạ biết:!\n- Thế ở chỗ nào?\n- Chú cứ đi thẳng khoảng chừng 1km nữa... rồi chọn 1 người nào đó rồi hỏi lại nha chú :))",
+   "author": ""
+  },
+  {
+   "name": "- Ai vừa gọi đấy\n- Nếu em bận thì phải nhắn tin lại chứ. Gọi bao nhiêu lần đều không nghe em biết anh lo lắng thế nào không? Lần sau đừng có như thế nữa nhé\n- Nãy em đi đường để máy trong túi nên không biết. Anh là ai vậy?\n- Chuyển phát nhanh",
+   "author": ""
+  },
+  {
+   "name": "- Vì yêu em anh có thể trèo đèo lội suối, vượt qua rừng đao biển lửa để tới bên em <3\n- Yêu quá cơ. Giờ anh qua nhà em đi\n- Hic để lúc khác đi, trời đang mưa",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi, em muốn ăn bún bò\n- Giờ này nghỉ bán rồi em ơi\n- Anh hết thương em rồi phải hong?\n- Em thu hồi tin nhắn đi, vợ anh thấy được là em tới công chuyện đó. Vợ chồng anh bán bún bò cũng có giờ có giấc chứ? 12h đêm lấy đâu ra mà bán cho em.",
+   "author": ""
+  },
+  {
+   "name": "Đi chơi với gấu toàn nói xấu Giáo viên chủ nhiệm.\nHôm sau tới nhà gấu mới biết mẹ gấu là chủ nhiệm của mình. :((",
+   "author": ""
+  },
+  {
+   "name": "Đừng âm thầm like stt nhau làm gì. Thích thì cứ inbox nhau đi để còn nhận được 2 chữ \"đã xem\"",
+   "author": ""
+  },
+  {
+   "name": "- Chuyện tình của cậu tiến triển thế nào rồi?\n- Cô ấy vì mình thay đổi rất nhiều\n- Thế cô ấy thay đổi gì?\n- Địa chỉ nhà, số đt và cả giấy khai sinh",
+   "author": ""
+  },
+  {
+   "name": "- Trên đời này anh sợ nhất bọn trộm chó\n- Anh sợ bị bắt cóc ak\n- Ko anh sợ mất e",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi. Cho anh hỏi muốn vào trái tim em thì đi đường nào vậy?\n- Quay xe. Ngõ cụt rồi anh ơi..",
+   "author": ""
+  },
+  {
+   "name": "- Em sợ nhất ngày kia, anh ko còn yêu em nữa\n- Ngốc ạ, nghĩ linh tinh gì thế, nào đã bao giờ anh yêu em đâu",
+   "author": ""
+  },
+  {
+   "name": "- Lão chồng làm tớ tức điên cả người! Tớ hỏi xin 500 USD để đi thẩm mỹ viện...\n- Sao? Cái lão keo kiệt ấy không cho cậu à?\n- Không! Lão nhìn tớ một hồi từ đầu đến chân rồi đưa hẳn 1.000 USD.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc cũng muốn trở thành 1 vĩ nhân... nhưng lại sợ ảnh mình trong SGK bị tụi nó vẽ bậy vào!",
+   "author": ""
+  },
+  {
+   "name": "- Dạo này soi gương thấy e xấu quá, a khen e 1 câu an ủi đi\n- Mắt em tinh phết",
+   "author": ""
+  },
+  {
+   "name": "\"Sau này con sẽ được cầm phấn và quyết định một số việc rất lớn\" - Hồi đó tưởng được làm giáo viên ai ngờ đi làm bảo vệ dùng phấn viết yên xe máy",
+   "author": ""
+  },
+  {
+   "name": "Một cô gái vào hiệu ảnh:\n- Anh chụp cho tôi một tấm ảnh chân dung vừa đẹp, vừa chân thật.\n- Ở trường hợp của cô, chỉ nên chọn một trong hai điều đó thôi.",
+   "author": ""
+  },
+  {
+   "name": "- Em cầm ô về kẻo ướt\n- Thế còn anh?\n- Anh gọi taxi :)",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói anh đang cần người tâm sự\nThật tình cờ em chẳng muốn quan tâm...",
+   "author": ""
+  },
+  {
+   "name": "Sống thì phải biết điều... Đừng tỏ máu liều nhiều hơn máu não.",
+   "author": ""
+  },
+  {
+   "name": "Nể nhất mấy đứa ăn trộm tiền của mẹ rồi ra quán Karaoke hát bài \"Con nợ Mẹ\".",
+   "author": ""
+  },
+  {
+   "name": "Năm 9 tuổi, tôi đã dành hết số tiền ăn sáng cả tháng trời của mình để cho một ông già cụt tay ăn xin trước cổng trường. Chiều hôm sau, tôi thấy ông ấy mọc ra tay và đang ăn phở gần nhà. Từ đó tôi nhận ra: cho đi chính là tạo ra những phép màu.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có nhớ bữa chúng mình mới quen nhau không? Hôm đó, trời cũng sấm sét đùng đùng như hôm nay.\n- Quên sao được, nhưng đáng tiếc là anh đã coi thường lời cảnh báo về số phận mình từ thiên nhiên.",
+   "author": ""
+  },
+  {
+   "name": "- Vợ ơi, 9h rồi đó... hôm nay vợ tăng ca à?\n- Ơ, em quên mất đã cưới anh, làm xong em về nhà mẹ đẻ rồi.",
+   "author": ""
+  },
+  {
+   "name": "Mày nổi lên là nhờ thời.\nXin lổi, với đời mày chẳng là gì đâu",
+   "author": ""
+  },
+  {
+   "name": "- Anh làm sao để yêu em bây giờ?\n- Vậy sáng mai anh hãy mang cho tôi Voi chín ngà, Gà chín cựa, Ngựa chín hồng mao!\n- Những thứ đó chỉ có trong truyện cổ tích thôi!\n- Thì tôi yêu anh cũng chỉ là trong truyện cổ tích thôi",
+   "author": ""
+  },
+  {
+   "name": "- Chia tay đi, em chỉ muốn biết 1 điều: trong suốt thời gian qua, anh có bao giờ nói dối em chuyện gì không?\n- Anh yêu em\n- Muộn rồi anh ah, đừng nói vời em những lời thừa thải ấy nữa\n- Không, ý anh là trong thời gian qua anh chỉ nói dối e có vậy thôi",
+   "author": ""
+  },
+  {
+   "name": "Hình 3 cạnh là tam giác\nCrush thích mày là ảo giác",
+   "author": ""
+  },
+  {
+   "name": "Nếu thế giới chỉ còn lại 2 người, chưa chắc người ta đã thích bạn chứ đừng nói những 7 tỷ người.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu mày có 3 cái bánh, mày cho người yêu mày 1 cái thì mày còn mấy cái?\n- Còn 2\n- Sai! Còn 3... mặt mày làm gì có người yêu.",
+   "author": ""
+  },
+  {
+   "name": "Tụi bay diễn xong chưa hạ màn đi để tao còn vỗ tay",
+   "author": ""
+  },
+  {
+   "name": "Nhan sắc có hạn, thủ đoạn vô biên.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nãy ngồi uống cafe tao thấy một con kiến, tao bèn quăng cho nó một cục đường. Con kiến này chỉ ngửi ngửi rồi chạy nhanh về tổ của nó. Và lát sau tao thấy nó kéo theo một bầy kiến. Tao liền dấu cục đường kia đi, để tao cho bầy kiến này nghĩ con kiến kia chỉ là kẻ nói phét :))",
+   "author": ""
+  },
+  {
+   "name": "- Cậu có hai con chó! Tặng tớ 1 con nhé!\n- Cậu muốn lấy con nào?\n- Con trắng nhé!\n- Ko được! Con trắng tớ rất thích!\n- Vậy thì con đen!\n- Tớ cũng muốn tặng cho cậu nhưng mà mẹ tớ dạy: \"Đừng tặng người khác những gì mà mình ko thích\"!",
+   "author": ""
+  },
+  {
+   "name": "\"Sau này con sẽ cầm đầu rất nhiều người\" - Hồi đó tưởng mình xã hội đen hoặc như nào ấy, giờ đi làm thợ cắt tóc",
+   "author": ""
+  },
+  {
+   "name": "Cướp đây giơ tay lên không tao báo cảnh sát",
+   "author": ""
+  },
+  {
+   "name": "- Biết gì chưa? Ngày 20 tháng sau, trường mình được nghỉ đó!\n- Thật à? Mà sao được nghỉ vậy? (đang mừng thầm)\n- À do ngày đó trúng ngay ngày thế giới quy định là Chủ Nhật.",
+   "author": ""
+  },
+  {
+   "name": "- Mày nghe thấy gì không?\n- Không?\n- Sự tuyệt vời khi mày im lặng ấy",
+   "author": ""
+  },
+  {
+   "name": "Tên trộm tặng cho bồ của hắn chiếc nhẫn quý, cô này suýt xoa hỏi:\n- Ôi, đẹp quá! Nó có giá bao nhiêu vậy anh?\n- 7 năm tù và bị tịch thu toàn bộ tài sản.",
+   "author": ""
+  },
+  {
+   "name": "Nếu cuộc đời tôi là 1 bộ phim vậy anh nhất định là đoạn quảng cáo được phát giữa giờ... PHIỀN!",
+   "author": ""
+  },
+  {
+   "name": "Lương tâm của mày còn ít hơn điểm thi Hóa của tao.",
+   "author": ""
+  },
+  {
+   "name": "- Em thích một người, anh nghĩ em có nên nói với người đó không?\n- Chỉ cần không phải anh thì em nói với ai cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Nam mượn bạn 2 ngàn và hứa hôm sau sẽ trả gấp đôi, hôm sau Nam gấp đôi tờ tiền lại rồi trả cho bạn. Nam nghĩ mình làm đúng!!!!",
+   "author": ""
+  },
+  {
+   "name": "Khi em ra đi, anh cảm thấy mọi thứ thật tệ. Anh cầu xin em đừng quay lại làm cho mọi thứ tệ thêm.",
+   "author": ""
+  },
+  {
+   "name": "Em vừa được lớp bầu lên làm thủ quỹ. Tìm iPhone 12 xách tay ạ.",
+   "author": ""
+  },
+  {
+   "name": "- Anh yêu, bác sĩ khuyên em nên đi du lịch vài tuần, vậy ta đi đâu bây giờ?\n- Đi gặp bác sĩ khác!",
+   "author": ""
+  },
+  {
+   "name": "- Mày có một 1 hộp có 9 cái bánh. Đem chia cho 9 người mỗi người 1 cái hỏi mày còn mấy cái?\n- Hết, không còn cái nào.\n- Sai! Còn 1 cái... hộp!",
+   "author": ""
+  },
+  {
+   "name": "Đang đi chở gấu dừng xe 1 cái trước quán ăn hỏi : Ăn k em?\nGấu trả lời: Có ạ.\nRồi lại tiếp tục đi dừng trước quán khác hỏi : Ăn k em?\nGấu lại trả lời : Có ạ.\nMình nói : Xe anh vừa mới mua phanh chả ăn ak =)))",
+   "author": ""
+  },
+  {
+   "name": "Tại sao chúng ta lại nói xấu nhau trong khi... chúng ta có thể nói lời ngọt ngào với giọng mỉa mai khinh bỉ?",
+   "author": ""
+  },
+  {
+   "name": "Hà Lội là từ để miêu tả thủ đô Hà Nội khi mưa bão",
+   "author": ""
+  },
+  {
+   "name": "Thân là củ cải mà cứ tưởng mình là nhâm sâm\nSống ko có tâm thì đừng có giao giảng đạo đức",
+   "author": ""
+  },
+  {
+   "name": "- Đêm qua anh mơ thấy em\n- Thật ạ?\n- May sao anh tỉnh giấc.",
+   "author": ""
+  },
+  {
+   "name": "Cho dù vẻ đẹp bên ngoài bạn xấu, chỉ cần bạn có nội tâm bên trong đẹp đẽ... Bạn vẫn xấu",
+   "author": ""
+  },
+  {
+   "name": "- Tao ước có ai đó rủ tao đi ăn, đi uống trà sữa, đi xem phim, đi shopping,...\n- Mày cứ ước đi, ước nhiều vô không mất tiền đâu mà lo\n- hurmmm!!!",
+   "author": ""
+  },
+  {
+   "name": "Nhà Trí có rất nhiều muỗi nên Trí quyết định giăng mùng và chui xuống gầm giường ngủ để đánh lạc hướng muỗi.",
+   "author": ""
+  },
+  {
+   "name": "- Em có bạn trai chưa?\n- Dạ chưa anh ạ, em xấu thế này có chó nó yêu\n- Vậy anh sẽ nguyện làm chó để yêu em\n- Xin lỗi anh, em không yêu chó :))",
+   "author": ""
+  },
+  {
+   "name": "- Bác bán cho tôi tất cả cà chua, trứng thối của cửa hàng.\n- Có ngay, thưa cô. Nhưng cô mua nhiều như vậy để làm gì?\n- Để chuẩn bị cho buổi biểu diễn ca nhạc tối nay.\n- Làm như thế liệu có hơi ác với ca sĩ đó không?\n- Không, tôi chính là cô ca sĩ ấy. Cẩn thận vẫn hơn bác ạ!",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn bị ăn hiếp hãy nhanh tay gọi cho tôi...\nTôi sẽ nhanh chân chạy tới... gọi cảnh sát.",
+   "author": ""
+  },
+  {
+   "name": "- Mới xem Avengers 4 xong, có muốn spoil không?\n- Có, nói đi xem nào\n- Tao thấy Crush của mày đi xem phim với thằng khác.",
+   "author": ""
+  },
+  {
+   "name": "- Người yêu cũ bị rơi xuống cống mày sẽ làm j?\n- Đậy nắp cống lại :v",
+   "author": ""
+  },
+  {
+   "name": "Đi học lái xe, ông thầy chỉ vào cái ao kể. \"Mấy năm trước có 1 câu đăng ký học lái xe ở đây, không phân biệt được chân ga với chân thắng nên cả người lao thẳng xuống ao\". Học viên khác cười quá trời cười. Xong ổng chỉ vào tao: \"Không ngờ hôm nay cậu đó lại đến đăng ký học lại\".",
+   "author": ""
+  },
+  {
+   "name": "- Ù, tóc mới, tóc này rất hợp...\n- Trẻ đúng không anh\n- Hợp với một gương mặt khác",
+   "author": ""
+  },
+  {
+   "name": "\"Lớn lên sẽ được đi ô tô, có hẳn lái xe riêng, tay lúc nào cũng cầm một cục tiền\" - cứ tưởng được làm sếp, giờ đang làm lơ xe bus",
+   "author": ""
+  },
+  {
+   "name": "- Biết nguyên âm có chữ gì không? A iu e ó\n- E o iu a",
+   "author": ""
+  },
+  {
+   "name": "Vào quán net hỏi: \"bao nhiêu một tiếng?\"\nChủ quán trả lời \"60 phút 1 tiếng\".",
+   "author": ""
+  },
+  {
+   "name": "- Anh là con nghiện, em là chất kích thích\n- Tức là anh không thể sống thiếu em sao <3\n- Không phải. Yêu em tốn tiền lắm",
+   "author": ""
+  },
+  {
+   "name": "Hồi trước có một người bạn tìm tôi vay tiền để phẫu thuật thẩm mỹ, cuộc phẫu thuật khá thành công, nhưng sau đó tôi không còn nhận ra ai đã vay tiền của mình.",
+   "author": ""
+  },
+  {
+   "name": "- Làm người yêu anh nhé.\n- Anh biết ngôi nhà và anh khác nhau điểm gì không?\n- Điều gì vậy?\n- Anh không có cửa.",
+   "author": ""
+  },
+  {
+   "name": "Khi anh bỏ học em đã đến bên anh\nKhi anh thất nghiệp em ở bên cạnh anh\nKhi anh ốm đau bệnh tật em cũng đã đến bên anh.\nBây giờ khi xa em rồi anh mới nhận... ra... một điều thật giản dị :\n...\n\" Ở CẠNH EM ANH ĐEN XÌ\"",
+   "author": ""
+  },
+  {
+   "name": "- Biệt danh hay nhất mà người khác đặt cho bạn?\n- Người dùng Facebook, do Crush tao đặt",
+   "author": ""
+  },
+  {
+   "name": "Nửa đêm không ngủ được, dậy uống cốc nước thấy một con gián, ngồi tâm sự với nó. Kể nó nghe những nổi buồn của mình... Rồi cầm chiếc dép đập chết luôn vì đã biết quá nhiều.",
+   "author": ""
+  },
+  {
+   "name": "- Tao muốn biết bản thân có quan trọng với cô ấy không nên tao đã thử im lặng.\n- Từ đó mày không thể biết được cô ấy ăn cơm chưa...",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao anh phải trộm chiếc xe ấy?\n- Bởi vì xe dừng ở cạnh nghĩa địa nên tôi tưởng chủ nhân nó đã qua đời!",
+   "author": ""
+  },
+  {
+   "name": "Điều đáng yêu của 1 con chó là hiểu được tiếng người.\nCòn điều đáng nể của 1 số người là sủa được tiếng chó.",
+   "author": ""
+  },
+  {
+   "name": "- Bài viết của em rất tốt!\n- Thật ạ!\n- Mỗi cái lạc đề.",
+   "author": ""
+  },
+  {
+   "name": "Boris rủ bạn Vova đến thăm bà ngoại. Bà nhờ Boris sửa vòi nước trong bếp. Vova ngồi ngoài phòng khách chờ, tranh thủ nhấm nháp hết đĩa đậu phộng để trên bàn. Khi cùng bạn ra về, Vova cảm ơn bà và phân bua:\n- Cháu cảm ơn bà về đĩa đậu phộng. Cháu đã lỡ ăn hết không chừa lại một hạt nào cho bà.\n- Không sao, lúc trước nó còn là đĩa chocolate cơ đấy! Vì không có răng, nên bà đã mút hết lớp vỏ chocolate bao quanh hạt đậu phộng rồi.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mình vừa quyên góp ví, điện thoại và 2 triệu cho một người khó khăn. Bạn không thể tưởng tượng được niềm hạnh phúc khôn xiết của tôi khi thấy anh ấy cất dao vào túi đâu.",
+   "author": ""
+  },
+  {
+   "name": "Cám ơn đã thích mình, mình hiểu cảm giác của cậu bây giờ, vì mình cũng đang thích 1 người khác.",
+   "author": ""
+  },
+  {
+   "name": "Có 3 thứ nhất định phải mang theo khi ra đường, chính là chìa khóa, ví tiền và... não đó!!!",
+   "author": ""
+  },
+  {
+   "name": "- Khi ta đi biển, nếu chẳng may thuyền bị thủng, nước ùa vào trong khoang thì ta phải làm thế nào?\n- Thưa cô phải xử lý thật nhanh kẻo bị chìm, ta đục thêm một lỗ khác lớn hơn để nước chảy ra ngoài.",
+   "author": ""
+  },
+  {
+   "name": "- Alo đây có phải đường dây nóng không?\n- Phải rồi! có việc gì!\n- À không trời lạnh nên thử gọi đường dây nóng xem nó có ấm lên không ấy mà",
+   "author": ""
+  },
+  {
+   "name": "- Em sợ một mai anh sẽ đem lòng yêu người con gái khác\n- Chắc chắn rồi và người con gái đó sẽ rất giống em\n- Ôi anh yêu thật lãng mạn. Là con gái chúng ta phải không?\n- Không, em gái em",
+   "author": ""
+  },
+  {
+   "name": "Nhà hàng xóm có người bị ma nhập, nhanh trí mở ngay bài \"Hãy ra khỏi người đó đi\". Nhập luôn sang mình!",
+   "author": ""
+  },
+  {
+   "name": "- Vết mổ tốt thế này thì vài ngày nữa anh sẽ được xuất viện\n- Thế có nghĩa là điều tồi tệ nhất đã qua rồi phải không bác sĩ?\n- Tôi không thể nói trước được, anh phải xem hoá đơn viện phí cái đã",
+   "author": ""
+  },
+  {
+   "name": "Ủa, mày rũ tao đi tản bộ hay đi tảo mộ zậy?",
+   "author": ""
+  },
+  {
+   "name": "- Em, dọn đồ đi! Anh trúng số rồi!\n- Ô, thật à, trúng bao nhiêu mà đổi đời chuyển chỗ mới vậy anh?\n- 1 tỷ rưỡi, nhưng mà chỉ chuyển đồ em chứ không chuyển chỗ ở",
+   "author": ""
+  },
+  {
+   "name": "Đang coi phim Thiếu lâm tự, bỗng có thằng hòa thượng sư huynh nói :\"Các người dám đụng vào 1 sợi tóc của huynh đệ ta, ta sẽ không tha cho các ngươi\".",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mày lại khiến tao lại nhọc, mặc dù mày cũng khá là thông minh, chỉ số IQ bằng đúng điểm thi đại học.",
+   "author": ""
+  },
+  {
+   "name": "Cày đồ án cả đêm, tối tối mò mò lọ thuốc nhỏ mắt, thế nào lại nhầm... lọ keo 502.",
+   "author": ""
+  },
+  {
+   "name": "Từ phòng xét nghiệm đi ra, bác sĩ nói với bệnh nhân:\n- Tôi có một tin tốt và tin xấu cho anh.\n- Cho tôi biết tin tốt trước!\n- Tên của anh sẽ được người ta đặt cho một căn bệnh mới.",
+   "author": ""
+  },
+  {
+   "name": "Nhạc không hay lỡ bấm play rồi thì tự tắt. Nhìn mặt tao không ưa thì tự lấy tay ra mà bịt mắt",
+   "author": ""
+  },
+  {
+   "name": "- Em có lạnh không?\n- Không ạ.\n- Thế cho anh mượn cái áo khoác :v",
+   "author": ""
+  },
+  {
+   "name": "- Mày chuyên sinh cho tao hỏi cái\n- Trình bày\n- Những con nào thì đẻ con hả mày?\n- Lợn, chó, heo, mèo, hổ, báo... Nói chung động vật có vú sẽ đẻ con. Mà sao?\n- Vậy thì mày xác định sau này là đẻ trứng rồi",
+   "author": ""
+  },
+  {
+   "name": "Đi chơi đêm về nằm muộn, nằm ngủ ngay và luôn. Được một lát thấy khó thở, nghĩ là bóng đè xong đọc kinh niệm phật cầu nguyện các thứ một lúc mới nhớ ra là chưa cởi khẩu trang.",
+   "author": ""
+  },
+  {
+   "name": "Yêu 1 người.\nNhớ 1 người.\nBuồn 1 người.\nThay đổi vì 1 người.\nChờ đợi 1 người.\nHạnh phúc nhất là khi... không để 5 con đó biết nhau...",
+   "author": ""
+  },
+  {
+   "name": "Sáng đi làm, nhờ con bé hàng xóm mua quả bầu về nấu canh. Chiều đi làm về chạy qua gọi nó: \"Lan ơi có bầu chưa, anh lấy?\". Đến giờ nằm trong bệnh viện nhưng vẫn chưa hiểu lý do tại sao anh trai nó lao ra đấm em túi bụi.",
+   "author": ""
+  },
+  {
+   "name": "- Bảng chữ cái có 26 chữ, nếu bỏ chữ A N H đi thì còn bao nhiêu chữ?\n- 23\n- Sai rồi còn 21 thôi. Bởi vì E M sẽ sẽ đi theo A N H.\n- T đi một mình cũng đc",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai chả có gì sai. Nhưng cái sai là bạn không có đẹp trai.",
+   "author": ""
+  },
+  {
+   "name": "Bị bố mẹ mắng, tức quá dắt theo con chó bỏ nhà đi bụi. Vài ngày sau gia đình đăng tin \"Tìm chó\"",
+   "author": ""
+  },
+  {
+   "name": "- Bố em vẫn còn đang ở trong viện, thầy cho em nghỉ thêm mấy hôm.\n- Bố em làm sao mà lâu ra viện thế?\n- Bố em làm bác sĩ",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời em vốn dĩ là một đường thẳng\nNếu có rẽ... thì cũng chỉ để tránh anh.",
+   "author": ""
+  },
+  {
+   "name": "Tui không muốn đá xéo, đá động với ai hết á, đông quá sao đá hết, trừ khi messi nhập mới đá được.",
+   "author": ""
+  },
+  {
+   "name": "- Em ăn gì mà xinh vậy?\n- Em đưa số điện thoại mẹ em cho anh nhé\n- Để làm gì em?\n- Để hỏi mẹ em cho em ăn gì :v",
+   "author": ""
+  },
+  {
+   "name": "- Ông bà anh yêu nhau từ thời chưa có TV\n- Bạn muốn mua TV, đến điện máy xanh",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi em lạnh lắm\n- Lạnh thì vô góc tường ngồi đi em\n- Sao vậy anh?\n- Vì ở đó 90 độ",
+   "author": ""
+  },
+  {
+   "name": "- Hơ ni, cho anh hỏi 2 điều này nhé\n- Dạ anh hỏi đi!\n- Em đã trốn ở đâu mà mãi đến giờ mới bước vào cuộc đời anh?\n- Dạ hihi, Anh dễ thương quá à! Còn câu nữa là gì vậy ạ?\n- Em cút về lại đó được hông?",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao đến giờ tao vẫn độc thân?\n- Mở camera trước lên đi",
+   "author": ""
+  },
+  {
+   "name": "- Những 300 đôla cho bữa ăn đạm bạc này ư? Này anh bạn, hãy nể tình đồng nghiệp mà giảm bớt tiền cho tôi chứ?\n- Thế ra ông cũng làm việc ở tiệm ăn à?\n- Không phải. Tôi làm nghề ăn cướp!",
+   "author": ""
+  },
+  {
+   "name": "Chim chích mà đòi xích mích với Chim Ưng.\nTinh tinh mà đòi xinh hơn khỉ đột =))",
+   "author": ""
+  },
+  {
+   "name": "Đường Tăng luôn trăn trở một điều là Yêu quái xinh đẹp nào là đều bị Ngộ Không đánh chết",
+   "author": ""
+  },
+  {
+   "name": "- Dù cho ai đó có từ chối con tim của em nhưng hãy nhớ rằng luôn có người cần nó, khao khát sở hữu nó mỗi ngày :\">\n- Hí hí, thật à :X\n- Với người đó, trái tim của em chính là lẽ sống, là niềm tin, là hy vọng. Chính vì thế người ta luôn mong em hãy giữ gìn trái tim mong manh của mình thật cẩn thận.\n- Ai... ai thế?\n- Mấy người bệnh tim đó :))",
+   "author": ""
+  },
+  {
+   "name": "Cứ đọc sách như vậy đi, tới lúc mày cận rồi thì mới sáng mắt ra",
+   "author": ""
+  },
+  {
+   "name": "- Ngày chưa gặp em, anh cứ nghĩ mẹ là người yêu thương anh nhất.\n- Hihi. Còn bây giờ thì sao?\n- Anh thấy đúng!",
+   "author": ""
+  },
+  {
+   "name": "Công nhận mày cũng biết nhiều... chỉ thiếu mỗi biết điều.",
+   "author": ""
+  },
+  {
+   "name": "Mua bàn phím cơ 4 triệu, về sợ mẹ la nói dối 600k. Thằng hàng xóm qua chơi thấy đẹp trả 1 triệu, mẹ bán luôn.",
+   "author": ""
+  },
+  {
+   "name": "- Cậu thấy chất giọng của tớ hợp với dòng nhạc nào nhất?\n- Nhạc không lời!",
+   "author": ""
+  },
+  {
+   "name": "- Thấy em cười, anh muốn làm việc tốt đẹp cho em.\n- Ôi, anh thật đáng yêu, bất cứ việc gì ư?\n- Ồ không, chỉ trong lĩnh vực răng miệng thôi, anh sẽ dắt em đến gặp nha sĩ.",
+   "author": ""
+  },
+  {
+   "name": "Huy đi bán báo, đi ngang qua chỗ thấy có nhóm người ngồi đánh bài ăn tiền trong nhà liền rao to: \"Báo đây, báo công an đây, báo công an đây\"... Bị cả bọn ra đuổi đánh hội đồng.",
+   "author": ""
+  },
+  {
+   "name": "- Em chả cần nghĩ về tương lai, chỉ cần bây giờ em được bên cạnh anh là đủ <3\n- Ừ, nghĩ làm gì, anh và em có tương lai đâu mà nghĩ.",
+   "author": ""
+  },
+  {
+   "name": "Từ khi tao chơi với mày, tao cảm thấy yêu chó nhiều hơn",
+   "author": ""
+  },
+  {
+   "name": "- E yêu! Nhiều khi anh muốn gọi cho e vào lúc nửa để nói rằng a yêu e biết nhường nào!\n- aaaa tại sao anh lại không gọi cho em?\n- Nhưng có 1 giọng nói đã ngăn cản anh\n- Eo giọng gì vậy a yêu *háo hức*\n- Số tiền của quý khách không đủ để thực hiện cuộc gọi này",
+   "author": ""
+  },
+  {
+   "name": "Thầy bói xem chỉ tay một người đàn ông.\n- Nửa đầu cuộc đời, ông khổ sở vì thiếu tiền, sau đó... sẽ đỡ hơn nhiều.\n- Vì tôi sẽ kiếm ra tiền ư?\n- Không, vì ông sẽ quen thôi mà.",
+   "author": ""
+  },
+  {
+   "name": "- Anh ạ! Nhiều lúc em cảm thấy tình yêu của chúng mình cứ như chuyện tình\nRomeo và Juliet đấy...\n- Thật vậy sao?\n- Em thấy lãng mạn lắm phải không?\n- Không phải lãng mạn mà là... bố em cũng dọa... giết anh.",
+   "author": ""
+  },
+  {
+   "name": "Mày không có mệnh công chúa, mà lại mắc bệnh công chúa.",
+   "author": ""
+  },
+  {
+   "name": "Mình làm thủ môn cũng từng ghi bàn nhiều... nhưng chủ yếu là phản lưới nhà.",
+   "author": ""
+  },
+  {
+   "name": "- Chocolate anh tặng có ngon không em?\n- Ngon ạ, bạn trai em thích lắm.",
+   "author": ""
+  },
+  {
+   "name": "- Anh thật sự muốn chia tay với em sao?\n- Đúng\n- Vậy những lời thề non hẹn biển của chúng ta anh xem là gì?\n- Xem như là thành ngữ đi",
+   "author": ""
+  },
+  {
+   "name": "Mày là con nhà nho chứ có phải là con nhà me đâu mà dốt dữ vậy...",
+   "author": ""
+  },
+  {
+   "name": "Chúc bạn sớm hoà nhập với thế giới loài người :)",
+   "author": ""
+  },
+  {
+   "name": "- Bạn ơi, sao bạn đặt hàng bên mình mà lại từ chối nhận hàng vậy?\n- Làm gì có tiền mà lấy! Mình đặt để bạn có niềm tin mà bán hàng.",
+   "author": ""
+  },
+  {
+   "name": "- Em có biết cảm giác người mình thầm yêu đang yêu thầm mình là gì không?\n- Rất là vui ạ\n- Không, nó là hoang tưởng ấy.",
+   "author": ""
+  },
+  {
+   "name": "Gì cơ? Cậu thích mình? Trùng hợp quá, mình cũng thích mình nữa.",
+   "author": ""
+  },
+  {
+   "name": "Còn chén cơm tụi mày đang ăn là nhờ cánh đồng của ngoại tao",
+   "author": ""
+  },
+  {
+   "name": "Đi đám tang: Quên tắt chế độ nhạc chuông lớn. Đến giờ người im lặng để mặc niệm. Nhạc chuông reo lên \"Ô vui quá xá là vui, nhà trai bên gái ai nấy cũng cười thật tươi...\"",
+   "author": ""
+  },
+  {
+   "name": "Đã ăn cơm xin đừng chọc đũa vào bát phở, cơm mềm phở dẻo nhưng không thể ăn chung",
+   "author": ""
+  },
+  {
+   "name": "- Nếu một ngày, em bước vào thế giới nội tâm của anh. Em sẽ phải khóc vì nơi đó ở đâu cũng có em.\n- Nếu một ngày, anh bước vào thế giới nội tâm của em. Anh cũng sẽ khóc vì bị đám người yêu cũ của em hội đồng.",
+   "author": ""
+  },
+  {
+   "name": "Lúc Công Phượng ghi bàn thứ 2 có anh áo vàng trên má dán hình lá cờ quay qua ôm mình nhảy mừng... cho em xin lại cái điện thoại. Em cảm ơn.",
+   "author": ""
+  },
+  {
+   "name": "Đi vào tù như công tử vào cung\nSáng thể dục như Quan Công múa võ\nChiều nhổ cỏ như công chúa hái hoa\nĐêm đập muỗi như Hằng Nga bắt bướm.",
+   "author": ""
+  },
+  {
+   "name": "Bình tĩnh, tự tin, không cay cú\nÂm thầm, lặng lẽ, trả thù sau",
+   "author": ""
+  },
+  {
+   "name": "- Em thích ăn ốc không?\n- Dạ có\n- Anh dắt em đi ăn ốc vít.",
+   "author": ""
+  },
+  {
+   "name": "Ngủ đi em, vì chẳng ai quan tâm đâu.",
+   "author": ""
+  },
+  {
+   "name": "- Cho em 1 cục kẹo đi\n- Không, anh không phải đàn ông dễ dãi :v\n- Cho em đi, rồi em hôn cho 1 cái\n- Không đe dọa kiểu đấy nhé =))",
+   "author": ""
+  },
+  {
+   "name": "- Em làm ảo thuật cho anh xem nhé!\n- Okie <3\n- Bụp... Em thay lòng rồi. Mình chia tay đi",
+   "author": ""
+  },
+  {
+   "name": "Em thất nghiệp 1 năm nay rồi các bác ạ nhưng bù lại được cái đánh cờ tướng giỏi... ngày nào mấy ông lão trong làng cũng lôi đi đánh cờ",
+   "author": ""
+  },
+  {
+   "name": "Muốn tặng anh một cuộc sống màu hồng, nhưng sợ rằng thằng chồng em nó ghen",
+   "author": ""
+  },
+  {
+   "name": "- Mình thích chàng trai nào có nụ cười toả sáng.\n- Ý cậu là Như Lai Phật Tổ?",
+   "author": ""
+  },
+  {
+   "name": "Em đẹp... làm anh... nghiêng xe máy... cháy ôtô...lật xe hồ...cong vành xe bus... khiến bao anh nhập viện vì em... vâng em chính là... ổ gà",
+   "author": ""
+  },
+  {
+   "name": "Mỗi khi buồn chán hãy nhắm mắt lại và cảm nhận cuộc đời. Vâng, 1 màu đen không có gì tười sáng đâu!",
+   "author": ""
+  },
+  {
+   "name": "Đừng tranh cãi với những người không biết suy nghĩ\nVì lúc đó họ chẳng biết họ là ai và họ là não cá vàng",
+   "author": ""
+  },
+  {
+   "name": "Cứ yêu đi mặc dù bạn phải nuôi vợ tương lai của thằng khác nhưng biết đâu nó lại nuôi con của mình.",
+   "author": ""
+  },
+  {
+   "name": "Không cùng đẳng cấp khó nói chuyện quá",
+   "author": ""
+  },
+  {
+   "name": "Em không kén cá chọn canh... nhưng cũng chẳng chọn anh.",
+   "author": ""
+  },
+  {
+   "name": "Không có em đời buồn như chó cắn\nCó em rồi thà chó cắn còn hơn",
+   "author": ""
+  },
+  {
+   "name": "- Cháu đêm thì tỉnh như sáo và lại hay nói xoen xoét như con vịt, nhưng ban ngày thì cứ ngủ gà ngủ gật, ho như quốc kêu mùa hè, thở khò khè như mèo hen...\n- Vậy thì tôi khuyên bà nên dẫn cháu đến bác sĩ thú y",
+   "author": ""
+  },
+  {
+   "name": "Em là người phụ nữ duy nhất... trong số những người anh đã từng yêu :p",
+   "author": ""
+  },
+  {
+   "name": "Cỡ Hari Won là không có đủ tuổi mặc đồ shop của muội đâu, tại vì shop muội bán đồ trung niên.",
+   "author": ""
+  },
+  {
+   "name": "Sao các nhà khoa học không lấy da mặt bạn làm áo giáp chống đạn nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Bánh mì Hà Nội, không ăn hối hận, ăn vào ân hận. Không bán rẻ dưới mọi hình thức Ế mang về ăn trừ bữa...",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi nằm không cũng thấy...mệt!",
+   "author": ""
+  },
+  {
+   "name": "Bạn hãy theo đuổi đam mê, còn chủ nợ sẽ theo đuổi bạn!",
+   "author": ""
+  },
+  {
+   "name": "- Em có thấy chiếc Lamborghini kia đẹp không?\n- Dạ, có ạ!\n- Ừ đẹp, mà đắt lắm đấy nên đi đường né né nó ra. Tông vào nó thì bán nhà cũng không đủ tiền đền đâu.",
+   "author": ""
+  },
+  {
+   "name": "- Từ nay, anh hãy bớt hút thuốc lá đi, chỉ hút một điếu sau bữa ăn ngon do em nấu nhé!\n- Thế tức là em bảo anh bỏ thuốc luôn rồi còn gì",
+   "author": ""
+  },
+  {
+   "name": "Tiền! Có cũng được. Không có là không được!!!",
+   "author": ""
+  },
+  {
+   "name": "- Bây giờ tao sẽ làm ảo thuật khiến mày quên mất mày là lợn.\n- Tao là lợn hồi nào?\n- Đó, mày quên rồi đấy!!!",
+   "author": ""
+  },
+  {
+   "name": "Đừng báo công an vì tôi đã định lấy cắp tài sản của ông bà nhưng tôi lại hối hận vì việc đó nên tôi không làm nữa. Nên ông bà chưa mất gì. Còn ông bà cố tình báo công an là tôi sẽ... xin ông bà cho tôi cơ hội.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể mua một người trung thực không? Không! nhưng bán một người như vậy dễ hơn.",
+   "author": ""
+  },
+  {
+   "name": "Ảnh đi hát thì tiền show thì ít, tiền đền micro thì nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Em chỉ xem anh là bạn thôi... nhưng mà đừng thích ai khác nhé :v",
+   "author": ""
+  },
+  {
+   "name": "Crush bảo chỉ thích mấy người có cơ bắp thế là tôi lóc cóc đi đăng ký tập Gym. Công nhận đúng thật, giai có múi sờ sướng ơi là sướng <3",
+   "author": ""
+  },
+  {
+   "name": "Điện thoại hết pin, đồ sạc bị hư mà giờ thì hết tiền.\nSau một hồi suy nghĩ, quyết định bán điện thoại mua đồ sạc pin.",
+   "author": ""
+  },
+  {
+   "name": "Hương à, em có biết tại sao anh đi xe máy với vận tốc bàn thờ không? Vì bàn thờ có Hương.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có thích chó không?\n- Không em\n- Vậy anh ghét bản thân mình lắm à!",
+   "author": ""
+  },
+  {
+   "name": "Nhổ bãi nước bọt, kèm cả cục đờm... sực nhớ ra chưa tháo khẩu trang.",
+   "author": ""
+  },
+  {
+   "name": "- Bây giờ em mới biết đồ cắt móng tay có 1 công dụng nữa!\n- Công dụng gì em?\n- Cắt móng chân =))",
+   "author": ""
+  },
+  {
+   "name": "- Ê gái em đang làm gì vậy?\n- Em đang làm chuyện của đàn ông anh đàn ông thì lại phụ em đi\n- Em nhìn anh đàn ông lắm hả... nói chơi thôi chứ anh cũng ko biết làm :))",
+   "author": ""
+  },
+  {
+   "name": "Đường tàu hỏa tuy dài mà hẹp\nMày bây giờ tuy đẹp mà ngu",
+   "author": ""
+  },
+  {
+   "name": "Tôi là cầu thủ xuất sắc nhất trên thế giới. Bởi vì Messi và Ronaldo đều đến từ hành tinh khác!\n- Neymar -",
+   "author": ""
+  },
+  {
+   "name": "- Hết tiền tiêu, bán thân sale 50%\n- Việt Nam cấm bán thịt chó rồi mà",
+   "author": ""
+  },
+  {
+   "name": "Mình im là để Mình xem Bạn diễn tiếp và để xem Bạn làm Mình phát khiếp đến độ nào.",
+   "author": ""
+  },
+  {
+   "name": "Đừng nói chuyện với tôi, tôi mắc bệnh sạch sẽ.",
+   "author": ""
+  },
+  {
+   "name": "Trước đây anh vẫn tin rằng không có địa ngục cho đến khi... anh gặp em!",
+   "author": ""
+  },
+  {
+   "name": "Đừng bỏ thuốc lá vì bất kì ai. Mọi người có thể đến và đi, chỉ có ung thư là ở bên cạnh bạn đến cuối đời.",
+   "author": ""
+  },
+  {
+   "name": "Tôi có cái xe cái gì nó cũng kêu... chỉ riêng cái còi không kêu -_-",
+   "author": ""
+  },
+  {
+   "name": "Mồm thì lúc nào cũng tỏ ra hiểu biết, thật tiếc cho cái mặt xinh nhưng trí thông minh lại ko có, nhân cách méo mó mà thích làm chó trước mặt người ta",
+   "author": ""
+  },
+  {
+   "name": "Tiền rách dán đúng cách vẫn còn giá trị\nnhân cách thối tha xịt nước hoa vẫn nặng mùi",
+   "author": ""
+  },
+  {
+   "name": "Tao chẳng nhân đạo cũng chẳng giả tạo... Nhưng 1 khi tao đã thành thạo thì chả có ai tàn bạo như tao",
+   "author": ""
+  },
+  {
+   "name": "- 65 triệu năm về trước em đã xuất hiện rồi\n- Để làm gì?\n- Em ở cùng thời với khủng long á.\n- Có nghĩa là em là hàng hiếm phải không? Giờ nó mới xuất hiện phải hông?\n- Đúng rồi! Em xuất hiện bị sai thời đại đó.",
+   "author": ""
+  },
+  {
+   "name": "Sống trên đời phải biết người biết ta chưa đủ tuổi đừng đòi làm cha người khác",
+   "author": ""
+  },
+  {
+   "name": "Giữa đường thấy cánh hoa rơi\nGiơ chân dẫm nát, không chơi đồ thừa!",
+   "author": ""
+  },
+  {
+   "name": "Ai giấu cái đĩa bay trả cho em nó về hành tinh của nó cho rồi!",
+   "author": ""
+  },
+  {
+   "name": "Cà khịa ko phải là hư\nCà khịa là để vô tư nỗi buồn",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn lấy ngày sinh của bạn nhân với số bất kì... rồi cộng với một số bất kì khác... sau đó chia cho 1. Xin chúc mừng bạn đã mất 10s cuộc đời :))",
+   "author": ""
+  },
+  {
+   "name": "Giờ đây mình đã hiểu không phải chỉ xa nhau mới quên được nhau, mà là những lúc tay bắt mặt mừng hỏi thăm vài câu rồi lướt qua nhau... Mới bất giác tự hỏi: Nó là thằng nào thế?",
+   "author": ""
+  },
+  {
+   "name": "Dù bạn có sạc điện thoại 2 tiếng đồng hồ, thì cũng chẳng có ai muốn nói chuyện với bạn quá 5 phút đâu.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn cảm thấy mình thật vô dụng, bạn hãy luôn tự an ủi bản thân rằng ít nhất bạn vẫn có thể cung cấp CO2 cho cây quang hợp... và... con chó cũng vậy.",
+   "author": ""
+  },
+  {
+   "name": "Khi cảm xúc chưa lên ngôi, thì đôi môi đã xơi nắm đấm",
+   "author": ""
+  },
+  {
+   "name": "Nhà anh giàu, anh xài Iphone 7.\nNhà tui nghèo, tui xài 7 cái Iphone.",
+   "author": ""
+  },
+  {
+   "name": "Hôm đi siêu thị thừa 2k ko lấy, tý ra lấy xe bảo vệ đòi 2k... thế là ngồi chờ thối lại 198k",
+   "author": ""
+  },
+  {
+   "name": "ngu + nhiệt tình => phá hoại\nngu + dũng cảm => liều\nngu + lạnh lùng => lì lợm\nngu + tự tin => nguy hiểm\nngu + ngu => vô đối",
+   "author": ""
+  },
+  {
+   "name": "Bình thường thì rất cáu, nhưng máu lên thì rất hiền.",
+   "author": ""
+  },
+  {
+   "name": "Anh không quan trọng bề ngoài.. nếu anh quan trọng.. thì anh đã không đến với em",
+   "author": ""
+  },
+  {
+   "name": "- Anh có thấy em xinh không?\n-... (vuốt cằm suy nghĩ)\n- Sao anh không trả lời, anh chê em xấu phải không?\n- Em cũng thông minh đó chứ.",
+   "author": ""
+  },
+  {
+   "name": "Sức khoẻ là vô giá.Hột xoàn mới có giá.",
+   "author": ""
+  },
+  {
+   "name": "Buồn nhất là sai người, đúng thời điểm.\nĐau nhất là đúng người, sai thời điểm\nNhưng có lẽ... đau buồn nhất là đúng người, đúng thời điểm nhưng sai mịe nó giới tính...",
+   "author": ""
+  },
+  {
+   "name": "\"Sau này con nhất định sẽ thành phi hành gia\" - Hồi đó tưởng được bay vào không trung vũ trụ, giờ đang ngồi phi hành mai bán xôi",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi cho anh xin Facebook đi.\n- Dạ, nói nhỏ nhẹ là em chưa có, nói méo mó là em không cho ạ :v",
+   "author": ""
+  },
+  {
+   "name": "Cầm con dao phay sang nhà thằng bạn trả. Đi qua đồn công an, tưởng côn đồ bị bắt vào.",
+   "author": ""
+  },
+  {
+   "name": "Ngoài đời, Công Lý là diễn viên hài.",
+   "author": ""
+  },
+  {
+   "name": "Người giỏi giang hơn bạn vẫn đang cố gắng... thế thì bạn còn cố gắng làm gì?",
+   "author": ""
+  },
+  {
+   "name": "Mai mốt phải biết phân biệt giữa đường với muối nghe chưa!! Chua lè",
+   "author": ""
+  },
+  {
+   "name": "Chó chỉ sủa khi không biết mình là ai.",
+   "author": ""
+  },
+  {
+   "name": "Mày ko dốt thì có đốt nhà tao cũng ko chửi",
+   "author": ""
+  },
+  {
+   "name": "Không vui chút nào cả, tôi đã không cười, trò đùa của bạn thật tệ, tôi sẽ thích trò đùa này nếu như nó được xóa khỏi đầu tôi và bạn vui lòng từ bỏ mọi nổ lực trong việc nói lại nó cho tôi thêm một lần nào nữa.\n...\n0 / 10 trò đùa này thật tệ. Tôi không thể tin được là có người đủ pháp lý để cho phép bạn quyền sáng tạo. Hãy học cách tạo ra một trò đùa đi, đọc 1 cuốn sách đi, tôi không nói điều này sẽ trở nên hài hước nhưng làm ơn... Biến khỏi mắt tôi đi!",
+   "author": ""
+  },
+  {
+   "name": "Cả thế giới tin mày chỉ có tao là không tin mày thôi",
+   "author": ""
+  },
+  {
+   "name": "- Anh qua trường đón em đi!\n- Em ko tự về được hay sao mà phải tự đón\n- Đang mưa mà, sao em tự về được\n- Ok vậy đợi anh tí\n- Anh qua đón em thật à, yêu anh nhất <3\n- Không, lát nữa tạnh mưa mới đi.",
+   "author": ""
+  },
+  {
+   "name": "- Đã có ai nói là e rất xinh chưa?\n- Chưa ạ\n- Ừ em có đẹp đâu mà người ta nói",
+   "author": ""
+  },
+  {
+   "name": "- Tối sinh nhật bạn em, em nên mặc cái gì cho đẹp?\n- Khẩu trang =))",
+   "author": ""
+  },
+  {
+   "name": "Cờ bạc... người chơi là người bại, người đánh mãi là người thua, chỉ có người a dua là người luôn luôn thắng.",
+   "author": ""
+  },
+  {
+   "name": "Phú Thọ là đất trồng tre\nTrồng tre thì ít mà trẩu tre thì nhiều\n(Just 4 fun)",
+   "author": ""
+  },
+  {
+   "name": "B: Em cười gì vậy, em yêu?\nG: Em nhớ ngày xưa mẹ bảo mặt em vầy chó nó mới yêu. Giờ nghĩ lại buồn cười quá =))",
+   "author": ""
+  },
+  {
+   "name": "Bao nhiêu năm ta dỗ dành thiên hạ\nĐến lúc buồn không biết ăn vạ cùng ai",
+   "author": ""
+  },
+  {
+   "name": "- Ê mày ơi, tao vừa về có mua dưa hấu ngon ngọt lắm.\n- Ok\n- Mày có ăn thì qua lấy hạt về mà trồng.",
+   "author": ""
+  },
+  {
+   "name": "Chúng mày nên sống tử tế, trước khi tao tuôn ra những từ tượng hình không đáng có!",
+   "author": ""
+  },
+  {
+   "name": "Im lặng là đỉnh cao của sự khinh bỉ.",
+   "author": ""
+  },
+  {
+   "name": "Hồi nhỏ coi bói sau này rung đùi cũng có thể lấy được tiền thiên hạ... giờ làm nghề vắt sổ :|",
+   "author": ""
+  },
+  {
+   "name": "Mua đôi dép con gái về đặt trước cửa phòng trọ... Cả xóm bu lại rình =))",
+   "author": ""
+  },
+  {
+   "name": "\"Sau này con sẽ sống trong nhung lụa\" - giờ mình đang ngồi bán vải ở chợ thật",
+   "author": ""
+  },
+  {
+   "name": "- Nãy tao mới đến mày đi đâu vậy?\n- Có ai thấy chó dí mà không chạy không?",
+   "author": ""
+  },
+  {
+   "name": "Quyết tâm thức khuya để học bài... Sáng mai dậy 9 giờ.",
+   "author": ""
+  },
+  {
+   "name": "Mày đừng có đổ oan cho người có tội",
+   "author": ""
+  },
+  {
+   "name": "Nếu cuộc sống lừa dối bạn, thì đừng buồn cũng đừng vội nóng... có thể là do bạn đáng bị như thế.",
+   "author": ""
+  },
+  {
+   "name": "Em có một ước mơ sau này sẽ đi xây dựng đất nước, đó là làm thợ hồ.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi suy nghĩ nhức óc không biết nên tát mặt nào của mày trước!",
+   "author": ""
+  },
+  {
+   "name": "Học cho lắm vào... mai sau giữ bò :)))",
+   "author": ""
+  },
+  {
+   "name": "Tìm chốn ăn chơi, tiền không phải vấn đề, rẻ mấy em cũng chịu được",
+   "author": ""
+  },
+  {
+   "name": "Chưa đi chưa biết Đồ Sơn\nĐi rồi mới biết chẳng hơn đồ nhà :))",
+   "author": ""
+  },
+  {
+   "name": "Mở nồi thấy hết cơm đem gạo đi vo đổ nước cho vào nồi ấn nút đến giờ ăn cơm mở nồi hoảng hốt nước vẫn đầy nồi mới chợt nhận ra mình chưa cắm điện :D :D",
+   "author": ""
+  },
+  {
+   "name": "Cưng à, xin lỗi đã không tặng em con mèo như em thích, nhưng anh e là Hiệp hội bảo vệ động vật sẽ kiện em khi thấy em chăm sóc cho nó như cách em chăm sóc cho anh mất.",
+   "author": ""
+  },
+  {
+   "name": "Có những người giống mây trời vậy. Ngày nào không thấy họ là ngày ấy đẹp trời.",
+   "author": ""
+  },
+  {
+   "name": "Tao không phải loại thù dai... Nhưng thuộc dạng nhớ lâu...\nTao k thèm trả thù đâu... Nhưng còn lâu tao mới để yên cho mà sống...",
+   "author": ""
+  },
+  {
+   "name": "Tao giả tạo mà tao biết điều... còn đỡ hơn mấy đứa nói nhiều mà không biết nhục.",
+   "author": ""
+  },
+  {
+   "name": "Có rất nhiều chuyện nếu bạn không biết nguyên nhân, chỉ cần soi gương là sẽ hiểu.",
+   "author": ""
+  },
+  {
+   "name": "Tao hỏi mày lần cuối, mày là ăn trộm hay ăn cướp?",
+   "author": ""
+  },
+  {
+   "name": "Buổi sáng, mình dậy sớm hít thở không khí trong lành, bỗng... một cái xe rác đi qua",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em không giống bạn gái tương lai của anh.",
+   "author": ""
+  },
+  {
+   "name": "Em luôn nói là muốn mang lại hạnh phúc cho anh, vậy sao em còn ở đây ám ảnh anh mãi?",
+   "author": ""
+  },
+  {
+   "name": "- Hôm nay mình đi ăn cái gì, anh êu?\n- Anh sẽ dắt em đi ăn cỏ... vì hôm nay em nhìn ngựa quá :))",
+   "author": ""
+  },
+  {
+   "name": "VN có 2 cúp zô địch thế giới: Đó là cúp Điện & cúp Nước",
+   "author": ""
+  },
+  {
+   "name": "Điện thoại thì ngày càng mỏng và thông minh hơn... còn tui ngược lại...",
+   "author": ""
+  },
+  {
+   "name": "Ngày mai lại đi học hả! Vậy mà tao cứ tưởng ngày mai không được nghỉ.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn cảm thấy mình vừa xấu vừa nghèo, chẳng làm được gì đúng thì cũng đừng tuyệt vọng. Ít nhất phán đoán của bạn về bản thân mình cũng không sai.",
+   "author": ""
+  },
+  {
+   "name": "Tháng cô hồn SALE 10%, cho khách hàng có vong theo.",
+   "author": ""
+  },
+  {
+   "name": "Đau đớn thay phận đàn bà\nHơn năm ba tuổi vẫn là đàn em.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng biết ngày sau ra sao nữa, nhưng nếu ra sao cũng chẳng sao",
+   "author": ""
+  },
+  {
+   "name": "Muốn gái nó yêu thì chúng mày nói chuyện phải hay ho và đặc biệt phải có sức hút. Thế nên tao khuyên chúng mày mỗi ngày hút 2 bao thuốc lá. Như vậy vừa có Sức hút mà vừa Hay ho.",
+   "author": ""
+  },
+  {
+   "name": "- Em nè, anh đã để ý em ngay từ những phút đầu vì em có nụ cười thật đặc biệt!\n- Hihi, vậy sao? Cám ơn anh ahihi...\n- Uh em toàn cười những lúc không ai cười. Đây là danh thiếp phòng mạch của anh, nhắm thấy không bớt thì đến khám em nhé!",
+   "author": ""
+  },
+  {
+   "name": "Giới tính quá khác biệt, yêu đương cách nào giờ?",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi tối mai rãnh không? Đi bar với anh.\n- Hic hic, sao anh ko rủ tối nay chứ?\n- Thế tối nay e rãnh ko?\n- Không!",
+   "author": ""
+  },
+  {
+   "name": "- I love you\n- I love you\n- Em nói sao, em yêu anh thật ư?\n- Yêu cái con khỉ, tao gửi trả mày đó, thằng thần kinh",
+   "author": ""
+  },
+  {
+   "name": "- Yêu em là sai sao?\n- Không có gì sai cả\n- Vậy là đúng ư?\n- Cũng không.\n- Vậy là sao?\n- NGU.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần bạn cố gắng... thì chẳng có gì bạn không làm hỏng được",
+   "author": ""
+  },
+  {
+   "name": "E nhìn anh như nhìn thấy mây trời vậy... ngày nào không thấy anh ngày đó là ngày đẹp trời",
+   "author": ""
+  },
+  {
+   "name": "Nhìn lên không bằng ai, nhìn xuống không còn ai... mới sợ.",
+   "author": ""
+  },
+  {
+   "name": "Tao không nói chuyện với mày không có nghĩa là tao ghét mày, vì nếu tao đã ghét mày thì chẳng bao giờ tao nói chuyện với mày đâu.",
+   "author": ""
+  },
+  {
+   "name": "Mình đã nói với anh CSGT: muốn thành công phải đi ngược đám đông, vậy mà anh ấy vẫn phạt mình là sao?",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay phơi quần áo 5' khô mà phải đợi 15' cho nó nguội mới dám mặc.",
+   "author": ""
+  },
+  {
+   "name": "Khi yêu chúng ta sẽ thấy những thứ không có ý nghĩa trở nên vô nghĩa",
+   "author": ""
+  },
+  {
+   "name": "Tôi biết tính khí của tôi không tốt, nếu bạn không chịu được thì tốt nhất nên xem xét lại bản thân, tại sao người khác có thể còn bạn thì không.",
+   "author": ""
+  },
+  {
+   "name": "Đất nước còn bao nhiêu vấn nạn, chưa làm được gì còn bày đặt yêu đương...",
+   "author": ""
+  },
+  {
+   "name": "Sợ thì không sợ nhưng mà... lo!",
+   "author": ""
+  },
+  {
+   "name": "Người thì như cái chậu mà cứ nghĩ mình là hoa hậu... có mà mẫu hậu",
+   "author": ""
+  },
+  {
+   "name": "- Em có muốn sau khi chết có tên trong gia phả nhà anh không?\n- Anh muốn nhận em là em nuôi hả :v\n- Ừm con gì nuôi cũng làm thịt được hết á!",
+   "author": ""
+  },
+  {
+   "name": "Đã ngu còn tỏ ra nguy hiểm.",
+   "author": ""
+  },
+  {
+   "name": "Miệng thì a di đà phật, tay thì tứ quý đôi thông.",
+   "author": ""
+  },
+  {
+   "name": "Anh chưa từng nghĩ thiên thần là có thật cho đến khi gặp em... thì anh chắc chắn rằng... ác quỷ là có thật",
+   "author": ""
+  },
+  {
+   "name": "Nhắn tin tình cảm tán nhỏ trong lớp... mai nó đưa cho cả lớp xem tin nhắn.",
+   "author": ""
+  },
+  {
+   "name": "Giẻ rách còn bày đặt phong cách với giẻ lau!",
+   "author": ""
+  },
+  {
+   "name": "Lấy chai nước mắm hết, sau đó đổ trà bí đao vào ra chỗ đông người thưởng thức m.n sẽ nhìn bạn với ánh mắt ngưỡng mộ.",
+   "author": ""
+  },
+  {
+   "name": "- Cô ơi tính tiền cho bạn cháu\n- Khôn như mày quê tao xích đầy",
+   "author": ""
+  },
+  {
+   "name": "Cái lưỡi mày không xương nhưng sức sát thương thì hơi bị lớn đó",
+   "author": ""
+  },
+  {
+   "name": "Lúc trước tôi là 1 thằng nghiện thuốc lá nhưng vì gia đình, vì xã hội, vì một môi trường không bị ô nhiễm nên tôi đã ngừng việc hút thuốc lá... Và chuyển sang chích để không làm phiền và gây hại đến ai.",
+   "author": ""
+  },
+  {
+   "name": "Em tuy không có bằng tiếng anh nhưng em có thể giao tiếp tốt với người nước ngoài... bằng tiếng việt ạ.",
+   "author": ""
+  },
+  {
+   "name": "Đang đi xe, không may làm rơi mũ bảo hiểm xuống xe chạy lại nhặt, vui quá mũ bảo hiểm không hư.. quay qua mất luôn cái xe =((",
+   "author": ""
+  },
+  {
+   "name": "Lúc ông trời phân phát đạo đức và sự duyên dáng xuống trần giang phải chăng mày đã đem nón ra đội?",
+   "author": ""
+  },
+  {
+   "name": "- Em nấu cho anh ăn cái món gì thế này?\n- Sao hôm nay anh lại quan tâm đến tên món ăn cơ chứ!\n- Thì đằng nào chốc nữa bác sĩ chẳng hỏi thế",
+   "author": ""
+  },
+  {
+   "name": "Trước khi con trai tìm được người đàn ông của đời mình, họ vẫn tưởng bản thân thích con gái.",
+   "author": ""
+  },
+  {
+   "name": "Cà khịa một tí thì vui\nCà khịa nhiều tí dùi cui vào mồm",
+   "author": ""
+  },
+  {
+   "name": "- Bác sĩ ơi, bệnh của tôi có phải rất hiếm gặp không?\n- Không hề! Ngoài nghĩa địa đầy người mắc bệnh này.",
+   "author": ""
+  },
+  {
+   "name": "Ốm ốm vậy chứ em...yếu lắm",
+   "author": ""
+  },
+  {
+   "name": "Đi nhập ngũ tuần nào cũng gửi thư cho bạn gái... 6 tháng sau nhận tin bạn gái lấy thằng đưa thư.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi trong xe bus, nạp cái thẻ 100k xong rồi vứt ra ngoài xe. Vừa nhập xong máy báo: \"Mã thẻ của quý khách không đúng, vui lòng kiểm tra lại\"",
+   "author": ""
+  },
+  {
+   "name": "- Hôm qua anh xem trộm nhật ký của em phải không?\n- Sao em biết?\n- Em xem nhật ký của anh thấy có ghi vụ đó!",
+   "author": ""
+  },
+  {
+   "name": "Mấy đứa mỏ nhọn thì hay nhỏ mọn.",
+   "author": ""
+  },
+  {
+   "name": "\"Sau này làm cho công ty nước ngoài, nay đây mai đó” - Tưởng làm lớn được đi công tác nước ngoài, giờ đang lái xe ôm cho Grab",
+   "author": ""
+  },
+  {
+   "name": "Bởi vì biển có nhiều muối, nên mặc định những đứa thiếu muối sẽ vô cùng thích biển.",
+   "author": ""
+  },
+  {
+   "name": "Chính quyền đào đc kim cương trong sân nhà bạn thì đó là tài sản quốc gia, nhưng phát hiện ra ma tuý thì đó là của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Có những người bình thường hiền ơi là hiền nhưng ngồi sau bàn phím là ngay lập tức trở thành anh hùng.",
+   "author": ""
+  },
+  {
+   "name": "Thông minh lắm đồ ngu ạ",
+   "author": ""
+  },
+  {
+   "name": "- Em không nói cho anh biết là vì em sợ anh buồn...\n- Đậu... giờ tao tự phát hiện được chắc vui lắm...",
+   "author": ""
+  },
+  {
+   "name": "Hữu duyên thiên lý ăn tương hột.\nVô duyên đối diện thấy thương liền.",
+   "author": ""
+  },
+  {
+   "name": "- Em bao nhiêu tuổi?\n- Em phải trả lời bao nhiêu để ông thầy bói nói ta không hợp =))",
+   "author": ""
+  },
+  {
+   "name": "Lúc cãi nhau với bạn trai, đừng vội vàng đổ lỗi cho anh ta, thử nghĩ lại xem bản thân có lỗi không, nếu có phải nghĩ cách đẩy lỗi lầm sang cho anh ta.",
+   "author": ""
+  },
+  {
+   "name": "- Hôm qua tao thấy mày trên tivi..\n- Thiệt hả? kênh nào vậy?\n- Thế Giới Động Vật =)))))",
+   "author": ""
+  },
+  {
+   "name": "Trái tim này chỉ dành cho một người. Và đó chính là tao... không có tim làm sao tao sống được.",
+   "author": ""
+  },
+  {
+   "name": "Gió chiều nào mày ngã theo chiều ấy :\">\nNgười nói cũng tốt - Chó sủa cũng hay\nMồm nói ăn chay còn tay thì chặt thịt =)))",
+   "author": ""
+  },
+  {
+   "name": "Im lặng không phải là câm\nIm lặng là để âm thầm ra tay\nIm lặng không phải là cay\nIm lặng là để phơi bày trắng đen\nIm lặng không phải là hèn\nIm lặng là để một phen trả thù\nIm lặng không phải là ngu\nIm lặng là để đánh đu vơi đời",
+   "author": ""
+  },
+  {
+   "name": "- Bà có biết quả nào có nhiều \"C\" ko?\n- Quả cóc!\n- Tại sao?\n- Vì cóc có hai chữ \"C\" lận mà.",
+   "author": ""
+  },
+  {
+   "name": "Chửi mày... chỉ sợ mày không hiểu tiếng người.\nCòn đánh mày... Người ta bảo tao ngược đãi động vật",
+   "author": ""
+  },
+  {
+   "name": "Quê tôi Long An trung dũng kiên cường\nToàn dân đánh giặc mượn chiếc xuồng hổng cho.",
+   "author": ""
+  },
+  {
+   "name": "Ba đồng một mớ đàn ông\nSao em phải tiếc thằng không ra gì?",
+   "author": ""
+  },
+  {
+   "name": "Mày nói xạo mà mặt mày tỉnh như Đinh Bộ Lĩnh zậy á!!!",
+   "author": ""
+  },
+  {
+   "name": "Em đâu chanh chua, em cũnq không chảnh chọe\nMà em thuộc dạng hiền bỏ mẹ luôn cơ",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ em đang yêu ai... À mà, đừng tính anh vô.",
+   "author": ""
+  },
+  {
+   "name": "Ước mơ của em giản dị lắm: Túp lều nho nhỏ... trên mỏ kim cương.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu tao đoán không sai thì...\n- Thì sao?\n- Thì có nghĩa là tao đoán đúng chứ còn sao nữa!",
+   "author": ""
+  },
+  {
+   "name": "Điên có tổ chức, sung sức có đào tạo.",
+   "author": ""
+  },
+  {
+   "name": "Công nhận hôm nay em đẹp như hoa... vạn thọ",
+   "author": ""
+  },
+  {
+   "name": "Thà khốn nạn công khai … Còn hơn giả nai 1 cách kinh tởm",
+   "author": ""
+  },
+  {
+   "name": "Tôi không bao giờ tin vào cung hoàng đạo vớ vẩn. Vì sao à? Vì 1 Bạch Dương luôn chỉ tin vào bản thân mình.",
+   "author": ""
+  },
+  {
+   "name": "- Này, người ta nói rằng diện tích trên mặt trăng đủ cho hàng triệu người sống đấy!\n- Đúng là lũ ngu, đến ngày trăng khuyết thì lộn cổ chết cả nút!",
+   "author": ""
+  },
+  {
+   "name": "Đã chửi là phải thâm!\nChưa thâm là phải chờ thấm!\nChưa thấm là do... đang ngấm từ từ =))",
+   "author": ""
+  },
+  {
+   "name": "Thà chết chứ không chịu hi sinh",
+   "author": ""
+  },
+  {
+   "name": "Hát hò bất chấp sĩ diện, đúng là có thù với nghệ thuật",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn cảm thấy mình vừa xấu, vừa dốt... đừng buồn... ít ra khả năng suy đoán của bạn là chính xác.",
+   "author": ""
+  },
+  {
+   "name": "Không thành công thì cũng thành thụ",
+   "author": ""
+  },
+  {
+   "name": "Hồng nhan... thì bạc phận.\nMà lắm đứa bạc phận... cứ nghĩ mình hồng nhan.",
+   "author": ""
+  },
+  {
+   "name": "Đừng nhìn anh bằng ánh mắt đó,...anh sợ chó",
+   "author": ""
+  },
+  {
+   "name": "Thèm được ôm ai đó từ đằng sau thật chặt và thì thầm\nXin Lỗi! Tôi... nhầm người",
+   "author": ""
+  },
+  {
+   "name": "Ngoài thì giả nai, trong thì giả tạo",
+   "author": ""
+  },
+  {
+   "name": "Tui là cung xử nữ nếu mà bạn động đến lòng tự ái của tui thì tui sẽ cư xử như một con nữ đó nha.",
+   "author": ""
+  },
+  {
+   "name": "Trèo cao ngã đau, trèo thấp ngã cũng đau",
+   "author": ""
+  },
+  {
+   "name": "Đã học giỏi lại còn đẹp trai, may được cái nhà giàu kéo lại.",
+   "author": ""
+  },
+  {
+   "name": "Mày nói chưa chắc đúng nhưng có thể không sai",
+   "author": ""
+  },
+  {
+   "name": "Không có gì là quá khó cả... chỉ cần bạn bỏ cuộc là xong.",
+   "author": ""
+  },
+  {
+   "name": "- Nhìn tao làm j?\n- Tao nhìn mây nhìn gió, tao nhìn chó j mày.",
+   "author": ""
+  },
+  {
+   "name": "E ko cần a đến mức đấy đâu nhé. Ko có a e vẫn sống rất tốt, chỉ có a thiếu e thì sẽ ko sống được mà thôi!!!",
+   "author": ""
+  },
+  {
+   "name": "Óc chó là có thật",
+   "author": ""
+  },
+  {
+   "name": "Nếu có 1 người đàn ông thích bạn để mặt mộc không trang điểm, bạn gầy người ấy đau lòng, bạn béo người ấy vui vẻ... vậy người ấy chính là bố bạn, chỉ có thể là bố bạn mới có thể làm được điều này.",
+   "author": ""
+  },
+  {
+   "name": "Tớ là một bé ngoan\nChơi với tớ sẽ rất an toàn\nNhưng... nếu bạn thủ đoạn\nTớ sẽ khốn nạn gấp đôi",
+   "author": ""
+  },
+  {
+   "name": "Boy1: Mày không hiểu gì về con gái rồi :v\nBoy2 : Đàn bà chúng mày hiểu nhau thế thì ra chỗ khác chơi đi =))",
+   "author": ""
+  },
+  {
+   "name": "- Em thích ăn lê k\n- Có ạ\n- Anh cho em ăn cái cờ lê nè =))",
+   "author": ""
+  },
+  {
+   "name": "Anh dồn cô vào tường, nhếch mép thì thầm bên tai cô:\n- Anh muốn nếm thử vị son môi của em\nCô mím môi nhưng không từ chối, vài giây sau liền lấy cây son trong túi ra đưa cho anh:\n- Thoa ít ít thôi nhé, cây son này mắc lắm!",
+   "author": ""
+  },
+  {
+   "name": "Đã không biết gì về điện còn bày đặt đòi đi sửa ống nước.",
+   "author": ""
+  },
+  {
+   "name": "Sẽ luôn có ánh sáng cuối đường hầm, kèm theo đó là tiếng ầm ầm của tàu hỏa...",
+   "author": ""
+  },
+  {
+   "name": "Anh phải công nhận một điều, em chính là người dẫn dắt anh đến với tôn giáo. Anh chưa bao giờ tin là có địa ngục cho đến khi gặp em.",
+   "author": ""
+  },
+  {
+   "name": "\"Về sau nhất định sẽ thay đổi bộ mặt thành phố!\" - Hồi đó tưởng làm quan to giờ đang ngồi quét sơn",
+   "author": ""
+  },
+  {
+   "name": "- Nhiều khi tao cũng buồn vì nhan sắc của tao lắm\n- Mày cũng không xấu lắm đâu...\n- Nhưng nhìn cái mặt mày tao cũng thấy an ủi nhiều rồi.",
+   "author": ""
+  },
+  {
+   "name": "Thánh ăn gì em cúng!",
+   "author": ""
+  },
+  {
+   "name": "- Anh rất buồn nếu em có bạn trai\n- Gái có nhiều mà anh\n- Ko, anh buồn cho bạn trai em ấy",
+   "author": ""
+  },
+  {
+   "name": "Nếu bọn mày chọn nhầm đối thủ thì ít nhất cũng phải chọn đúng vũ khí chứ.",
+   "author": ""
+  },
+  {
+   "name": "Troll các bạn hay đọc lướt chữ: \"10 người comment nhanh nhất sẽ được tặng mình thẻ Viettel 10k.\nNhanh tay nhé các bạn, Việt Nam nói là làm. Ko tặng = DOG nè\"",
+   "author": ""
+  },
+  {
+   "name": "Đời tạo ra nó sao còn tạo ra chó để khó phân biệt.",
+   "author": ""
+  },
+  {
+   "name": "Vừa tốt nghiệp đại học, đang háo hức đi tìm việc... thì bị gọi nhập ngũ",
+   "author": ""
+  },
+  {
+   "name": "Khi tao mời mày ăn, đó là hành động lịch sự của 1 người có giáo dục\nVậy nên để chứng tỏ rằng mày có giáo dục, hãy lịch sự mà từ chối.",
+   "author": ""
+  },
+  {
+   "name": "Nước rửa cầu tiêu mà tưởng sunsilk bồ kết.",
+   "author": ""
+  },
+  {
+   "name": "- Hôm nay anh được ra viện rồi.\n- Cám ơn bác sĩ, mai anh ghé nhà tôi chơi nhé.\n- Thôi, tôi ngại đi đám ma lắm",
+   "author": ""
+  },
+  {
+   "name": "Hỡi cô em gái má hồng\nCho anh hỏi thử có chồng hay chưa\nNhẹ nhàng e đáp e thưa\nChồng thì chưa có, mà con có rồi",
+   "author": ""
+  },
+  {
+   "name": "- Em có bạn trai chưa?\n- Dạ chưa anh ạ\n- Em nói thế để anh tán chứ gì... mơ đi nhé!",
+   "author": ""
+  },
+  {
+   "name": "Đừng mong được đối xử như 1 nữ hoàng, khi nhà vua không có vàng.",
+   "author": ""
+  },
+  {
+   "name": "Tao tên Sáng. Các bạn toàn nhờ mình mở cửa sổ ra cho sáng sủa... dỗi luôn.",
+   "author": ""
+  },
+  {
+   "name": "Anh thích em ở điểm nào, em sửa hết, sửa ngay lập tức, nhé?",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai lai chó, hiếm có, khó tìm",
+   "author": ""
+  },
+  {
+   "name": "Vở kịch của mày bao nhiêu khán giả?\nMà khiến mày phải vất vả vào vai!",
+   "author": ""
+  },
+  {
+   "name": "- Sau này nếu em trở thành ca sĩ thì anh làm vệ sĩ cho em nhé.\n- Một, hai người thì anh có thể đối phó chứ toàn bộ khán giả nổi giận thì anh chết mất.",
+   "author": ""
+  },
+  {
+   "name": "- Mình đi sở thú hẹn hò nha em?\n- Chưa chi anh đã dẫn em tới gặp gia đình anh vậy =))",
+   "author": ""
+  },
+  {
+   "name": "Những thứ miễn phí thì không bao giờ rẻ.",
+   "author": ""
+  },
+  {
+   "name": "Đi xa một mình, hỏi bạn thân là: \"Mày có lo cho tao không?\"\nNó nói: \"Mày có IQ dễ bị lừa nhưng lại có nhan sắc không ai thèm lừa.\"",
+   "author": ""
+  },
+  {
+   "name": "Nếu thực lòng yêu mình, mai dẫn mình đi phẫu thuật thẩm mỹ nha.",
+   "author": ""
+  },
+  {
+   "name": "Tao vẽ mày trên cát, để biển tát mặt mày\nTao vẽ thêm đôi râu, để ruồi bâu kiến đậu",
+   "author": ""
+  },
+  {
+   "name": "Em có 1 vẻ đẹp của Châu Á.\nSự̣ lạnh giá của Châu Âu.\nSự nguy hiểm của Châu Mỹ.\nVà nét lì lợm của... trâu bò",
+   "author": ""
+  },
+  {
+   "name": "Em rất quan trọng đối với tôi\nTôi không thể thiếu em dù chỉ trong một giây thôi\nEm là cuộc sống của tôi, và tôi cảm thấy em từng phút giây\nMà thôi! Tôi đang nói về khí oxy mà.",
+   "author": ""
+  },
+  {
+   "name": "Không có em đời anh như vô nghĩa\nCó em rồi thà đĩa cắn còn hơn",
+   "author": ""
+  },
+  {
+   "name": "Nếu em cần một kẻ có thể sẵn sàng chết vì em, thì anh thề với Chúa... anh không phải thằng ngu đó.",
+   "author": ""
+  },
+  {
+   "name": "Lingard không thể chơi ở vị trí trung tâm được, cậu ta có tố chất nhưng vị trí đó không thích hợp cho lắm. Cậu ta nên chơi rộng ra một tí, có thể là ngoài sân vận động cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Nay cá tháng 4, tao lừa người này đến người khác. Tao cứ cầm tờ 500k dúi vào tay họ rồi bảo bị đánh rơi này. Họ cầm lấy cảm ơn tao đầy hạnh phúc mà không biết đang bị tao lừa. Haha.",
+   "author": ""
+  },
+  {
+   "name": "Thích thể hiện là dễ nhập viện đó cưng :v",
+   "author": ""
+  },
+  {
+   "name": "Người ta mặt V line, mặt bạn là mặt va li... cho nên tôi nghĩ bạn này... hơi lười biếng",
+   "author": ""
+  },
+  {
+   "name": "Chỉ đến khi vấp ngã, ta mới biết ai còn ở bên cạnh và cười vào mặt mình.",
+   "author": ""
+  },
+  {
+   "name": "- Em làm cho anh món bánh nhân thịt, nhưng em sơ ý để mèo ăn hết mất rồi!\n- Nín đi em! Nếu có chuyện gì xảy ra với nó, anh sẽ mua cho em con mèo khác đẹp hơn.",
+   "author": ""
+  },
+  {
+   "name": "Một khi đã nóng thì đừng hòng có ai dám ngăn cản tui... bật quạt",
+   "author": ""
+  },
+  {
+   "name": "Ơ, thế hóa ra tao sai à?\nMày quỳ xuống cho tao xin lỗi",
+   "author": ""
+  },
+  {
+   "name": "Cố lên! Ngay cả gương mày còn dám soi thì còn cái gì trên thế giới này có thể làm khó mày nữa...",
+   "author": ""
+  },
+  {
+   "name": "Rượu chè cờ bạc muôn đời thịnh\nHọc hành thi cử vạn kiếp suy",
+   "author": ""
+  },
+  {
+   "name": "Mục tiêu cuộc đời tôi là: 30 tuổi mua đc 1 căn hộ trong thành phố. Hiện nay mục tiêu đã đạt được 1 nửa: Tôi đã 30 tuổi.",
+   "author": ""
+  },
+  {
+   "name": "Thôi về làm gì ở lại mất vui",
+   "author": ""
+  },
+  {
+   "name": "Đừng có mà nghĩ xấu... cho người không tốt.",
+   "author": ""
+  },
+  {
+   "name": "Nếu hôm nay cuộc đời đã lừa bạn, đừng buồn, cũng đừng khóc, vì ngày mai có lẽ cuộc đời còn tiếp tục lừa bạn đấy.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mới 31/12 mà quyển lịch đã hết mịe rồi",
+   "author": ""
+  },
+  {
+   "name": "Những người có lỗi họ cùng đi một đường. Mỗi mình thần làm đúng, thần đi 1 mình. Người ta gọi thần là đi ngược chiều.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu một ngày em phát khùng anh còn yêu em nữa không?\n- Có chứ, dù thế nào anh vẫn ở bên em.\n- Quả nhiên anh chỉ yêu vẻ bề ngoài của em mà!",
+   "author": ""
+  },
+  {
+   "name": "Có 2 bệnh khó chữa:\n1: Bệnh tào lao\n2: Ung thư nhân cách",
+   "author": ""
+  },
+  {
+   "name": "Em đem giải trí vào âm nhạc, em hát em có những cái nhấn\nLà 1 giọng hát có thể bán vé ngang ngửa với các danh hài",
+   "author": ""
+  },
+  {
+   "name": "Bình thường nghỉ học 4 buổi là bị cấm thi rồi, nhưng em nghĩ 12 buổi nên ko được thi.",
+   "author": ""
+  },
+  {
+   "name": "Rất nhiều người: Mặc đồ thế kỉ 21 nhưng tư duy thế kỉ 13.",
+   "author": ""
+  },
+  {
+   "name": "Trong thang máy, 2 thanh niên nước Anh tán phét về Việt Nam, tôi nghe hiểu hết. Quả nhiên chăm chỉ học tập sẽ đạt được thành quả mà. Coi họ rành rọt tiếng mình chưa kìa.",
+   "author": ""
+  },
+  {
+   "name": "Giữa bao nhiêu người văn minh và hiểu biết...\nVẫn có những bầy óc ngắn và não ít xoắn đến thảm thương :))",
+   "author": ""
+  },
+  {
+   "name": "Chiều hôm ấy, tôi bắt đầu gặp 1 người phụ nữ lái xe bus. Tôi mỉm cười và mừng thầm khi quyền nam nữ bình đẳng giờ đã tiến bộ hơn nhiều. Rồi tôi lặng lẽ chờ chuyến xe bus sau.",
+   "author": ""
+  },
+  {
+   "name": "Có thể cãi nhau ầm ĩ nhưng ko thể \"Mạnh ai nấy im\"",
+   "author": ""
+  },
+  {
+   "name": "Một điều thật đặc biệt tại Việt Nam:\nDanh hài thì làm phim giang hồ\nCòn giang hồ thì đi làm phim hài",
+   "author": ""
+  },
+  {
+   "name": "Chuyện của tôi chẳng có ý nghĩa gì, nhưng nếu nghe thật kỹ thì sẽ thấy nó... thật sự vô nghĩa! Thật đấy!",
+   "author": ""
+  },
+  {
+   "name": "Sút... sút... sút vào không, thưa các bạn giá mà đội bóng không có thủ môn thì quả bóng đã nằm gọn trong lưới.",
+   "author": ""
+  },
+  {
+   "name": "Quảng cáo xe máy:\nChiếc xe wave ghẻ của bạn làm bạn mất thể diện vì không cô nào thèm ngồi lên nó cùng bạn. Tại sao phải đi 1 chiếc xe 15 triệu trong khi chỉ cần bỏ ra thêm có... 100 triệu nữa là bạn đã có ngay 1 chiếc SH 150... hãy cầm tiền chạy ra đại lí gần nhất và khuân ngay 1 chiếc về nhé.Chúng tôi cũng hỗ trợ khách hàng bằng nhiều cách là thanh toán trực tiếp bằng tiền mặt và trả góp, thế chấp nhà.",
+   "author": ""
+  },
+  {
+   "name": "Có một ông kia ổng đi qua cầu. Đột nhiên cây cầu bị sập rồi ổng rớt xuống sông. Hỏi ổng chọn cái gì?\na) Tính mạng\nb) Trí khôn\nc) Táo vàng\nNếu nó chọn: Tính mạng = táng mạnh; Táo vàng = táng vào; Trí khôn thì không sao",
+   "author": ""
+  },
+  {
+   "name": "- Mày biết con người có bao nhiêu cái xương không?\n- 206 cái.\n- Thế mà tao có 207 cái đấy! Mới nuốt 1 cái xương cá xong!",
+   "author": ""
+  },
+  {
+   "name": "Lâu lâu, em lại sợ nếu không có anh trong đầu, nó sẽ lại đầy ắp lí trí như ngày xưa...",
+   "author": ""
+  },
+  {
+   "name": "Không nghe trẻ con chém gió\nKhông nghe chó sủa lung tung",
+   "author": ""
+  },
+  {
+   "name": "Trùng tu nhan sắc chắc gì đã xinh?\nĐã không thông minh còn cố tình tỏ ra nguy hiểm!",
+   "author": ""
+  },
+  {
+   "name": "- Em nghĩ mãi không hiểu nổi, cô bé hàng xóm của anh ấy, vừa ngoan ngoãn tử tế gia cảnh khá giả, lại trẻ trung có học thức, anh chưa từng động lòng thật sao?\n- Chả nhẽ cứ gặp ai xinh đẹp giàu có là anh phải yêu hết sao?\n- Thì ra anh luôn nghĩ là cô ta xinh đẹp, em chưa công nhận điều đó đâu đấy.",
+   "author": ""
+  },
+  {
+   "name": "Đừng thấy tao cười mà tưởng tao là bạn\nTao mà cười là sắp có án mạng xảy ra",
+   "author": ""
+  },
+  {
+   "name": "Hút thuốc có lợi cho môi trường vì nó làm cho con người chết dần.",
+   "author": ""
+  },
+  {
+   "name": "Cứ ngồi im rồi tình yêu sẽ đến... với người khác",
+   "author": ""
+  },
+  {
+   "name": "Ngộ Không: Aaaaa.. Sư phụ đừng đọc thần chú nữa, đau đầu wá..\nBát Giới: Khỉ huynh yên tâm, tặng khỉ huynh nè\nNgộ Không: gì thế mày?\nBát giới: Dạ...Palađôn ếch traa.. :)):))",
+   "author": ""
+  },
+  {
+   "name": "Bị cướp 500k, may mắn được bạn bè đuổi bắt cướp lấy lại 500k. Để cảm ơn, mời chúng đi ăn hết sạch 1 củ.",
+   "author": ""
+  },
+  {
+   "name": "Chó khôn chó sủa người xa!\nChó ngu chó sủa cả ta lẫn người!",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không thử, bạn sẽ không bao giờ biết được câu trả lời.\nNhưng khi thử rồi, bạn mới hiểu... đúng là đừng nên thử.",
+   "author": ""
+  },
+  {
+   "name": "Ném đá giấu tay... dù rất hay nhưng cũng phải giả vờ làm người bị hại",
+   "author": ""
+  },
+  {
+   "name": "Nếu một người không đến dự đám tang của bạn, không việc gì bạn phải có mặt trong đám tang của kẻ đó.",
+   "author": ""
+  },
+  {
+   "name": "Nói không phải khoe khoang chứ mình đã cầm đầu biết bao nhiêu giang hồ có máu mặt! Mình bảo xoay bên nào là phải xoay bên ấy. Mình là mình làm thợ cắt tóc nghen!",
+   "author": ""
+  },
+  {
+   "name": "Em thông minh thật... mỗi tội không thường xuyên!!",
+   "author": ""
+  },
+  {
+   "name": "Tính cách hoà đồng nhưng thích chơi 1 mình\nThích sạch sẽ nhưng không thích tắm",
+   "author": ""
+  },
+  {
+   "name": "Bạn có biết ai mà bạn ghét nhất và căm thù nhất không. Đó chính là... kẻ thù của bạn",
+   "author": ""
+  },
+  {
+   "name": "Lúc sa cơ thì cầu trời khẩn phật\nLúc huy hoàng thì đá đổ lư hương",
+   "author": ""
+  },
+  {
+   "name": "Thằng bạn e nó hận đời định cắt tóc đi tu, nghĩ đi nghĩ lại nó ôm thùng tiền công đức của chùa rồi nói đi tù sướng hơn rồi đi luôn",
+   "author": ""
+  },
+  {
+   "name": "Có phải bố em là một tên trộm... Ừ ờ... nếu phải anh cũng không báo công an đâu đừng lo :v",
+   "author": ""
+  },
+  {
+   "name": "Trên đồng cạn dưới đồng sâu\nChồng cày vợ cấy con trâu đi nằm",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ xem Tivi mà quên chưa cắm điện, và nhớ là đang ăn thì không được đánh răng đâu đấy.",
+   "author": ""
+  },
+  {
+   "name": "Lúc trước mình có ngoan ngoãn đâu mà sao bây giờ mất dạy thế nhỉ",
+   "author": ""
+  },
+  {
+   "name": "Mình cần vay 100k các bạn cmt ở dưới mình sẽ chọn ra một bạn may mắn để mình vay nhé :v Thank all",
+   "author": ""
+  },
+  {
+   "name": "Nhà anh giàu, anh ăn nho mỹ. Nhà tui nghèo tui qua mỹ ăn nho.",
+   "author": ""
+  },
+  {
+   "name": "- Ăn cơm em nấu, anh tràn đầy sức sống <3\n- Thật hả anh!\n- Thịt sống, rau sống, cơm cũng sống,... cái gì cũng sống!",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này thật ra không có người vô tâm, chỉ là tâm của họ không hướng về bạn mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em khóc a không biết làm gì hơn ngoài ngồi một góc để cười...",
+   "author": ""
+  },
+  {
+   "name": "Tao là sói chất lượng cao. Chứ không như mày Nai tơ chất lượng ảo",
+   "author": ""
+  },
+  {
+   "name": "- Giữa 10.000$ và em anh sẽ chọn ai?\n- Em làm gì tới giá đó được",
+   "author": ""
+  },
+  {
+   "name": "Chó cỏ nhà quê mà tưởng mình là béc zê thành phố.",
+   "author": ""
+  },
+  {
+   "name": "Bị ai đó từ chối không phải chuyện đáng buồn thế giới ngoài kia những 7 tỉ người, chẳng thiếu người tiếp tục từ chối bạn đâu.",
+   "author": ""
+  },
+  {
+   "name": "Thằng kìa làm cái gì đấy, mày cố ý hay mày cố tình?",
+   "author": ""
+  },
+  {
+   "name": "Người ta đội mũ bảo hiểm để bảo vệ não\nCòn mấy đứa không có não... đội làm gì cho nóng da đầu.",
+   "author": ""
+  },
+  {
+   "name": "Thấy đánh lộn chạy vào can ngăn... Người ta đang quay phim.",
+   "author": ""
+  },
+  {
+   "name": "Ở nước ngoài chó thường được xem là bạn\nỞ Việt Nam bạn được gọi là chó",
+   "author": ""
+  },
+  {
+   "name": "- Ai cũng nói anh có nụ cười tỏa nắng đấy!\n- Em có mấy bộ đồ chưa khô, anh đến nhe răng ra cười cho khô hộ em cái",
+   "author": ""
+  },
+  {
+   "name": "Nếu các bạn không ra ngoài đi đây đi đó thì sẽ... mãi mãi không biết nằm nhà thoải mái như thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Chở bạn crush đằng sau xe.\nQuay lại hỏi : Này, sao đi xe mà bà cứ quay lưng về phía tôi thế :)",
+   "author": ""
+  },
+  {
+   "name": "Trời ơi, bọn mày ăn nói có văn hóa một tí giùm tao",
+   "author": ""
+  },
+  {
+   "name": "Thà sống giàu sang mà sung sướng còn hơn sống nghèo hèn mà khổ cực.",
+   "author": ""
+  },
+  {
+   "name": "Mày bận gì đi đi. Ck mày để tao chăm sóc giùm cho!!!",
+   "author": ""
+  },
+  {
+   "name": "Tham gia giao thông theo kiểu điền vào chỗ trống chỗ nào hở thì mình... điền vào thôi",
+   "author": ""
+  },
+  {
+   "name": "Có bệnh thì đi tìm bác sĩ, đừng tìm tôi, tôi đâu phải thú y.",
+   "author": ""
+  },
+  {
+   "name": "\"Như\" cái tên bị chửi nhiều nhất VN.",
+   "author": ""
+  },
+  {
+   "name": "- Em có bao giờ thấy hạt dẻ có chân chưa?\n- Dạ chưa\n- Nè, con gián nè =))",
+   "author": ""
+  },
+  {
+   "name": "Mẹ mày... cha mày... cả dòng họ mày... đều tin mày =))",
+   "author": ""
+  },
+  {
+   "name": "Lần đầu tiên có người con gái đứng trước mặt tôi nói: \"em có bầu\". Bàng hoàng, hoang mang tột độ, thật sự thì tôi chưa chuẩn bị tâm lí cho tình huống này.\nLấy hết bình tĩnh, can đảm và trên hết là trách nhiệm của một thằng đàn ông tôi nói: \"Vậy mời em ngồi.\" Trên chuyến xe buýt ấy, dù phải đứng suốt chặng đường dài gần 20 km nhưng tôi cảm thấy rất vui :))",
+   "author": ""
+  },
+  {
+   "name": "Hiền lành giả tạo, không bằng thô bạo thật lòng",
+   "author": ""
+  },
+  {
+   "name": "Lúc nào chán đời hãy nhắn tin cho toàn danh bạ: \"Mình thay di động nên ko có số của ai cả, mọi người nhắn lại số cho mình nhé.\" Rồi bạn sẽ phát hiện ra, trong đống bạn của mình, đứa nào cần ăn thêm muối i-ốt.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi ngày tôi chọn một niềm vui. Chọn mãi không ra nên tôi lại buồn.",
+   "author": ""
+  },
+  {
+   "name": "Một thằng nhóc đứng trước quầy thanh toán khóc ầm lên vì mẹ nó ko mua cho nó thanh socola. Tôi liền đứng ra nghĩa hiệp mua một thanh, bóc ra rồi đứng đó ăn trước mặt nó.",
+   "author": ""
+  },
+  {
+   "name": "Lưu manh mà giả danh tri thức,\nKhốn nạn mà giả dạng dễ thương.",
+   "author": ""
+  },
+  {
+   "name": "Tao coi thường nên tao so sánh mày với chó. Xin lỗi chó vì đã so sánh nó với mày.",
+   "author": ""
+  },
+  {
+   "name": "Cha sanh má đẻ trời định\nTao xinh tao xấu là chuyện của tao\nCòn mày đâu phải má tao\nMà ngồi phán xét tao như thế nào",
+   "author": ""
+  },
+  {
+   "name": "Đã tồn tại ở dạng 2 chân, thì đừng hành xử theo kiểu 4 cẳng",
+   "author": ""
+  },
+  {
+   "name": "- Anh thấy tranh em vẽ thế nào?\n- Rất thích!\n- Thích ở chỗ nào?\n- Chữ ký của em đẹp và bay bướm quá!",
+   "author": ""
+  },
+  {
+   "name": "Có bữa tôi troll ông taxi, tôi lên xe đưa 100k trước cho ổng rồi nói đến Sài Gon, tôi liền chạy vụt ra :v",
+   "author": ""
+  },
+  {
+   "name": "Đừng tự nhận mình là thanh cao rồi bắt tao phải kính nể",
+   "author": ""
+  },
+  {
+   "name": "- Vì sao da a đen vậy?\n- Em biết hồi bé các mẹ hay mang e bé ra phơi nắng á, để cho bé cứng cáp, đáng ra da anh cũng trắng lắm nhưng ngày bé do anh quậy quá đêm hôm mẹ không ngủ đc, sáng ra mẹ toàn ngủ nướng tới 10h, 11h mới đem anh đi phơi đc nên da có phần đen hơn các bạn đc phơi sớm.",
+   "author": ""
+  },
+  {
+   "name": "- Tao thật ghen tị bởi độ may mắn của mày đấy.\n- Tại sao?\n- Bởi vì hiếm khi có thằng nào có thằng nào được chơi với 1 đứa vừa đẹp trai, vừa tài giỏi như tao đâu?",
+   "author": ""
+  },
+  {
+   "name": "- nhìn trời ngắm sao đi\n- (ngẩng đầu lên) ùm... mà có gì ko em\n- a có bị khùm hông zậy?\n- (cúi đầu xuống) ko anh bình thường mà\n- anh mới gật đầu anh bị khùm mà",
+   "author": ""
+  },
+  {
+   "name": "Anh xa em 30 ngày mà cứ tưởng chừng như... nửa tháng",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn tôi coi bạn là người thì đừng cư xử như động vật nữa nhá",
+   "author": ""
+  },
+  {
+   "name": "Hà Nội thành phố mộng mơ\nNhà thơ thì ít mà ngáo ngơ thì nhiều",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi tui muốn được giống như bạn.. sinh ra đã có bản tính khốn nạn trong người =))",
+   "author": ""
+  },
+  {
+   "name": "Hàng xóm nhà mình toàn là người được nhà nước quan tâm và đào tạo... họ đều có chứng chỉ hoàn thành khóa học cao cấp ở trại cai nghiện về.",
+   "author": ""
+  },
+  {
+   "name": "Anh nói thật, hành tinh này không đủ thức ăn cho em ăn đâu, đừng tàn phá hành tinh của anh nữa. Về nhà đi",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng khen tao đẹp trai, xấu mỗi cái mặt.",
+   "author": ""
+  },
+  {
+   "name": "Thế bây giờ tao hỏi mày tao là bố mày hay mày là con tao",
+   "author": ""
+  },
+  {
+   "name": "Sinh nhật 1/4 mời bạn bè... không ai đến",
+   "author": ""
+  },
+  {
+   "name": "Tử tế với mình thì mình tử tế lại. Còn khốn nạn như vậy mà bắt mình tử tế ấy.. À ừ, tử đi rồi mình tế",
+   "author": ""
+  },
+  {
+   "name": "- Cho tao hỏi mày 1 câu nhé?\n- Thì mày vừa hỏi rồi đóa thôi.\n- Cho tao hỏi mày 2 câu nhé?\n- Thì mày vừa hỏi câu thứ 2 rồiii.\n- vậy cho tao hỏi mày 4 câu nhé?\n- Hết 4 câu rồi.\n- Đâu có, tao mới hỏi có 3 câu mà, đúng không?\n- Thì mày vừa hỏi câu thứ 4 đó thôi.",
+   "author": ""
+  },
+  {
+   "name": "Có những người đi qua cuộc đời ta, để lại dấu ấn trong tim ta. Nhưng cũng có những người đi qua cuộc đời ta, khiến ta muốn để lại dấu chân trên mặt họ.",
+   "author": ""
+  },
+  {
+   "name": "Nể nhất hồi đó học 12, làm lễ tổng kết thấy bạn nào cũng buồn, có đứa khóc nữa... làm như sau này xa nhau không bao giờ gặp lại nhau vậy. Ai ngờ giờ mỗi lần họp lớp là không bao giờ gặp các bạn ấy thiệt =))",
+   "author": ""
+  },
+  {
+   "name": "Có lẽ cậu nên đi viện mắt kiểm tra xem sao. Mẹ mình bảo thằng nào mù mới yêu mình.",
+   "author": ""
+  },
+  {
+   "name": "Đang đi trên đường bỗng thấy bất thường\nÚp mặt vô tường lại thấy bình thường",
+   "author": ""
+  },
+  {
+   "name": "Tao đang xem cái gì thế này, chọc mù mắt tao đi",
+   "author": ""
+  },
+  {
+   "name": "Hình như tôi chiều các em quá nên các em hư đúng không? Thôi, miễn em thích là được :>",
+   "author": ""
+  },
+  {
+   "name": "Tao sẽ để đây! Và mặc kệ mày thích nói gì thì nói :)",
+   "author": ""
+  },
+  {
+   "name": "Gia môn bất hạnh, gia nhi bất tài, gia nô bất lực.",
+   "author": ""
+  },
+  {
+   "name": "Tui thắng rồi, giờ mấy người không phục nữa thì thôi",
+   "author": ""
+  },
+  {
+   "name": "Dân chơi là có thật",
+   "author": ""
+  },
+  {
+   "name": "Thấy cũng tội mà thôi cũng kệ",
+   "author": ""
+  },
+  {
+   "name": "Nói không phải mê tín chứ... em đẹp lắm đó! Em yêu <3",
+   "author": ""
+  },
+  {
+   "name": "Rủ thằng bạn chơi net... nó méc mẹ mình.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời đau khổ triền miên\nĐi đâu cũng gặp thằng điên thế này",
+   "author": ""
+  },
+  {
+   "name": "Đừng cố gắng làm gì bởi khi đó bạn sẽ nhận ra mình thật... vô dụng!",
+   "author": ""
+  },
+  {
+   "name": "Việt Nam like là làm",
+   "author": ""
+  },
+  {
+   "name": "Tôi sẽ để đây và không nói gì thêm.",
+   "author": ""
+  },
+  {
+   "name": "Đã là rác của xã hội\nThì đừng lên giọng bà nội vs tao =))",
+   "author": ""
+  },
+  {
+   "name": "Đẹp trai thì mới có nhiều người yêu!",
+   "author": ""
+  },
+  {
+   "name": "Sống với thằng hâm đôi khi phải âm thầm chịu đựng...",
+   "author": ""
+  },
+  {
+   "name": "Tâm sự mỏng, chia sẻ nhẹ",
+   "author": ""
+  },
+  {
+   "name": "Hạn hán lời, đóng băng lời, khô lời, nhạt lời, hết lời, mất lời, nói k ra lời, tiết kiệm lời, xa lời, sa mạc lời, mốc lời, cháy lời, bốc hơi lời, chẳng còn lời, bệnh tật lời, tuyệt chủng lời, kiệt sức lời, cụt lời, kiệt quệ lời, quỳ lời, oxi hóa lời, thua lời, teo lời, tan biến lời, rụng lời, biến chất lời, cạn lời, biến dị tổ hợp lời biến dạng lời, biến mất lời, biến hóa lời, biến hình lời, rạn nứt lời, nứt nẻ lời, mẻ lời, bể lời, vỡ lời, nát lời, đứt lời, gãy lời, tan nát lời.",
+   "author": ""
+  },
+  {
+   "name": "Mày không thoát được đâu con trai à :> Tu bi con tờ niu :)))",
+   "author": ""
+  },
+  {
+   "name": "Mình thích thì mình cứ làm thôi!",
+   "author": ""
+  },
+  {
+   "name": "Muốn yêu cô gái dịu hiền\nAlo con khác đừng phiền tới em",
+   "author": ""
+  },
+  {
+   "name": "Vừa bật máy lên định chơi game... thì mất điện.\nVừa có điện xong định chơi thì mẹ bắt học bài",
+   "author": ""
+  },
+  {
+   "name": "Hờn cả thế giới",
+   "author": ""
+  },
+  {
+   "name": "Kẹo sữa milkita được làm từ sữa :v",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta luôn gặp trẻ trâu\nChúng ta không luộc được rau",
+   "author": ""
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "KHwUFvLmvPo",
+   "name": "Bơ Già Dừa Non [Tập 17] - Chiêm Bao Có Thật | Trung Ruồi"
+  },
+  {
+   "idvideo": "ecUS6KScJeY",
+   "name": "Bơ Già Dừa Non [Tập 16] - Đại Cao Thủ | Trung Ruồi"
+  },
+  {
+   "idvideo": "VQ5mIvJ9s1k",
+   "name": "Bơ Già Dừa Non [Tập 15] - Việc Nhẹ Lương Cao | Trung Ruồi"
+  },
+  {
+   "idvideo": "Yq73YjBdonc",
+   "name": "Bơ Già Dừa Non [Tập 14] - Thầy Lang Băm | Trung Ruồi"
+  },
+  {
+   "idvideo": "e3Z-0y-uzgo",
+   "name": "Bơ Già Dừa Non [Tập 13] - Nhân Viên Tốt | Trung Ruồi"
+  },
+  {
+   "idvideo": "9oX4uXKtu6M",
+   "name": "Bơ Già Dừa Non [Tập 12] - Tiền Trợ Cấp | Trung Ruồi"
+  },
+  {
+   "idvideo": "yyjYt-CO79c",
+   "name": "Bơ Già Dừa Non [Tập 11] - Hiệp Sĩ Đường Phố | Trung Ruồi"
+  },
+  {
+   "idvideo": "SUykJJJIzdM",
+   "name": "Bơ Già Dừa Non [Tập 10] - Văn Hóa Bể Bơi | Trung Ruồi"
+  },
+  {
+   "idvideo": "zpZIw-9Z6HI",
+   "name": "Bơ Già Dừa Non [Tập 8] - Lễ Dạm Ngõ | Trung Ruồi"
+  },
+  {
+   "idvideo": "59Fu6DaE71Y",
+   "name": "Bơ Già Dừa Non [Tập 6] - Con Rể Quý | Trung Ruồi"
+  },
+  {
+   "idvideo": "zLv6qnDsCD8",
+   "name": "Bơ Già Dừa Non [Tập 5] - Chưa Già Đã Lẫn | Trung Ruồi"
+  },
+  {
+   "idvideo": "OcOYV-Dn9Tg",
+   "name": "Bơ Già Dừa Non [Tập 2] - Giải Trình Đi Làm Muộn | Trung Ruồi"
+  },
+  {
+   "idvideo": "CeaFUWDlFqA",
+   "name": "Bơ Già Dừa Non [Tập 1] - Chạy Nước Rút | Trung Ruồi"
+  },
+  {
+   "idvideo": "96K7DgLtBYQ",
+   "name": "Nhiệm Vụ Khả Thi - Tập 20 | Trung Ruồi x Minh Tít"
+  },
+  {
+   "idvideo": "2L3S7PtqWzU",
+   "name": "Mõ Làng #56 | Siêu Trí Tuệ | Trung Ruồi"
+  },
+  {
+   "idvideo": "Qd_wdn074Oo",
+   "name": "Mõ Làng #54 | Anh Ship May Mắn | Trung Ruồi"
+  }
+ ]
+}

@@ -1,0 +1,1590 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Mọi người thường nói rằng động lực không kéo dài. Và chuyện tắm cũng vậy. Đó là lý do vì sao chúng ta thực hiện nó mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều người đã chết lúc 25 tuổi, nhưng đến 75 tuổi mới được đem chôn.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng dám làm đúng, bọn mày sợ, và tao cũng sợ đôi lúc còn chẳng dám thở\nNhưng biết biển rộng đc bao nhiêu, nếu thuyền cứ mãi bám bờ, yo\nCan đảm chính là vượt qua sự sợ hãi\nCan đảm vì chẳng có thời gian ngồi thở dài, uhh\n-- Học --",
+   "author": ""
+  },
+  {
+   "name": "Thành công không phải là cuối cùng, thất bại không phải là chết người: lòng can đảm đi tiếp mới quan trọng",
+   "author": ""
+  },
+  {
+   "name": "Mục tiêu của em năm 2017... là hoàn thành mục tiêu của năm 2016... mà đáng lý ra phải xong từ 2015... vì em đã lập ra từ 2014.",
+   "author": ""
+  },
+  {
+   "name": "Và đừng để đời chỉ là những chuỗi ngày được chấm công\nMiệng cười như nắng hạ, nhưng trong lòng thì chớm đông\n...\nNhưng cũng có lúc mọi thứ không như là những gì ta muốn\nThế giới này vận hành theo cái cách luôn ghì ta xuống\nNhưng mà mộng mơ Anh nhiều như niêu cơm của Thạch Sanh\nAi muốn lấy cứ lấy, không thể nào mà sạch banh\n...\nVì một ngày còn sống, là một ngày đắm say\nNgày đẹp trời nhất, là ngày mình còn nắm tay\n-- Bài Này Chill Phết -- ft. MIN",
+   "author": ""
+  },
+  {
+   "name": "Thời gian tốt nhất để trồng cây là vào 20 năm trước. Thời gian tốt thứ hai là ngay bây giờ.",
+   "author": ""
+  },
+  {
+   "name": "10 năm trước mọi người xung quanh nhìn vào thu nhập của bố mẹ bạn để đối xử với bạn.\n10 năm sau mọi người xung quanh nhìn vào thu nhập của bạn để đối xử với bố mẹ bạn.",
+   "author": ""
+  },
+  {
+   "name": "Thủ lĩnh đích thực không tạo ra đàn em. Họ tạo ra những thủ lĩnh mới.",
+   "author": ""
+  },
+  {
+   "name": "Vũ khí ghê gớm nhất chống lại sai lầm là lý lẽ.",
+   "author": ""
+  },
+  {
+   "name": "Trải nghiệm đẹp đẽ nhất chúng ta có thể có, chính là sự bí ẩn... Bất cứ ai không còn trải nghiệm cảm giác này, cũng đồng thời không còn biết ngạc nhiên, thán phục. Điều đó giống như bạn đã chết rồi, bởi đôi mắt đã hoàn toàn u tối.",
+   "author": ""
+  },
+  {
+   "name": "Cơ thể tôi là cuốn nhật ký và mỗi hình xăm là một câu truyện khác nhau.",
+   "author": ""
+  },
+  {
+   "name": "Đừng tự tạo những giới hạn cho chính bản thân bạn",
+   "author": ""
+  },
+  {
+   "name": "Không cần bảo thủ quy tắc, dám sáng tạo mới có thể đánh bại đối thủ.",
+   "author": ""
+  },
+  {
+   "name": "Miệng là của họ, cuộc đời là của mình. Đừng vì một câu nói của họ mà làm mình mất vui.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là một chuyến hành trình, không phải là định mệnh",
+   "author": ""
+  },
+  {
+   "name": "Rút kinh nghiệm từ thành công là quan trọng nhưng học hỏi từ thất bại lại là yếu tố quan trọng quyết định thành công",
+   "author": ""
+  },
+  {
+   "name": "Quá nhiều người trong chúng ta không sống với giấc mơ của mình vì chúng ta sống với nỗi sợ hãi.",
+   "author": ""
+  },
+  {
+   "name": "Có thể không tán đồng, nhưng đừng thiếu tôn trọng.",
+   "author": ""
+  },
+  {
+   "name": "Cảm xúc là kẻ thù số một của thành công.",
+   "author": ""
+  },
+  {
+   "name": "Tôi thực sự sẽ không ngạc nhiên nếu DNA của tôi có hình dạng của quả bóng đá.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta luôn phải học từ sai lầm của người khác, chứ không phải lúc nào cũng từ câu chuyện thành công. Chúng ta phải biết vì sao họ thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là 1% cố gắng và 99% \"ko chạm vào di động.\"",
+   "author": ""
+  },
+  {
+   "name": "Luyện thi có thể giúp cậu vượt qua 4 năm đại học nhưng sẽ hành hạ cậu 40 năm tiếp theo.",
+   "author": ""
+  },
+  {
+   "name": "Đau đớn thay những kiếp sống muốn cất cánh bay cao nhưng lại bị áo cơm ghì sát đất.",
+   "author": ""
+  },
+  {
+   "name": "Chuyên gia trong bất cứ lĩnh vực nào đều đã từng là người mới bắt đầu.",
+   "author": ""
+  },
+  {
+   "name": "Đã đến lúc phải từ bỏ lối chờ đợi những món quà bất ngờ từ cuộc sống, và phải tự mình làm nên cuộc sống.",
+   "author": ""
+  },
+  {
+   "name": "Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn",
+   "author": ""
+  },
+  {
+   "name": "Khi còn thở, nghĩa là ta còn hy vọng",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ cố giải thích con người bạn với bất cứ ai. Vì những người tin bạn không cần điều đó còn những người không thích bạn sẽ không tin lời bạn đâu!",
+   "author": ""
+  },
+  {
+   "name": "Trở ngại là những gì bạn thấy khi bạn rời mắt khỏi mục tiêu.",
+   "author": ""
+  },
+  {
+   "name": "Thành công trong 1 cuộc tranh luận không phải là làm đối phương nhục mà để họ phục.",
+   "author": ""
+  },
+  {
+   "name": "Những việc đại sự trong thiên hạ, về nhà hỏi vợ, vợ bảo sao, cứ làm ngược lại ắt thành công!",
+   "author": ""
+  },
+  {
+   "name": "Tôi nghĩ mỗi chúng ta ai cũng là một pho sử, vấn đề là chúng ta có muốn viết nó ra không thôi.",
+   "author": ""
+  },
+  {
+   "name": "Bạn chỉ có thể băng qua đại dương bao la khi có can đảm không nhìn về bờ bến.",
+   "author": ""
+  },
+  {
+   "name": "Đừng đánh giá tôi dựa trên thành công của tôi, hãy đánh giá tôi dựa trên số lần tôi gục ngã và đứng dậy trở lại",
+   "author": ""
+  },
+  {
+   "name": "Luôn nhớ rằng bạn có hai cánh tay: một để tự đỡ mình, một để giúp đỡ những người khác.",
+   "author": ""
+  },
+  {
+   "name": "Sợ nhất cuộc đời chẳng có gì nổi bật nhưng lại tự luôn an ủi mình bình thường mới là cái đáng quý.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là 1 phần của cuộc sống nhưng có nhiều người thiếu 1 phần cũng k sao =))",
+   "author": ""
+  },
+  {
+   "name": "Đừng để tiếng ồn của người khác che khuất tiếng nói bên trong bạn.",
+   "author": ""
+  },
+  {
+   "name": "Người thành công thường cô đơn nhưng thi thoảng cũng có người cô đơn tưởng mình thành công.",
+   "author": ""
+  },
+  {
+   "name": "Những cầu thủ vĩ đại không chờ đợi một điều gì đó xảy ra, họ sẽ làm được điều đó.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể thất vọng khi bạn thất bại, nhưng bạn sẽ không thể thành công nếu không cố gắng",
+   "author": ""
+  },
+  {
+   "name": "Anh không hề thất bại cho đến khi anh ngừng cố gắng",
+   "author": ""
+  },
+  {
+   "name": "Kẻ mạnh không phải là kẻ giẫm lên vai kẻ khác để thoả mãn lòng ích kỉ. Kẻ mạnh chính là kẻ giúp đỡ kẻ khác trên đôi vai mình",
+   "author": ""
+  },
+  {
+   "name": "Điều gì không khiến ta gian khổ mà không làm ta chết thì nó sẽ khiến ta mạnh mẽ hơn.",
+   "author": ""
+  },
+  {
+   "name": "Thành công đôi khi bị đánh đổi bởi phút chốc chán nản.",
+   "author": ""
+  },
+  {
+   "name": "Cơ hội giống như bình minh, nếu bạn chờ đợi quá lâu, bạn có thể bỏ lỡ nó.",
+   "author": ""
+  },
+  {
+   "name": "Thất bại và phát minh là hai anh em sinh đôi không thể tách rời. Để đi đến thành công, bạn phải thử nghiệm và sẽ không phải là thử nghiệm nếu bạn biết trước nó sẽ thành công.",
+   "author": ""
+  },
+  {
+   "name": "Vấn đề không nằm ở giá của những cuốn sách, vấn đề nằm ở cái giá bạn phải trả nếu không đọc sách.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không cố gắng, bạn không xứng đáng được sống cuộc đời mình mong ước.",
+   "author": ""
+  },
+  {
+   "name": "Muốn biết bản lĩnh thật sự của một người, hãy xem họ đối mặt như thế nào khi thất bại hoặc khi bị người khác bán đứng.",
+   "author": ""
+  },
+  {
+   "name": "Chi phí phải trả cho sự sai lầm ít hơn so với việc không làm gì cả",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta không ngừng phấn đấu, không phải để thay đổi thế giới, mà để thế giới không thay đổi được chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Tỏ ra mình hơn người khác chưa phải là hay. Cái chân giá trị là có thể tỏ ra rằng hôm nay mình đã hơn chính mình ngày hôm qua.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ trưởng thành là kẻ biết dùng minh chứ không phải kẻ trên 18 tuổi",
+   "author": ""
+  },
+  {
+   "name": "Cách trả thù tốt nhất là thành công.",
+   "author": ""
+  },
+  {
+   "name": "Không ai có thể làm một mình giúp đội nhóm thành công, mà cả đội nhóm sẽ giúp bạn thành công.",
+   "author": ""
+  },
+  {
+   "name": "Thay đổi luôn xuất hiện từ những người bình thường làm những chuyện phi thường.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là sự trải qua thất bại này đến thất bại khác mà không mất đi sự nhiệt tình.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời luôn luôn có người tốt, nếu bạn chưa tìm ra người đó, thì bạn hãy trở thành một người tốt để người khác tìm kiếm bạn.",
+   "author": ""
+  },
+  {
+   "name": "Thường thì bạn sẽ không thể trở thành CEO nếu chỉ mới tốt nghiệp trung học. Nhưng khi bạn đã trở thành một CEO thì không còn ai để ý là bạn mới chỉ tốt nghiệp trung học nữa.",
+   "author": ""
+  },
+  {
+   "name": "Một vài người thường mơ thấy thành công, còn một vài người khác thì thức dậy và đi tìm thành công.",
+   "author": ""
+  },
+  {
+   "name": "Thành công được thực hiện bởi những người luôn biết rằng: thất bại là điều không thể tránh khỏi",
+   "author": ""
+  },
+  {
+   "name": "Muốn thành công phải qua nhiều thất bại.\nTrên đường đời có dại mới có khôn.",
+   "author": ""
+  },
+  {
+   "name": "Thất bại là mẹ của thành công. Miễn đừng có quá nhiều mẹ là được.",
+   "author": ""
+  },
+  {
+   "name": "Tôi mơ mình vẽ, và rồi tôi vẽ giấc mơ.",
+   "author": ""
+  },
+  {
+   "name": "Tôi học võ là để kẻ ngu bình tĩnh nói chuyện với tôi.\nTôi đọc sách là để tình tĩnh nói chuyện với những kẻ ngu.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không có tài năng đặc biệt nào, tôi chỉ có sự tò mò đầy nhiệt huyết.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn sắp bỏ cuộc, hãy nhớ tới lý do khiến bạn bắt đầu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu để thành công anh đã cố để học thật giỏi rồi\nNếu để giàu có anh đã cố để trở nên lõi đời\nNếu để ra vẻ, anh đã cố để trở thành quý ông\nNếu để mà nhanh nổi tiếng rap kiểu này chỉ phí công\n-- Đừng gọi anh là Idol --",
+   "author": ""
+  },
+  {
+   "name": "Nếu chúng ta muốn thay đổi thế giới. Hãy thay đổi bản thân trước! Bởi thay đổi thế giới có lẽ là việc của Obama thôi.",
+   "author": ""
+  },
+  {
+   "name": "Đừng phấn đấu để thành công mà hãy phấn đấu để mình có ích.",
+   "author": ""
+  },
+  {
+   "name": "Giận là đem lỗi lầm của người khác trừng phạt bản thân mình.",
+   "author": ""
+  },
+  {
+   "name": "Người đi theo đám đông thường không đi xa hơn được đám đông. Người đi một mình có khả năng đến được những nơi mà chưa ai từng bước tới.",
+   "author": ""
+  },
+  {
+   "name": "Cách duy nhất để không bị ảnh hưởng bởi những lời khen chính là hãy tiếp tục làm việc.",
+   "author": ""
+  },
+  {
+   "name": "Người khác nói thế nào, đó chính là tự do của họ. Có thể khiến người khác im miệng hay không, đó mới là bản lĩnh của mình.",
+   "author": ""
+  },
+  {
+   "name": "Làm đàn ông phải sống đúng với nghĩa đàn ông.\nĐể con thích khoe bố và vợ thích khoe chồng.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi người nên phê phán theo sự phán đoán của chính mình, theo cái gì mình tự đọc, chứ không theo cái gì người khác nói.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn đứng trên đỉnh núi, trên đầu bạn là cả trời sao...",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi cách tốt nhất để học hỏi là làm sai và nghiên cứu hậu quả của hành động đó.",
+   "author": ""
+  },
+  {
+   "name": "Cái gì làm bạn không vui, hãy tránh xa nó",
+   "author": ""
+  },
+  {
+   "name": "Nếu không thể thành niềm tự hào của bố mẹ được, ít nhất đừng khiến họ lao tâm khổ tứ nữa.",
+   "author": ""
+  },
+  {
+   "name": "Đừng chế giễu người khác chỉ vì họ không đáp ứng được những tiêu chuẩn của bạn!",
+   "author": ""
+  },
+  {
+   "name": "Tuổi trẻ là nguồn vốn đầu tư nhưng nếu không có sự nỗ lực, nó cũng sẽ chẳng còn giá trị gì.",
+   "author": ""
+  },
+  {
+   "name": "Mạnh mẽ là khi bạn có thể tự xây nên 1 bản nền vững chắc từ những gạch đá mà người đời ném đá vào bạn.",
+   "author": ""
+  },
+  {
+   "name": "Nghị lực và bền bỉ có thể chinh phục mọi thứ.",
+   "author": ""
+  },
+  {
+   "name": "Để nói gì cũng đúng các bạn phải thành công",
+   "author": ""
+  },
+  {
+   "name": "Người ta hiếm khi thành công nếu không làm điều mình thấy vui thích",
+   "author": ""
+  },
+  {
+   "name": "Nếu cho tôi 6 tiếng để đốn hạ một cái cây. Tôi sẽ dành 4 tiếng đầu tiên để mài rìu.",
+   "author": ""
+  },
+  {
+   "name": "Không lao động không có sáng tạo, người lười lao động chắc chắn không làm việc gì thành công.",
+   "author": ""
+  },
+  {
+   "name": "Trước mình cần 1 chỗ đứng, bây giờ mình cần đứng đúng ở chỗ đó",
+   "author": ""
+  },
+  {
+   "name": "Thay vì dựng lên những bức tường. Chúng tôi giúp xây lên những cây cầu.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ tầm thường chỉ lo tìm cách giết thời gian, còn người có tài thì tìm mọi cách tận dụng thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Đứng chờ ai đó đến để thay đổi cuộc đời bạn. Sẽ chẳng có ai đến cả đâu!!! Vì sao ư? Bạn đã thấy ai đứng giữa đường và chờ chính bản thân mình chưa?",
+   "author": ""
+  },
+  {
+   "name": "Thành công chỉ đến khi các bạn yêu công việc. Tôi không hề nghĩ mình sẽ trở thành tổng thống, khi còn trẻ tôi chỉ muốn giúp đỡ người nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống không cho bạn tất cả những gì bạn mơ ước, nhưng cuộc sống cho bạn quyền được lựa chọn ước mơ và quyền được thực hiện nó.",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn đạt được thực lực của mình, thì đừng bao giờ ngừng phấn đấu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn đạt được những thứ bạn chưa từng có, bạn phải làm những điều bạn chưa từng làm.",
+   "author": ""
+  },
+  {
+   "name": "Bí quyết lớn nhất của thành công là thành thật.\nKhông thành thật, không có phương pháp nào đắc dụng với bạn hết",
+   "author": ""
+  },
+  {
+   "name": "Điều tôi muốn biết trước tiên không phải là bạn đã thất bại ra sao mà là bạn đã chấp nhận nó như thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Biết bao kẻ đọc sách và học hỏi, không phải để tìm ra chân lý mà là để gia tăng những gì mình đã biết.",
+   "author": ""
+  },
+  {
+   "name": "Để vươn tới thành công, ham muốn thành công của bạn phải cao hơn nỗi sợ về sự thất bại",
+   "author": ""
+  },
+  {
+   "name": "Con chim đậu trên cành không bao giờ sợ cành cây gãy, bởi niềm tin của nó không đặt vào cành cây, mà đặt vào đôi cánh của chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta đều bị giới hạn, không phải do khả năng, mà là do tầm nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Sự cẩu thả trong bất cứ nghề gì cũng là một sự bất lương rồi. Nhưng sự cẩu thả trong văn chương thì thật là đê tiện.",
+   "author": ""
+  },
+  {
+   "name": "Tiền không mua được thành công, tiền chỉ đầu tư cho thành công.",
+   "author": ""
+  },
+  {
+   "name": "Ngay cả ngõ cụt cũng là điểm xuất phát nếu bạn biết quay lưng.",
+   "author": ""
+  },
+  {
+   "name": "Rủi ro đến từ việc bạn không biết mình đang làm gì",
+   "author": ""
+  },
+  {
+   "name": "Bí mật lớn nhất của cuộc đời thành công là chúng ta phải biết mình sinh ra để làm gì, sau đó tiến hành việc ấy ngay lập tức",
+   "author": ""
+  },
+  {
+   "name": "Giống như hoa dại, hãy học cách sinh tồn trong hoàn cảnh khắc nghiệt nhất.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao không khiến mình trở nên ưu tú hơn để thu hút người khác mà lại phải chạy theo đuôi người ta?",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã học tất cả mọi thứ nhưng chưa bao giờ đứng đầu... Nhưng ngày nay những người đứng đầu của những trường đại học tốt nhất là nhân viên của tôi.",
+   "author": ""
+  },
+  {
+   "name": "Bất cứ khi nào bạn thấy một người thành công, bạn cũng chỉ thấy rõ ánh hào quang. Còn những đau khổ họ đã trải qua để đạt được thành công ấy thì đâu dễ dàng thấy được",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn cầu nguyện với Chúa, cho thấy rằng bạn tin vào năng lực của Chúa. Nếu Chúa không giúp bạn, cho thấy rằng Chúa tin tưởng vào năng lực của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người có thể thành công khi họ thấy niềm vui trong những công việc mình đang làm",
+   "author": ""
+  },
+  {
+   "name": "Để thành công, khát khao thành công của bạn phải lớn hơn nỗi sợ thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Tôi nghĩ rằng nếu bạn làm được điều gì đó tuyệt vời, đừng sống với cảm xúc đó quá lâu. Hãy tiếp tục nghĩ đến những việc cần làm tiếp theo",
+   "author": ""
+  },
+  {
+   "name": "Người thành công không thắng ở điểm xuất phát mà thắng ở những bước ngoặt.",
+   "author": ""
+  },
+  {
+   "name": "Khác biệt là một trong những điều đẹp nhất trên trái đất.",
+   "author": ""
+  },
+  {
+   "name": "Hành trình vạn dặm nào cũng bắt đầu bằng một bước chân.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là gì? Đó là khi những bức ảnh của bạn được tải lên Google thay vì trên Facebook.",
+   "author": ""
+  },
+  {
+   "name": "Đường tuy ngắn, không đi không đến.\nViệc tuy nhỏ, không làm không nên.",
+   "author": ""
+  },
+  {
+   "name": "Hãy tìm lấy công việc mà mình yêu thích, bạn sẽ không phải làm việc ngày nào trong đời.",
+   "author": ""
+  },
+  {
+   "name": "Bạn phải giỏi thì những nguyên tắc của bạn mới được tôn trọng",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ khám phá ra chính mình ở một bậc cao hơn sau mỗi lần vượt qua nghịch cảnh.",
+   "author": ""
+  },
+  {
+   "name": "Nếu sống mà buộc phải từ bỏ giấc mơ của mình thì xin để tôi được chết với giấc mơ ấy",
+   "author": ""
+  },
+  {
+   "name": "Bộc lộ sự nóng nảy ra ngoài đó là bản năng\nKìm nén được sự nóng nảy này đó là bản lĩnh.",
+   "author": ""
+  },
+  {
+   "name": "Người có khát vọng vươn lên sẽ nghĩ cách tạo ra cho mình một chiếc thang",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn có một giấc mơ tỷ phú, hãy chuẩn bị tinh thần sống như một ăn mày khu ổ chuột.",
+   "author": ""
+  },
+  {
+   "name": "Xuất sắc không có nghĩa là phải hoàn hảo.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta sống trong một thế giới mà kỹ năng giá trị nhất bạn có thể bạn được là kiến thức.",
+   "author": ""
+  },
+  {
+   "name": "Tôi mất 15 phút để mua một căn nhà, nhưng tôi mất đến 15 năm để tiết kiệm tiền mua nhà. Đừng bỏ cuộc! Hãy bền chí, hãy lì đòn!",
+   "author": ""
+  },
+  {
+   "name": "Ta không được chọn nơi mình sinh ra. Nhưng ta được chọn cách mình sẽ sống.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi cần phải im lặng nuốt cái tôi vào trong và chấp nhận rằng bạn sai.\nĐó không phải là bỏ cuộc, đó là trưởng thành.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ nói, không cần phải mất ngủ vì một kẻ đang say giấc nồng.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể giả vờ đam mê",
+   "author": ""
+  },
+  {
+   "name": "Hãy gặp anh thành công chứ đừng gặp mẹ của anh ấy!",
+   "author": ""
+  },
+  {
+   "name": "Chiến thắng bản thân là chiến thắng hiển hách nhất",
+   "author": ""
+  },
+  {
+   "name": "Rất nhiều tài năng bị bỏ lỡ vì thiếu một chút can đảm.",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc là sự lựa chọn chứ không phải an bài.\nTình yêu là thứ cần nỗ lực chứ không phải cứ thế diễn ra.",
+   "author": ""
+  },
+  {
+   "name": "Tôi biết rất nhiều người ngoài tham vọng ra thì chẳng có gì. Và phần lớn trong số họ đã thành công.",
+   "author": ""
+  },
+  {
+   "name": "Dù bạn là gì đi nữa, hãy là cái tốt nhất",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta không ngừng phấn đấu, không phải để thay đổi thế giới, mà để thế giới phải ngước nhìn chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Vấp ngã mà còn không chịu đứng lên, tính đợi người ta giẫm đạp lên hay sao?",
+   "author": ""
+  },
+  {
+   "name": "Việc đọc rất quan trọng. Nếu bạn biết cách đọc cả thế giới sẽ mở ra cho bạn",
+   "author": ""
+  },
+  {
+   "name": "Gieo hành động, bạn sẽ gặt thói quen, gieo thói quen bạn sẽ gặt cá tính, gieo cá tính bạn sẽ gặt số phận.",
+   "author": ""
+  },
+  {
+   "name": "Những gì đã từng tồn tại ngày mai sẽ trở nên lỗi thời. Ngày mai sẽ khác ngày hôm nay. Đổi mới & phát triển rất quan trọng đối với tồn tại. Cách tốt nhất để dự đoán tương lai là tạo ra nó.",
+   "author": ""
+  },
+  {
+   "name": "Cách duy nhất tạo nên sự nghiệp vĩ đại là yêu những gì bạn làm. Nếu bạn chưa tìm ra nó, hãy tiếp tục tìm kiếm. Đừng dừng lại.",
+   "author": ""
+  },
+  {
+   "name": "Sống thì đừng quan tâm người khác nói gì về mình bởi vì chỉ có bạn mới biết mình là ai.",
+   "author": ""
+  },
+  {
+   "name": "Người bi quan luôn nhìn thấy khó khăn trong cơ hội\nNgười lạc quan luôn nhìn thấy cơ hội trong khó khăn",
+   "author": ""
+  },
+  {
+   "name": "Điều đau đớn nhất không phải là bạn đã thất bại, mà là vốn dĩ bạn có thể thành công.",
+   "author": ""
+  },
+  {
+   "name": "Thành công không phụ thuộc vào kiến thức mà vào các áp dụng kiến thức.",
+   "author": ""
+  },
+  {
+   "name": "Tôi chưa bao giờ gặp một người nào mà tôi không tìm thấy nơi họ một cái gì đáng cho tôi học hỏi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi sống để làm những điều mình thích và sống để đồng hành cùng đam mê",
+   "author": ""
+  },
+  {
+   "name": "Logic sẽ đưa bạn từ A đến Z. Còn trí tưởng tượng sẽ đưa bạn đến mọi nơi.",
+   "author": ""
+  },
+  {
+   "name": "Thành công chính là kết quả của cái mà các nhà xã hội học gọi tên là “ưu thế tích tụ”.",
+   "author": ""
+  },
+  {
+   "name": "Giữa người với người, khoảng cách ngắn nhất là IQ, khoảng cách lớn nhất đó là kiên trì.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ đùa giỡn với cảm xúc của người khác, bởi vì bạn có thể giành chiến thắng, nhưng hậu quả là bạn chắc chắn sẽ mất đi người đó trong suốt cuộc đời của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Đạo đức là làm được gì chứ không phải là nói được gì",
+   "author": ""
+  },
+  {
+   "name": "Đôi lúc bạn đối mặt với khó khăn không phải vì bạn làm điều gì đó sai mà bởi vì bạn đang đi đúng hướng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu thật sự muốn, bạn sẽ tìm cách\nNếu không muốn, bạn sẽ tìm lí do.",
+   "author": ""
+  },
+  {
+   "name": "Năng lực nằm ở cánh tay chứ không phải ở cái bằng tiến sĩ.",
+   "author": ""
+  },
+  {
+   "name": "Trong mỗi chúng ta đều có khao khát bản năng đó là làm một điều gì đó quan trọng trong cuộc sống.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như tôi buộc phải hiểu tất cả mọi thứ về việc kết nối con người trước khi bắt đầu, thì tôi đã chẳng bao giờ làm ra Facebook.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không bao giờ mơ về thành công cả. Tôi làm việc để có nó.",
+   "author": ""
+  },
+  {
+   "name": "Giấc mơ không bao giờ có hạn sử dụng. Hãy cất bước và thực hiện giấc mơ của mình. Nỗ lực không bao giờ là quá muộn.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không làm được không có nghĩa người khác cũng không làm được. Tầm nhìn quyết định hoài bão, nhận thức quyết định bạn có thể đi được bao xa.",
+   "author": ""
+  },
+  {
+   "name": "Là người giàu nhất trong nghĩa trang không quan trọng với tôi... Khi đi ngủ và nghĩ rằng mình đã làm điều gì đó tuyệt vời... đây mới là điều tôi quan trọng",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể để thất bại định hình mình. Bạn phải để thất bại tặng mình những bài học.",
+   "author": ""
+  },
+  {
+   "name": "Đổi mới là điều tạo ra sự khác biệt giữa người lãnh đạo và kẻ phục tùng.",
+   "author": ""
+  },
+  {
+   "name": "Khi chúng ta chấp nhận giới hạn của mình, chúng ta sẽ vượt qua nó.",
+   "author": ""
+  },
+  {
+   "name": "Trung thực là một món quà vô cùng đắt giá và đừng mong chờ chúng từ những kẻ rẻ tiền.",
+   "author": ""
+  },
+  {
+   "name": "Nên tao phải... sống dai... phải sống dai\nVì kẻ thù ở khắp mọi nơi muốn nhìn xác tao trong quan tài\nNên tao phải... sống dai... phải sống dai\nTao không chờ cái chết để nghe mày gọi tao là 1 huyền thoại\n-- Sống Dai --",
+   "author": ""
+  },
+  {
+   "name": "Sự đơn giản chính là đỉnh cao nhất của sự phức tạp",
+   "author": ""
+  },
+  {
+   "name": "Tôi là nam chính trong tiểu thuyết đời mình, tôi không thể chết được.",
+   "author": ""
+  },
+  {
+   "name": "Hỏi bất kỳ kẻ thất bại nào bạn cũng nhận được câu trả lời: Thành công là nhờ may mắn.",
+   "author": ""
+  },
+  {
+   "name": "Không có ai là siêu anh hùng. Nếu bạn muốn thành công, bạn phải thực tế.",
+   "author": ""
+  },
+  {
+   "name": "Trí tuệ phát triển trong im lặng, còn tính cách trưởng thành qua bão táp",
+   "author": ""
+  },
+  {
+   "name": "Em đam mê làm diễn viên mà gia đình chỉ ủng hộ có 1 nữa thui, gia đình muốn em làm giáo viên :(",
+   "author": ""
+  },
+  {
+   "name": "Sự học giống như chèo thuyền ngược dòng, nếu không tiến lên sẽ bị kéo lùi lại ngay.",
+   "author": ""
+  },
+  {
+   "name": "Bạn cũng biết rằng trên đỉnh thành công chỉ có chỗ đứng mà không có chỗ ngồi, vì thế, bạn luôn tâm niệm rằng tài năng đưa bạn lên đỉnh thành công, nhưng ý chí giúp bạn đứng vững trên đỉnh cao đó.",
+   "author": ""
+  },
+  {
+   "name": "Sự khác biết duy nhất giữa 1 ngày tốt đẹp và 1 ngày tồi tệ nằm ở chính thái độ của bạn",
+   "author": ""
+  },
+  {
+   "name": "Nào có năm tháng tĩnh lặng, chẳng qua là có người mang gánh nặng thay bạn bước đi mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không thất bại. Tôi đã tìm thấy 10.000 cách làm không hiệu quả",
+   "author": ""
+  },
+  {
+   "name": "Sự khác biệt giữa người thành công và người rất thành công đó là người rất thành công thường nói không với gần như tất cả mọi thứ.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là một cuộc hành trình chứ không phải là điểm đến.",
+   "author": ""
+  },
+  {
+   "name": "Quản trị là quản được phần người, trị được phần con. Bản thân mình không quản được nổi thì đừng mong thành ông nọ bà kia.",
+   "author": ""
+  },
+  {
+   "name": "Chính trải nghiệm chứ không phải thứ gì khác, là thứ làm nên con người bạn.",
+   "author": ""
+  },
+  {
+   "name": "Người không muốn tới đích thì dù có khởi sự tốt cũng uống công.",
+   "author": ""
+  },
+  {
+   "name": "Trong thời khắc đẹp nhất đời người, đừng chỉ biết cắm mặt vào di động ấn like cho kẻ khác...",
+   "author": ""
+  },
+  {
+   "name": "Có những người luôn đứng vững không hẳn vì họ cứng cáp. Chỉ đơn giản là vì biết không thể nương tựa vào ai, nên tự bản thân phải biết tự dựa vào sức mình.",
+   "author": ""
+  },
+  {
+   "name": "Có 2 kiểu công ty, kiểu thứ nhất luôn cố gắng để lấy tiền khách hàng và kiểu thứ hai luôn cố gắng giảm thiểu chi phí cho khách hàng. Chúng tôi là kiểu thứ hai.",
+   "author": ""
+  },
+  {
+   "name": "Hãy sống như hôm nay là ngày cuối cùng của bạn",
+   "author": ""
+  },
+  {
+   "name": "Thay đổi kế hoạch, đừng bao giờ thay đổi mục tiêu.",
+   "author": ""
+  },
+  {
+   "name": "Đại trượng phu trên đời, cho dù không thể lưu danh thiên cổ nhưng cũng không để tiếng xấu muôn đời.",
+   "author": ""
+  },
+  {
+   "name": "Dù bạn muốn làm gì thì hãy làm ngay đi, đã quá nhiều ngày mai rồi.",
+   "author": ""
+  },
+  {
+   "name": "Đừng để nỗi buồn phải chứa cả nỗi cô đơn.",
+   "author": ""
+  },
+  {
+   "name": "Facebook không phải là thứ đầu tiên mà tôi làm. Tôi từng làm game, các hệ thống chat, các công cụ học tập và chơi nhạc. Tôi không phải là người duy nhất như thế. JK Rowling từng bị từ chối 12 lần trước khi xuất bản Harry Potter. Thành công đến từ việc được thất bại thoải mái.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn mang giới tính khác, bạn có yêu bạn của hiện tại?",
+   "author": ""
+  },
+  {
+   "name": "Tôi không hề thất bại chỉ là thành công của tôi đang bị trì hoãn mà thôi!",
+   "author": ""
+  },
+  {
+   "name": "Tự tin chưa chắc thắng, nhưng không tự tin thì chắc chắn thua.",
+   "author": ""
+  },
+  {
+   "name": "Hãy nghĩ cách kiếm tiền, chứ đừng nghĩ phải làm sao để tiết kiệm tiền.",
+   "author": ""
+  },
+  {
+   "name": "Cái tôi và sự hiểu biết tỷ lệ nghịch với nhau. Hiểu biết càng nhiều, cái tôi càng bé. Hiểu biết càng ít, cái tôi càng to.",
+   "author": ""
+  },
+  {
+   "name": "Thiên tài có 1% từ năng khiếu và 99% từ sự lao động cần cù.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn nằm trong nhóm 1% những người may mắn nhất thế giới, bạn phải có trách nhiệm và suy nghĩ cho 99% những người còn lại.",
+   "author": ""
+  },
+  {
+   "name": "Con người cần sống như thế nào để không cảm thấy hối hận? Tôi nghĩ chỉ cần làm được 2 điều là đủ. Điều thứ nhất, làm những việc mà mình thích; Điều thứ 2, nghĩ cách kiếm tiền từ những công việc ấy.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng có gì như một giấc mơ tạo dựng tương lai.",
+   "author": ""
+  },
+  {
+   "name": "Nếu chỉ tập trung vào đối thủ, bạn phải chờ cho đến khi họ làm gì đó. Nếu tập trung vào khách hàng, bạn mới là người đi tìm cái mới.",
+   "author": ""
+  },
+  {
+   "name": "Đừng cố cân bằng giữa công việc và vui chơi. Thay vào đó hãy biến công việc thành niềm vui của bạn",
+   "author": ""
+  },
+  {
+   "name": "Số tiền bạn kiếm được không phải là thành công. Thành công là sự khác biệt bạn tạo ra cho cuộc sống người khác.",
+   "author": ""
+  },
+  {
+   "name": "Những đứa trẻ mưa không mang theo ô, thì phải cố mà chạy cho nhanh.",
+   "author": ""
+  },
+  {
+   "name": "Những điều vĩ đại trong kinh doanh không bao giờ được tạo ra bởi một người mà nó được tạo ra bởi một nhóm người.",
+   "author": ""
+  },
+  {
+   "name": "Hãy nói cho tôi biết bạn của bạn là ai\nTôi sẽ nói cho bạn biết bạn là người như thế nào",
+   "author": ""
+  },
+  {
+   "name": "Nếu không chịu được những lời chỉ trích thì đừng hòng làm gì mới hay thú vị.",
+   "author": ""
+  },
+  {
+   "name": "Con ngỗng tuyết không cần tắm để khiến chúng có bộ lông trắng. Bạn cũng không cần làm gì ngoài việc là chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Dù có làm tốt mọi thứ đến đâu thì cũng sẽ có những người không thích mình.",
+   "author": ""
+  },
+  {
+   "name": "Những ước mơ không bao giờ chết chừng nào bạn còn nuôi dưỡng nó bằng niềm đam mê.",
+   "author": ""
+  },
+  {
+   "name": "Kiềm chế là sức mạnh - Sức mạnh là kiếm chế",
+   "author": ""
+  },
+  {
+   "name": "Bạn có biết khi mặt trời lên, bạn còn uể oải trong chăn ấm thì một ngày mưu sinh của nhiều người đã gần cạn đi một nữa.",
+   "author": ""
+  },
+  {
+   "name": "Thất bại vì ngại thành công.",
+   "author": ""
+  },
+  {
+   "name": "Cứ làm việc trong im lặng, hãy để thành công giúp bạn lên tiếng.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ trích 1 người là việc không khó.\nVượt lên trên sự phán xét ấy để cư xử rộng lượng, vị tha mới là điều đáng tự hào",
+   "author": ""
+  },
+  {
+   "name": "Nổ lực không đảm bảo thành công nhưng không có thành công nào không cần nổ lực.",
+   "author": ""
+  },
+  {
+   "name": "Hãy bước ra khỏi vùng an toàn của mình. Bạn chỉ có thể phát triển nếu bạn sẵn sàng cảm thấy lúng túng và không thoải mái khi thử điều gì đó mới mẻ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn biến những ước mơ của mình thành hiện thực, điều đầu tiên mà bạn cần phải làm là thức dậy.",
+   "author": ""
+  },
+  {
+   "name": "Hãy hòa nhã với những kẻ dở hơi. Ai biết được ngày sau và khi đó bạn có thể phải làm việc cho một kẻ như vậy.",
+   "author": ""
+  },
+  {
+   "name": "Tập hài lòng những gì mình không có\nHọc từ bỏ những thứ trời không cho",
+   "author": ""
+  },
+  {
+   "name": "Không có con đường nào dài hơn chân, không có ngọn núi nào cao hơn người.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều người muốn nhìn thấy bạn thất bại... hãy khiến họ thất vọng!",
+   "author": ""
+  },
+  {
+   "name": "Người bạn sẽ dành thời gian ở chung nhiều nhất là chính bạn, vì vậy bạn hãy làm cho bạn thú vị hết mức có thể.",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau không ai chống lưng tuyệt đối không được ngã",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần bạn giỏi thêm một phần, càng bớt đi một câu cầu xin người khác.",
+   "author": ""
+  },
+  {
+   "name": "Thắng bại là chuyện thường tình của binh gia!",
+   "author": ""
+  },
+  {
+   "name": "Đừng đổ lỗi cho người khác vì những quyết định của bạn",
+   "author": ""
+  },
+  {
+   "name": "Không ai có thể ngăn cản bạn tiến đến thành công, ngoại trừ chính bản thân bạn.",
+   "author": ""
+  },
+  {
+   "name": "Hãy sống là chính mình, bình thường nhưng không tầm thường.",
+   "author": ""
+  },
+  {
+   "name": "\"Cứ đi khắp nơi, gặp thật nhiều người, mệt mỏi ngã lưng đánh 1 giấc, tỉnh dậy lại đi. Đừng để thanh xuân chết trên giảng đường hay màn hình máy tính\" - Một thanh niên chạy xe ôm cho hay",
+   "author": ""
+  },
+  {
+   "name": "Nếu cuộc sống bạn không nằm bên bờ vực, có thể bạn đang sống quá an toàn.",
+   "author": ""
+  },
+  {
+   "name": "Luôn làm điều đúng. Việc này sẽ làm hài lòng một số người và làm những người còn lại ngạc nhiên",
+   "author": ""
+  },
+  {
+   "name": "Khi nào bạn còn thở, thì khi đó vẫn còn cách để tháo gỡ khó khăn.",
+   "author": ""
+  },
+  {
+   "name": "Khi ai đó kể cho bạn nghe về những vấn đề họ đang mắc phải, đó không có nghĩa là họ đang phàn nàn, mà có nghĩa là họ tin bạn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không tự xây dựng ước mơ của mình. Người khác sẽ thuê bạn xây ước mơ của họ.",
+   "author": ""
+  },
+  {
+   "name": "Để thành công, thái độ cũng quan trọng ngang bằng khả năng.",
+   "author": ""
+  },
+  {
+   "name": "Mọi doanh nghiệp thành công đều cần thời gian, không có doanh nghiệp thành công nào mà bạn làm hôm nay, ngày mai gặt hái cả.",
+   "author": ""
+  },
+  {
+   "name": "Đừng so sánh mình với bất cứ ai trong thế giới này. Nếu bạn làm như vậy có nghĩa bạn đang sỉ nhục chính bản thân mình",
+   "author": ""
+  },
+  {
+   "name": "Đừng nói mà hãy làm\nĐừng huyên thuyên mà hãy hành động\nĐừng hứa mà hãy chứng minh",
+   "author": ""
+  },
+  {
+   "name": "Hãy cẩn thận với những người nói xấu người khác với bạn, vì họ cũng có thể nói xấu bạn với người khác.",
+   "author": ""
+  },
+  {
+   "name": "Ăn mừng thành công cũng tốt, nhưng quan trọng hơn là phải biết chú ý đến những bài học của sự thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Một cái đầu đầy sợ hãi sẽ không còn chỗ trống cho những ước mơ.",
+   "author": ""
+  },
+  {
+   "name": "Khi người ta nói \"Cái này\", bạn phải hỏi mình \"Tại sao không phải là cái kia?\". Bạn phải trở nên khác biệt.",
+   "author": ""
+  },
+  {
+   "name": "Không ai sống đủ lâu, để mình học mọi thứ mình cần phải học từ điểm đầu tiên. Để thành công chúng ta phải tích cực đi tìm những người đã phải trả giá để học những điều chúng ta cần nhằm đạt được mục tiêu của mình.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi khi đối mặt với thử thách, hãy tìm kiếm cho mình 1 lối đi chứ ko phải 1 lối thoát.",
+   "author": ""
+  },
+  {
+   "name": "Đừng hạ thấp giấc mơ chỉ để phù hợp với hoàn cảnh. Hãy củng cố niềm tin để làm được những điều tuyệt vời hơn.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi nghịch cảnh, thất bại hay đau khổ đều mang trong nó hạt giống của những lợi ích tương đương hoặc lớn hơn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu phiên bản đầu tiên của bạn không thành công, hãy đạt tên nó là phiên bản 1.0",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ phụ thuộc vào một nguồn thu nhập duy nhất. Hãy đầu tư để tạo ra nguồn thứ hai.",
+   "author": ""
+  },
+  {
+   "name": "Thắng được ước mơ là sự thành công. Khuất phục tham lam, hạnh phúc sẽ đến.",
+   "author": ""
+  },
+  {
+   "name": "Tao ngưỡng mộ quá khứ nhưng tôn thờ tương lai\nDù thành công là món tráng miệng mà có thể không bao giờ được đãi\nAi cũng phải chết để kết thúc một câu chuyện lại\nTao cũng phải chết để họ kể lại một huyền thoại\n-- Can't Stop Me --",
+   "author": ""
+  },
+  {
+   "name": "Người anh hùng vĩ đại nhất là người làm chủ được ước mơ của mình",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn đang ngủ thì thế giới thuộc về những người đang còn thức.",
+   "author": ""
+  },
+  {
+   "name": "Nhà lãnh đạo đúng nghĩa không phải là trở thành vĩ đại hay trở thành người hùng, mà là tạo ra người hùng, không phải là duy trì đám đông mà là kiến tạo đội ngũ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không yêu những việc mình làm, bạn sẽ không thể làm nó một cách thuyết phục và đam mê",
+   "author": ""
+  },
+  {
+   "name": "Khởi điểm càng thấp càng phải nỗ lực. Nếu xuất phát điểm của bạn không bằng người khác, cách duy nhất để bạn vượt qua họ là nỗ lực gấp trăm gấp nghìn lần họ.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay là người đọc sách, ngày mai sẽ là người lãnh đạo.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đam mê chở bạn đi, hãy để lý trí nắm dây cương.",
+   "author": ""
+  },
+  {
+   "name": "Khi ai đó đối xử với bạn như một lựa chọn, hãy giúp họ thu hẹp phương án bằng cách tự gạch bỏ chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Bạn phải thực hiện rất nhiều, rất nhiều những nỗ lực nhỏ nhoi mà không ai thấy hay tán thưởng trước khi bạn đạt được thành quả đáng giá.",
+   "author": ""
+  },
+  {
+   "name": "Những kỷ lục sẽ bị phá bởi những kỷ lục\nNhững đỉnh cao sẽ bị chinh phục bởi những đỉnh cao\nTôi hy vọng những kỷ lục ngày hôm nay sẽ được chính em phá nó trong tương lai.",
+   "author": ""
+  },
+  {
+   "name": "Đừng lo lắng khi thấy ai đó giỏi hơn mình. Chỉ cần tập trung vào việc \"Phá kỷ lục\" của chính mình mỗi ngày, tiếp tục đẩy bản thân mình về phía trước.",
+   "author": ""
+  },
+  {
+   "name": "Các bạn cần nhớ một điều rằng Warren Buffet, Steve Jobs... họ đều có phẩm chất tốt đó là không bao giờ kêu ca. Nếu kêu ca, bạn sẽ không bao giờ có cơ hội. Khi người khác than phiền, đó là cơ hội của các bạn.",
+   "author": ""
+  },
+  {
+   "name": "Bạn từ đâu tới không quan trọng. Tất cả những gì quan trọng là bạn đang đi đâu.",
+   "author": ""
+  },
+  {
+   "name": "Picasso từng là một hoạ sĩ vô danh, nghèo túng. Đến lúc trong túi chỉ còn 15 đồng bạc, ông quyết định thuê sinh viên dạo quanh hàng tranh và hỏi: \"Ở đây có bán tranh của Picasso không?\". Chưa đầy một tháng tên tuổi ông lan khắp Paris và ông trở nên nổi tiếng.",
+   "author": ""
+  },
+  {
+   "name": "Tao tin rằng những gì không thể giết chết mày sẽ làm mày khác biệt hơn.",
+   "author": ""
+  },
+  {
+   "name": "Ước mơ không có ngày hết hạn. Hãy hít thở sâu và cố gắng thêm lần nữa.",
+   "author": ""
+  },
+  {
+   "name": "Tuổi trẻ không phải dùng để chơi bời, mà dùng để thoát nghèo, thoát khổ.",
+   "author": ""
+  },
+  {
+   "name": "Hãy học cách sống vượt thành công của người khác.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không có nghĩa vụ phải hầu hạ cảm xúc của bất kỳ ai.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta sống nhờ vào những gì nhận được. Chúng ta làm nên cuộc đời mình bằng những gì chúng ta cho đi.",
+   "author": ""
+  },
+  {
+   "name": "Đừng đánh giá quá cao sức mạnh của mình trong tập thể, bởi vì khi bạn rời đi, bạn sẽ nhận ra rằng cho dù không còn bạn nữa, mặt trời vẫn cứ mọc như thường.",
+   "author": ""
+  },
+  {
+   "name": "Đã mang tiếng ở trong trời đất. Phải có danh gì với núi sông.",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn làm được việc lớn, trước hết hãy hạ cái tôi của mình xuống",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn muốn tìm một người thay đổi được cuộc đời bạn, hãy nhìn vào gương!",
+   "author": ""
+  },
+  {
+   "name": "Muốn cầu tiến hơn người, ra đời phải biết ngước mặt nhìn lên. Vì nhìn xuống ta thấy hơn người, nhưng nhìn lên ta chỉ là con số không vĩ đại.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn tin rằng những đường chỉ tay nói lên số phận của bạn thì bạn cũng đừng quên rằng, chúng cũng chỉ nằm trong lòng bàn tay bạn mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Ai đó điều khiển được niềm đam mê của mình thì họ là ông chủ.",
+   "author": ""
+  },
+  {
+   "name": "Trung thực khi nghèo khó\nGiản dị khi giàu có\nLịch sự khi có uy quyền\nIm lặng khi giận dữ",
+   "author": ""
+  },
+  {
+   "name": "Tại sao tôi rap, vì lúc đó không có lựa chọn khác\nNếu mà không rap, thì có lẽ bây giờ vẫn dọn rác\nVà những hành trình, cho ta thấy những ngày xanh biếc hơn\nNhững ngày tháng đó, nhắc ta nhớ mình phải luôn biết ơn\n-- Cảm ơn -- ft. Biên",
+   "author": ""
+  },
+  {
+   "name": "Im lặng là một câu trả lời hay nhất của sự phỉ bán",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể phải chiến đấu nhiều hơn một trận trước khi giành chiến thắng.",
+   "author": ""
+  },
+  {
+   "name": "Giá trị của đồng tiền nằm ở cách tiêu\nGiá trị con người nằm ở cách yêu và cách sống.",
+   "author": ""
+  },
+  {
+   "name": "Một ngày cười ba lần, cuộc sống già cỗi và khó khăn.\nMột ngày ba lần giận dữ, không già cũng thành già.\nNgười sống nhiều năm chính là người vui vẻ nhiều năm.",
+   "author": ""
+  },
+  {
+   "name": "Tìm thêm ưu điểm, quên đi khuyết điểm của người khác. Học hỏi điểm mạnh của người khác sẽ giúp bạn tiến bộ từng ngày; còn chỉ nhìn vào thiếu sót của người khác, bạn sẽ trở thành một kẻ hẹp hòi.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đã phấn đầu lên chức, sao không phấn đầu làm ông chủ?",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể bắt đầu một chương mới của cuộc đời nếu cứ đọc đi đọc lại chương cũ.",
+   "author": ""
+  },
+  {
+   "name": "Những đam mê của chúng ta nói lên chính bản thân ta.",
+   "author": ""
+  },
+  {
+   "name": "Đừng mong manh như bồ công anh trước gió\nHãy mạnh mẽ như xương rồng trước bão giông",
+   "author": ""
+  },
+  {
+   "name": "Những giấc mơ phát triển nếu bạn phát triển.",
+   "author": ""
+  },
+  {
+   "name": "Những tiềm năng của con người trong bước đường cùng luôn là những tiềm năng không thể tưởng tượng được, điều quan trọng là bạn có dám để bản thân mình ở vào bước đường cùng hay không?",
+   "author": ""
+  },
+  {
+   "name": "Đừng thách người khác bằng việc mà mình đã thất bại, vì có thể đó là hành động ngớ ngẩn nhất của bạn",
+   "author": ""
+  },
+  {
+   "name": "Vẽ ra viễn cảnh mà không hành động, chính là mơ giữa ban ngày.\nHành động nhưng không có tầm nhìn thì đó là ác mộng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn tỏa sáng vào ngày mai thì bạn phải lấp lánh ngay từ hôm nay.",
+   "author": ""
+  },
+  {
+   "name": "Sẽ thật buồn nếu một ngày bạn cho rằng mình chẳng có gì để phấn đấu và tiến bộ.",
+   "author": ""
+  },
+  {
+   "name": "Một cầu thủ bóng đá tốt, là một người tập luyện đến kiệt sức khi không có ai đang xem.",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ không biết mình mạnh mẽ thế nào, cho đến khi mạnh mẽ là sự lựa chọn duy nhất.",
+   "author": ""
+  },
+  {
+   "name": "Hãy học cách tha thứ cho kẻ thù của bạn. Không gì khiến chúng điên tiết hơn thế đâu.",
+   "author": ""
+  },
+  {
+   "name": "Làm người phải tự tin, nhưng không được tự tin đến mức tự phụ. Làm người nên khiêm tốn, nhưng không được khiêm tốn đến mức đánh mất lòng tự tin của mình.",
+   "author": ""
+  },
+  {
+   "name": "Người ta lớn bởi vì ta quỳ xuống.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bắt đầu thì có khả năng bạn sẽ nhận lấy thất bại, nhưng nếu không bắt đầu thì bạn đã thất bại rồi.",
+   "author": ""
+  },
+  {
+   "name": "Trở nên cá tính chứ đừng nên cá biệt.",
+   "author": ""
+  },
+  {
+   "name": "Muốn truyền được cảm hứng cho con cái, cần lưu ý nhiều điều lắm, nhưng tôi chỉ muốn nhấn mạnh điều này: Đừng chỉ dùng lời nói, hãy dùng hành vi.",
+   "author": ""
+  },
+  {
+   "name": "Hạ thấp người khác không nâng cao được giá trị của bạn\nDập tắt hy vọng của họ, chẳng bao giờ khiến bạn tỏa sáng hơn...",
+   "author": ""
+  },
+  {
+   "name": "Sống cuộc đời của mình theo mong muốn của người khác là lãng phí cuộc đời của bạn",
+   "author": ""
+  },
+  {
+   "name": "Hãy cứ theo đuổi giấc mơ của mình... bằng cách tắt báo thức và lăn ra ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không ai giúp bạn, đừng ngạc nhiên. Nếu có người giúp bạn, đấy mới là điều bất thường.",
+   "author": ""
+  },
+  {
+   "name": "Tôi tin chắc rằng, đến một nửa sự khác nhau giữa một doanh nhân thành đạt và không thành đạt chính là tính kiên trì.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không có cái gì đó để say mê theo đuổi, bạn sẽ không có năng lượng sống. Và nếu không có năng lượng sống, bạn sẽ chẳng có gì cả.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không thích điều gì đó, hãy thay đổi nó. Nếu bạn không thể thay đổi nó, hãy thay đổi cách suy nghĩ của bạn về nó.",
+   "author": ""
+  },
+  {
+   "name": "Thích thứ gì, hãy tự kiếm tiền mua bằng được!",
+   "author": ""
+  },
+  {
+   "name": "Không ngọn cây nào vươn cao tận thiên đường mà không cắm rễ sâu xuống tận địa ngục.",
+   "author": ""
+  },
+  {
+   "name": "Đừng để bản thân bạn mắc kẹt trong giấc mơ của người khác!",
+   "author": ""
+  },
+  {
+   "name": "Nếu giấc mơ của bạn không khiến bạn sợ hãi, rõ ràng giấc mơ đó chưa đủ lớn.",
+   "author": ""
+  },
+  {
+   "name": "Hoa lớn lên trong mùa xuân ấm áp\nNgười lớn lên trong bão táp phong ba",
+   "author": ""
+  },
+  {
+   "name": "Việc này có vẻ khó. Nếu không khó thì tất cả mọi người đã làm được rồi.",
+   "author": ""
+  },
+  {
+   "name": "Không nên tiết kiệm những khoản còn lại sau chi tiêu, mà hãy tiêu những khoản còn lại sau khi tiết kiệm.",
+   "author": ""
+  },
+  {
+   "name": "Trên con đường thành công không có dấu chân của kẻ lười biếng",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống của tôi và những thành tựu mà tôi đạt được ngày hôm nay là nhờ sự đóng góp rất nhiều người. Do đó, tôi phải sống và làm việc sao cho xứng đáng với những gì họ đã làm cho tôi.",
+   "author": ""
+  },
+  {
+   "name": "Đầu tư càng nhiều vào bản thân mình càng tốt, bạn là tài sản lớn nhất của chính mình cho đến thời điểm này.",
+   "author": ""
+  },
+  {
+   "name": "Có nhiều thứ tốt hơn rất nhiều ở phía trước so với những gì chúng ta bỏ lại phía sau.",
+   "author": ""
+  },
+  {
+   "name": "Bạn nghĩ mới chỉ tìm ra được đam mê là đã thành công rồi sao?",
+   "author": ""
+  },
+  {
+   "name": "Thành công bằng với tích luỹ cộng với để tâm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đặt A là một sự thành công trong cuộc sống, vậy thì A bằng X cộng với Y cộng với Z. Làm việc chính là X, vui chơi chính là Y, còn biết giữ mồm giữ miệng chính là Z.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không cần giàu ở điểm xuất phát nhưng phải có tầm nhìn",
+   "author": ""
+  },
+  {
+   "name": "Đam mê sẽ đưa bạn đến thành công, và thành công sẽ là câu trả lời cho mọi định kiến.",
+   "author": ""
+  },
+  {
+   "name": "Nếu cảm thấy bạn của trước kia rất huy hoàng, vậy là chứng tỏ bạn của hiện tại chưa đủ tốt.",
+   "author": ""
+  },
+  {
+   "name": "Thông minh là thiên phú, còn lương thiện là một sự lựa chọn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn hỏi tại sao tôi chơi bóng đá, tôi sẽ hỏi tại sao bạn thở.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn vẫn chưa tìm thấy niềm đam mê của mình, hãy tạo ra những điều mới, dẫn đầu các xu hướng mới, và hình thành thêm nhiều sự kết hợp mới. Và đừng bao giờ ngừng tìm kiếm. Hãy cứ khát khao, hãy cứ dại khờ",
+   "author": ""
+  },
+  {
+   "name": "Những người thành công luôn luôn tìm kiếm cơ hội để giúp đỡ người khác. Những người không thành công luôn luôn hỏi, “Tôi được lợi gì?”",
+   "author": ""
+  },
+  {
+   "name": "Phương hướng không đúng thì càng cố gắng càng gian nan.",
+   "author": ""
+  },
+  {
+   "name": "Tốc độ thành công của bạn nhất định phải vượt qua tốc độ già đi của bố mẹ.",
+   "author": ""
+  },
+  {
+   "name": "Vượt qua người khác một chút, người ta sẽ ghen tị với bạn. Vượt qua người khác một bước tiến lớn, người ta sẽ ngưỡng mộ bạn.",
+   "author": ""
+  },
+  {
+   "name": "Ham muốn mà ta không đủ tiền để biến thành hiện thực thì được gọi là ước mơ.",
+   "author": ""
+  },
+  {
+   "name": "Để thành công trong cuộc sống, bạn cần hai thứ: sự ngu dốt và lòng tự tin",
+   "author": ""
+  },
+  {
+   "name": "Không phải những gì xảy đến với bạn mà cách bạn phản ứng lại chúng sẽ quyết định bạn cảm thấy thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Chúng tôi đi tới nơi chưa ai tới trước đó. Không có hình mẫu nào để noi theo, không có gì để sao chép. Điều đó khiến mọi chuyện thật lý thú",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ thành công thôi, bởi vì hầu hết mọi người đều rất lười",
+   "author": ""
+  },
+  {
+   "name": "Tài năng thường được tỏa sáng trong sự im lặng\nKém cõi thì thường tự lan tỏa bằng âm thanh",
+   "author": ""
+  },
+  {
+   "name": "Rất nhiều người không dám nói lên những gì họ muốn. Đó là lý do tại sao họ không có được chúng.",
+   "author": ""
+  },
+  {
+   "name": "Thành công là một người thầy tồi tệ. Nó quyến rũ những người thông minh vào ý nghĩ rằng họ sẽ chẳng bao giờ thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Hãy cứ đam mê, hãy cứ dại khờ.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta sinh ra là để sống, chứ không phải để chuẩn bị sống.",
+   "author": ""
+  },
+  {
+   "name": "Ranh giới giữa thành công và thất bại nhỏ tới mức chúng ta hiếm khi biết được mình đã vượt qua nó khi nào: nhỏ tới mức chúng ta thường đứng trên nó mà không ý thức được.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ khốn cùng nhất thế giới này không phải là người không có một xu dính tùi mà là kẻ không có nổi 1 ước mơ",
+   "author": ""
+  },
+  {
+   "name": "Chúng tôi có thể nỗ lực để mất tiền, thậm chí rất nhiều tiền, nhưng chúng tôi không thể để mất danh tiếng, thậm chí chỉ một chút danh tiếng. Cần 20 năm để xây dựng danh tiếng nhưng chỉ cần 5 phút là có thể hủy hoại nó.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn mua những thứ bạn không cần thì sớm muộn bạn cũng phải bán những thứ mình cần",
+   "author": ""
+  },
+  {
+   "name": "Khi ai nói với bạn điều gì đó khiến bạn tức tối bạn đừng chửi hoặc đánh họ vì họ đang dạy bạn cách sống",
+   "author": ""
+  },
+  {
+   "name": "Hãy học khi người khác ngủ\nLao động khi người khác lười nhác\nChuẩn bị khi người khác chơi bời\nVà bạn sẽ có giấc mơ... khi người khác chỉ ao ước!",
+   "author": ""
+  },
+  {
+   "name": "Tập cách im lặng khi đang nổi giận... để không phải ân hận vì những câu nói và hành động về sau.",
+   "author": ""
+  },
+  {
+   "name": "Cách duy nhất để làm nên những công việc vĩ đại đó là yêu thích những thứ mình làm. Nếu bạn chưa tìm thấy điều đó, thì hãy tiếp tục tìm, đừng dừng lại.",
+   "author": ""
+  },
+  {
+   "name": "Cách duy nhất để kết thúc đó là bắt đầu.",
+   "author": ""
+  },
+  {
+   "name": "Thứ đắt giá nhất trên thế gian này là lòng tin. Nó có thể mất hằng năm để có được, nhưng nó cũng sẽ bị đánh mất chỉ trong vài giây.",
+   "author": ""
+  },
+  {
+   "name": "Đánh giá 1 con người phải đánh giá dựa trên những gì người ta biết, chứ không phải những gì người ta không biết.",
+   "author": ""
+  },
+  {
+   "name": "Kiên nhẫn là yếu tố quan trọng của thành công.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn sống một cuộc đời hạnh phúc, hãy gắn nó với một mục tiêu, đừng với con người và đồ vật.",
+   "author": ""
+  },
+  {
+   "name": "Suy nghĩ những điều bạn sắp nói nhưng đừng nói hết những gì bạn nghĩ.",
+   "author": ""
+  },
+  {
+   "name": "Người ta chẳng bao giờ phát minh được đèn điện nếu chỉ luôn cải thiện đèn dầu.",
+   "author": ""
+  },
+  {
+   "name": "\"Chúng ta sẽ trở thành những gì mà chúng ta nghĩ.\"",
+   "author": ""
+  },
+  {
+   "name": "Khó khăn không phải để quật ngã ta, nhưng là để ta quật ngã chúng.",
+   "author": ""
+  },
+  {
+   "name": "Vào cuối ngày, nếu nhìn lại và cảm thấy cực kỳ hài lòng, thì đó là ngày bạn có nhiều việc để làm và đã hoàn thành hết, không phải là ngày bạn cứ thơ thẩn và chẳng làm gì cả.",
+   "author": ""
+  },
+  {
+   "name": "Dũng khí cách nỗi lo sợ một bước chân.",
+   "author": ""
+  },
+  {
+   "name": "Con tàu rất an toàn khi neo đậu ở cảng nhưng người ta đóng tàu không phải vì mục đích đó.",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn có sự nghiệp kinh doanh tốt, bạn cần một nhóm tốt. Hãy tìm người phù hợp chứ đừng tim người giỏi nhất.",
+   "author": ""
+  },
+  {
+   "name": "Đừng quan tâm đến những người nói xấu sau lưng bạn... vì vị trí của họ là ở đó... mãi mãi ở sau lưng bạn thôi!",
+   "author": ""
+  },
+  {
+   "name": "Thất bại đánh gục những kẻ thua cuộc, nhưng gợi lên niềm cảm hứng cho những người chiến thắng",
+   "author": ""
+  },
+  {
+   "name": "Đừng chọn sống an nhàn vào những năm tháng còn có thể chịu khổ được.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể thành công nếu bạn không sẵn sàng mạo hiểm.",
+   "author": ""
+  },
+  {
+   "name": "Đo lường tiêu chuẩn thành công của 1 người, chính là trong quá trình bán thời gian biểu tiêu chuẩn, bạn tao ra bao nhiêu giá trị.",
+   "author": ""
+  },
+  {
+   "name": "Khi cả thế giới dường như quay lưng lại với bạn,\nBạn hãy nhớ rằng máy bay cất cánh được là nhờ NGƯỢC GIÓ.",
+   "author": ""
+  },
+  {
+   "name": "Đời người chỉ có 900 tháng thôi.",
+   "author": ""
+  },
+  {
+   "name": "Viết bằng bút chì để có cơ hội sửa sai. Viết bằng bút bi sợ sai nên không dám viết.\nVì dám làm nên mới có cơ hội để sai. Khi không dám làm thì cơ hội để sai cũng không có.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ quá đam mê việc toả sáng. Vì không có ánh đèn nào là sáng mãi.",
+   "author": ""
+  },
+  {
+   "name": "Khát vọng lớn nào chẳng gặp khó khăn về tiền bạc.",
+   "author": ""
+  },
+  {
+   "name": "Việc tuy nhỏ không làm không xong. Đường tuy ngắn không đi không tới",
+   "author": ""
+  },
+  {
+   "name": "Không công bằng với bản thân là một loại công bằng. Kẻ mạnh luôn đề cao sự lựa chọn tự nhiên, người thích hợp mới tồn tại, chỉ có kẻ yếu mới ngày ngày kêu gào đòi công bằng.",
+   "author": ""
+  },
+  {
+   "name": "Xây dựng thành công từ thất bại. Sự chán nản và thất bại là hai bước đệm chắc chắn nhất dẫn tới thành công.",
+   "author": ""
+  },
+  {
+   "name": "Không có gì nghèo bằng không có tài\nKhông có gì hèn bằng không có chí.",
+   "author": ""
+  },
+  {
+   "name": "Tài năng được nuôi dưỡng trong cô đơn, còn chí khí được tạo bởi những cơn sóng dữ của giông bão cuộc đời.",
+   "author": ""
+  },
+  {
+   "name": "Làm điều bạn thích là tự do. Thích điều bạn làm là hạnh phúc.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ nói ra những lời nói khó nghe khi tâm trạng không tốt. Bạn có nhiều cơ hội để thay đổi tâm trạng, nhưng bạn sẽ không bao giờ có cơ hội sửa đổi những gì đã nói ra...",
+   "author": ""
+  },
+  {
+   "name": "Nếu có một ai đó làm chậm bước chân của mình, hãy nhẹ nhàng bước sang hướng khác.",
+   "author": ""
+  },
+  {
+   "name": "Thành công không phụ thuộc vào chủng tộc hay thu nhập của bố mẹ bạn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn xây dựng đội quân 100 con sư tử được điều binh khiển tướng bởi một con chó, thì trong bất cứ cuộc chiến nào, những con sư tử sẽ chết như một con chó. Nhưng nếu bạn xây dựng đội quân 100 con chó và để sư tử dẫn đầu, tất cả những con chó sẽ chiến đấu như một con sư tử.",
+   "author": ""
+  },
+  {
+   "name": "Tham vọng càng ngày càng lớn. Đồng nghĩa với nổ lực không bao giờ ngừng nghĩ.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta thường không suy nghĩ và sẽ chết vì điều đó. Đa phần con người ta làm thế thật",
+   "author": ""
+  }
+ ]
+}

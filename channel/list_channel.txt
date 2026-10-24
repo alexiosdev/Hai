@@ -1,82 +1,170 @@
 {
-  "result": [
-    {
-      "idChannel": "haitrungquoc",
-      "name": "Hài Trung Quốc",
-      "image": "img/haitrungquoc.png",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "haihanquoc",
-      "name": "Hài Hàn Quốc",
-      "image": "img/haihanquoc.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "1977vlog",
-      "name": "1977 Vlog",
-      "image": "img/1977vlog.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "faptv",
-      "name": "Fap TV",
-      "image": "img/faptv.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "trangtv",
-      "name": "Trắng TV",
-      "image": "img/trangtv.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "loaphuong",
-      "name": "Loa Phường",
-      "image": "img/loaphuong.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "svmtv",
-      "name": "SVM TV",
-      "image": "img/svmtv.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "xomhom",
-      "name": "Xóm hóm",
-      "image": "img/xomhom.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "trungruoi",
-      "name": "Trung Ruồi Official",
-      "image": "img/trungruoi.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "kemxoitv",
-      "name": "Kem xôi TV",
-      "image": "img/kemxoitv.jpg",
-      "hasSubCategory": true
-    },
-    {
-      "idChannel": "5sonline",
-      "name": "5s Online",
-      "image": "img/5sonline.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "hoailinh",
-      "name": "Hài Hoài Linh",
-      "image": "img/hoailinh.jpg",
-      "hasSubCategory": false
-    },
-    {
-      "idChannel": "binhminhfilm",
-      "name": "Phim Hài - Bình Minh Film",
-      "image": "img/binhminhfilm.jpg",
-      "hasSubCategory": true
-    }
-  ]
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idChannel": "v2-faptv",
+   "name": "FAP TV - Cơm Nguội",
+   "image": "https://yt3.googleusercontent.com/OHF3nW8YRX0aMqCbqDDj3Fx6hslfdO-z8l8SaE2IO68o2LN6vAsri2emDt9pypzEaJxE2vBJ=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UC0jDoh3tVXCaqJ6oTve8ebA"
+  },
+  {
+   "idChannel": "v2-haianhem",
+   "name": "Hai Anh Em - Gãy Media",
+   "image": "https://yt3.googleusercontent.com/RDldl6Z2IumzncNJOriKlp9LL-Lz6fDl0kQQgftZ9KAiPrJMeP8z0aG7vFI0SeTEI-fkr_pq=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCTp_WPPxWCjdlXK9kqzxm0A"
+  },
+  {
+   "idChannel": "v2-dauphong",
+   "name": "Đậu Phộng TV",
+   "image": "https://yt3.googleusercontent.com/3BTFJAPkQJ-82CI8Yc03S-hv_Oo6pX_gy2ykHNBlr-xLbe5-_dzegFwPBW__Q85nnCAjAgAr0A=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UC6Q8f2fK10PLMo4kkiBSCXA"
+  },
+  {
+   "idChannel": "v2-banhbaobu",
+   "name": "Anh Bike - Bánh Bao Bự",
+   "image": "https://yt3.googleusercontent.com/j1P3XmxBFKUT0edotgQxeevNast1vY3Op6-m3ynmV8e6e_GCQYveJ5n7NXUoMRL7xTtNmA6c=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCQGd-eIAxQV7zMvTT4UmjZA"
+  },
+  {
+   "idChannel": "v2-trungruoi",
+   "name": "Trung Ruồi - Bơ Già Dừa Non",
+   "image": "https://yt3.googleusercontent.com/N_BkXhsybRQqLfl8ygSdtxLWve-HdiZ5Hxat2S2j7xn23mYYbWMsGzLgMNM39hvTQrZmfKinsA=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCLMLyjR1_4mVm781mDHVp2Q"
+  },
+  {
+   "idChannel": "v2-anhbaphai",
+   "name": "Anh Ba Phải - Hài miền Tây",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_msqNTEUbCEkArajdUsO_kjR8rZErazt-YQ9XurOvNm6kc=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCpI7A5Zz-FdH_8TUir2DQ9g"
+  },
+  {
+   "idChannel": "v2-ghienmigo",
+   "name": "Ghiền Mì Gõ - Phim ngắn",
+   "image": "https://yt3.googleusercontent.com/AXqFXnPY2vU5-WyS3mBYx_I1PCdq2Qwddk81S3cLXv2_GlrU4jDbWChvlWsJyNsD02jUbKJ5pQ=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCq6ApdQI0roaprMAY1gZTgw"
+  },
+  {
+   "idChannel": "v2-saigonteu",
+   "name": "Hài độc thoại - Saigon Tếu",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ngd0Vku688LuW2uBNLfMsdGH9pJugYMINIeo90TV_G0ck=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCqaQzGvnFzaEPFx-f326pog"
+  },
+  {
+   "idChannel": "v2-huynhlap",
+   "name": "Huỳnh Lập - Cậu Út Cậu Con Cúc",
+   "image": "https://yt3.googleusercontent.com/A-99VWPquGwxx3853zJq_rvx3yNp8J6xs3BrPx0GuwCTik7_bxqWDjuzYn3k3VO5lnj1fD_V--U=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UC8vQFLQ6RUSh8_G0Gv8lsGg"
+  },
+  {
+   "idChannel": "v2-thutrang",
+   "name": "Thu Trang - Tiến Luật",
+   "image": "https://yt3.googleusercontent.com/98EWitRdmsLf5XWiD73o5i-kcQ5bZPdMpcUFkW5SQJ0D9-jBBiXZu_-2N0Xks0Tmu1zWLL8Y7MY=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCsKKnea8eV-SG8P7b2DM2OQ"
+  },
+  {
+   "idChannel": "v2-binhminh",
+   "name": "Phim hài Bình Trọng - Chiến Thắng",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lpQYMgBE8OnppOddSdFsbFBI1YTGCVbIMjU5myjOXXVxQ=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCTZfshAstC5XukpE3OY62Jg"
+  },
+  {
+   "idChannel": "v2-duonglam",
+   "name": "Dương Lâm Tấu Hề",
+   "image": "https://yt3.googleusercontent.com/Pi_clVAlFtjWmXWbH4xQVKZct98KHsDnFt6PJj6h2KqlYMvMAGmEpVNiemTEYO34i4auJlEI=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UCbEpGD5poUnIFNzLERpEpgA"
+  },
+  {
+   "idChannel": "v2-1977vlog",
+   "name": "1977 Vlog",
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nWjbXn0nbTjkWkfNK9BpcK35drmxf6OVdUa4z811wpKg=s240-c-k-c0x00ffffff-no-rj",
+   "hasSubCategory": false,
+   "group": "Mới cập nhật",
+   "youtubeChannelId": "UC1R1JWCXHzZbSi2iXWYWwKg"
+  },
+  {
+   "idChannel": "k-comnguoi",
+   "name": "Kinh điển: FAP TV Cơm Nguội",
+   "image": "img/k-comnguoi.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-hocduong",
+   "name": "Web drama học đường",
+   "image": "img/k-hocduong.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-mitom",
+   "name": "Kinh điển: Mì Tôm - SVM TV",
+   "image": "img/k-mitom.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-lophocbadao",
+   "name": "Kinh điển: Lớp Học Bá Đạo",
+   "image": "img/k-lophocbadao.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-kemxoi",
+   "name": "Kinh điển: Kem Xôi TV",
+   "image": "img/k-kemxoi.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-xomhom",
+   "name": "Kinh điển: Xóm Hóm",
+   "image": "img/k-xomhom.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-haitet",
+   "name": "Hài Tết kinh điển",
+   "image": "img/k-haitet.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  },
+  {
+   "idChannel": "k-5sonline",
+   "name": "Kinh điển: 5S Online",
+   "image": "img/k-5sonline.jpg",
+   "hasSubCategory": false,
+   "group": "Kinh điển"
+  }
+ ]
 }

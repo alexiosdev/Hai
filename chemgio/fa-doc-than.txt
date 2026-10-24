@@ -1,0 +1,814 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Có một chàng trai yêu đơn phương một cô gái nhưng không dám nói ra. Một ngày kia, lấy hết can đảm, chàng soạn một tin nhắn tỏ tình và nhấn send lúc 1h sáng. Tin nhắn trả lời đến ngay sau đó, nhưng chàng trai quyết định để ngày hôm sau sẽ đọc. Sáng hôm sau, chàng trai mở tin nhắn lên và... shock. \"Tài khoản của bạn không đủ để gửi tin nhắn, xin vui lòng nạp thêm!\"",
+   "author": ""
+  },
+  {
+   "name": "Ngay khi tìm được vợ tôi. Điều đầu tiên tôi sẽ làm là trao cho cô ấy huy chương môn trốn tìm.",
+   "author": ""
+  },
+  {
+   "name": "Độc thân không có nghĩa là tao không tốt. Mà chẳng qua là mày chưa đủ tốt để mà có được tao!",
+   "author": ""
+  },
+  {
+   "name": "Người yêu ơi...\nNgười đã chết hay đang lết nơi nào?\nVẫn thanh cao hay đã lao xuống dốc?\nVẫn còn tóc hay đã cạo trọc đầu?\nĐang ở đâu mà tìm hoài chẳng thấy...",
+   "author": ""
+  },
+  {
+   "name": "Có 1 cô gái sẵn sàng chết vì tôi, bạn có biết vì sao không,Vì cô ấy thà chết còn hơn phải yêu tôi...",
+   "author": ""
+  },
+  {
+   "name": "Vô chùa lạy Phật cầu chồng\nÔng Phật ổng nói \"đờn ông hết rồi\"",
+   "author": ""
+  },
+  {
+   "name": "Tội nghiệp người yêu tao. Chắc là nó bị mù đường nên đến bây giờ vẫn chưa tìm thấy tao.",
+   "author": ""
+  },
+  {
+   "name": "Bắc thang lên hỏi ông trời\nBao giờ mới có 1 người để yêu\nNhếch môi ông nói một điều\nVào giữa tháng 6, một chiều tuyết rơi",
+   "author": ""
+  },
+  {
+   "name": "Cá tháng tư năm đó, nữ thần lớp trên tặng tôi một chiếc bánh Oreo, tôi không nói câu nào liền cắn một miếng, mới phát hiện bên trong toàn kem đánh răng. Cô ấy cười nói: Đó là kem đánh răng mà, sao cậu còn nuốt xuống thế? Tôi nhìn cô ấy đáp: Bởi vì là do cậu tặng, lúc đó tà dương xuyên qua cửa sổ chiếu lên khuôn mặt cô ấy, cô ấy đỏ mặt rồi... là do tôi vừa tặng lại cho cô ta 1 tát đó.",
+   "author": ""
+  },
+  {
+   "name": "Chúa tạo ra tình yêu, nhưng con người lại tạo ra friend zone, bro zone, sister zone,...",
+   "author": ""
+  },
+  {
+   "name": "Đừng có than phiền là 7 tỉ người sao mãi chưa tìm được 1 nữa của mình. Đi thi trắc nghiệm có 4 đáp án thôi mà còn chọn không đúng nữa thì nói gì đến gấu...",
+   "author": ""
+  },
+  {
+   "name": "Tôi có 1 siêu năng lực cực kỳ đặc biệt, hễ tôi thích ai là người đó chẳng thích tôi.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người cho mình hỏi: Khi đến UBND phường đăng ký kết hôn... thì cô dâu mình đến dắt đi, hay đến đó họ phát nhỉ.",
+   "author": ""
+  },
+  {
+   "name": "Mình là mình cũng không thích F.A đâu nhưng F.A nó lại thích mình =))",
+   "author": ""
+  },
+  {
+   "name": "Vừa nãy đang đạp xe đi học về, có một em xinh tươi tiến tới: “Em có thể theo đuổi anh không?” Nghe xong cảm thấy tức vô cùng, đuổi theo anh? Anh đây đua xe chưa bao giờ bị thua nhá! Sau đó dùng tốc độ ánh sáng đạp đi mất.",
+   "author": ""
+  },
+  {
+   "name": "Điện thoại báo \"Pin yếu\", tim báo thiếu \"Yêu thương\"",
+   "author": ""
+  },
+  {
+   "name": "Yêu ai cũng zậy, yêu giùm mình, mình cảm ơn :v",
+   "author": ""
+  },
+  {
+   "name": "Mấy ngày trước có một em trên mạng hẹn đi khách sạn, nghe xong cảm thấy tức vô cùng, tưởng anh ngu chắc? Có nhà không ở đi ở khách sạn? Muốn lừa tiền anh phỏng? Cưng còn non lắm! Sau đó cho em vào blacklist.",
+   "author": ""
+  },
+  {
+   "name": "- Ê, con nhỏ tao đang yêu đơn phương, tự nhiên kêu tao cưới nó đi. Tao phải làm gì bây giờ?\n- Mày phải đi tìm cha của đứa bé.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi buồn nhặt lá vàng rơi\nXếp thành 4 chữ \"Đợi chờ người yêu\"\nChờ hoài chẳng thấy người đâu\nTủi thân xếp lại \"Chờ lâu tao về!\"",
+   "author": ""
+  },
+  {
+   "name": "Người ta mơ về ngôi nhà và những đứa trẻ\nCòn tôi mơ về tấm thẻ và những chuyến đi.",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói năm 2020 hơn 4 triệu đàn ông sẽ ế vợ. Mình chỉ việc chờ thêm 1 năm nữa thôi là đăng tin tuyển chồng.",
+   "author": ""
+  },
+  {
+   "name": "Facebook = FA cệ bố ok!",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống thật lắm xô bồ\nXô qua xô lại rồi bồ tao đâu?",
+   "author": ""
+  },
+  {
+   "name": "Có những ngày... thở thôi cũng thấy mệt mỏi\nCó những ngày... chỉ ước có một bờ vai để dựa vào",
+   "author": ""
+  },
+  {
+   "name": "Thêm một ngày thả nỗi nhớ đi hoang\nTa lang thang trên vỉa hè kí ức\nVà bất chợt ta nhìn lại cảnh thật\nĐến khi nào mới hết kiếp fa",
+   "author": ""
+  },
+  {
+   "name": "Ế khỏe ế đẹp ế văn minh\nAi chê anh ế anh khinh cả phường\nẾ cao ế quý ế dễ thương\nAi chê anh ế anh tương vớ mồm.",
+   "author": ""
+  },
+  {
+   "name": "Anh biết, anh có đưa tay ra thì em cũng sẽ không đi theo anh. Vậy nên anh đưa chân, ra khiến em vấp, quả nhiên là em đứng lên rồi rượt anh chạy tóe khói.",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương là một hình thức rất hay, ta có thể yêu bất cứ ai, bất cứ lúc nào và chia tay một cách không gây tiếng động",
+   "author": ""
+  },
+  {
+   "name": "Nếu được chọn giữa quả dứa và crush thì tao sẽ chọn quả dứa, vì quả dứa có mắt.",
+   "author": ""
+  },
+  {
+   "name": "Thả rơi một mảnh tình con\nChờ anh đến nhặt mỏi mòn thanh xuân",
+   "author": ""
+  },
+  {
+   "name": "Hà Nội thì nắng, Sài Gòn thì mưa\nCác bạn có bồ, còn mình thì chưa.",
+   "author": ""
+  },
+  {
+   "name": "Tuy bạn độc thân nhưng cũng béo bằng hai người rồi.",
+   "author": ""
+  },
+  {
+   "name": "- Thật buồn cười: Kẻ độc thân lại đi tư vấn tình cảm cho người khác\n- HLV thì không ra sân.",
+   "author": ""
+  },
+  {
+   "name": "Quá tốt nên không ai hốt.",
+   "author": ""
+  },
+  {
+   "name": "Trong lòng bỗng thấy thờ ơ\nCho nên câu chữ ngu ngơ chẳng vần\nTình yêu cứ mãi phân vân\nTrái tim e ngại trao nhầm yêu thương.",
+   "author": ""
+  },
+  {
+   "name": "Mặc dù đi làm vất vả\nNhưng em chả cần gả cho ai",
+   "author": ""
+  },
+  {
+   "name": "Tết đến nhà nhà tiệc chung vui\nCòn tui một mình giữa đường vắng\nTết đến trẻ con tiền đầy ắp\nCòn tui tay trắng vẫn trắng tay\nTết về nhà nhà coi bắn pháo\nCòn tui phải dính cái ti vi\nTết đến bè bạn vui chơi đùa\nCòn tui vẫn phải ở 1 mình\nTết đến trẻ con cười rúc rích\nCòn tui buồn xo cả ngày dài\nTết đến quê hương đầy no ấm\nCòn tui lạnh giá không ai care\nTết đến mâm cỗ tiệc thơm ngon\nCòn tui lặng lẽ nuốt en zim\nTết đến Hoa tươi đầy sức sống\nCòn tui buồn bã vẫn chẳng nguôi\nTết đến bài bạc vui khỏi nói\nCòn tui 1 mình không chơi đc\nPhúc Lộc Tài Thọ ở mọi nơi\nTết đến bồ bịch vợ chồng vui\nCòn tui số dính với việc ế\nỞ đây thì chỉ có 1 chữ BUỒN\nChung quy người ta thì vui tết\nRiêng tui vẫn buồn vậy tại sao?\nDo số tui xui hay tui Ế\nPhải đành chịu vậy chứ biết sao...\n-Thơ tự chế-",
+   "author": ""
+  },
+  {
+   "name": "Thương thay thân phận FA\nChưa có bạn gái vẫn là thiếu nhi",
+   "author": ""
+  },
+  {
+   "name": "Mấy đứa ế... thường tỏ ra có kinh nghiệm trong tình trường :v",
+   "author": ""
+  },
+  {
+   "name": "Người ta dính phốt ngoại tình\nTôi đây dính phốt một mình cả năm",
+   "author": ""
+  },
+  {
+   "name": "Từ giờ tao sẽ sưu tầm thiệp mỗi lần được mời đám cưới. Sau này khi chồng xuất hiện, tao sẽ ném vào mặt nó và nói: \"Chỉ vì đợi anh mà tôi bị sỉ nhục chừng này lần anh biết không?\"",
+   "author": ""
+  },
+  {
+   "name": "Hoa hồng nào chẳng có gai\nNhìn tao vậy chứ làm gì có ai",
+   "author": ""
+  },
+  {
+   "name": "Ế là vì chúng ta biết kiềm chế, không chạy theo xu thế. Chỉ cưới khi ổn định kinh tế, lúc đó tha hồ đẻ con mà bế.",
+   "author": ""
+  },
+  {
+   "name": "Người ta ra phố có đôi.\nCớ sao tôi lại lẻ loi một mình.\nHỡi ai ra phố một mình.\nCho tôi đi với để thành một đôi",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn có người yêu thì đừng tin vào chuyện duyên số... mà hãy tích cực xin số (điện thoại)!",
+   "author": ""
+  },
+  {
+   "name": "Không có người yêu thật bình yên\nChẳng cần mua sắm đỡ tốn tiền\nRa đường khỏi lo phải ăn diện\nNằm nhà ăn ngủ sướng như tiên",
+   "author": ""
+  },
+  {
+   "name": "Lý do tôi không cho người yêu pass Facebook:\n1. Tôi khẩu nghiệp quá nhiều và nói xấu quá nhiều, tôi ko muốn người yêu tôi biết tôi là con người ngoa ngoắt thị phi.\n2. Tôi không có người yêu",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ đua đòi bồ bịch khi mà không ai yêu bạn cả!",
+   "author": ""
+  },
+  {
+   "name": "Tạm biệt Trái đất xô bồ\nEm lên Sao hóa tìm bồ em đây.",
+   "author": ""
+  },
+  {
+   "name": "Quyết không yêu để dành tiền ăn học\nSống cô đơn cho con gái ống chề",
+   "author": ""
+  },
+  {
+   "name": "FA không phải Forever Alone mà là Fan Anime nhưng đa số Fan Anime đều Forever Alone :(",
+   "author": ""
+  },
+  {
+   "name": "Ế là xu thế của chế. Ô kê!",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc lớn nhất là người mình yêu bị bồ đá :))",
+   "author": ""
+  },
+  {
+   "name": "Mỗi khi tôi thích một người. Tôi lấy gương ra, nhìn mặt mình trong gương, kiểm tra số tiền trong ví và đọc những mẩu truyện đổ vỏ, cắm sừng trên voz. Thế là tỉnh.",
+   "author": ""
+  },
+  {
+   "name": "Độc thân là một loại siêu năng lực mà tôi đã luyện đến mức thượng thừa.",
+   "author": ""
+  },
+  {
+   "name": "Các anh các chị 15, 16 tuổi mà than ế... Thì người 23, 24 tuổi chúng tôi thành người già neo đơn à!",
+   "author": ""
+  },
+  {
+   "name": "Phải chăng kiếp trước đa tình\nKiếp này chẳng có mảnh tình vắt vai",
+   "author": ""
+  },
+  {
+   "name": "Sẽ có lúc người bạn thầm yêu đáp lại tình yêu của bạn, khoảnh khắc đó được gọi là hoang tưởng.",
+   "author": ""
+  },
+  {
+   "name": "Anh già thì kệ anh già\nAnh chưa có vợ vẫn là thanh niên.",
+   "author": ""
+  },
+  {
+   "name": "Cháu lái xe cũng như yêu đương vậy, nhất cự ly nhì tốc độ. Cháu yêu chậm quá bây giờ đã có người yêu đâu. Ế mốc mồm ra đây này.",
+   "author": ""
+  },
+  {
+   "name": "- Kể tên mốt số thứ mà Bill Gates ko thể mua được\n- Đó là bạn gái tao. Vì nó ko tồn tại.",
+   "author": ""
+  },
+  {
+   "name": "Bạn chắc chắn là người cô đơn nếu có những biểu hiện sau: Nghiện facebook, thường xuyên nghe nhạc, thức khuya, hay nghĩ linh tinh, ngày vui cười, đêm buồn tủi.",
+   "author": ""
+  },
+  {
+   "name": "Em rất muốn được nhìn thấy anh say một lần\nĐể xem lúc đấy anh sẽ gọi tên ai :(",
+   "author": ""
+  },
+  {
+   "name": "Bâng khuâng lạc giữa chiều tà\nBao giờ mình mới có bồ đây ta",
+   "author": ""
+  },
+  {
+   "name": "Là F.A tôi luôn tự hào với 4 cô bồ: Cô quạnh, Cô lập, Cộ độc và đặc biệt là Cô đơn.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ đơn phương yêu người vô tình\nKẻ lụy tình lại thương người vô tâm.",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương... Yêu thầm\nĐể rồi nghĩ lại... Mình đã nhầm đối tượng để yêu",
+   "author": ""
+  },
+  {
+   "name": "20 năm thất bại đấu trường Valentine\nNhưng bất bại ở giải đấu \"FA\" cúp",
+   "author": ""
+  },
+  {
+   "name": "Một cộng một bằng hai, mình cộng với ai để thành một cặp?",
+   "author": ""
+  },
+  {
+   "name": "Đậu hủ sốt với cà chua\nMình cute thế ai cua không nào :(((",
+   "author": ""
+  },
+  {
+   "name": "Nói ra thì lại bảo điêu\nBây giờ em mới tập yêu đây này...",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc muốn yêu nhưng kiêu không thèm nói",
+   "author": ""
+  },
+  {
+   "name": "Ngày kết hôn tôi đã chọn xong rồi, giờ còn thiếu mỗi chú rễ chưa chọn xong thôi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi vẽ hoa hồng đỏ\nAnh lại vẽ xương rồng\nTôi hết lòng bày tỏ\nAnh lắc đầu bảo \"không\"",
+   "author": ""
+  },
+  {
+   "name": "Hồi nhỏ nghĩ điện thoại là để nhắn tin, gọi điện! lớn lên mới biết điện thoại chỉ để xem giờ.",
+   "author": ""
+  },
+  {
+   "name": "Em đây chẳng thích ngôn tình\nEm đây chỉ thích một mình thế thôi",
+   "author": ""
+  },
+  {
+   "name": "Girl: Alo, anh à? Trung thu này em ở nhà 1 mình à.\nBoy: Bây giờ an ninh tốt lắm, nếu sợ thì em chốt cửa lại là ok chứ gì.\nGirl:...\nBoy: Con gái đúng thiệt là nhát.",
+   "author": ""
+  },
+  {
+   "name": "Tội nghiệp bọn có gấu! Đang phải lo xoay tiền để dắt vợ thằng khác đi chơi :((",
+   "author": ""
+  },
+  {
+   "name": "Trung thu là Tết thiếu nhi\nMình là người lớn đi chơi làm gì :((",
+   "author": ""
+  },
+  {
+   "name": "Tao và crush giống như phim hành động dài tập! Hấp dẫn và lôi cuốn tới từng dòng chữ. Đó là cảm nhận của tao trước khi bị block. Tập cuối rồi!",
+   "author": ""
+  },
+  {
+   "name": "Mất tiền cũng không đau bằng. Nghe tin đứa bạn thân Ế chung với mình lâu năm nay nói đã có người yêu.",
+   "author": ""
+  },
+  {
+   "name": "Yêu một người không yêu mình... cũng như ôm cây xương rồng vậy..\nCàng ôm chặt... nó sẽ làm cho bản thân mình càng đau...",
+   "author": ""
+  },
+  {
+   "name": "Chỉ ước thời gian trôi thật nhanh để anh mau chóng gặp em, người yêu tương lai ạ.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua cùng một cô đồng nghiệp đi công tác, phải ở khách sạn, mà phòng khách sạn chỉ có một giường. Đang dọn sô pha, cô đồng nghiệp kia bảo: “Anh ngủ cùng em đi, nhưng mà không được làm chuyện gì xấu đâu đó nha!” Nghe xong cảm thấy tức vô cùng, dám nghi ngờ nhân phẩm anh chắc? Thế là ngủ sô pha nguyên đêm cho biết.",
+   "author": ""
+  },
+  {
+   "name": "FA là hình thức giải trí sau những ngày yêu đau khổ",
+   "author": ""
+  },
+  {
+   "name": "Trúc xinh trúc mọc đầu đình...\nEm xinh em đứng một mình kệ em.",
+   "author": ""
+  },
+  {
+   "name": "Đang chơi liên minh cầm... leesin bạn gái vô tiệm game kêu về... tôi liền quay sang tung chiêu nộ long cước..mất tiêu người yêu",
+   "author": ""
+  },
+  {
+   "name": "Tại sao 1 chủ nhật đẹp trời, 1 cô gái yêu đời lại bị bỏ rơi?",
+   "author": ""
+  },
+  {
+   "name": "Những người thường hay bày trò cho người khác vui... lại thường là những người cô đơn nhất.",
+   "author": ""
+  },
+  {
+   "name": "Thôi đừng có thầm thương trộm nhớ ai đó xong đi tìm xem tử vi nữa bạn nhé.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua lắp wifi cho một em xinh lắm, lắp tới 12 giờ mà vẫn chưa xong, em gái đó bảo: “Không lắp được thì khỏi lắp đi anh, chúng mình làm chuyện khác đi!” Nghe xong thấy tức vô cùng, thách anh phỏng? Vậy là nhanh chóng lắp cho xong rồi về nhà đi ngủ.",
+   "author": ""
+  },
+  {
+   "name": "FA là Final Angel :( trên đời hết thiên thần rồi nên tui cô đơn thui :D",
+   "author": ""
+  },
+  {
+   "name": "Tôi đề nghị Bộ Y Tế... đưa bệnh Ế vào danh sách nan y khó chữa!",
+   "author": ""
+  },
+  {
+   "name": "Mặc dù bạn vẫn một mình. Nhưng bạn đã mập bằng 2 người cơ mà.",
+   "author": ""
+  },
+  {
+   "name": "Đôi môi này chỉ ăn cơm với cá\nNào đã từng được hôn má ai đâu :((",
+   "author": ""
+  },
+  {
+   "name": "Thà đau khổ vì tình yêu tan vỡ hơn là không có tình yêu.​",
+   "author": ""
+  },
+  {
+   "name": "- Anh à, em mỏi chân quá\n- Nhưng muộn quá chẳng còn xe gì ý...\n- Ngày xưa em mệt mẹ em lại cõng em\n- Nhưng bây giờ đã quá nữa đêm. Làm sao anh gọi cho mẹ em đây =))",
+   "author": ""
+  },
+  {
+   "name": "Người yêu tôi là 1 fan cứng của Harry Potter. Người ấy luôn mặc chiếc áo tàng hình để mình không tìm được.",
+   "author": ""
+  },
+  {
+   "name": "Sau tất cả... quay về FA cho nó đã :v",
+   "author": ""
+  },
+  {
+   "name": "Mấy đứa đòi quà như điên nhưng vẫn thản nhiên đòi làm em nuôi :( bảo sao ko ế",
+   "author": ""
+  },
+  {
+   "name": "Nếu không thể yêu tôi tử tế\nHãy để tôi ế một cách bình yên",
+   "author": ""
+  },
+  {
+   "name": "Người ta cần người yêu đêm Noel\nĐiều tôi cần là một tình yêu No End",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười anh đánh rơi em vô tình nhặt lấy.\nKể từ ngày hôm ấy em thành kẻ tương tư.",
+   "author": ""
+  },
+  {
+   "name": "Cứ mỗi lần tôi tìm thấy chìa khóa mở cửa tình yêu, thì y như rằng ông trời sẽ đột ngột đổi ổ khóa khác...",
+   "author": ""
+  },
+  {
+   "name": "Anh với em giống nhau nhiều lắm\nCũng biết sống và cũng biết yêu\nEm với anh chỉ khác một điều\nAnh yêu em, còn em yêu người khác",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu thì không thiếu... chủ yếu là chưa có người yêu thôi",
+   "author": ""
+  },
+  {
+   "name": "Nô en này vẫn như xưa\nChẳng đi tán gái nên thừa tiền tiêu :D",
+   "author": ""
+  },
+  {
+   "name": "Mặt hồ đang yên ắng, cớ sao lá lại rơi?\nLòng em đang tĩnh lặng, cớ sao anh lại tới?",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương cũng như chó gặm xương :3 Gặm không tiếc thương nhưng chả có dinh dưỡng gì :v",
+   "author": ""
+  },
+  {
+   "name": "Dù ai hối tới hối lui\nẾ thêm năm nữa vẫn vui như thường",
+   "author": ""
+  },
+  {
+   "name": "Có lần người yêu Tú hỏi :\"Anh muốn nếm thử vị son môi của em không?\". Tú không ngần ngại mở cây son cắn hết nữa cây... Tú ế đến giờ.",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói con gái độc thân lâu ngày dần dần đều sẽ sống thành kiểu đàn ông mà mình muốn lấy.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này, tồn tại một cái gọi là \"quy luật bù trừ\".\nNếu như bạn xấu thì người ấy sẽ đẹp.\nBạn thấp thì người ấy sẽ cao, bạn nóng nảy thì người ấy sẽ vô cùng trầm lặng.\nVà quan trọng là bạn tồn tại, còn người ấy thì không.",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để ngừng yêu đơn phương 1 người\n- Yêu đơn phương 2 người",
+   "author": ""
+  },
+  {
+   "name": "Lần đầu đc gái tỏ tình <3 Thì mẹ gọi dậy...",
+   "author": ""
+  },
+  {
+   "name": "9 hành tinh, 7 lục địa, 5 đại dương, hơn 200 quốc gia, 9 tỷ người, tôi vẫn cô đơn :(",
+   "author": ""
+  },
+  {
+   "name": "Có một lần, bạn của anh uống rượu say mèm, nhầm tưởng em gái hắn là vợ nên ôm lên giường. Sau đó nửa đêm mới nhớ ra là không có vợ, nhất thời sinh ra cảm giác tội lỗi. Sau đó sang dậy hắn đứng dậy, nhìn thấy con chó trong chăn đầy mặt tủi thân, thế mới nhớ ra hắn cũng không có em gái.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nào cũng cảm thấy trên người anh ấy có wifi, nhưng chưa bao giờ dám hỏi password là gì.",
+   "author": ""
+  },
+  {
+   "name": "-Tại sao mà bạn vẫn chưa có người yêu??\n-Tại vì tôi chưa ăn sáng.\n-Cho tôi hỏi ăn sáng thì có liên quan gì đến người yêu??\n-Thế tao FA thì liên quan gì đến mày!!",
+   "author": ""
+  },
+  {
+   "name": "Đi đám giỗ thích hơn đi đám cưới vì ở đấy không ai hỏi: “Bao giờ đến lượt mày\"",
+   "author": ""
+  },
+  {
+   "name": "Yêu đương bây giờ Chằng khác gì minh đi \"Nuôi vợ thằng khác\" - Nhà vô địch FA cúp chia sẻ",
+   "author": ""
+  },
+  {
+   "name": "- Câu nói cô đơn nhất mà bạn từng nghe qua là gì?\n- Bạn ơi, chỉ còn mỗi bạn là chưa nộp bài tập thôi đấy.",
+   "author": ""
+  },
+  {
+   "name": "Tối qua đi chơi với một em, muộn không về nhà được, phải ở khách sạn, em gái bảo: “Mình ở chung một phòng đi anh, như thế tiết kiệm tiền.” Nghe xong cảm thấy tức vô cùng, chê anh nghèo ư? Rút tiền, đặt luôn phòng tổng thống! Hai phòng luôn!",
+   "author": ""
+  },
+  {
+   "name": "Cưới vợ làm chi uổng cuộc đời.\nĐể người con gái ế chồng chơi",
+   "author": ""
+  },
+  {
+   "name": "Đến lúc nào đó bạn sẽ nhận ra: đến rác còn có người hốt, còn bạn thì không.",
+   "author": ""
+  },
+  {
+   "name": "- Nụ hôn đầu của bạn năm bao nhiêu?\n- 23 tuổi. Mặc dù tôi mới 22 nhưng mong là vậy.",
+   "author": ""
+  },
+  {
+   "name": "Bữa kia đang đi xe máy thấy 1 em đứng đầu cầu như đón xe. Tôi thấy tội nên ghé vào hỏi: \"Em đi đâu?\". Em trả lời: \"Khách sạn 1 suất 500k nha anh\". Nghe xong tức vô cùng, tôi cho đi nhờ chứ có phải trai bao đâu? Tôi dông xe chạy mất.",
+   "author": ""
+  },
+  {
+   "name": "Ế khoẻ ế đẹp ế văn minh",
+   "author": ""
+  },
+  {
+   "name": "Thời gian thấm thoát thoi đưa\nThanh xuân gần hết vẫn chưa có bồ :((",
+   "author": ""
+  },
+  {
+   "name": "Cặp đôi thiên hạ nhiều vô kể\nHỏi ế như ta được mấy người",
+   "author": ""
+  },
+  {
+   "name": "Cây đa giếng nước sân đình\nBao giờ em hết một mình đây anh?",
+   "author": ""
+  },
+  {
+   "name": "Đề văn: Hãy tả người yêu của em!\nBài làm: Em Ế!\nCô giáo: 10 điểm! \"Cô cũng thế!\"",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương giống như đứng ở ngã ba với tín hiệu đèn vàng. Tiến thì sợ người ấy bật đèn đỏ. Lùi thì lại sợ mình bỏ lỡ đèn xanh.",
+   "author": ""
+  },
+  {
+   "name": "Một nữa tìm tôi... tôi từ chối, một nữa tôi tìm... từ chối tôi",
+   "author": ""
+  },
+  {
+   "name": "Lần nào nhắn tin với người đó đều cảm thấy rất mạo hiểm. Cả ngày vui hay buồn đều phụ thuộc vào tin nhắn ấy.",
+   "author": ""
+  },
+  {
+   "name": "Ế thâm niên mà cứ thích chờ duyên đợi phận =))",
+   "author": ""
+  },
+  {
+   "name": "Đời trai nghèo ko xu dính túi\nBiết khi nào được xơ múi gái xinh",
+   "author": ""
+  },
+  {
+   "name": "Lâu quá không hôn ai, ăn 1 cái lưỡi vịt cũng thấy ấm áp.\nLâu quá không nắm tay ai, cầm cái cánh gà cũng thấy run rẩy.",
+   "author": ""
+  },
+  {
+   "name": "Nước mắt đầm đìa than số phận...\nCuộc đời lận đận mấy ai thương...",
+   "author": ""
+  },
+  {
+   "name": "Ta yêu nàng sức cùng lực kiệt\nThứ nàng cần là biệt phủ xa hoa",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn đang thích một cô gái thì hãy tặng cho cô ấy một thỏi son. Ít nhất khi cô ấy hôn người khác, bạn cũng sẽ có tí cảm giác mình cũng được tham gia.",
+   "author": ""
+  },
+  {
+   "name": "Có 2 lý do mà tôi không cho bạn gái mượn Iphone.\nMột là vì... tôi không có Iphone\nHai là vì... tôi cũng không có bạn gái luôn.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc cũng muốn dẹp mẹ cái tự trọng, tự hào của 1 F.A danh giá để hét lên rằng: \"Đậu móa, ế quá rồi, ai hốt dùm cái coiiiiii\"",
+   "author": ""
+  },
+  {
+   "name": "Thà rằng cô đơn vì không yêu ai cả… còn hơn yêu ai đó mà vẫn cô đơn.",
+   "author": ""
+  },
+  {
+   "name": "Phong trào nào rồi cũng sẽ qua...\nVậy mà hội FA mãi trường tồn",
+   "author": ""
+  },
+  {
+   "name": "Chấp tay con lạy ông trời\nCầu cho mấy đứa có bồ chia tay",
+   "author": ""
+  },
+  {
+   "name": "Dẫu biết mình chẳng là gì trong thế giới của người ấy vậy mà không thể nào khống chế được sự hoang tưởng của bản thân.",
+   "author": ""
+  },
+  {
+   "name": "Lúc sáng có em xinh tươi nói: “cho em số điện thoại anh nhé?” Nghe xong cảm thấy tức vô cùng, tưởng anh ngu chắc? Cho em số điện thoại thì anh dùng cái gì? Sim anh còn những 20 nghìn đấy! Sau đó quay đầu, hùng dũng bước đi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm bất công\nNgười xinh đẹp thế lại hông có pồ :>\nCuộc đời thật lắm điên rồ\nNgười thì xấu quắc được pồ như tiên =))",
+   "author": ""
+  },
+  {
+   "name": "Nắng vàng trộn với mồ hôi\nNách cô gái ấy làm tôi chạnh lòng",
+   "author": ""
+  },
+  {
+   "name": "Ế trong tư thế ngẩng cao đầu, để khi có ai tán gật đầu cho nhanh.",
+   "author": ""
+  },
+  {
+   "name": "Có nắng, có núi, có hơi sương... có những thứ hoang đường mà người đời gọi là yêu đương :((",
+   "author": ""
+  },
+  {
+   "name": "Mới quen một em trên facebook gần nhà xinh lắm. Hôm nọ mới sang nhà em chơi thấy em đang tắm, em nhờ mình lấy giùm cái khăn, nghĩ thầm tưởng anh ngu chắc, có chân không tự ra lấy được còn bày đặt nhờ người ta cầm hộ. Mơ đi cưng rồi đứng dậy đi về!",
+   "author": ""
+  },
+  {
+   "name": "Đừng băng qua giông bão để chạy đến với 1 người chẳng thể vì bạn đi qua 1 cơn mưa.",
+   "author": ""
+  },
+  {
+   "name": "Em là 1 họa sĩ tồi\nVẽ cầu vồng thì thiếu nắng\nVẽ hạnh phúc thì thiếu anh.",
+   "author": ""
+  },
+  {
+   "name": "Có thể bạn chưa biết rằng tháng 2 là tháng cô hồn đối với mấy đứa F.A",
+   "author": ""
+  },
+  {
+   "name": "Đẳng cấp của FA... đêm đến mở mạng nói chuyện với chuỵ Google.",
+   "author": ""
+  },
+  {
+   "name": "Ta mua viên thuốc ngừng thương\nNgười bán nhầm thuốc đơn phương cả đời",
+   "author": ""
+  },
+  {
+   "name": "Đừng buồn vì noel này bạn ko có gấu bởi vì bình thường bạn cũng đã có gấu đâu._.",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm Kiều vẫn là Kiều\nĐẹp trai vẫn ế… là điều hiển nhiên.",
+   "author": ""
+  },
+  {
+   "name": "Trà sữa phải có trân châu\nThanh xuân đừng có sống lâu 1 mình",
+   "author": ""
+  },
+  {
+   "name": "Nể nhất mấy đứa 19, 20 tuổi rồi mà chưa được nắm tay con gái. Tôi cũng tự nể mình cmnl.",
+   "author": ""
+  },
+  {
+   "name": "Cũng chỉ tại mình đẹp trai quá mức cần thiết nên chả ai dám yêu. Các bạn nữ phải tự tin lên chứ... @@",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm bất công\nThằng 2 hộp sữa thằng không hộp nào",
+   "author": ""
+  },
+  {
+   "name": "Ế là 1 lợi thế để chúng ta bàn mưu tính kế, xoay chuyển tình thế, quản lí tiền tệ…rồi sẽ đến một ngày kinh tế đủ sức để khống chế tình yêu :))",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần một người thật lòng thương\nSóng gió ngoài kia hóa tầm thường!",
+   "author": ""
+  },
+  {
+   "name": "Con gái phải tập làm quen với cô đơn để khỏi có cơ hội quen với mấy thằng cô hồn",
+   "author": ""
+  },
+  {
+   "name": "Muốn order một anh người yêu để được inbox sương sương",
+   "author": ""
+  },
+  {
+   "name": "Nắng mưa là chuyện của trời.\nFA là chuyện người người trải qua.",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương như là đứng ở sân bay, chờ một con thuyền.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu có kiếp sau, bạn sẽ đầu thai thành gì?\n- Muốn làm con gái, sau này gã cho chàng trai tốt như tôi.",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương chính là... đứng nhìn người mình yêu... yêu một người khác.",
+   "author": ""
+  },
+  {
+   "name": "Mới ngày nào, vẫn còn ở trong hội những người cô đơn. Mà giờ đây, đã chuyển sang hội người già neo đơn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu yêu a là sai thì... ngày mai e sẽ yêu người khác!!!",
+   "author": ""
+  },
+  {
+   "name": "Đời còn dài, zai còn nhiều\nTiền chưa tiêu, yêu chi sớm",
+   "author": ""
+  },
+  {
+   "name": "Mỗi lần đi trong sân trường nhìn thấy mấy cặp tay trong tay, tôi lại nhớ đến bản thân hồi cấp 3, khi ấy, tôi cũng nhìn mấy cặp tay trong tay như thế.",
+   "author": ""
+  },
+  {
+   "name": "- Có người xin facebook mày đấy, có cho không?\n- Facebook này tao dùng mấy năm rồi, cho người ta tao dùng nick nào.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi, bạn đã chọn giữ khoảng cách với một ai đó. Không phải vì không quan tâm, mà là vì bạn biết rằng người đó không thuộc về bạn.",
+   "author": ""
+  },
+  {
+   "name": "Tình iu với tui không quan trọng, quan trọng là tui hông có người iu.",
+   "author": ""
+  },
+  {
+   "name": "Tự dưng thấy nhớ anh người yêu quá. Không biết anh đã anh cơm chưa, có mặc ấm không, có nói dối để thức khuya chơi game không nữa? Mà không biết anh ấy tên gì, nhà ở đâu,bố mẹ làm gì nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Có 1 kiểu ế gọi là ế đoàn kết. Đã ế còn tụ chơi chung với mấy đứa ế, rãnh không lo kiếm bồ, không hẹn hò, bày đặt cafe, ngồi nói nhảm, nói xấu thiên hạ, cuối cùng nhìn lại, nguyên đám ế.",
+   "author": ""
+  },
+  {
+   "name": "Đừng gọi anh ấy là CHỒNG\n- Vì chẳng có người chồng nào cách xa vợ mình vậy cả\nĐừng gọi anh ấy là MỐI TÌNH ĐẦU\n- Vì chẳng có cuộc tình nào mà yêu thương chỉ đến từ 1 phía\nĐừng gọi anh ấy là NGƯỜI YÊU\n- Vì từ \"yêu\" chỉ đơn giản thay thế cho từ \"cuồng\"",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao bạn FA?\n- Bạn trai tương lai của tôi không vội... thì việc gì tôi phải vội?",
+   "author": ""
+  },
+  {
+   "name": "Bàn tay ta làm nên tất cả. Không đàn bà đành gả chuối cho bàn tay.",
+   "author": ""
+  },
+  {
+   "name": "Đâu phải hết mưa là thấy được cầu vồng\nĐâu phải thật lòng là có được người yêu",
+   "author": ""
+  },
+  {
+   "name": "“Yêu thầm một người” cũng giống như đeo tai nghe và mở nhạc thật to. Người ngoài nhìn thấy thật tĩnh lặng. Chỉ có ta mới biết bên trong điên cuồng gào thét như thế nào thôi...",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ hiện đại không ngại FA.",
+   "author": ""
+  },
+  {
+   "name": "Tôi rất tự hào về anh em FA. Bởi vì anh em ta có 1 khả năng đặc biệt đó là: không cần nhìn điện thoại cũng đoán được ai nhắn tin.",
+   "author": ""
+  },
+  {
+   "name": "Đông này tôi vẫn một mình,\nVẫn với em gái LÀM TÌNH... nguyện viên.",
+   "author": ""
+  },
+  {
+   "name": "Người ta xuống phố có đôi\nCòn tôi thì lại đơn côi một mình",
+   "author": ""
+  },
+  {
+   "name": "Em ko cần iPhone. Em ko cần iPad. Em chỉ cần iĐó quan tâm mỗi ngày!",
+   "author": ""
+  },
+  {
+   "name": "Có lẽ vì đường phố quá đông\nNên... Hạnh phúc bị xe tông không đến được",
+   "author": ""
+  },
+  {
+   "name": "Crush yêu bạn bao nhiêu tùy thuộc vào độ ảo tưởng của bạn",
+   "author": ""
+  },
+  {
+   "name": "Xinh là một lợi thế, ế là... một kỹ năng\nMình không có cái lợi thế nhưng bù lại được cái kỹ năng",
+   "author": ""
+  },
+  {
+   "name": "Nếu đăng status mà có thể làm em chú ý đến anh thì anh sẽ viết hàng trăm status mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Gái gú là phù du, thầy u là vĩnh cửu",
+   "author": ""
+  },
+  {
+   "name": "3 sinh vật huyền bí nhất vũ trụ: Người ngoài hành tinh, kỳ lân, bạn gái tôi.",
+   "author": ""
+  },
+  {
+   "name": "Giai độc thân, đó là người tới nơi làm việc mỗi sáng từ mỗi hướng.",
+   "author": ""
+  },
+  {
+   "name": "Tết nhất họ hàng khuyên tôi nhanh kiếm 1 thằng giỏi giang mà cưới luôn đi. Buồn cười thật, đừng có khuyên tôi nữa! Đi mà khuyên mấy thằng đó ấy, tôi lúc nào chẳng đồng ý.",
+   "author": ""
+  },
+  {
+   "name": "Ship một ly đen đá, kèm một cái thơm má thật lâu...",
+   "author": ""
+  }
+ ]
+}

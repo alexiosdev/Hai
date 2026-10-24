@@ -1,0 +1,1946 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "- Dạo này em thế nào rồi?\n- Ơ anh vẫn còn sống à\n- Sao em lại nói vậy?\n- Hồi trước anh bảo thiếu em anh không sống được, vậy mà chia tay 2 tháng rồi anh vẫn sống nhăn răng... đùa nhau à =))",
+   "author": ""
+  },
+  {
+   "name": "- Anh nhớ em lắm, mình làm lại từ đầu nha\n- Em bận đi đám ma rồi, không rảnh đâu\n- Ủa ai chết vậy em?\n- Tình cảm tôi dành cho anh",
+   "author": ""
+  },
+  {
+   "name": "Bạn gái tôi hay gửi cho tôi những tin nhắn dễ thương kiểu như \"Anh là ai\", \"Sao anh biết số tôi\".",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống này ngắn lắm nên hãy cố làm đơn giản mọi chuyện để đỡ tốn thời gian, hoang phí đời người. Đại loại như yêu thì nói, đói thì ăn, nhớ thì gặp, ghét thì bỏ mặc, trục trặc thì bỏ qua, thiết tha thì giữ lấy, giữ không được thì bỏ luôn đi.",
+   "author": ""
+  },
+  {
+   "name": "Cá tháng tư:\n- Mình chia tay em nhé\n- Ok a, em quyết định dùng lịch âm",
+   "author": ""
+  },
+  {
+   "name": "Một hot boy dồn cô gái vào tường rồi nói\n- Em dựa vào cái gì mà vẫn làm cho tôi điên cuồng kể cả khi chúng ta đã chia tay\n- Đang dựa tường",
+   "author": ""
+  },
+  {
+   "name": "- Anh yêu em\n- Em nghĩ em và anh cần có khoảng cách...\n- Anh yêu em",
+   "author": ""
+  },
+  {
+   "name": "- Trước giờ em quen bao nhiêu anh rồi?\n- Một thôi ạ? Còn anh?\n- Hai người\n- Còn nói láo! Tôi biết không chỉ có 2 người thôi đâu!\n- Em lạ ghê, nãy giờ không phải đang bàn là mỗi người quen bao nhiêu anh sao?",
+   "author": ""
+  },
+  {
+   "name": "Ai bảo tình yêu là mù quáng... cứ yêu đi rồi sẽ sáng mắt ra",
+   "author": ""
+  },
+  {
+   "name": "Cảm ơn e đã ngồi wave ghẻ để cho a ko nhớ mình nghèo\nCảm ơn e đã k đánh phấn nhìn a bằng ánh mắt trong veo :-)",
+   "author": ""
+  },
+  {
+   "name": "Chết cho người phụ nữ mình yêu thì dễ hơn là phải sống chung với họ.",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ không bao giờ tìm thấy một cô gái xinh đẹp nhưng mắt lại bị mù như tôi nữa đâu.",
+   "author": ""
+  },
+  {
+   "name": "- Anh yêu em\n- Em có bạn trai rồi\n- Có phải người đó vừa nói yêu em ko?",
+   "author": ""
+  },
+  {
+   "name": "Boy: Đố Nhung dám nói Nhung yêu Long đấy. Trình gì?\nGirl: Nhung yêu Long\nBoy: Long cũng yêu Nhung nè\nGirl: Như 1 ng anh trai",
+   "author": ""
+  },
+  {
+   "name": "Ra đường sợ nhất công nông, ngồi đây sợ nhất em không nói gì.",
+   "author": ""
+  },
+  {
+   "name": "- Anh à, thật sự giờ em không còn nhìn thấy chúng ta của ngày xưa nữa, cả lúc anh ở gần nhưng em vẫn thấy hình bóng anh xa quá\n- Anh xin lỗi, thời gian qua đã chú tâm vào công việc mà không để ý chăm sóc em... để chiều anh đưa em đi khám mắt",
+   "author": ""
+  },
+  {
+   "name": "Đêm qua gặp ác mộng, mơ thấy người yêu bị tai nạn hôn mê bất tỉnh. Sáng dậy tôi lo lắng lắm, khóc sưng cả mắt... Lúc sau mới nhớ ra mình chưa có người yêu, tôi càng khóc to hơn =))",
+   "author": ""
+  },
+  {
+   "name": "14/2 mình cần thuê mấy bạn nam đứng trước cửa nhà mình gào thét: \"Anh vẫn đợi em dù cho em đã có chồng\". Để cho chồng mình biết và trân trọng mình hơn.",
+   "author": ""
+  },
+  {
+   "name": "- Chia tay đi!\n- Em cho anh lý do được ko?\n- Anh học ở lầu 1, em học ở lầu 2. Em ko muốn phải yêu xa.",
+   "author": ""
+  },
+  {
+   "name": "Hôm trước đi chơi với người yêu nó nhắc mình, răng mình dính rau nhưng nó đâu biết đấy là bữa sáng hôm sau của mình.",
+   "author": ""
+  },
+  {
+   "name": "Trong tình yêu, khi không kiếm được mối nào ngon hơn, người ta gọi đó là sự chung thủy.",
+   "author": ""
+  },
+  {
+   "name": "Đàn đứt ở dây - Tình dứt ở đây",
+   "author": ""
+  },
+  {
+   "name": "- Anh có thương em hông?\n- Tất nhiên là có\n- Vậy quá khứ em có nhiều vết nhơ thì sao?\n- Anh sẽ giúp em vượt qua nó\n- Vậy anh giúp em lau dọn đống này với.",
+   "author": ""
+  },
+  {
+   "name": "- Thôi hong cãi nhau nữa. Anh cho em xin lỗi nha.\n- Ừa!\n- Đấy, rõ ràng là anh có lỗi nên anh mới cho em xin được...",
+   "author": ""
+  },
+  {
+   "name": "Dù là FRIEND thì đến cuối vẫn là END.",
+   "author": ""
+  },
+  {
+   "name": "Đi ăn với con nhỏ mình thích, lát về thấy no đăng status. \"Cám ơn người anh trai đã luôn bên em mỗi khi cô đơn\"",
+   "author": ""
+  },
+  {
+   "name": "Mình mới chứng kiến một chị chia tay một anh đầy tiền tài. Nói về tài thì anh ấy rất tài phiệt, còn về tiền thì anh ấy rất nhiều tiền án, tiền sự. Thế nên đừng nói phụ nữ tham tiền thích tài nữa.",
+   "author": ""
+  },
+  {
+   "name": "Bồ Công Anh chỉ bay khi có gió\nEm chỉ cười khi con chó nó cắn anh",
+   "author": ""
+  },
+  {
+   "name": "Em ơi, đừng bỏ anh, anh lăng nhăng 1 thời, nhưng chung tình cả đời mà :p",
+   "author": ""
+  },
+  {
+   "name": "10 năm du học em chờ\n2 năm nghĩa vụ em lờ a luôn",
+   "author": ""
+  },
+  {
+   "name": "Anh xa em 30 ngày mà anh cứ tưởng chừng như...cả tháng.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua nyc gọi điện cho tôi, lảm nhảm nói bị người yêu đá rồi, giờ đang rất buồn rất muốn gặp tôi.\nNghe rất đáng thương, tôi xót xa nói: \"Ngốc quá, đứng yên đó nhé, đừng đi đâu làm gì dại dột nhé! Anh sẽ đến ngay... \"\nSau đó tôi tắt máy, trùm chăn ngủ tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Bạn muốn hỏi nhà tôi lớn như thế nào ư? Cô nấu cơm từ chối chú bảo vệ ở cửa sau vì cô không muốn yêu xa.",
+   "author": ""
+  },
+  {
+   "name": "Lời anh nói toàn đường với mật\nNhưng chết thật... em lại là con ong",
+   "author": ""
+  },
+  {
+   "name": "- Anh à, nếu sau này em không còn xinh đẹp và tài năng như bây giờ nữa, anh vẫn yêu em chứ\n- Chừng nào trí tưởng tượng của em vẫn còn phong phú như vại thì anh vẫn luôn yêu em nhé",
+   "author": ""
+  },
+  {
+   "name": "Bắc thang lên hỏi ông trời\nLấy tiền cho gái có đòi được ko\nÔng Trời ổng bảo là không\nTao còn bị lừa huống chi là mày",
+   "author": ""
+  },
+  {
+   "name": "Cô giúp việc dưới bếp nhà tao chia tay với chú làm vườn trước nhà vì không muốn yêu xa.",
+   "author": ""
+  },
+  {
+   "name": "- Cuộc tình của cậu đã đến lúc chyển thành đám cưới chưa?\n- Cô ấy đã chạy theo một thằng cha khác, từ hôn và trả nhẫn lại cho tớ. Bây giờ tớ đang đi tìm xem thằng ấy ở đâu.\n- Để làm gì kia chứ? Cậu có đánh hay giết hắn thì cũng chẳng thay đổi được gì...\n- Không, tớ chỉ muốn bán lại chiếc nhẫn!",
+   "author": ""
+  },
+  {
+   "name": "Lãng mạn của anh không đốt cháy đi tất cả\nLãng mạn của anh để dành cho những ngày mùa đông lạnh giá\n...\nLãng mạn của anh là hủ tiếu gõ lúc 2 giờ đêm\nLàm những việc chẳng ai ngờ đến\n-- Lãng mạn của anh --",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh ấy còn anh ấy yêu cô ấy, cô ấy không yêu anh ấy, cô ấy yêu anh anh ấy, anh ấy tức anh anh ấy, anh ấy đấm anh anh ấy, cô ấy tức anh ấy vì đấm anh anh ấy, cô ấy tát anh ấy, anh anh ấy khuyên cô ấy, cô ấy và anh anh ấy bỏ qua cho anh ấy…",
+   "author": ""
+  },
+  {
+   "name": "Em vào đời bằng náo nhiệt, anh vào đời bằng âm thầm\nEm đi tìm nốt thăng hoa, lòng anh lại là âm trầm\nEm đi tìm lời phố thị, anh đi tìm tiếng ghi-ta\nEm đưa anh vào trong náo nhiệt, anh lắc đầu và đi ra\nEm vào đời bằng vang đỏ, anh vào đời bằng nước trà\nBằng cơn mưa thơm mùi đất và bằng hoa dại mọc trước nhà\nEm vào đời bằng kế hoạch, anh vào đời bằng mộng mơ\nLý trí em là công cụ còn trái tim anh là động cơ\n-- Lối Nhỏ -- ft. Phương Anh Đào",
+   "author": ""
+  },
+  {
+   "name": "Nếu vẫn nghĩ \"Anh yêu em\" là 3 tiếng ngọt ngào nhất, thì chắc chắn bạn chưa nghe tiếng rút tiền ra từ ATM rồi...",
+   "author": ""
+  },
+  {
+   "name": "- Nếu mẹ a cho e 100 triệu e có chia tay a ko?\n- Thế thì mỗi tháng mình chia tay một lần a nhé",
+   "author": ""
+  },
+  {
+   "name": "Năm trăm còn ngửa tay xin bố mẹ thì đừng nói chuyện trăm năm.",
+   "author": ""
+  },
+  {
+   "name": "Lên non mới thấy non cao\nCặp bồ mới hiểu tại sao hết tiền",
+   "author": ""
+  },
+  {
+   "name": "Trái tim em giờ đã hóa đá\nCần một người đập đá cứu em ra",
+   "author": ""
+  },
+  {
+   "name": "Anh yêu người khác rồi... người ấy cũng như em... chẳng nhận lời.",
+   "author": ""
+  },
+  {
+   "name": "- Anh không hiểu à? Chúng ta cần thêm thời gian và khoảng cách.\n- Để tính vận tốc à em",
+   "author": ""
+  },
+  {
+   "name": "Những lời đường mật rồi sẽ bị kiến bu",
+   "author": ""
+  },
+  {
+   "name": "Đã từng cần nhau như bóng đèn cần nguồn điện\nChia nhau điều vui và chia cả nỗi muộn phiền\nNếu mà mọi thứ có thể đóng thành bưu kiện\nAnh sẽ gửi em những mùa nhung nhớ luân phiên\n-- Trạm Dừng Chân -- ft. Kimmese",
+   "author": ""
+  },
+  {
+   "name": "Khi trước e bảo khi nào a có bằng giáo sư e sẽ lấy a\nHôm wa a mới nhận bằng...\nHôm nay e đã có 2 thằng giáo sư",
+   "author": ""
+  },
+  {
+   "name": "- Anh còn tình cảm với em không?\n- Còn\n- Vậy cho em mượn 200k đi chơi đi. Yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "- Anh yêu em\n- Em vừa mới chia tay bạn trai. Em cần thời gian để suy nghĩ thêm.\n- Mai anh dắt em mua đồng hồ nhé",
+   "author": ""
+  },
+  {
+   "name": "- Đừng chia tay mà! Không có anh em không sống nổi!\n- Chém gió! Chó nó mới tin\n-> 3 tháng sau báo đăng tin \"Xót xa cho cô gái chết đói vì không có ai chở đi ăn\"",
+   "author": ""
+  },
+  {
+   "name": "- Cay quá anh ơi, sắp tới Valentine nên em hỏi người iu là thích được tặng gì? Thì nó bảo là thích những món đồ hợp với mệnh của mình (Mệnh hỏa)... xong em tặng quà cho nó... thế nào nó chia tay em luôn???\n- Mày tặng nó cái gì?\n- Dạ, bếp ga.",
+   "author": ""
+  },
+  {
+   "name": "20/11 tao khuyên tụi mày nên tặng quà cho người yêu cũ. Vì đó là những người đã dạy cho ta những bài học thật là đắng trong quá khứ.",
+   "author": ""
+  },
+  {
+   "name": "Người ta yêu nhau ngay từ cái nhìn đầu tiên, rồi sau đó lại thở dài nuối tiếc sao ngày xưa không nhìn kỹ thêm lần nữa.",
+   "author": ""
+  },
+  {
+   "name": "Hai năm nghĩa vụ tạm xa nhà\nKhi về phố thị nở đầy hoa\nNgười yêu ra đón cùng con nhỏ\nChào chú đi con, bạn má nè",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc mình cũng muốn công khai người yêu lắm... nhưng lại sợ trùng người yêu thằng khác.",
+   "author": ""
+  },
+  {
+   "name": "Ai đã từng hứa yêu tôi đến chết, vậy mà bây giờ chưa chết đã hết yêu.",
+   "author": ""
+  },
+  {
+   "name": "Tôi ngu thật, ngày xưa mà không yêu anh thì BlackPink đã có 5 thành viên rồi đấy.",
+   "author": ""
+  },
+  {
+   "name": "Người cười ko bao giờ tính - Người tình ko bao giờ cưới",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật trái ngang - Cuộc đời thật ngán trai",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể làm mọi thứ cho người mình yêu, ngoại trừ yêu họ lần nữa.",
+   "author": ""
+  },
+  {
+   "name": "Người thương em cả đời em xua đuổi...\nKẻ lừa tình vài buổi em lại yêu...",
+   "author": ""
+  },
+  {
+   "name": "Anh yêu em, còn em yêu thằng đó.\nĐể đêm về, chỉ có mình nó ngủ ngon.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu...như chén muối tiêu\nMuối nhiều thì mặn tiêu nhiều thì cay",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh hổng phải vì ham.\nMà là em hổng chịu cam cảnh nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Em là chàng trai đi sang Thái.\nPhẫu thuật thành gái để yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "Mối tình đầu là mối tình đẹp nhất\nCũng là mối tình ngu ngốc nhất",
+   "author": ""
+  },
+  {
+   "name": "Nhớ ai ra ngẩn vào ngơ\nNhớ ai ai nhớ bây giờ nhớ ai\nXa nàng nhớ cái bạt tai\nChọc nàng chút xíu, lãnh hai cái liền.",
+   "author": ""
+  },
+  {
+   "name": "Tao có 2 thằng người yêu: 1 thằng ở cách 5km, 1 thằng cách 13km... Đấy là mấy bà hàng xóm nói chứ tao cũng không biết 2 anh này :(",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau đi để rồi mai sinh con và đặt tên cho con là Chó con",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi, mình chia tay nha. Em vừa mổ ruột thừa xong ạ.\n- Em sao rồi. Còn đau không? Ơ mà liên quan gì mà chia tay?\n- Em thay lòng đổi dạ rồi ạ.",
+   "author": ""
+  },
+  {
+   "name": "Những thằng có gấu lâu năm, sau khi chia tay để mất khả năng tán gái :v",
+   "author": ""
+  },
+  {
+   "name": "Nếu như nuớc mắt xoá nhoà hết tất cả... thì suốt đời em sẽ để lệ rơi.\nEm không muốn ai làm tim em buốt giá... nhưng tim em đã hoá đá mất rồi.",
+   "author": ""
+  },
+  {
+   "name": "Yêu mà không được đáp lại thì thật là đau buồn. Nhưng sẽ còn đau buồn hơn nếu yêu một người mà không bao giờ dám thổ lộ.",
+   "author": ""
+  },
+  {
+   "name": "Dẫu anh đã thích hoa hồng\nTường vi có đẹp anh trồng cả hai!",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ yêu em mọi thứ kể cả Thứ 2\nDù ngày bụi bặm và ồn ào, bao lời chói tai\n...\nNhạc anh viết không hề lãng mạn, nhưng họ vẫn gọi đây là Love Song\nNếu như môi em là 1 bản nhạc, thì cho anh chạm ngay vào nốt Son.\n-- Yêu em mọi thứ --",
+   "author": ""
+  },
+  {
+   "name": "Đợi chờ bao lâu cũng chưa phải là điều đáng sợ. Đáng sợ nhất là đến cuối cùng mới chợt nhận ra điều mà mình đang chờ đợi hoàn toàn không xứng đáng.",
+   "author": ""
+  },
+  {
+   "name": "Dù có yêu thương thật lòng! Mà cứ đi lòng vòng rồi cũng sẽ lạc nhau!",
+   "author": ""
+  },
+  {
+   "name": "Điếu thuốc tàn còn chỗ để gạt, tình phai nhạt biết trôi dạt về đâu",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau như thể chơi đề\nĐánh con true love lại về friendzone",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như bát bún riêu\nKhông ăn nó hết để chiều nó thiu",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau cho lắm, rồi cũng xa...\nThân quen cho lắm, cũng thành lạ... <3",
+   "author": ""
+  },
+  {
+   "name": "Em thích em của ngày hôm nay: lạnh lùng, buông lơi và bỏ rơi tất cả...",
+   "author": ""
+  },
+  {
+   "name": "Quả chanh non không chua thì chát...\nMối tình đầu không nát thì tan...",
+   "author": ""
+  },
+  {
+   "name": "Phải cần thêm bao nhiêu nỗi buồn, bao nhiêu thất vọng để em thấu mình đã mất nhau?",
+   "author": ""
+  },
+  {
+   "name": "Một hành động ăn ý nhất mà tao và Crush đã cùng làm với nhau là cả 2 cùng im lặng và không bao giờ nhắn tin cho nhau nữa...",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi nhìn những người đàn ông tôi đã từng dành tình cảm, tôi không thể không nghi ngờ sự tỉnh táo của mình.",
+   "author": ""
+  },
+  {
+   "name": "Em khóc em tự lau... Người giả vờ đau anh vội vàng chăm sóc!",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có kim cương mới cắt được kim cương\nChỉ có tình yêu mới thay thế được tình yêu",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ thờ ơ với tin nhắn đến của người mà bạn yêu thương, có thể một ngày không xa bạn sẽ không còn được nhận tin nhắn đó nữa.",
+   "author": ""
+  },
+  {
+   "name": "Trai có bồ như hoa có chậu. Em nào thâm hậu... đập chậu cướp hoa.",
+   "author": ""
+  },
+  {
+   "name": "Lời nói là để biểu đạt tình yêu, nhưng hành động là để chứng minh điều đó.",
+   "author": ""
+  },
+  {
+   "name": "Hoa đẹp rồi cũng sẽ tàn... tình đẹp rồi cũng vỡ tan",
+   "author": ""
+  },
+  {
+   "name": "Không biết yêu ai tự bao giờ.\nSáng mong chiều nhớ tối nằm mơ.\n1 ngày không gặp dài ghê lắm!!\n2 ngày không gặp Ủa ai đây??",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ không thể tìm được đúng người. Nếu như cứ cố chấp ở cạnh người luôn khiến bạn không vui.",
+   "author": ""
+  },
+  {
+   "name": "Cảm ơn anh đã từng yêu em. Cảm ơn anh đã không yêu em nữa.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ngày ấy không đi về phía em, không gặp em... Giờ này anh đã giàu.",
+   "author": ""
+  },
+  {
+   "name": "Có đôi lần giận dỗi nhưng sau tất cả vẫn là yêu thương...",
+   "author": ""
+  },
+  {
+   "name": "Chả có đủ - Đã có chủ",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh vất vả... kết quả chia tay",
+   "author": ""
+  },
+  {
+   "name": "Bồ xấu thì sợ bạn chê\nBồ đẹp thì sợ bạn mê bạn dành",
+   "author": ""
+  },
+  {
+   "name": "Yêu người con trai không có gì, bạn sẽ là tất cả :x\nYêu người con trai có tất cả, bạn sẽ chẳng là gì :)",
+   "author": ""
+  },
+  {
+   "name": "Vì anh yêu em nhất... Nên tất cả mọi thứ về em anh đem cất\nBởi vì không thể mang đem cân.. em phải lấy vì sao trong đêm ra đem nhân\n-- 24h -- ft Lyly",
+   "author": ""
+  },
+  {
+   "name": "\"Em yêu anh\"\n\"Thật à\"\n\"Có kalo ý, tin người ghê\"",
+   "author": ""
+  },
+  {
+   "name": "Anh yêu em thì không có gì cản….Nhưng một khi anh đã nản thì đừng có lãng vãng trước mặt anh",
+   "author": ""
+  },
+  {
+   "name": "Em yêu người khác rồi, người ấy giống như anh dễ bị lừa.",
+   "author": ""
+  },
+  {
+   "name": "Hoa bỉ ngạn có hoa không có lá\nTrái tim nàng sắt đá chẳng có ta",
+   "author": ""
+  },
+  {
+   "name": "Cảm xúc của em giống như thời tiết bây giờ vậy, sớm nắng chiều mưa trưa râm râm, phải làm sao đây khi anh không phải đài khí tượng.",
+   "author": ""
+  },
+  {
+   "name": "Bỉ ngạn rực rỡ bay trong gió\nHoa đỏ không lá buồn bi thương",
+   "author": ""
+  },
+  {
+   "name": "Yêu vì thể xác... chỉ đáng... vứt thùng rác\nYêu vì vật chất... sống chi cho chật đất",
+   "author": ""
+  },
+  {
+   "name": "Anh chợt nghĩ rằng cuộc đời buồn bã như thế này sao chúng mình không tha thiết với nhau hơn.",
+   "author": ""
+  },
+  {
+   "name": "Trên cuộc đời này, đau đớn không phải là không có được. Mà là có được, nhưng không giữ được.",
+   "author": ""
+  },
+  {
+   "name": "Hỡi thế gian tiền là chi\nMà khiến đôi lứa chia ly chẳng thành.",
+   "author": ""
+  },
+  {
+   "name": "Cafe đắng bỏ đường thì ngọt.\nTình đắng rồi bỏ cuộc là xong.",
+   "author": ""
+  },
+  {
+   "name": "Em ko phải là người hoàn hảo, nhưng em sẽ học cách yêu hoàn hảo 1 người",
+   "author": ""
+  },
+  {
+   "name": "Anh à, nếu anh bảo yêu nhau là phải cho nhau tất cả.\nThì em thề em sẽ cho anh ăn vả anh tin không?",
+   "author": ""
+  },
+  {
+   "name": "Muốn thấy rõ mức độ tình cảm của một người đàn ông và một người phụ nữ, cần nhìn vào thái độ khi họ thanh toán hóa đơn.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như một ván cờ\nHai xe lạc nước biết giờ làm sao!",
+   "author": ""
+  },
+  {
+   "name": "Thương anh chín đợi mười chờ\nĐến khi mười một em lờ bỏ anh",
+   "author": ""
+  },
+  {
+   "name": "Miệng tôi cười, ai biết tôi khóc\nMắt tôi vui, ai biết dạ tôi sầu\nTrời không lạnh sao lòng tôi buốt giá?\nChốn đông người sao vẫn thấy cô đơn?",
+   "author": ""
+  },
+  {
+   "name": "Hiện tại mình cũng muốn kết hôn lắm. Ngặt nỗi hai gia đình ngăn cản giữ dội, phản đối kịch liệt chuyện 2 bọn mình đến với nhau. Nhất là chồng cô ý!",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhiều thì ốm, ôm nhiều thì yếu",
+   "author": ""
+  },
+  {
+   "name": "Định mệnh hay đây là trời ban,\nKhi mà kim đồng hồ đang xoay dòng thời gian\nChạm vào nhau một cách thật vội vàng,\nRồi lại chia tay nhau ở ngay trên niết bàn\n-- Đồng Tâm --",
+   "author": ""
+  },
+  {
+   "name": "Nếu biết ngày mai em lấy chồng\nAnh về học võ Lý Tiểu Long\nHọc luôn cú đá liên hoàn cước\nHạ gục chồng em đêm động phòng.",
+   "author": ""
+  },
+  {
+   "name": "Yêu mà không hôn thì hơi vô lý :))) Hôn mà không làm tí thì hơi vô duyên =)))",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời em chỉ có 2 màu đen và trắng\nVẽ thêm một màu nắng...đó là anh!!!",
+   "author": ""
+  },
+  {
+   "name": "- Nghe theo con tim để nhận lại những điều sai trái ư?\n- Trái tim đã bao giờ nằm ở bên phải đâu",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu có thể mua được nhưng... thất tình không bán được.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu không bao giờ chết đói mà thường chết vì bội thực.",
+   "author": ""
+  },
+  {
+   "name": "Dù cho 1 tháng mì tôm\nVẫn nên hoành tráng cái hôm tỏ tình",
+   "author": ""
+  },
+  {
+   "name": "Chưa đủ nhớ để gọi là yêu.\nChưa đủ quên để thành xa lạ.\nAnh ám ảnh em giữa hai chiều nghiệt ngã.\nNgiêng bên này lại chống chếnh bên kia.",
+   "author": ""
+  },
+  {
+   "name": "Nắng tắt, mưa tan\nEm lang thang trước gió\nHạnh phúc đó sao chẳng thuộc về em",
+   "author": ""
+  },
+  {
+   "name": "Khi xưa chưa yêu chưa biết thế nào là hạnh phúc\nBây giờ yêu rồi mới biết... hạnh phúc là khi xưa",
+   "author": ""
+  },
+  {
+   "name": "\"#Nắng_Ấm_Xa_Dần\" rồi chỉ còn những \" #Cơn_Mưa_Ngang_Qua\" em tự hỏi rằng \" #Bình_Yên_Nơi_Đâu \" và bây giờ em không còn là \" #Em_Của_Ngày_Hôm_Qua \" anh đã từng nói \"#Âm_Thầm_Bên_Em\" và \"#Làm_Người_Luôn_Yêu_Em\" nhưng em muốn \" #Anh_Cứ_Bước_Qua_Nếu_Em_Không_Hạnh_Phúc\" và bây giờ chúng ta lại \" #Buông_Đôi_Tay_Nhau_Ra \" có những lúc em vẫn nghĩ rằng \"#Chắc_Ai_Đó_Sẽ_Về \" và sẽ \" #Mãi_Yêu_Em\" nhưng thực sự giờ đây \" #Anh_Đang_Đi_Bên_Ai_Đó\" không phải là em có lẽ \" #Khuôn_Mặt_Đáng_Thương\" này sẽ không được \" #Như_Ngày_Hôm_Qua\" và cuối cùng em chợt nhận ra \"#Chúng_Ta_Không_Thuộc_Về_Nhau\" :-*",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng có thể yêu bạn lúc mặt trời toả nắng nhưng bão tố mới là nơi tìm ra được người thực sự quan tâm bạn.",
+   "author": ""
+  },
+  {
+   "name": "Như chim lầm tổ khi đặt con tim lầm chỗ.",
+   "author": ""
+  },
+  {
+   "name": "Con tim anh chỉ 2 lần mở cửa\nĐưa em vào rồi tống cổ em ra",
+   "author": ""
+  },
+  {
+   "name": "Anh lau bờ mi nhé... Anh chỉ muốn được hôn bờ môi em\nNhận ra rằng... em xa dần... anh mơ 1 chút mà thôi em\nAnh tin anh ta là tốt nhất... em cũng hạnh phúc... anh chúc phúc còn tim anh gói gém\nNước mắt anh gửi ở nơi em... còn lại mọi thứ nơi anh thì tối đen\n-- Đường Một Chiều -- ft. Huỳnh Tú",
+   "author": ""
+  },
+  {
+   "name": "Đến thì Hi, đi thì Bye. Một khi đã Don't like thì next...\nVới tôi khi đã Get Out thì không có khái niệm Come Back...\nMuch Love đi cùng Money àk đối với anh đó là hạnh phúc\nVà khi đã Game Over... tặng anh 1 câu: Mother Fuck",
+   "author": ""
+  },
+  {
+   "name": "Trái tim ký hiệu là \"<3\"\nNghĩa là trong tình yêu không có người thứ 3",
+   "author": ""
+  },
+  {
+   "name": "- Sao anh bịt mắt em lại\n- Anh muốn cho em thấy tương lai hai chúng ta\n- Nhưng em chẳng trông thấy gì hết?\n- Đúng rồi đó! Mình chia tay đi em!!!",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau được 5 năm thì gấu đòi cưới... thằng khác.",
+   "author": ""
+  },
+  {
+   "name": "Có khi nào phản bội anh thấy mình tội lỗi không anh?",
+   "author": ""
+  },
+  {
+   "name": "Em cứ đi... anh sẽ không giận dỗi\nChẳng giận hờn... hay đổ lỗi cho nhau\nNhưng con tim... có đôi chút nghẹn ngào\nKhi vẫy chào... người từng là tất cả",
+   "author": ""
+  },
+  {
+   "name": "Chưa yêu chưa biết chữ ngờ\nYêu rồi mới biết chữ ngờ u ngu =))",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như bát bún riêu\nBao nhiêu sợi bún bấy nhiêu sợi tình",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn tán đổ 1 người đang có người yêu... thì bạn chỉ tìm được 1 kẻ phản bội mà thôi!",
+   "author": ""
+  },
+  {
+   "name": "Tao đã từ chối rất nhiều chàng trai để nói chuyện với đứa con gái tao thích... Nhưng nó lại nghĩ tao bêđê...",
+   "author": ""
+  },
+  {
+   "name": "Điếu thuốc tàn bên ly Cafe đắng\nTình đã tàn, thì sẽ vắng sẽ 1 trong 2",
+   "author": ""
+  },
+  {
+   "name": "Chưa yêu em, anh còn e ngại\nYêu em rồi anh mún lạy em lun",
+   "author": ""
+  },
+  {
+   "name": "Đừng nói yêu đến phát điên rồi vẫn cứ hồn nhiên phản bội.\nĐừng đua đòi theo xã hội sống bằng bộ mặt vô tội giả nai.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em xin nhớ lời thề.\nChưa mua \"xế hộp\" chưa về thăm quê.",
+   "author": ""
+  },
+  {
+   "name": "Mấy đời bánh đúc có xương.\nMấy đời gái chảnh lại thương trai nghèo.",
+   "author": ""
+  },
+  {
+   "name": "Thật muốn tát cho mối tình đầu một phát\nMở bát kiểu gì mà làm mình lận đận tình duyên.",
+   "author": ""
+  },
+  {
+   "name": "Trước khi từ bỏ 1 tình yêu, hãy nhớ lại việc bạn đã vất vả \"thả thính\" như thế nào...",
+   "author": ""
+  },
+  {
+   "name": "Hoa trên giấy không sương vẫn nở.\nThương em rồi dù trắc trở vẫn thương.",
+   "author": ""
+  },
+  {
+   "name": "Hãy gọi cho em khi nào anh thấy nhớ\nEm sẽ ngồi nghe không quan trọng là mấy giờ",
+   "author": ""
+  },
+  {
+   "name": "Hoa nở ngàn năm hoa bỉ ngạn\nHoang tuyền huyết nhuộm nỗi bi ai\nVô hoa hữu diệp, vô tương ngộ\nVạn kiếp luân hồi, vạn kiếp vương.",
+   "author": ""
+  },
+  {
+   "name": "Cố gắng quên người mình yêu cũng như cố gắng nhớ người mình chưa bao giờ gặp.",
+   "author": ""
+  },
+  {
+   "name": "Giữ thật chặt khi cậu chưa đi, năn nỉ thật từ bi và rồi cậu thuộc về nó",
+   "author": ""
+  },
+  {
+   "name": "Cải vã trong tình yêu luôn tồn tại một người đúng.\nVà người còn lại chắc chắn là con trai.",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 mai em đi theo thằng khác\nAnh sẽ buồn nhưng không khóc đâu em..\nLòng ngậm ngùi tay cầm chai axit\nMôi mỉm cười 2 lít đủ không em.",
+   "author": ""
+  },
+  {
+   "name": "Em thật ngốc! Luôn từ chối những bàn tay sẵn sàng đưa... lại đi đợi một bàn tay mà có lẽ cả đời này em chẳng thể nào chạm vào được.",
+   "author": ""
+  },
+  {
+   "name": "Yêu mà không nói\nNhư đói mà không được ăn\nNhư thấy chăn mà không được đắp\nNhư thấy ăn cắp mà không dám hô\nNhư muốn ô tô mà vẫn phải đi xe máy",
+   "author": ""
+  },
+  {
+   "name": "Cho anh xin từ em một hơi thở để thay thế điếu thuốc ở trên môi\nVà anh xin một bờ vai đợi chờ, xin một lần có thể được đền tội\nXin bàn tay kia một lần được nắm chặt và xin đừng để cái tôi được lên ngôi\nMọi cơn tức giận anh xin hãy tạm thời giữ lại những lời mà ta không nên nói.\n-- XIN -- Đạt G ft B Ray, Masew",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau 2 chữ chung tình\nXa nhau 4 chữ \"chúng mình chia tay\"",
+   "author": ""
+  },
+  {
+   "name": "Hứa càng hay, đá càng bay",
+   "author": ""
+  },
+  {
+   "name": "Đợi chờ là hạnh phúc hay là kết thúc của niềm tin.",
+   "author": ""
+  },
+  {
+   "name": "Hà Nội lạnh rồi em biết không\nHãy gửi cho anh chút nắng hồng\nGói cả tình em vào trong đó\nSưởi ấm lòng anh giữa mùa đông",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần 1 chút tình yêu, những đứa thông minh đều trở nên óc chó",
+   "author": ""
+  },
+  {
+   "name": "Một người có xứng đáng bạn dùng một đời để yêu thương hay không, không phải nhìn vào anh ta tốt với bạn thế nào, mà nhìn vào những lúc anh ta tâm tình không tốt, tệ bạc với bạn ra sao.",
+   "author": ""
+  },
+  {
+   "name": "Đừng yêu người nói chuyện với bạn lúc họ rảnh rỗi\nHãy yêu người tạo ra thời gian rảnh rỗi chỉ để nói chuyện với bạn...!",
+   "author": ""
+  },
+  {
+   "name": "Nếu một ngày nyc gửi cho bạn 1 tin nhắn kiểu \"I Miss U\". Thì không còn nghi ngờ gì nữa, nó đã thất bại hoàn toàn trong việc tìm người thay thế bạn.",
+   "author": ""
+  },
+  {
+   "name": "G: Hic anh ơi 2 vạch... tại anh đấy\nB: Huhu... thật à\nG: Thôi em đùa đấy :)) nay cá tháng 4 mà\nB: Hihi, may quá :)) làm anh hết hồn\nG: Uh em nói dối đấy, sự thật là của thằng khác chứ không phải anh.",
+   "author": ""
+  },
+  {
+   "name": "- Nghe đồn mày vừa chia tay bạn trai. Sao vậy?\n- M có chịu nổi 1 đứa hay chửi bới, hút thuốc, ghiền đi nhậu, thậm chí oánh m ko?\n- Ai mà chịu nổi\n- Ờ, thằng đó cũng ko chịu nổi",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể yêu nhầm 3,4 thằng tồi nhưng không được yêu 1 thằng tồi 3,4 lần. Đi nhầm đường có thể do không may, nhưng cố tình đâm đầu vào ngõ cụt thì đúng là đầu óc có vấn đề.",
+   "author": ""
+  },
+  {
+   "name": "Khi thương anh nói anh cười\nHết thương anh giống như người điếc câm.",
+   "author": ""
+  },
+  {
+   "name": "Mất của là mất ít, mất người là mất nhiều…..yêu thì mất cả hai!",
+   "author": ""
+  },
+  {
+   "name": "Gọi em là Đức năm 1940..\nVì em đã thua trong cuộc chiến tranh giành lấy anh!",
+   "author": ""
+  },
+  {
+   "name": "Con trai muốn gọi điện, nhắn tin cho người mình thích lắm. Nhưng lại sợ họ thấy phiền nên thôi.",
+   "author": ""
+  },
+  {
+   "name": "Ngọt ngào cũng là anh. Chua, cay, mặn, đắng cũng là anh.\nVậy với em, anh là gì hay chỉ là vô vị.",
+   "author": ""
+  },
+  {
+   "name": "Chuyện của chúng ta đã đủ buồn để viết thành 1 cuốn tiểu thuyết chưa anh?",
+   "author": ""
+  },
+  {
+   "name": "Đầu tư tình cảm nên dành cho cô gái phù hợp chứ ko phải là cô gái choáng ngợp.",
+   "author": ""
+  },
+  {
+   "name": "Người tình không bao giờ xếp hình",
+   "author": ""
+  },
+  {
+   "name": "Và câu chuyện bây giờ đã rất khác, anh đã sai ngay từ khi xuất phát\nĐể nước mắt em rơi ko xứng đáng, giờ là lúc tập thích nghi với mất mát\nBình yên bên em nhiều, anh chưa quen với sóng gió\nHôm nay đến, ngày mai đi, anh không yêu bằng cách đó\nAnh cần nhiều thời gian để thích nghi, Đối diện sự thật là em đã bước đi\n-- Adaptation -- ft Am1r",
+   "author": ""
+  },
+  {
+   "name": "Yêu 1 người không nhất thiết người đó phải thuộc về mình.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là cái gì đó không tồn tại...\nVì nó chẳng biết thương hại bất cứ ai...",
+   "author": ""
+  },
+  {
+   "name": "Đông cần Nắng. Nhưng Nắng thuộc về Xuân.\nAnh cần em. Nhưng e thuộc về ng khác :)",
+   "author": ""
+  },
+  {
+   "name": "Giá mà anh biết được em gượng cười đến gục ngã\nGiá mà anh thấy được em vật vã cùng cơn đau",
+   "author": ""
+  },
+  {
+   "name": "Mỗi một ngày qua tôi mang thêm nỗi nhớ\nNhớ một người dù biết mãi là mơ",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như ổ bánh mì\nTây ta đều thích bởi vì nó ngon",
+   "author": ""
+  },
+  {
+   "name": "Xa nhau tình cảm bình phương nhé\nChớ có khai căn tủi phận hờn\nTích số vạn lần tăng nỗi nhớ\nGiận hờn tỷ số lại bằng không...",
+   "author": ""
+  },
+  {
+   "name": "Điều khó khăn nhất trong cuộc đời là ngừng nói chuyện với một ai đó mà bạn đã từng trò chuyện mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Tán gái nhiều cũng là cái tội mà yêu quá vội lại là cái ngu.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu không bắt nguồn từ tiền bạc, nhưng tiền bạc nuôi dưỡng tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "Càng trưởng thành... lòng can đảm bất chấp yêu một người... càng giảm dần",
+   "author": ""
+  },
+  {
+   "name": "Chiều buồn ra ngắm lục bình trôi\nChẳng biết tại sao dạ bồi hồi\nNghe lời em hứa tôi chờ đợi\nĐể giờ đôi ngã vẫn chia phôi.",
+   "author": ""
+  },
+  {
+   "name": "Say rượu say bia say lại tỉnh\nChỉ sợ say tình tỉnh lại say",
+   "author": ""
+  },
+  {
+   "name": "Từng kỷ niệm, tay trong tay, môi kề môi, dẫu thời gian trôi bao lâu, ký ức về nàng đã xăm lên da ta mãi mãi.",
+   "author": ""
+  },
+  {
+   "name": "Quá khứ có đẹp đến đâu cũng không bao giờ quay lại.\nCũng như em vậy chỉ là thương hại chứ không bao giờ thương yêu",
+   "author": ""
+  },
+  {
+   "name": "Cây chỉ tươi khi còn có lá\nAnh chỉ cười khi thằng đó đá em",
+   "author": ""
+  },
+  {
+   "name": "Iu cho lắm! Tắm cũng ở truồng.\nIu cho điên cuồng! Cũng ở truồng đi tắm.",
+   "author": ""
+  },
+  {
+   "name": "1 đứa si tình, 1 đứa đa tình => 2 đứa si đa.",
+   "author": ""
+  },
+  {
+   "name": "Trái tim tôi đã nát... anh gạch thêm vài nhát nữa cũng ko sao",
+   "author": ""
+  },
+  {
+   "name": "Thuê bao quý khách vừa gọi suốt đời không liên lạc được. Xin quý khách vui lòng...\n- Xóa số\n- Gạch tên\n- Và...lãng quên tất cả...:( :(",
+   "author": ""
+  },
+  {
+   "name": "Trong tình yêu, 3 phần là nhờ duyên phận, 7 phần là nhờ sự cố gắng, còn 90 phần còn lại là nhờ khuôn mặt :)",
+   "author": ""
+  },
+  {
+   "name": "Gió cuốn bụi bay...Anh loay hoay giữa dòng đời lặng lẽ\nMưa rơi, mắt nhòe... Anh bước nhẹ về hướng không em.",
+   "author": ""
+  },
+  {
+   "name": "Đến nhà gấu chơi, lúc về hơi run, chào bố mẹ gấu \"Chào hai cháu bác về\"",
+   "author": ""
+  },
+  {
+   "name": "Lúc mới yêu nhau anh nói: \"ai chia tay trước làm chó nhé\". Nhưng sao bây giờ anh lại sủa \"gâu gâu\"",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như một hạt tiêu.\nTuy rằng nhỏ bé nhưng nhìu đắng cay.",
+   "author": ""
+  },
+  {
+   "name": "- nyc của anh xinh nhỉ\n- con nào?\n- con này, bye!",
+   "author": ""
+  },
+  {
+   "name": "Tính anh vốn tính thật thà\nKhông yêu em trả hết quà dùm anh",
+   "author": ""
+  },
+  {
+   "name": "Lên non mới biết non cao, có bồ mới biết là mau hết tiền.",
+   "author": ""
+  },
+  {
+   "name": "Hoa hồng thì màu đỏ\nBầu trời thì màu xanh\nBàn tay em 5 ngón\nNgón giữa dành cho anh",
+   "author": ""
+  },
+  {
+   "name": "Em mới tròn đôi mươi trên số tuổi mà nỗi buồn theo đuổi gấp số đôi",
+   "author": ""
+  },
+  {
+   "name": "Đừng vì cô đơn mà yêu sai một người. Cũng đừng vì yêu sai một người mà chịu cả đời cô đơn.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu thường bắt đầu bằng đỏ mặt và... kết thúc bằng đỏ mắt",
+   "author": ""
+  },
+  {
+   "name": "Tha thứ thì dễ dàng. Nhưng tin tưởng một lần nữa thì không dễ dàng như vậy.",
+   "author": ""
+  },
+  {
+   "name": "Lời chia tay anh nói hay như hát\nEm quay lại em tát đẹp như phim",
+   "author": ""
+  },
+  {
+   "name": "Đời anh toàn màu đen thì làm sao cho em được những ngày tươi nắng đầy màu hồng",
+   "author": ""
+  },
+  {
+   "name": "Đừng làm cho người con gái của mình buồn, sẽ vô tình tạo cơ hội cho thằng khác đối xử tốt với cô ấy.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu ai bán mà mua\nAi cho mà lấy ai thừa mà xin",
+   "author": ""
+  },
+  {
+   "name": "Tình cảm là thứ duy nhất không phải là cứ cố gắng là sẽ đạt được.",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh chưa kịp ngõ lời\nAi ngờ anh đã qua đời sáng nay",
+   "author": ""
+  },
+  {
+   "name": "Yêu em yêu cả tâm hồn\nYêu em yêu những chiếc hôn ngọt ngào",
+   "author": ""
+  },
+  {
+   "name": "Nơi cũ anh quay lại, vẫn thường xuyên\nIm lặng nơi đây, làm nỗi nhớ phải lên tiếng\nVậy yêu có phải chết đi ở trong lòng 1 ít không?\nPhần còn lại còn sống chắc là để nhớ và để mong\n-- Như Ngày Đó --",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu 2 chữ liêu xiêu\nYêu thật thì ít nói điêu thì nhiều...",
+   "author": ""
+  },
+  {
+   "name": "Em ơi anh hỏi một câu,\nKhông có bộ đội lấy đâu hòa bình?\nThế sao em lại vô tình\nĐể anh bộ đội một mình bơ vơ.",
+   "author": ""
+  },
+  {
+   "name": "Uống cùng em một chén tương tư\nĐể ta say nhau giữa một đời vô vị",
+   "author": ""
+  },
+  {
+   "name": "- Anh à... e nhớ a nhiều lắm... e ko thể nào quên được anh\n- Anh xin lỗi em... thực ra thì anh... đã có chồng rồi!",
+   "author": ""
+  },
+  {
+   "name": "Cam sành lột vỏ còn chua\nTiền thì không có sao cua được nàng",
+   "author": ""
+  },
+  {
+   "name": "Anh là sương, sương chỉ tan trong nắng\nNắng vô tình nhưng nắng đọng trong sương\nAnh yêu em bởi vì em là nắng\nCó hạt sương nào thiếu nắng lại lung linh",
+   "author": ""
+  },
+  {
+   "name": "Một bông hoa không tôn thờ 2 chủ\nMột con người không ấp ủ 2 trái tym",
+   "author": ""
+  },
+  {
+   "name": "Ngày nắng vàng - Ngày vắng nàng",
+   "author": ""
+  },
+  {
+   "name": "Yêu thật thì thua mà yêu đùa thì thắng",
+   "author": ""
+  },
+  {
+   "name": "Ước gì có ai đó tự nguyện nắm lấy tay tôi và cùng tôi vượt qua tuổi thanh xuân rực rỡ này...",
+   "author": ""
+  },
+  {
+   "name": "Trên trời có những vị tiên\nDưới đất có những người điên vì tình",
+   "author": ""
+  },
+  {
+   "name": "Bệnh tương tư từ từ cũng hết.\nBệnh thất tình tới chết thì thôi.",
+   "author": ""
+  },
+  {
+   "name": "Trong tình yêu đừng nên phân biệt đẹp hay xấu, cao hay thấp, căng hay lép. Tình yêu chân thật chỉ cần đối phương giàu là mình sẽ yêu.",
+   "author": ""
+  },
+  {
+   "name": "Anh tưởng chuyện tình ta như Tây Du Ký\nAi dè em cũng như trư bát giới hới tí là đòi chia hành lý",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau bằng nụ cười\nKết thúc bằng nước mắt.",
+   "author": ""
+  },
+  {
+   "name": "Người đem lòng yêu dòng sông, chỉ vì họ chưa nhìn thấy biển cả. Riêng tôi nhìn thấy cả dãy ngân hà nhưng chỉ yêu duy nhất một vì sao.",
+   "author": ""
+  },
+  {
+   "name": "Sông sâu nước chảy đá mòn\nTim em vẫn đập vẫn còn yêu anh",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa bé nói yêu anh\nAnh chê bé nhỏ bé chưa biết gì\nNay bé đến tuổi dậy thì\nAnh khen bé đẹp bé chê anh già",
+   "author": ""
+  },
+  {
+   "name": "Không phải ai đó đã thay đổi... mà vì chiếc mặt nạ của họ đã rơi.",
+   "author": ""
+  },
+  {
+   "name": "Hiền lành thì anh chê nhạt. Mà đậm đà như mù tạt thì anh bảo hăng.",
+   "author": ""
+  },
+  {
+   "name": "Thật ra đôi khi mình cũng muốn làm tình với bạn cũ... à nhầm... làm bạn với tình cũ... à mà thôi...",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là thứ không thể thay đổi.. thứ thay đổi chỉ có thể là người yêu",
+   "author": ""
+  },
+  {
+   "name": "Trong tình yêu hợp hay không không quan trọng, quan trọng là có vì nhau mà thay đổi thay không.",
+   "author": ""
+  },
+  {
+   "name": "Đã yêu thì yêu cho tới mà đã tới thì đừng có đi",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu có nhiều cách để bắt đầu, thừa lý do để kết thúc nhưng hiếm có cơ hội nào để làm lại.",
+   "author": ""
+  },
+  {
+   "name": "1 là anh bỏ nó, 2 là anh theo nó chứ anh đừng chơi kiểu chó vừa nó vừa em",
+   "author": ""
+  },
+  {
+   "name": "Hỏi thế gian có bao nhiêu liều thuốc bổ..\nSẽ chữa lành căn bệnh khổ vì yêu...\nYêu cũng khổ mà không yêu cũng khổ\nTrái tim này chắc phải mổ ra xem...",
+   "author": ""
+  },
+  {
+   "name": "Em xây anh bằng cát\nRùi em hôn 1 phát\nÔi tình yêu chua chát\nToàn là đất vs Cát",
+   "author": ""
+  },
+  {
+   "name": "Lực hấp dẫn không chịu trách nhiệm cho việc con người ta yêu nhau.",
+   "author": ""
+  },
+  {
+   "name": "Bước tới nhà e bóng xế tà\nĐứng chờ 5 phút bố em ra\nLơ thơ đằng trước vài con chó\nLác đác theo sau chổi lông gà",
+   "author": ""
+  },
+  {
+   "name": "Từ khi chia tay em, anh chìm đắm trong men rượu và khói thuốc... Anh không hiểu, thật sự không hiểu, tại sao, tại sao... anh lại có thể ăn mừng lâu đến vậy.",
+   "author": ""
+  },
+  {
+   "name": "Em xinh nhất đấy nhưng vẫn thua người yêu anh",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta phải hiểu rõ 1 điều rằng là nếu may mắn, mình gặp một người, mình yêu suốt đời. Còn không may mắn hãy cứ gặp nhiều người và chọn người cuối cùng tốt nhất ở lại với mình.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời này sẽ còn nhiều sóng gió\nChính vì vậy \"gấu chó\" mới ra đời",
+   "author": ""
+  },
+  {
+   "name": "- Huy là nyc cũ của tao. Nhưng có lẽ người làm tao đau khổ nhất phải là Hoàng.\n- Nhưng mày có yêu ông Hoàng đâu.\n- Trời, nó cướp Huy của tao.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi lần em khóc trời lại đổ mưa. Người ta nói mưa là nước mắt của thiên thần... Yêu em... thiên thần của anh",
+   "author": ""
+  },
+  {
+   "name": "Em lạc anh giữa dòng đời đông đúc và... em mất anh trong sự lén lút của người thứ 3.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tôi cần 9 tháng để hình thành nên trái tim tôi Anh nghĩ anh là ai mà có thể làm tan vỡ nó",
+   "author": ""
+  },
+  {
+   "name": "Vẻ đẹp bên ngoài khiến người ta sững sờ khi gặp mặt\nVẻ đẹp bên trong khiến người ta ngơ ngác lúc chia tay.",
+   "author": ""
+  },
+  {
+   "name": "Đã yêu thì bao nhiêu lỗi lầm cũng có thể tha thứ\nHết yêu rồi thì nhìn nó thở cũng muốn chia tay.",
+   "author": ""
+  },
+  {
+   "name": "Chai dầu gội đầu ghi \"phục hồi hư tổn từ sâu bên trong\" và tôi xài hết hai chai rồi nhưng vẫn nhớ em.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu khó hiểu làm sao\nVì nó làm khổ biết bao nhiêu người",
+   "author": ""
+  },
+  {
+   "name": "Tình bạn sau tình yêu là phát đạn ân huệ của kẻ tử tù.",
+   "author": ""
+  },
+  {
+   "name": "Sao lúc anh nhắn tin em lúc nào em cũng \"ừ\", sao đến lúc anh tỏ tình em lại chẳng như thế.",
+   "author": ""
+  },
+  {
+   "name": "Bên em anh mặc kệ, tháng dài trôi\nAnh cứ để, những nụ hôn còn ngại môi\nEm lo mình sẽ mù quáng, vậy cũng phải thôi\nKhi yêu là ta đã ngây dại rồi\n-- Tình nhân ơi -- ft Orange",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu... biến những thứ vô nghĩa... trở nên những thứ ý nghĩa",
+   "author": ""
+  },
+  {
+   "name": "Sẽ có một ngày anh thành chú rể và em là cô dâu.\nNhưng hai ta chẳng thể nào đứng chung một lễ đường",
+   "author": ""
+  },
+  {
+   "name": "Đến cuối cùng...cô nghĩ chia tay nhau là sự lựa chọn đúng đắn.\nCòn riêng tôi...đến thở thôi cũng cảm thấy khó khăn.",
+   "author": ""
+  },
+  {
+   "name": "Bởi từ ngày em bỏ anh ra đi, tình yêu với anh trở thành thứ xa xỉ\nAnh bán linh hồn cho ma quỷ, mọi điều tốt đẹp anh đều cho qua đi\n-- Tất Cả Tại Anh-- ft Emma",
+   "author": ""
+  },
+  {
+   "name": "Có lẽ với em anh không đủ CHUNG TÌNH\nVậy em cứ đi tìm người khác để nhận được điều ngược lại",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười này sẽ chẵng bao giờ thật lòng với em nữa đâu...",
+   "author": ""
+  },
+  {
+   "name": "Có 1 kí ức, mãi mãi không quên\nCó 1 cái tên, suốt đời sẽ nhớ",
+   "author": ""
+  },
+  {
+   "name": "Lúc quen nhau anh nói : \"Ai chia tay trước là thua nhé!\". Nhưng sao bây giờ anh lại nhường em thắng",
+   "author": ""
+  },
+  {
+   "name": "Người tình không bao giờ cưới",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc muốn quàng cổ anh từ đằng sau... rồi lấy hết sức cha sanh mẹ đẻ siết cho thật chặt",
+   "author": ""
+  },
+  {
+   "name": "Nàng nắm tay ta, theo ta nửa đời phiêu bạt, ta hôn mắt nàng, che nàng nửa kiếp lênh đênh.",
+   "author": ""
+  },
+  {
+   "name": "Gấu nói chia tay để tập trung vào sự nghiệp\nChưa đầy 2 tuần nó gửi thiệp mời đám cưới với thằng Trần Sự Nghiệp",
+   "author": ""
+  },
+  {
+   "name": "Gửi anh người yêu cũ\nNhớ uống rượu đúng giờ, khó chịu thì hút thuốc nhiều vào.\nThức khuya thường xuyên nhé, ăn ít thôi. Trời lạnh thì đừng đi tất.\nRãnh thì nhớ cắm mặt vào điện thoại với game điều độ.\nQua đường thì đừng nhìn ngang ngó dọc, nhất là khi đèn đỏ.\nKhông ngủ được thì uống rượu anh nhé.\nChán thì làm cái gì đó vui vui chút như nhảy từ tầng 20 xuống.\nSống tốt anh nhé.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như bát bún thiu\nĂn nhiều đau bụng yêu nhiều đau tim",
+   "author": ""
+  },
+  {
+   "name": "Thành phố này không vì có hoàng hôn mà trở nên rực rỡ\nNhưng em nhất định vì anh mà trở nên dịu dàng",
+   "author": ""
+  },
+  {
+   "name": "Em sẽ viết tên anh ngàn lần lên cát\nĐể sóng ngàn lần tát vỡ mặt anh ra.",
+   "author": ""
+  },
+  {
+   "name": "Hoa đẹp hoa thơm hoa vẫn tàn\nAnh thề anh hứa rồi anh quên",
+   "author": ""
+  },
+  {
+   "name": "Hoa hồng tuy đẹp nhưng có gai\nMuốn hái được hoa phải có tài\nBất tài vô dụng đừng có hái\nGai đâm chảy máu biết trách ai?",
+   "author": ""
+  },
+  {
+   "name": "Kiếp sau anh nhất định sẽ trở thành một người đúng style em thích, sau đó không thích em.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là bất tử, chỉ có người yêu là thay đổi.",
+   "author": ""
+  },
+  {
+   "name": "Lúc còn yêu thì ko gì có thể cản mà 1 khi đã nản thì đừng lãng vãng trước mặt nhau",
+   "author": ""
+  },
+  {
+   "name": "Yêu 1 người rất khó... nên hãy thử yêu vài người xem sao :v",
+   "author": ""
+  },
+  {
+   "name": "Định nắm tay người đi qua hết giông bão cuộc đời\nCó ai ngờ chưa đến nửa đường đã hết hơi...",
+   "author": ""
+  },
+  {
+   "name": "Trăng lên, trăng tròn, trăng lại khuyết\nTuyết rơi, tuyết phủ, tuyết lại tan\nHoa đẹp, hoa nở, hoa vẫn tàn\nTình nồng, tình thắm, tình vẫn tan",
+   "author": ""
+  },
+  {
+   "name": "Một loài hoa không tôn thờ 2 chủ\nMột tấm lòng không ấp ủ 2 trái tim.",
+   "author": ""
+  },
+  {
+   "name": "Khi em cần anh luôn có. Lúc anh khó em lại bỏ anh đi...",
+   "author": ""
+  },
+  {
+   "name": "Dịch bệnh ở khắp mọi nơi\nCớ sao anh lại đánh rơi em này?",
+   "author": ""
+  },
+  {
+   "name": "Yêu hết mình... cạn tình thì buông.",
+   "author": ""
+  },
+  {
+   "name": "Nhìn thấy 1 người rất giống anh, em vội vàng đuổi theo, rồi chợt nhớ ra thành phố này không có anh, em buông viên gạch trong tay xuống. Haiz, suýt nữa ném nhầm người.",
+   "author": ""
+  },
+  {
+   "name": "Lúc người ấy - lấy người Úc",
+   "author": ""
+  },
+  {
+   "name": "Vẽ những nốt nhạc, em họa được bản tình ca\nVẽ anh yêu ta, em họa chú rể đời mình.",
+   "author": ""
+  },
+  {
+   "name": "Tình chỉ đẹp khi còn dang dở\nLấy nhau về tắt thở càng nhanh.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như củ khoai sùng\nGọt đi gọt lại cuối cùng lợn ăn",
+   "author": ""
+  },
+  {
+   "name": "Chẳng một ai có thể cản được trái tim khi đã lỡ yêu rồi!",
+   "author": ""
+  },
+  {
+   "name": "- Chúng ta chia tay đi\n- Em ko có giỡn nha, em ko tin đâu\n- Yêu mà không tin tưởng thì yêu làm mẹ gì?",
+   "author": ""
+  },
+  {
+   "name": "Tôi hỏi lũ sâu xanh\nLá có gì mà thích?\nLũ sâu cười khúc khích\nThích đâu cần lý do?",
+   "author": ""
+  },
+  {
+   "name": "Nước chung quanh chạy quanh miệng chén\nHai đứa mình yêu lén mẹ cha...\nNếu mai này cha đánh mẹ la...\n\" I LOVE YOU \" Vượt qua tất cả...",
+   "author": ""
+  },
+  {
+   "name": "Chuyện tình cảm cứ để nó tự nhiên\nNếu có duyên sẽ chẳng lạc đường",
+   "author": ""
+  },
+  {
+   "name": "Yêu em yêu cả đường đi.\nGhét em ghét cả tông ti họ hàng.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em từ thuở tắm sông\nMà nay em đã một chồng tám con",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau 9 năm... Năm thứ 10 được mời đi dự đám cưới người yêu..",
+   "author": ""
+  },
+  {
+   "name": "- Lý do ngày đấy các bạn chia tay?\n- Cô ấy thấy tao ko đủ điều kiện để lo cho cô ấy nên mới chia tay cho tao bớt đi gánh nặng... cô ấy thật tốt.",
+   "author": ""
+  },
+  {
+   "name": "Cái gì tôi thích, tôi sẽ làm mọi cách cho nó trở thành của tôi. Nếu nó vẫn không thuộc về tôi, tôi sẽ giả vờ là không thích nữa...",
+   "author": ""
+  },
+  {
+   "name": "Xóa yêu thương, em gượng cười trong hạnh phúc\nXóa cảm xúc, em chúc phúc người anh yêu",
+   "author": ""
+  },
+  {
+   "name": "Khi tình yêu hết hạn cũng là lúc kết bạn với tay.",
+   "author": ""
+  },
+  {
+   "name": "Dạo này thấy người yếu\nChắc do thiếu người ấy",
+   "author": ""
+  },
+  {
+   "name": "Em nên nhớ trên đời này có hai thứ tuyệt đối phải giữ chặt 1 là sinh mạng 2 là tay anh",
+   "author": ""
+  },
+  {
+   "name": "Đơn phương là thứ tình cảm nhớ thương không có người đáp trả",
+   "author": ""
+  },
+  {
+   "name": "Cảm xúc trong em đã cạn\nHay là tình yêu đã hết hạn với anh!",
+   "author": ""
+  },
+  {
+   "name": "Lạy thượng đế cho con quên người ấy từ bây giờ và mãi mãi về sau bởi chúng con không nợ nần gì nhau. Bao đắng cay xin để mình...nó chịu",
+   "author": ""
+  },
+  {
+   "name": "- Mình chia tay đi...\n- Tại sao?\n- Anh cần tập trung vào việc học\n- Mày tưởng hết yêu tao là mày bớt ngu à?",
+   "author": ""
+  },
+  {
+   "name": "- Anh nói đi! Phản bội tui anh được cái gì hả?\n- Được con khác",
+   "author": ""
+  },
+  {
+   "name": "Mọi thứ bắt đầu bằng một sự vô tình\nVà rồi kết thúc trong một sự cố tình.",
+   "author": ""
+  },
+  {
+   "name": "Có một ngày bạn sẽ hiểu ông trời mang đi thứ bạn muốn không phải vì bạn không xứng đáng mà vì bạn xứng đáng có được thứ tốt hơn",
+   "author": ""
+  },
+  {
+   "name": "- Trời dạo này nóng ha anh?\n- Ừm...\n- Em sẽ làm mát anh bằng sự lạnh lùng của em. Chia tay đi, em yêu người khác rồi.",
+   "author": ""
+  },
+  {
+   "name": "Không dám bung cánh tay sợ em tung cánh bay.",
+   "author": ""
+  },
+  {
+   "name": "Yêu được thì mình tiến, không yêu đuợc thì biến",
+   "author": ""
+  },
+  {
+   "name": "- Theo bà, thói quen xấu nào mà nyc nên bỏ?\n- Thở!",
+   "author": ""
+  },
+  {
+   "name": "Người nói mưa rơi, mưa chẳng còn\nNgười hứa chung thủy thề sắc son\nCông danh chữ hiếu vẫn chưa trọn\nQuay đi ngoảnh lại... nàng hai con",
+   "author": ""
+  },
+  {
+   "name": "Nếu như bên tôi bạn không cảm thấy vui vẻ thì bạn hãy cứ biến đi việc gì phải lừa dối tôi.",
+   "author": ""
+  },
+  {
+   "name": "Yêu không phải là sai... mà có thai là do yêu sai phương pháp...",
+   "author": ""
+  },
+  {
+   "name": "Trong tình cảm, một vài người con trai sẽ không tiến thêm bước nữa, bởi vì họ sợ sau đó sẽ mất luôn cả tình bạn",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc là thứ đi vay\nVà chia tay là cái giá phải trả",
+   "author": ""
+  },
+  {
+   "name": "Chuyện cũng dài, kể ra cũng ngại, nên thôi dừng lại, chúng mình chia hai.",
+   "author": ""
+  },
+  {
+   "name": "Người yêu thì quá dễ để có\nCòn hạnh phúc thì quá khó để tìm",
+   "author": ""
+  },
+  {
+   "name": "Mọi thứ đều phải trả bằng tiền bạc, còn tình yêu phải trả bằng tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi bạn yêu cả 1 thành phố không phải vì nó có gì mà là nó có ai.",
+   "author": ""
+  },
+  {
+   "name": "- Ngày trước a nói e là gì của a?\n- E là tất cả cuộc sống của a sau này\n- E nghĩ là a không cần phải sống nữa a ạ!!!",
+   "author": ""
+  },
+  {
+   "name": "Tiền nhiều bỏ túi làm chi... Mua liều thuốc chuột phòng khi thất tình",
+   "author": ""
+  },
+  {
+   "name": "Ta gọi em là thế giới nên khi mất em chẳng khác gì ta là kẻ lưu vong ngoài vũ trụ.",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau là do duyên số\nKhông yêu thôi đừng xin số người ta",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như nhà vệ sinh\nHạnh phúc bước vào hết tình bước ra.\nĐôi ta hai đứa thuận hòa\nSuốt đời suốt kiếp trong nhà vệ sinh",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như cafe đen đá\nBạn đen thì bị đá, thế thôi!",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có kẻ yếu lúc chia tay mới khóc lóc van xin người ta đừng rời xa mình, kẻ mạnh chúng tôi sẽ quỳ xuống đất ôm chân để đối phương không cựa quậy được.",
+   "author": ""
+  },
+  {
+   "name": "Cây phải vươn cành mới nhận đc nắng\nNgười phải cố gắng mới được yêu thương",
+   "author": ""
+  },
+  {
+   "name": "Khi yêu ai đó thật lòng, bạn sẽ nhận được hoặc là 1 người bạn đời, hoặc là 1 bài học để đời.",
+   "author": ""
+  },
+  {
+   "name": "Khoảnh khắc nhận ra nym của nyc xấu hơn mình, tôi không thể nén nổi 1 nụ cười không hề nhẹ.",
+   "author": ""
+  },
+  {
+   "name": "Đừng đi tìm người hoàn thiện, vì không có ai hoàn thiện cả. Chỉ khi bạn yêu họ, họ mới hoàn thiện.",
+   "author": ""
+  },
+  {
+   "name": "Chủ động quá thì mất giá\nIm lặng quá thì mất nhau",
+   "author": ""
+  },
+  {
+   "name": "Hoá ra chỉ cần trái tim rung động, thì tất cả mọi tiêu chuẩn đều trở thành vô nghĩa.",
+   "author": ""
+  },
+  {
+   "name": "Yêu thì yêu, không yêu thì thôi\nĐừng kiểu nửa vời làm tổn thương tôi",
+   "author": ""
+  },
+  {
+   "name": "Tim còn đập là yêu dồn dập\nMà... Yêu dồn dập là ngu nhiều tập",
+   "author": ""
+  },
+  {
+   "name": "Nghề của tao là chuyên viên yêu phụ nữ\nViết về họ tao sợ là tiếng Việt không đủ chữ\nTao như là một chú chim yêu cánh bướm, thích vườn hoa\nViết về phụ nữ phải viết một bản trường ca\n-- Tôn trọng phụ nữ --",
+   "author": ""
+  },
+  {
+   "name": "Có một hôm tôi đang đi trên đường, đột nhiên có 1 chàng trai ở phía sau chạy lên hỏi tôi: \"200k này có phải của em rơi không?\". Tôi nói \"Không phải\". Anh ấy nói: \"Thế này đi, dù sao cũng không biết là của ai, chúng ta dùng tiền này cùng nhau đi xem phim nhé?\". Sau này chàng trai đó trở thành chông tôi <3",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau cởi áo cho nhau\nGhét nhau trợn mắt : “Áo đâu? Mặc vào!!!”",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống dạy a biết yêu thương\nCòn e dạy a cách yêu thương cuộc đời",
+   "author": ""
+  },
+  {
+   "name": "Yêu em chưa kịp tỏ lòng\nAi ngờ em đã cưới chồng tháng sau",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu có giận, có hờn\nCó ghen, có trách, có buồn, có đau.\nGiận hờn là để hiểu nhau\nChứ đâu phải để mất nhau suốt đời.",
+   "author": ""
+  },
+  {
+   "name": "Tiền ai nấy tính... thì tình ai nấy tiến",
+   "author": ""
+  },
+  {
+   "name": "Bao nhiêu lời em nói yêu là bấy nhiêu lời em nói điêu.",
+   "author": ""
+  },
+  {
+   "name": "Ớt nào mà ớt ko cay\nAi yêu mà chẳng phải day dứt lòng",
+   "author": ""
+  },
+  {
+   "name": "Đúng người, đúng thời điểm là chuyện cổ tích\nSai người, sai thời điểm là tuổi thanh xuân.",
+   "author": ""
+  },
+  {
+   "name": "Chia tay không phải là tất cả chỉ xem là ta chia tay ai thui",
+   "author": ""
+  },
+  {
+   "name": "Một thời gian để yêu và... một đời để trả nợ.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em thì hãy xem em như nhịp thở\nĐừng xem em như tô phở lúc đói lòng.",
+   "author": ""
+  },
+  {
+   "name": "Gấu: Em 2 vạch rồi chồng ơi\nTui: Gì cơ?\nGấu: Em nhắn lộn số, xin lỗi anh iu",
+   "author": ""
+  },
+  {
+   "name": "Dù chúng ta không còn ở bên nhau, thì em vẫn chúc anh ở nơi ấy sóng gió triền miên không yên một ngày.",
+   "author": ""
+  },
+  {
+   "name": "Không gì ngọt bằng nước bọt người yêu",
+   "author": ""
+  },
+  {
+   "name": "Trứng rán cần mỡ, bắp cần bơ\nYêu không cần cớ cần anh cơ",
+   "author": ""
+  },
+  {
+   "name": "Bao câu mắng chửi anh ngoài miệng, nhưng trong lòng lại yên lặng chúc anh hạnh phúc. Chúc hai người hạnh phúc là giả, nhưng chúc anh hạnh phúc là thật.",
+   "author": ""
+  },
+  {
+   "name": "Nhớ cái lúc chia tay người yêu cũ, ban ngày thì không sao, nhưng đêm về, cảm xúc trong lòng không thể che giấu được nữa, một mình vùi đầu trong chăn cười trộm.",
+   "author": ""
+  },
+  {
+   "name": "Thân em như tấm lụa đào\nQuỷ tha ma bắt lại vào tay anh",
+   "author": ""
+  },
+  {
+   "name": "Chỉ vì người hẹn một câu\nMà ta bỏ lỡ chừng đâu chục người",
+   "author": ""
+  },
+  {
+   "name": "Xa mặt thì cách lòng... mà xa lòng thì hết cách.",
+   "author": ""
+  },
+  {
+   "name": "Nếu a thả yêu thương vào khói trắng\nThì liệu e sẽ hít vào hay thở ra...:((",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu...giúp ta vượt lên những suy nghĩ tầm thường...và đưa chúng ta tới...những suy nghĩ...tầm bậy",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu có muôn hình vạn trạng nhưng chung quy nó vẫn từ trái tim và tâm hồn kết hợp làm một mà ra, không phải sao???",
+   "author": ""
+  },
+  {
+   "name": "Anh bàng hoàng nhận ra mình là kẻ thiếu muối... đang đắm đuối yêu một kẻ củ chuối như em",
+   "author": ""
+  },
+  {
+   "name": "Thế gian cỏ lạ nhiều vô kể cớ sao nhớ mãi 1 cành hoa.",
+   "author": ""
+  },
+  {
+   "name": "Lúc chưa hôn được anh, em cảm thấy ngay cả chó mèo xung quanh cũng là tình địch.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là 1 bài toán khó. Do đó.. muốn giải được nó ta phải nháp kĩ lấy vài lần.",
+   "author": ""
+  },
+  {
+   "name": "Nếu vẫn còn luyến tiếc người cũ, thì xin đừng làm tổn thương người yêu mới",
+   "author": ""
+  },
+  {
+   "name": "Tui bị người yêu chia tay vì cái tật dễ bị phân tâm, thiếu sự quan tâm hay gì đó đại loại vậy. Lúc đó tui nghe cũng không kỹ cho lắm.",
+   "author": ""
+  },
+  {
+   "name": "Tạo hóa giúp anh biết yêu\nCòn em giúp anh rèn luyện 1 con tim thép",
+   "author": ""
+  },
+  {
+   "name": "Thất vọng giống như tiền lẻ vậy, nhỏ nhặt không đáng để tâm, nhưng một ngày khi gom đủ, em sẽ mua cho mình một vé xe không khứ hồi, vĩnh viễn rời xa anh...",
+   "author": ""
+  },
+  {
+   "name": "Yêu hoài ốm, ôm hoài yếu.",
+   "author": ""
+  },
+  {
+   "name": "Đừng yêu người nào đó chỉ vì tò mò hay muốn trốn chạy thực tế",
+   "author": ""
+  },
+  {
+   "name": "Là con gái... khi iu 1 ai đó thì đừng iu quá nhìu... mà hãy để vài % không iu... đôi lúc ta cần nó để đứng dậy bước ra khỏi",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta có một cuộc đời để yêu chứ không phải chỉ để yêu một người...",
+   "author": ""
+  },
+  {
+   "name": "Nói dối giết chết tình yêu. Nhưng nói thật thì lại càng làm nó chết nhanh hơn.",
+   "author": ""
+  },
+  {
+   "name": "Một ngày nào đó, em sẽ khiến anh liếc mắt một cái sẽ thấy một em rực rỡ đứng giữa biển người. Tới lúc ấy em sẽ nói anh nghe anh đã tồn tại ra sao trong những ngày tháng thanh xuân của em.",
+   "author": ""
+  },
+  {
+   "name": "Chưa yêu chưa biết chữ \"Đờ\"\nYêu rồi mới biết chữ... Đờ au...\"Đau\"",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu vốn dĩ chỉ dành cho hai người. Thế mà một số người hình như vẫn không biết đếm.",
+   "author": ""
+  },
+  {
+   "name": "Năm tao 18 tuổi, có nhỏ gần nhà rủ về nhà nó chơi trò vợ chồng. Khi lại nhà thì ba mẹ nó đi vắng cả. Nó bắt tao rửa chén, lau nhà, giặt đồ,... xong xuôi nó dở chứng kêu nghỉ, không chơi nữa.",
+   "author": ""
+  },
+  {
+   "name": "Đừng vì vết trầy của người đến trước\nMà làm xước trái tim của người đến sau",
+   "author": ""
+  },
+  {
+   "name": "Không có người yêu hoàn hảo.\nChỉ có kẻ lừa đảo chuyên môn.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ chung tình thì hay thất bại\nKẻ lừa tình thì lại thành công.",
+   "author": ""
+  },
+  {
+   "name": "Vì đời là niềm đau... nên mất nhau là quy luật.\nTình quay lại là tình thương hại... mà tình thương hại thì làm gì có tương lai.\nHạnh phúc là phải do 2 đứa cùng khâu vá, chứ không phải 1 đứa phá 1 đứa khâu.",
+   "author": ""
+  },
+  {
+   "name": "Một người buông tay, một người té…\nMột người né tránh, một người đau…",
+   "author": ""
+  },
+  {
+   "name": "Nhiều người yêu nhau lâu quá quên cả cưới.\nNhiều người cưới nhau lâu quá quên cả yêu.",
+   "author": ""
+  },
+  {
+   "name": "Em yêu anh bằng tất cả những gì em có\nVà rồi anh yêu nó như chưa từng có em :(",
+   "author": ""
+  },
+  {
+   "name": "Review khi có người yêu là vận động viên điền kinh:\n- Khi hôn em, tại sao anh ôm em có một tay?\n- Anh bấm đồng hồ để xem lần này anh hôn em vượt lần trước bao nhiêu giây.",
+   "author": ""
+  },
+  {
+   "name": "Đố ai định nghĩa đưọc nụ hôn.\nCó khó gì đâu một tâm hồn.\nHai đứa yêu nhau ngồi xích lại.\nMôi kề mắt nhắm thế là hôn.",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 mai em đi lấy chồng\nAnh dại gì nghĩ thế là xong\nEmail cứ gửi thư cứ viết\nBao giờ li dị về với anh",
+   "author": ""
+  },
+  {
+   "name": "Tình như mây, nghĩa như bèo\nBèo dạt mây trôi, tình tan nghĩa hết.",
+   "author": ""
+  },
+  {
+   "name": "Thì đúng là tôi block anh. Nhưng anh có gửi mail cho tôi không? Có đứng trước nhà tôi với một cái pizza size lớn không? Có thấy nỗ lực nào đâu mà bày đặt nói yêu.",
+   "author": ""
+  },
+  {
+   "name": "Yêu anh mấy núi cũng trèo\nMấy sông cũng lội, thấy anh nghèo... lại thôi.",
+   "author": ""
+  },
+  {
+   "name": "Tình càng đẹp kết thúc càng cay\nHứa càng hay chia tay càng thấm",
+   "author": ""
+  },
+  {
+   "name": "Ai bảo chăn trâu là khổ, tôi nay chăn nàng còn khổ hơn chăn trâu.",
+   "author": ""
+  },
+  {
+   "name": "Anh không dám yêu một ai khác vì anh sợ lúc em về sẽ không tìm thấy anh :(((",
+   "author": ""
+  },
+  {
+   "name": "Xấu quá thì bị chia tay cũng là chuyện bình thường mà, huống hồ mày còn nghèo",
+   "author": ""
+  },
+  {
+   "name": "Anh yêu em còn em yêu thằng đó, vậy em cứ đứng đó mà ngó anh và thằng đó yêu nhau",
+   "author": ""
+  },
+  {
+   "name": "Gặp nhau yêu nhau là do duyên số, đến với nhau được hay không là ẩn số đang tìm.",
+   "author": ""
+  },
+  {
+   "name": "Khi tình yêu hết hạn... thì sự khốn nạn lên ngôi",
+   "author": ""
+  },
+  {
+   "name": "Chuyện tình yêu lúc nào cũng thế\nĐi mãi bao năm lê thê mong tìm được ai trên lối về\n-- Sai Người Sai Thời Điểm --",
+   "author": ""
+  },
+  {
+   "name": "Lúc người yêu tao giận, nó chỉ canh đến ngã 4 có CSGT thì nó tháo nón bảo hiểm ra cho tao bị phạt tiền.",
+   "author": ""
+  },
+  {
+   "name": "Cái cốc nhiều nước quá thì nó sẽ tràn ra ngoài, con người cũng vậy, cất nhiều nỗi đau quá thì họ sẽ khóc...",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như thể đi câu\nAnh nào chai mặt ngồi lâu mới tài",
+   "author": ""
+  },
+  {
+   "name": "Khi em xa anh, tim anh vỡ thành trăm mảnh\nĐể bây giờ đây anh phải yêu trả 100 người.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần bạn yêu anh ấy thật lòng, cho dù Iphone XS anh ấy sắm có xấu. Ferrari anh ấy tặng không phải màu bạn thích, nhà anh ấy mua trong nội thành ồn ào, bạn vẫn lặng lẽ nhận, không hề cất tiếng phàn nàn.",
+   "author": ""
+  },
+  {
+   "name": "Em tưởng sau khi chia tay anh, em có thể quên được phần nào ký ức về anh. Ai ngờ... Em quên sạch",
+   "author": ""
+  },
+  {
+   "name": "Chẳng cần thể hiện trong đám đông ồn ã!! Chỉ cần sau những vội vã vẫn lại có nhau!!",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu đôi khi k chỉ là quan tâm mà cũng cần có sự can thiệp của bạo lực",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói... nếu như tình yêu bạn không hoàn thiện thì có 2 loại :\n1. yêu sai người\n2. yêu sai cách",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu như thể hái hoa\nMột tay muốn hái tới ba, bốn cành",
+   "author": ""
+  },
+  {
+   "name": "Yêu là phải nói giống như đói là phải ăn.",
+   "author": ""
+  },
+  {
+   "name": "Hãy yêu người vì bạn làm tất cả\nĐừng yêu người chỉ biết diễn tả tương lai.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi... có lẽ... hôi nách... là khoảng cách tình yêu!",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta đến với tình yêu không phải bằng cách tìm 1 người hoàn hảo mà học cách nhìn sự hoàn hảo bên trong 1 người không hoàn hảo.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em dù chỉ 1 ngày\nNhớ em từng phút từng giây từng giờ\nXa em trong lòng thấy nhớ\nGần em, em lại thờ ơ vô tình",
+   "author": ""
+  },
+  {
+   "name": "Con đường ngắn nhất để đi từ một trái tim đến 1 trái tim là con đường truyền máu.",
+   "author": ""
+  },
+  {
+   "name": "Yêu một người không phải vì người ấy đặc biệt. Mà chỉ là người ấy mang lại cảm giác đặc biệt trong tim mình.",
+   "author": ""
+  },
+  {
+   "name": "Khi mà ta thích một người, mỗi lần người ấy đăng status là lại ngồi nghiên cứu hơn cả phân tích tác phẩm văn học.",
+   "author": ""
+  },
+  {
+   "name": "Những người đã từng có duyên số... khi hết duyên... thì số cũng xoá mất rồi..!",
+   "author": ""
+  },
+  {
+   "name": "anh yêu em...em yêu nó... nó yêu người khác... tình yêu tam giác chua chát quá mày ha",
+   "author": ""
+  },
+  {
+   "name": "mình mới mòn có 2 đôi dép mà bố cô ấy đã gãy tới 3 cái chổi gà =]]",
+   "author": ""
+  },
+  {
+   "name": "Đường em đi toàn gạch với đá\nBiết lấy gì chọi nát mặt anh đây",
+   "author": ""
+  },
+  {
+   "name": "Trời buồn trời đổ cơn mưa\nEm ngồi em viết thư tình cho anh\nĐầu câu hai chữ \"chung tình\"\nCuối câu bốn chữ \"chúng mình chia tay\"",
+   "author": ""
+  },
+  {
+   "name": "Yêu thì phải trong sáng, phang thì phải trong tối",
+   "author": ""
+  },
+  {
+   "name": "Gái có bồ như \"Hoa\" có chủ..\nAnh hùng thực thụ đánh chủ giựt \"Hoa\"",
+   "author": ""
+  },
+  {
+   "name": "Yêu thì đơn giản, mà căn bản là giữ được bao lâu",
+   "author": ""
+  },
+  {
+   "name": "Ở bên anh, em bình yên đến lạ\nXa anh, em thấy lạ nhưng cũng khá bình yên.",
+   "author": ""
+  },
+  {
+   "name": "Yêu xưa chỉ biết nắm tay\nYêu nay chỉ biết fap ngày fap đêm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn làm mất iPhone 6, hôm sau được mẹ mua cho cái iPhone 7 nhất định bạn sẽ rất vui. Nếu bạn chia tay người yêu, vài hôm sau người bạn thầm ngưỡng mộ đến tỏ tình với bạn, nhất định bạn sẽ hạnh phúc ngay trở lại.\nThật ra con người không phải sợ mất đi. Cái chúng ta sợ nhất chính là sau khi mất đi rồi, sẽ không tìm lại được phiên bản nào tốt hơn nữa.",
+   "author": ""
+  },
+  {
+   "name": "Hôm trước đi uống trà chanh cùng bạn gái. Ẻm nói: \"Đây là nước chanh đó hả,chẳng có vị gì cả!!\". Nghe vậy mình liền nhớ tới sunlight với tinh chất của 100 trái chanh và đổ nửa lọ vào cái ly của cô ấy. Ngày hôm sau : \" Mình chia tay nhé!!!\"",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn nhẫn tâm bỏ mặc 1 cô gái ngay cả khi bạn lừa dối cô ấy mà cô ấy vẫn yêu bạn. Thì bạn đúng là kẻ chẳng ra gì!",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ yêu lại người yêu cũng... cũng như một cuốn sách, đọc bao nhiêu lần cũng chỉ có một cái kết mà thôi :)) lãng phí thời gian...",
+   "author": ""
+  },
+  {
+   "name": "Tôi nói tôi yêu em\nVậy mà em nói tôi nói xạo.\nTôi thừa nhận em giỏi,còn biết trong đầu tôi nghĩ gì",
+   "author": ""
+  },
+  {
+   "name": "Còn duyên kẻ đón người đưa\nHết duyên đi sớm về trưa 1 mình",
+   "author": ""
+  },
+  {
+   "name": "Hãy yêu 1 chàng trai lười vì sau này nó có chán bạn cũng sẽ lười chia tay.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ tay lên trời... Yêu em vô đối... Úp mặt xuống gối... Nói dối ngại ghê",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu bắt đầu khi 2 người nhìn vào mặt tích cực của nhau. Và kết thúc, khi chỉ còn nhìn vào mặt tiêu cực.",
+   "author": ""
+  },
+  {
+   "name": "Sau thất bại của tình yêu: Con trai vứt bỏ chung thủy, con gái biến mình thành kẻ lạnh lùng.",
+   "author": ""
+  },
+  {
+   "name": "Cây chỉ xanh khi cành có lá...anh chỉ cười khi bia đá khắc tên em",
+   "author": ""
+  },
+  {
+   "name": "Em không đủ cao thượng để nhường anh cho con khác,\nNhưng em đủ tàn ác để rạch nát mặt thằng nào phụ đời em!!!",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay trời trở gió... ngồi nhìn con chó em lại nhớ anh",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu của anh dành cho em cũng như giá xăng vậy. Ngày càng tăng nhiều hơn và không bao giờ ngừng lại.",
+   "author": ""
+  },
+  {
+   "name": "Lần đầu người ta gặp nhau có sét đánh tưởng là tiếng sét ái tình, ai ngờ đó là cảnh báo của thiên nhiên",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua hứa hẹn trăm đường\nHôm sau như tóc Đan Trường chia đôi",
+   "author": ""
+  },
+  {
+   "name": "Sao tuổi già, tình yêu đến nhanh chóng vậy mày... không dừng trạm thu phí luôn mày... ghê thiệt",
+   "author": ""
+  },
+  {
+   "name": "Cả nguồn sống bỗng chốc thu bé lại... vì dồn tiền nuôi gái.",
+   "author": ""
+  },
+  {
+   "name": "Chạy đâu khỏi trận mưa rào\nThông minh đến mấy yêu vào cũng ngu",
+   "author": ""
+  },
+  {
+   "name": "Khi có tình yêu, ai cũng thay đổi.\nKhi chết tình yêu, ai cũng thay lòng.",
+   "author": ""
+  },
+  {
+   "name": "Đắng cay chua ngọt đã từng\nA mà bỏ vợ e đừng có mơ",
+   "author": ""
+  },
+  {
+   "name": "Suốt đời yêu mãi một người\nBệnh này còn nặng gấp mười ung thư",
+   "author": ""
+  },
+  {
+   "name": "Cuộc tềnh dù đúng hay sai thì người sai vẫn là người không đúng.",
+   "author": ""
+  },
+  {
+   "name": "Sữa mẹ anh có thể cai, em nghĩ em là ai mà anh ko thể bỏ???",
+   "author": ""
+  },
+  {
+   "name": "Đường vào tình yêu muốn đến được thường Qua rất nhiều trạm thu phí.",
+   "author": ""
+  },
+  {
+   "name": "Đừng yêu một ai hai lần. Lần thứ hai, thứ bạn yêu chỉ là quá khứ của người ấy",
+   "author": ""
+  },
+  {
+   "name": "Tôi gọi người yêu cũ là kì nghỉ lễ, vì nó \"vừa ngắn vừa nhanh\".",
+   "author": ""
+  },
+  {
+   "name": "Khi không còn vị trí đặc biệt trong lòng ai đó, tốt nhất ta nên chọn cách im lặng và ra đi.",
+   "author": ""
+  },
+  {
+   "name": "- Đến Chipu còn đủ can đảm lấn sân Kbiz thì ko có lý do gì tại sao ko tỏ tình với Crush\n- Rồi Crush sẽ từ chối mày như cách mọi người đang phản đối Chipu thôi.",
+   "author": ""
+  },
+  {
+   "name": "Khi chia tay, luôn luôn nói tốt về người cũ. Nếu họ quá xấu thì không nói gì.",
+   "author": ""
+  },
+  {
+   "name": "Bác sĩ bảo anh bị thiếu i-ốt... nên yêu lầm đứa không tốt như em!",
+   "author": ""
+  },
+  {
+   "name": "- Chúng ta chia tay đi\n- Vì sao?\n- Anh có thai rồi.\n- Đừng giỡn nữa, em ko tin đâu.\n- Thấy chưa, giữa chúng ta ko có sự tin tưởng tối thiểu thì tiếp tục ở bên nhau làm sao được!",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa em đeo hài đỏ bỏ cả thế giới nhỏ để theo anh.\nNgày nay em đeo hài xanh tuy mỏng manh nhưng không còn coi anh là tất cả",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta đã yêu nhau lâu lắm rồi. Khi đó, anh đã nói thiếu em anh không sống nổi. Nhưng bây giờ anh mới nhận ra là mình có thể cố gắng. ^^",
+   "author": ""
+  },
+  {
+   "name": "Em đứng bên trái anh, vậy mà lại tựa như cách cả ngân hà.",
+   "author": ""
+  },
+  {
+   "name": "Đem yêu thương xếp vào quá khứ\nAnh yêu ai kệ cha anh chứ",
+   "author": ""
+  },
+  {
+   "name": "Lúc tôi cần em nhất, cũng là lúc mà em hất tôi ra.",
+   "author": ""
+  }
+ ]
+}

@@ -1,0 +1,1834 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Năm 7 tuổi, bắt đc con ve sầu, cứ tưởng có cả mùa hè trong tay\nNăm 17 tuổi, hôn lên gò má, cứ ngỡ sẽ có nhau trọn đời.",
+   "author": ""
+  },
+  {
+   "name": "Chắc anh tệ từ ở trong gene\nBạn em nói vương vấn với anh ko nên\nEm nói ko mở lòng cho một ai nữa\nNhưng sao em vẫn để anh ở trong em\n-- GENE --",
+   "author": ""
+  },
+  {
+   "name": "Duyên phận trời ban\nCớ sao trách được\nDuyên số sắp đặt\nĐành chấp nhận thôi",
+   "author": ""
+  },
+  {
+   "name": "Dắt ưu phiền vào trong dòng nhạc lạ,\nCó những câu chuyện phải ghi lòng tạc dạ\nAnh buộc vào chân của mình một đống giày,\nRồi anh tìm anh ở trong cuộc sống này\n-- Tầm Đông --",
+   "author": ""
+  },
+  {
+   "name": "Kẻ cô đơn lòng mang đầy tâm sự\nĐời cô độc thoát sao cảnh tâm tư!",
+   "author": ""
+  },
+  {
+   "name": "Khi một người có tiền gặp một người có kinh nghiệm, người có kinh nghiệm sẽ tích luỹ được tiền và người có tiền sẽ tích luỹ được kinh nghiệm.",
+   "author": ""
+  },
+  {
+   "name": "Trăng kia ai vẽ mà tròn\nLòng anh ai trộm mà hoài nhớ thương",
+   "author": ""
+  },
+  {
+   "name": "Đừng khóc vì chuyện đã kết thúc hãy cười vì nó đã xảy ra",
+   "author": ""
+  },
+  {
+   "name": "Nghe nói anh có nhiều tâm sự,\nThật tình cờ... em có cả vạn tâm tư!",
+   "author": ""
+  },
+  {
+   "name": "Đã khuya rồi vẫn ngồi đếm sao, đếm xong rồi mới thấy tào lao",
+   "author": ""
+  },
+  {
+   "name": "Cũng có thể những lời anh nói thì đều là hứa suông.\nCũng có thể em là người khiến anh tháo nhẫn cưới xuống.\n-- Phép Màu --",
+   "author": ""
+  },
+  {
+   "name": "Lòng em là vậy. Không bão thì mưa, chưa một ngày nắng đẹp.\nTình yêu nhân thế. Hữu duyên vô phận, tìm đâu kiếp bình yên.",
+   "author": ""
+  },
+  {
+   "name": "Hoa đẹp người thương. Hoa bình thường người đương nhiên mặc kệ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không đúng là người mình cần, thì cho dù bên cạnh có bao nhiêu người chăng nữa, cũng vẫn thấy cô đơn",
+   "author": ""
+  },
+  {
+   "name": "Hãy trân trọng những gì bạn đang có trước khi thời gian dạy cho bạn biết trân trọng những gì bạn đã có..",
+   "author": ""
+  },
+  {
+   "name": "Còn bao nhiêu lần trong đời sẽ gặp lại nhau nữa?",
+   "author": ""
+  },
+  {
+   "name": "Tôi tìm anh giữa bầu trời chen nắng\nAi tìm tôi giữa phố vắng đêm mưa",
+   "author": ""
+  },
+  {
+   "name": "Đừng lau nước mắt cho tôi khi bạn là người làm tôi khóc!\nĐừng ôm tôi vào lòng khi bạn là người đã đẩy tôi ra :)",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi người ta khóc không phải vì yếu đuối mà vì người ta đã phải mạnh mẽ trong một thời gian quá dài",
+   "author": ""
+  },
+  {
+   "name": "Đã có DUYÊN được gặp nhau rồi, nhưng liệu có NỢ để có thể được ở bên nhau không …",
+   "author": ""
+  },
+  {
+   "name": "Có những mối quan hệ nếu không đủ dũng khí để buông tay...\nThì nhất định quãng đời sau này sẽ đi vào ngõ cụt...",
+   "author": ""
+  },
+  {
+   "name": "Chân bước đơn côi\nMình tôi lẽ bóng\nMắt cứ lóng ngóng\nNhìn chẳng thấy em.",
+   "author": ""
+  },
+  {
+   "name": "Cười không chỉ để che giấu đi nỗi buồn, cười còn là để che giấu đi sự khinh bỉ",
+   "author": ""
+  },
+  {
+   "name": "Hãy cho tôi một tâm hồn của đá\nĐể tim này lạnh giá với tình yêu",
+   "author": ""
+  },
+  {
+   "name": "Không ai để ý những giọt nước mắt của bạn\nKhông ai để ý những nỗi buồn của bạn\nCũng chẳng ai để ý những nỗi đau của bạn\nNhưng tất cả họ đều nhìn thấy lỗi lầm của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Thành phố tấp nập\nPhụ huynh đưa cho con quyển bắt tập\nBỏ những món đồ chơi kia xuống vắt cặp\nĐưa những ước mơ họ đã mất và thần chú khắc nhập\n-- Ở Trong Thành Phố -- ft. Hannah B",
+   "author": ""
+  },
+  {
+   "name": "Vệt nắng cuối trời mang yêu thương hòa vào gió\nTôi đứng nơi đó để nước mắt hoà vào mưa",
+   "author": ""
+  },
+  {
+   "name": "Người nghĩa là NHÂN khi vấp NGÃ phải biết NHẪN\n-- Con đường ta đi --",
+   "author": ""
+  },
+  {
+   "name": "Chán cảnh đời hiểm ác chông gai...\nChán tháng ngày nhạt nhòa vô vị...\nChán lòng người đổi thay khó biết...\nChán thân mình cứ mãi nhớ em.",
+   "author": ""
+  },
+  {
+   "name": "Em vốn dĩ là hoa dại sao giám đòi hỏi sự nâng niu",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 ngày bạn muốn khóc. Hãy gọi cho tôi. Tôi ko hứa sẽ làm bạn cười, nhưng tôi hứa sẽ cười vào mặt bạn..",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc sẽ không mỉm cười với những đứa lười thả thính =))",
+   "author": ""
+  },
+  {
+   "name": "Cứ ngỡ anh là ánh nắng của riêng ta\nAi ngờ anh là mặt trời cả thiên hạ",
+   "author": ""
+  },
+  {
+   "name": "Anh rất thích làm cho em ghen\nBởi... lúc nhìn thấy em ghen anh mới biết mình còn quan trọng",
+   "author": ""
+  },
+  {
+   "name": "Và khi nó mất thăng bằng là khi đốt cháy giai đoạn\nKhi trước mặt mày là kẻ thù thì mày mới thấy ai bạn, homie!\n...\nCó đôi khi mà lòng tin là một thứ rất hiểm ác\nNó sẽ lấy đi sự hồn nhiên và khiến mày mất kiểm soát\n-- Một Ngày Thiếu Anh Trong Đời --",
+   "author": ""
+  },
+  {
+   "name": "Gặp gỡ và nảy sinh cảm xúc có thể là định mệnh. Nhưng ở lại hay ra đi là sự lựa chọn của mỗi người",
+   "author": ""
+  },
+  {
+   "name": "Người ta ra đường tay trong tay\nTui ra đường tay trong... túi\n-- Tôi Cô Đơn --",
+   "author": ""
+  },
+  {
+   "name": "Người ta luôn cố tìm cách tiết kiệm thời gian, nhưng lại đang phí thời gian để tìm ra cách tiết kiệm nó.",
+   "author": ""
+  },
+  {
+   "name": "Sự im lặng đôi khi làm người ta cảm thấy nặng nề hơn cả ngàn lời nói.",
+   "author": ""
+  },
+  {
+   "name": "Hoa nở là duyên, hoa tàn là nghiệt\nNgười đến là phúc, người đi là phận\nDuyên sâu thì hợp, duyên mỏng thì tan\nVạn pháp do duyên, vạn sự tuỳ duyên\nKhông cưỡng không cầu, không mong không khổ",
+   "author": ""
+  },
+  {
+   "name": "Người khiến bạn khóc... chỉ là người bạn yêu thôi\nCòn người làm bạn cười... mới là người yêu bạn nhất!",
+   "author": ""
+  },
+  {
+   "name": "Bố mày biết là con trai phải sống khổ\nTừ ngày bố rời xa mẹ bữa cơm gia đình mình trống chỗ\nLà thằng đàn ông không ra gì nên mẹ của mày mới tống cổ\nHệ giáo dục con tốt hơn mà cớ sao lớn lên lại giống bố\n-- Bố Mày Biết Mà --",
+   "author": ""
+  },
+  {
+   "name": "Hãy luôn luôn nở một nụ cười, bởi vì nụ cười của bạn là lý do cho nhiều người khác cũng cười.",
+   "author": ""
+  },
+  {
+   "name": "Anh không có gì ngoài thơ. Chẳng có gì ngoài nỗi nhớ.\nTặng em hết yêu thương anh cất từ trước giờ :D\n-- Fall for your type -- ft Am1r",
+   "author": ""
+  },
+  {
+   "name": "Tôi vô tình đánh rơi người tôi yêu đi mất. Ai nhặt đươc xin hãy nâng niu!",
+   "author": ""
+  },
+  {
+   "name": "Bởi vì em không biết kiếp sau có còn gặp lại anh nữa không cho nên kiếp này mới nổ lực đến thế.",
+   "author": ""
+  },
+  {
+   "name": "Dịu dàng, nhỏ nhẹ và khó hiểu\nNgười như vậy bảo sao nhạc anh không feel\nHey tóc đẹp, giầy đẹp như diva\nMờ ảo như 1 làn khói shisha\nĐêm nay em đẹp là vì ai?\nNếu vì anh thì bên anh đêm nay nha\n-- Bên anh đêm nay -- ft JC Hưng",
+   "author": ""
+  },
+  {
+   "name": "Vì thương nàng nên giấc không yên, ta vẫn chẳng thể nào ngủ\nLí trí là đứa nhân viên vì nó thật khó để làm chủ\n-- Từ chối nhẹ nhàng thôi -- ft Bích Phương",
+   "author": ""
+  },
+  {
+   "name": "Chỉ là hắn đưa em, quyển sách chưa xem\nEm vội thiêu đốt cả thư viện\nHắn chỉ cho em thấy vài được từ đồng nghĩa\nEm đã vội vàng nghi ngờ cuốn từ điển\n-- Lửng Lơ -- ft MASEW x RedT x Ý Tiên",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau tiếng cười là bầu trời nước mắt",
+   "author": ""
+  },
+  {
+   "name": "Sai lầm lớn nhất của a là để cho người con trai khác có cơ hội làm e hạnh phúc",
+   "author": ""
+  },
+  {
+   "name": "Một tuần lễ với người chăm chỉ có 7 ngày, còn với kẻ lười biếng có 7 ngày mai.",
+   "author": ""
+  },
+  {
+   "name": "Trái tim em vốn hỗn độn\nSao anh còn đến làm lộn xộn thêm",
+   "author": ""
+  },
+  {
+   "name": "Dùng thời gian để suy nghĩ, lá gan để hành động.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như tình cảm do anh làm chủ... thì chẳng viết lên bài ca...\nAnh đã vấp ngã sau một chiều mưa...rồi bước tiếp bên loài hoa...\nSong song bên đó... vô ảnh em vẫn cạnh không xa nhưng chưa gần...\nNói lên anh cần nhưng không ít lần... nụ cười nhạt nhẽo anh phủ nhận\n-- Nhận --",
+   "author": ""
+  },
+  {
+   "name": "Cậu là thứ gì đó sâu tận đáy đại dương... còn tôi thì chưa bao giờ lặn giỏi.",
+   "author": ""
+  },
+  {
+   "name": "Người ta trao em bông để nhìn nó tàn úa\nAnh trao em hạt để nhìn nó trổ hoa\n-- Như ngày đó --",
+   "author": ""
+  },
+  {
+   "name": "Người ta khóc, chắc gì đã vì khổ...\nAnh tuy cười, nhưng lệ đổ trong tim.",
+   "author": ""
+  },
+  {
+   "name": "Nắng bỗng lẫn tránh, mưa rơi nhanh\nTrời bỗng trở lạnh, em chờ anh...",
+   "author": ""
+  },
+  {
+   "name": "Sợ lắm người luôn tươi cười\nNhưng 9/10 là giả tạo",
+   "author": ""
+  },
+  {
+   "name": "Bạn không bao giờ có thể thay đổi được quá khứ của bạn, nhưng bạn có thể thay đổi tương lai!",
+   "author": ""
+  },
+  {
+   "name": "Học từ ngày hôm qua, sống ngày hôm nay, hi vọng cho ngày mai. Điều quan trọng nhất là không ngừng đặt câu hỏi.",
+   "author": ""
+  },
+  {
+   "name": "Em có muốn ngày nào đó mình ra khơi...\nAnh sẽ đem những nhớ thương mà đóng thuyền\nVà tất cả những ngày mình xa xôi...\nNếu mà đem bán chắc là được cả đống tiền\n-- Ta Cứ Đi Cùng Nhau --",
+   "author": ""
+  },
+  {
+   "name": "Mày có biết tại sao cái kim tự tháp đó không có chóp\nMày có biết tại sao kim cương chỉ bể chứ không có móp\n...\nTao đã từng nhủ với lòng chưa giàu thì chưa nhậu\nTao đã từng thức rất nhiều đêm khi thi chưa đậu\n-- Giỡn mặt --",
+   "author": ""
+  },
+  {
+   "name": "Sau đêm đầu tiên anh xin lật bài, thì liệu đó có quá là điên,\nKhi anh đã soi em là của anh, như một nhà tiên tri\n...\nĐôi mắt là cửa sổ tâm hồn thì cho anh lẻn leo vào được không?\nAnh không muốn cưa em đổ, vì nhìn em ngã thấy thương quá đi\n-- Anh Nhà Ở Đâu Thế -- ft AMEE",
+   "author": ""
+  },
+  {
+   "name": "Sau này tôi mới biết, bông hoa đó không phải là của tôi. Chẳng qua là tôi đã đi ngang qua vào đúng mùa hoa nở đẹp nhất...",
+   "author": ""
+  },
+  {
+   "name": "Nếu như em rời xa anh một bước thì anh sẽ tiến thêm một bước về phía em, chẳng sao cả.",
+   "author": ""
+  },
+  {
+   "name": "Những thằng luôn miệng nói với em về những chuỗi ngày thật đẹp\nHành trình nào xa thật xa, đi trốn khỏi bốn góc nhà chật hẹp\nNhững cung đường mà ta chưa tới, nhưng mà tiền túi thì nó không đầy\nVà thằng ất ơ tương lai không thấy, nhưng em gái nhỏ này luôn trông cậy\nVà khi thức dậy\n-- Những con đàn bà --",
+   "author": ""
+  },
+  {
+   "name": "Rapviet dậm chân hôm qua, hôm nay, ngày mai sẽ về đâu?\nNếu có cũng chỉ bước lùi, đâu rồi vần câu và độ sâu?\nHiphop mà ko chú trọng kỹ năng mà chỉ quan trọng flow\nThì cũng chỉ như là gái nhà lành đứng đường mà làm hoe\n-- Why --",
+   "author": ""
+  },
+  {
+   "name": "Vui mà... thời 2 mái, miệng hát nhép hôn môi xa\nCon gái hồi đó mang Doctor và tóc để ngang như đuôi cá\nBang hội chưa tan rã... website như ngôi nhà\nCon gái chưa biết đến đồ giả... miệng ngại ngùng nói \"Thôi ba\"\n-- HỒI ĐÓ -- ft. T.R.I",
+   "author": ""
+  },
+  {
+   "name": "Nhành hoa ấy úa rồi... sao em còn giữ mãi\nTình yêu đó đâu thể... xanh lại lần thứ hai",
+   "author": ""
+  },
+  {
+   "name": "Nhìn em nóng quá nên anh thấy là,\nAnh phải đưa em ra khỏi đây không là cháy nhà\nAnh còn bối rối, em không thấy à,\nVậy có bật đèn xanh không để anh lấy đà,\n-- CON GÁI NHƯ EM -- ft. MỸ TÂM",
+   "author": ""
+  },
+  {
+   "name": "Đâu đó, anh ngoái cổ ngước nhìn mà đâu có\nAnh lại tiếp tục và cau có, đem vết thương và nấp đằng sau nó\nVà anh đã cố, cố bỏ đi đi khỏi thành phố nơi mà nó đâu cho...\nAnh chẳng biết đặt em vào nỗi buồn nào là nuối tiếc tức giận hay âu lo...\n-- Đâu đó --",
+   "author": ""
+  },
+  {
+   "name": "Anh có thể trì hoãn, nhưng thời gian thì không.",
+   "author": ""
+  },
+  {
+   "name": "Một nụ cười là khoảng cách ngắn nhất giữa hai tâm hồn.",
+   "author": ""
+  },
+  {
+   "name": "Quen rồi có phải là cách diễn đạt khác đi của sự chịu đựng?",
+   "author": ""
+  },
+  {
+   "name": "Đi 1 vòng Sài Gòn trên con xe đã có nhiều chủ,\nXe không chạy bằng xăng, mà bằng nước mắt của người yêu cũ,\nHọ muốn mình chạy thật nhanh, nhưng, ta sẽ không thể vội, vì,\nĐường còn dài, và đêm còn trẻ, đến khi nhắm mắt cũng không thể ngủ.\n-- Vòng Sài Gòn --",
+   "author": ""
+  },
+  {
+   "name": "Đừng gọi bố là ông già\nNó như thể tuyên án bố không còn sức bảo vệ gia đình.\n-- Tài sản của bố --",
+   "author": ""
+  },
+  {
+   "name": "Là do tớ vô tâm hay cậu âm thầm thay đổi\nLà do tớ có lỗi hay cậu muốn đổi người yêu.",
+   "author": ""
+  },
+  {
+   "name": "Thứ tình cảm bỏ đi của người này lại là thứ cất giữ của người khác.",
+   "author": ""
+  },
+  {
+   "name": "Biết thừa mày không hiểu nên để khỏi phải khắc khoải băn khoăn\nTao đấm mày rụng hết răng, mày không thể ăn gì khác ngoài ăn năn\n-- Rhyme Catchers (2014) -- ft. B Ray & Black Murder",
+   "author": ""
+  },
+  {
+   "name": "Lửa tình của em đã tắt thì để anh thắp cho nó lần nữa đỏ\nNuốt trọn em từng khoảnh khắc lại gần anh nhắc cho em lời hứa nhỏ\nNhấp một ngụm rượu trôi tuột, ta vô lo như hai đứa nhỏ\nQuần áo như là nỗi buồn, đêm nay hai ta cùng trút bỏ\n-- Talk to me --",
+   "author": ""
+  },
+  {
+   "name": "Những người thành công luôn luôn có 2 thứ trên môi của họ:\n1. Sự im lặng\n2. Nụ cười",
+   "author": ""
+  },
+  {
+   "name": "1 nụ cười bằng 10 thang thuốc bổ, cười ko đúng chỗ nó nhổ sạch răng",
+   "author": ""
+  },
+  {
+   "name": "Nói lời chân thật với nhau, đừng bắt tâm tư phải sàng và lọc\nEm cần may túi ba gang vì lúc bên nhau là vàng là ngọc\n...\nBởi vì anh ko thích đồ ngọt nên hãy yêu nhau theo cách mặn mà\nCứ yên tâm nhạc tình anh viết luôn đặc quánh và rất đậm đà\n-- Loving you --",
+   "author": ""
+  },
+  {
+   "name": "Một khi biết mình nhỏ bé thì tâm hồn bắt đầu sẽ lớn,\nĐôi khi nói năng nhỏ nhẹ thì người ta lại lắng nghe hơn.\n-- Lớn rồi --",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau của nụ cười là sự lười giải thích!",
+   "author": ""
+  },
+  {
+   "name": "Cứ nghĩ là nắng ấm của mình đâu ngờ lại là mặt trời của người khác :v",
+   "author": ""
+  },
+  {
+   "name": "Ngoài trời có hạt sương cõi lòng em là chăn gối\nAnh nắm bàn tay em lấy nụ hôn là ranh giới\n...\nVà em là người khiến cho nỗi nhớ được cải thiện\nYêu là thời khắc để niềm tin được trải nghiệm\n-- Những Ngày -- ft. Tuyết",
+   "author": ""
+  },
+  {
+   "name": "Tôi lạc quan giữa đám đông, nhưng khi 1 mình thì lại không\nCố tỏ ra là mình ổn, nhưng sâu bên trong nước mắt là biển rộng\n-- Người lạ ơi --",
+   "author": ""
+  },
+  {
+   "name": "Có những con đường, tự mình phải bước tiếp\nCó những nỗi đau, tự mình phải vượt qua\nCó những giọt nước mắt, tự mình phải lau khô\nCó những nụ cười, tự mình phải tìm lại\nCó những con người, tự mình phải lãng quên...",
+   "author": ""
+  },
+  {
+   "name": "Anh cũng muốn bình yên... nhưng em vô tình tạo ra sóng gió :')\nRồi mỗi lần nhìn vào điều đó... Em lại nói nó là do Anh!",
+   "author": ""
+  },
+  {
+   "name": "Người trao có nửa nụ cười\nEm đây mất cả cuộc đời để quên.",
+   "author": ""
+  },
+  {
+   "name": "Đủ lớn để làm, thì đủ lớn để chịu, mày đủ lớn để học, phải đủ lớn để hiểu\nĐủ sức chìa tay ra xin tiền, thì phải đủ tự trọng không dùng tiền đó mua sĩ diện.\nHãy để tâm hồn là thánh đường, đừng biến nó thành sở thú,\nĐể bao nhiêu bạn bè, hay bao nhiêu vật chất, thì cuộc đời của mày cũng không bao giờ đủ.\n-- Con Trai Cưng --",
+   "author": ""
+  },
+  {
+   "name": "Đời nhiều người bạc phước nhưng trời trêu người bạc nhược\nMình thì chậm mười bước, cung cầu theo người đặt cược\nTrò chơi cuộc đời - trời cho cười đùa\nHọ chơi vì thời thì mình mời lơi cười hùa.\n-- Trò Chơi --",
+   "author": ""
+  },
+  {
+   "name": "Anh luôn tôn trọng người trong gương!\nVì họ sẽ không cười khi anh khóc.",
+   "author": ""
+  },
+  {
+   "name": "Buông tay không phải vì không yêu. Mà là vì vô tình phát hiện ra bản thân đã trở thành chướng ngại hạnh phúc của người kia.",
+   "author": ""
+  },
+  {
+   "name": "Nếu em đưa anh một nắm cát anh sẽ không xây lâu đài\nVì những con sóng sẽ đến, không hôm nay thì mai\nNgười ta gọi anh là trai mơ, mơ một cách miệt mài\nNhưng em biết đó chỉ là cách quên đi nặng trĩu bờ vai\n-- Forever Love --",
+   "author": ""
+  },
+  {
+   "name": "Em xinh đâu bởi nụ cười\nEm xinh là bởi nhiều người xấu hơn",
+   "author": ""
+  },
+  {
+   "name": "Mối quan hệ không thể gọi tên mới chính là mối quan hệ dễ làm người ta tổn thương nhiều nhất.",
+   "author": ""
+  },
+  {
+   "name": "Có người nghe có mỗi bài hát, không phải vì nó hay, mà đơn giản, nó gắn liền với kỷ niệm nào đó.",
+   "author": ""
+  },
+  {
+   "name": "Thời gian của bạn là hữu hạn. Đừng phí hoài nó bằng cách sống cuộc đời của một người khác.",
+   "author": ""
+  },
+  {
+   "name": "Tao vẫn hiểu những cô chú, đối với họ quá khó, để bỏ đi!\nBởi sở dĩ, nếu không có quê hương thì họ còn có gì?\nHọ đại diện cho ai? trên con đường họ đi?\nNên họ cố dạy tiếng Việt, khi con còn nhỏ tí!\n-- One more song --",
+   "author": ""
+  },
+  {
+   "name": "Có chiếc lá đang nhẹ rơi, có con đường về trời\nCó đôi khi buồn lắm mẹ ơi hôm nay con mặc kệ đời\n...\nNhư những con sóng ngoài khơi và chẳng có gì là mới\nNơi thành phố họ đạp lên nhau vì những đồng tiền mà tới\nNgười thì đợi, người thì chờ, người thì mong tan ca\nCòn con chỉ là một viên đá đang đợi mùa đông tan ra\n-- Họa Thiên --",
+   "author": ""
+  },
+  {
+   "name": "Đêm thâu càng thêm đau.",
+   "author": ""
+  },
+  {
+   "name": "Gặp em còn mừng hơn gặp ông tiên đó\nTại em không biết thôi... này gọi là duyên số\nAnh yêu em trọn đời... anh chân thành tuyên bố\nChỉ cần em chịu thôi... bờ vai này kiên cố\nEm muốn có bồ lý tưởng hở? Anh đây chính là nguyên tố\n-- NÀY EM GÌ ƠI -- ft NGUYỄN KHOA x HOMIEBOIZ",
+   "author": ""
+  },
+  {
+   "name": "Vài kẻ nghĩ mình thức thời chỉ vì con quỷ nó trọng dụng\nBông hoa trước mặt, nào biết ở ngay sau đó là họng súng, yo\nChẳng cần phải tinh ranh cũng thấy cái ý nghĩa mới cho cái hình ảnh\nVà rồi có những con đường biết rõ vẫn khó đi\nCó lẽ ông trời đày tao, uh\nNgả lưng xuống đất, đặt chân lên bầu trời đầy sao\nVà có những cái cảnh phim không cần thoại\nĐi vì... một bước nhỏ cho tao, nhưng là một bước lớn cho nhân loại x2\n-- Biết rõ vẫn khó đi --",
+   "author": ""
+  },
+  {
+   "name": "Anh đã yêu em chỉ trong vài ngày\nNhưng để quên đi em, có thể là vạn ngày\nTình yêu đến với anh sao chóng vánh\nHạnh phúc anh cố giữ, sao mỏng manh\n-- Lại Một Lần Nữa --",
+   "author": ""
+  },
+  {
+   "name": "Một người tươi cười không có nghĩa là họ không có nỗi buồn. Điều đó có nghĩa là họ có khả năng đối phó với nỗi buồn đó",
+   "author": ""
+  },
+  {
+   "name": "Chờ đợi không đáng sợ, điều đáng sợ là không biết phải chờ đợi đến bao giờ",
+   "author": ""
+  },
+  {
+   "name": "Sự khác biệt giữa quá khứ, hiện tại và tương lai chỉ là 1 ảo tưởng dai dẳng đến ngoan cố.",
+   "author": ""
+  },
+  {
+   "name": "Anh ko phải người đầu tiên càng không phải người duy nhất\nKhông phải người em yêu cố thật nhiều chỉ phí sức\n-- Với Lấy --",
+   "author": ""
+  },
+  {
+   "name": "Mười năm như một bức họa, cũng may là trời đỡ xám hơn\nThứ mà ta học được nhiều nhất, là cách xin lỗi và lời cám ơn\n...\nMọi thứ ngày càng phát triển, sao chúng ta càng bị bất an\nAnh sống giữa lòng thành phố nhưng lại mơ về thị trấn hoang\n-- Mười năm -- ft Ngọc Linh",
+   "author": ""
+  },
+  {
+   "name": "Ầu ơ dí dầu con nhớ những ngày con còn nằm nôi\nCon không quỳ giữa thiên hạ, con quỳ khi mẹ cầm roi.\n-- Nhân cách --",
+   "author": ""
+  },
+  {
+   "name": "Em ơi... vì cứu lấy một mạng người, còn xây 7 tháp phù đồ\nEm hãy cứu lấy kẻ phàm phu này nếu con tim em còn đủ chỗ\nVì anh còn biết phải đi về đâu, khi mỗi bước chân không còn nghĩa lý\nAnh đi về đâu, khi niềm vui và em có cùng một địa chỉ\n-- Yêu Người Như Anh -- ft Đạt G x MASEW",
+   "author": ""
+  },
+  {
+   "name": "Mày cứ thoải mái mà phán xét! thích thì cứ việc gán ghép\nVì thế giới của tao là đời, còn quả địa cầu của mày là quán nét\n-- Và tao rap --",
+   "author": ""
+  },
+  {
+   "name": "Người ta giàu mang tình yêu ra đập phá, còn tôi nghèo nhặt từng mảnh vá thành tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "Bệnh của anh thì chẳng cần dùng đến thuốc...\nChỉ chờ em đến thăm và hỏi vài câu “chắc là được...”\nBệnh của anh... là lai rai vài ly rượu\nNgồi cà kê với tụi bạn...xong... ước gì em tới rước... ^^\n-- Bệnh của anh --",
+   "author": ""
+  },
+  {
+   "name": "Ta mang hàng tấn nỗi buồn, mà chẳng ai thu phí\nChuyến xe đêm muộn đưa ta 1 vòng chu vi\n-- Chuyến xe --",
+   "author": ""
+  },
+  {
+   "name": "Em nói tâm hồn em già cỗi, em nói em thích nghe nhạc Trịnh\nHỡi ơi đáng ra thì em đã phải nói nhạc Trịnh em thích là nhạc Trịnh Thăng Bình.\n-- B.S.N.L 3 --",
+   "author": ""
+  },
+  {
+   "name": "Nếu có điều quá đáng trong đời, đó là áng mây trôi quá nhanh\nSẽ có những ngày ae mình ngồi quán nhậu và coi đá banh\n...\nĐảm đương lời vừa nói, ra là tao đã can đảm hơn\nTao nghĩ muốn đơn giản hơn, không cần uống thuốc giảm đau\nTài năng ngôi sao là gì nếu như không biết cảm ơn\nCảm ơn!\n-- Đỉnh núi tuyết của nuối tiếc --",
+   "author": ""
+  },
+  {
+   "name": "Anh còn nhớ, có lần tưởng chừng ta không sánh duyên\nTa tìm thấy điểm tương đồng phía bên trong ánh kim\nAnh tìm kiếm chuỗi ngày đầu, khi chuông cửa vang lên\nVà anh nhìn ngắm đóa hoa tươi thắm, tặng em giữa ban đêm\n-- Ghé Qua -- ft PC x Tofu",
+   "author": ""
+  },
+  {
+   "name": "Điều khó nhất trong cuộc đời này là phải... ngừng nói chuyện với ai đó mà bạn từng tâm sự mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Sau tất cả tao muốn nói: mày vẫn được thương yêu\nDù không có đồng lương nhiều và một thời gian vướng víu\nNgoài các triệu chứng khác thì tao là một chất liệu cứng cáp\nĐược mày dành lời giới thiệu chứng đáng trước khi tao chịu đứng rap\nMỗi ngày cứ trôi, ai cũng trả 1 phần to bự... cho sự.. do dự...\nTuy đi tìm tự do từ \"thanh thản\"... mày sẽ sống cho chữ.. đó chứ?\n-- GJAM -- ft. Sol'Bass",
+   "author": ""
+  },
+  {
+   "name": "Những người hay cười thì sẽ gặp may. Nói thật nếu toàn gặp xui thì họ đã chả mở miệng ra cười nổi.",
+   "author": ""
+  },
+  {
+   "name": "Anh lớn lên từ đường phố chỗ xe hơi không có đường vô\nChỗ công nhân ăn mì = xô, mỗi khi mưa xuống hứng nước = tô\nChỗ em gọi là căn hộ còn chỗ anh ở họ gọi là ổ\nThế giới anh xài tiền việt còn thế giới em xài tiền đô\nEm đổ xăng thì được đầy bình còn anh đổ 5000 nó không cho đỗ\nĐi ngoài đường anh gặp được em anh xin số thì em say noooooo\n-- Hai Thế Giới --",
+   "author": ""
+  },
+  {
+   "name": "Vì trái tim không thể chứa nhiều người, nên đành mỉm cười lừa tình tất cả.",
+   "author": ""
+  },
+  {
+   "name": "Một ngôi nhà nhỏ đầy ắp tiếng cười có giá trị hơn một cung điện đầy nước mắt.",
+   "author": ""
+  },
+  {
+   "name": "Đừng cố giữ những gì ngoài tầm với. Mây của trời hãy để gió cuốn đi.",
+   "author": ""
+  },
+  {
+   "name": "Hãy lấy nụ cười của chúng ta để thay đổi thế giới, nhưng đừng để thế giới thay đổi nụ cười của chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Cười nhiều không phải là vui\nCười nhiều là để chôn vùi nỗi đau\nNụ cười không giống như nhau\nCó khi lệ chảy lòng đau vẫn cười",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là 1 trận chiến, ta không thể đầu hàng\nKhi nào máu ta còn đỏ, da ta vẫn màu vàng\n-- Destiny Boy --",
+   "author": ""
+  },
+  {
+   "name": "Và nếu anh là trẻ con, anh viết bài ca ví von\nAnh viết tình yêu là cả bầu trời, 2 đứa mình thì tí hon\nVà, nếu anh là trẻ con anh làm hơn trăm thằng kia cộng lại\nAnh sẽ giành lấy em nếu như anh là trẻ con nhưng anh không phải\n-- YÊU NHƯ TRẺ CON --",
+   "author": ""
+  },
+  {
+   "name": "Lạ sao một phút bình thường\nGặp người đã nghĩ muốn thương cả đời",
+   "author": ""
+  },
+  {
+   "name": "Cười là loại mỹ phẩm rẻ nhất\nVận động là y dược rẻ nhất\nChào hỏi là loại chi phí giao tiếp rẻ nhất\nBệnh nhân nào cũng mang theo trong mình thầy thuốc của bản thân mình.",
+   "author": ""
+  },
+  {
+   "name": "Thức khuya mới biết đêm dài, sống lâu mới biết dạ ai thế nào",
+   "author": ""
+  },
+  {
+   "name": "Thêm một ngày thả nỗi nhớ đi hoang\nTôi lang thang trên vỉa hè ký ức\nNhặt nỗi buồn biết niềm đau có thật\nVà bất chợt ta cảm thấy buồn hơn",
+   "author": ""
+  },
+  {
+   "name": "Em bảo: \"Anh đi đi\"\nSao anh không đứng lại?\nEm bảo: \"Anh đừng đợi\"\nSao anh vội về ngay?\nLời nói thoảng gió bay\nĐôi mắt huyền đẫm lệ\nMà sao anh dại thế\nKhông nhìn vào mắt em",
+   "author": ""
+  },
+  {
+   "name": "Nếu đến trước là người thắng, vậy sao em đến trước mà phải nhường bước cho kẻ đến sau?",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời em là một đường thẳng... chỉ vì gặp anh mà rẽ ngang",
+   "author": ""
+  },
+  {
+   "name": "Đâu phải một gã ăn mặc sang trọng tay đeo đồng hồ là gã có thể nắm đc thời gian trong tay đâu\nĐôi khi càng cố tiết kiệm thời gian thì bạn càng nhận ra là bạn đang lãng phí nó...",
+   "author": ""
+  },
+  {
+   "name": "Bạn có nhận ra không. Cảm xúc của chúng ta là thứ hữu hạn. Và khi đến tột cùng của một cảm xúc, nó phải đổi sang một trạng thái khác. Hỷ nộ ái ố đều như vậy cả.\n-- Nếu biết trăm năm là hữu hạn --",
+   "author": ""
+  },
+  {
+   "name": "Em sẽ quên, quên cả những vị ngọt và đắng,\nQuên ngày đó cả 2 đã thua khi đã chọn mình thắng,\nQuên là anh đáng yêu hay quên là anh đáng hận,\nQuên 1 người đã có thể từng làm em yêu hơn bản thân,\nQuên thứ tình cảm nặng nhất, khi phải đặt lên cán cân,\nQuên vết thương làm em đau nhất, và đem nó nhân vạn lần,\nQuên những lời ca anh viết, từng chi tiết về anh,\nTừng nụ hôn, từng tin nhắn mà anh không biết để dành\n-- Cao Ốc 20 -- ft DatG (MASEW x K-ICM)",
+   "author": ""
+  },
+  {
+   "name": "Người vô tư mang cho ta chút thương hại\nTa vô tình tưởng đó là tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "Và ta đến bên nhau khi anh bày tỏ và em gật đầu!\nLúc đó anh nghĩ mình đang khoác áo choàng và trông thật ngầu.\nCũng là lần đầu tiên anh biết cảm giác chạm môi và môi.\nDamn! Anh hôn tệ thật! Chắc 5 điểm mà thôi!\n...\nXin lỗi em hôm nay anh lại không thể dậy sớm\nVì đêm qua anh lại nghĩ ra được thêm 1000 lý do để yêu em hơn\n-- 1001 LÝ DO --",
+   "author": ""
+  },
+  {
+   "name": "Bâng khuâng... cảm xúc lâng lâng theo từng nhịp thở\nBỡ ngỡ... cảm xúc vụn vỡ cùng từng nhịp tim :')",
+   "author": ""
+  },
+  {
+   "name": "Có những ngày buồn như chó dại\nChỉ muốn kiếm đại đứa nào cắn chơi...",
+   "author": ""
+  },
+  {
+   "name": "Bên nhau đến giờ anh vẫn say em\nThương em bất kể là ngày hay đêm\nAnh đâu chỉ cần nắm lấy cơ hội\nThứ anh cần nắm còn là tay em\n-- Nơi em là bình yên -- ft Tóc Tiên",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ cứ như tao chưa từng đi chưa từng đến\nNhưng tao muốn mọi người biết tao vẫn còn đây vẫn còn mến\nCuộc đời đã bỏ tao, âm nhạc ko có tao\nCông lao vậy nhỏ sao, thôi thì xin đừng nhìn ngó tao...\n-- The Good Die Young --",
+   "author": ""
+  },
+  {
+   "name": "Yêu 1 người mình đầy tổn thương...như em!\nKhác nào tự đưa chân vào bước đường cùng... hả anh!",
+   "author": ""
+  },
+  {
+   "name": "Nhưng em ơi anh đã lớn lên cùng bóng rổ và rap\nNgười ta nhìn anh đánh đồng anh với thứ đường phố và rác\nNhững bài rap cách ăn nói những cái hình xăm\nAnh hiểu được cách suy nghĩ của ba mẹ em khi họ nhìn anh\n-- Untitled --",
+   "author": ""
+  },
+  {
+   "name": "Em đã rơi thật nhiều nước mắt, vì cuộc đời quái ác kia đã làm hại\nEm đã nhiều lần vấp ngã hãy quên tất cả và cùng anh làm lại\nEm hãy nhìn về nơi đó nơi mái nhà mà mình sống cùng nhau\nHai trái tim này luôn cùng nhịp đập niềm vui tràn ngập lấp buồn đau\n-- Lavender -- ft Max No1",
+   "author": ""
+  },
+  {
+   "name": "Nếu như nghĩ về đôi ta làm em cảm thấy mệt mỏi\nNếu như ngày giờ trôi qua em phải làm việc từ sớm đến tận tối\nThì nhớ phải cười thật tươi, vì lúc em cười thật đẹp\nĐừng tìm hình bóng của một ai khi con tim em đang chật hẹp\n-- Em Còn Nhớ Anh Không? -- ft. Hoàng Tôn",
+   "author": ""
+  },
+  {
+   "name": "Nhà anh cũng gần để đêm nay anh đưa về\nNgủ một giấc cho tới sáng, nếu chán thì trưa về\nHứa sẽ chỉ ôm em nếu chuyện đó là chưa thể\nĐó giờ không chơi đá banh nên đâu có biết lừa... Thề!\n-- Em Đẹp Nhất Đêm Nay -- ft Thanh Lan",
+   "author": ""
+  },
+  {
+   "name": "Trăng dưới nước là trăng trên trời\nNgười trước mặt là người trong tim",
+   "author": ""
+  },
+  {
+   "name": "Bản nhạc buồn len lỏi từng góc phố\nTôi đang buồn giữa thế giới đang vui",
+   "author": ""
+  },
+  {
+   "name": "Trộm một buổi tham vui\nĐổi một đời nhung nhớ\nTừ đó phương Nam Bắc\nHai đoạn của địa cầu\nGặp nhau cũng tương tư\nXa nhau càng nhung nhớ",
+   "author": ""
+  },
+  {
+   "name": "Đừng đem đời mình so với ai đó, đời mỗi người mỗi khác. Bầu trời trong mắt mỗi người mang một màu xanh khác nhau...Nước mắt của mỗi người, nếu chưa nếm thử, sao biết ai mặn ngọt hơn ai?",
+   "author": ""
+  },
+  {
+   "name": "Thời gian không làm nên ý nghĩa cuộc sống, mà là cách sống làm nên ý nghĩa của thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Từ lúc nào anh đã thôi không muốn chỉnh tề vì vẫn đang cô đơn\nEm bận với những riêng tư cuộc sống vui cười môi điểm trang tô son\n-- Ghé Qua --",
+   "author": ""
+  },
+  {
+   "name": "Một phút xa nhau, vạn lần nhớ\nMột lần gặp gỡ, vạn lần mơ...",
+   "author": ""
+  },
+  {
+   "name": "Chút nắng mong manh sao trở thành mùa hạ\nChút tình xa lạ sao giữ nổi người ta",
+   "author": ""
+  },
+  {
+   "name": "Có nhiều thứ rõ ràng là của mình nhưng không tài nào kiểm soát được, như nước mắt chẳng hạn...",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu của em là biển rộng\nAnh như con thuyền nhỏ chưa một lần ra khơi.\nBến bờ hạnh phúc thật xa xôi\nNhưng nếu không dám đi sẽ ko bao giờ tới..\n-- Deep sea --",
+   "author": ""
+  },
+  {
+   "name": "Tôi không biết từ bao giờ mối quan hệ của chúng tôi trở lên mờ nhạt như vậy, buông thì không nỡ mà tiếp tục cũng không xong",
+   "author": ""
+  },
+  {
+   "name": "Chỉ định xuống trần rong chơi\nAi ngờ vướng bận cả đời ở đây.",
+   "author": ""
+  },
+  {
+   "name": "Cái tâm trạng tệ nhất chính là khi người ta gieo hạt hi vọng cho mình xong lại cấy tiếp thất vọng vào => Cảm giác như ko thể tin tưởng 1 thứ gì là hoàn hảo trong cuộc sống này:(",
+   "author": ""
+  },
+  {
+   "name": "Ngoài kia bão táp mưa sa\nBôn ba mệt quá về nhà với em",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi phải học cách chấp nhận để bước tiếp",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể nhắm mắt để không phải nhìn thấy những điều đáng ghét, nhưng bạn chẳng thể khép tim để thôi trải nghiệm những cảm xúc khó chịu.",
+   "author": ""
+  },
+  {
+   "name": "Sài Gòn này, đường nào nó cũng đẹp\nNhưng đẹp nhất vẫn là con đường dẫn vào nhà em\n-- Bao lời hoa mỹ --",
+   "author": ""
+  },
+  {
+   "name": "Anh như trẻ lạc, còn tâm tối giữa rừng thông\nNơi cánh chim nhỏ lạc đàn tìm bến đỗ để ngừng trông!\nAnh là một con đom đóm mất ánh sáng nên xoay vòng\nGieo cho anh cả một mầm sống, nhưng chẳng chịu khó vun trồng!\n-- Hồng Nhan --",
+   "author": ""
+  },
+  {
+   "name": "Vấp ngã để nhận ra...Tất cả rồi sẽ qua : )\nĐau một lần để biết...Chẳng còn tha thiết một cái gì...!",
+   "author": ""
+  },
+  {
+   "name": "Lữ khách ghé ngang nơi ta ở\nMang theo cả một đời tương tư",
+   "author": ""
+  },
+  {
+   "name": "Những gì ta có mong manh như cánh hoa hồng dại ven phố\nAnh sẽ đổi tất cả để giữ em ở lại thêm chút\n-- Hoa hồng dại --",
+   "author": ""
+  },
+  {
+   "name": "Thiên đường của người này đôi khi chỉ là ánh mắt, bờ vai, tấm lưng, đôi bàn tay của người kia.",
+   "author": ""
+  },
+  {
+   "name": "Mỉm cười thì có bạn, nhăn mặt thì có nếp nhăn.",
+   "author": ""
+  },
+  {
+   "name": "Học cách trân trọng những gì bạn đang có trước khi thời gian dạy cho bạn biết trân trọng những gì bạn đã từng có.",
+   "author": ""
+  },
+  {
+   "name": "1 chút tình mong manh sao sưởi ấm trái tim giá lạnh\n1 ngôi sao hưu quạnh sao chiếu sáng đêm đông",
+   "author": ""
+  },
+  {
+   "name": "Gió ngược mùa yêu thương ngược hướng\nEm và anh ngược lối ngược yêu thương",
+   "author": ""
+  },
+  {
+   "name": "Em ơi anh yêu em lắm... tai nạn anh hứa đi thăm...\nĐêm khuya e nhớ thức tắm... ăn rau muống sau khi xăm...\nAnh biết anh biết em ho... đi bay về sớm anh lo...\nHo thì phải nhớ hút cỏ... nhớ uống thuốc đừng có uống khi no...\n-- B.S.N.L 2 --",
+   "author": ""
+  },
+  {
+   "name": "Gọi tao bằng bất cứ cái tên nào máy muốn\nNhưng định nghĩa về tao vẫn sẽ không hề bị thêm bớt\n...\nHọ từ chối tao\nKhông quan tâm, chưa từng cần sự chấp nhận của họ\nWave tàn, nike rách, bất cần nhưng tự do\nTự trọng chỉ là gánh nặng tao sẵn sàng vứt bỏ\nKhông bao giờ đầu hàng mới là điều tao đang chứng tỏ\n-- From the ghetto --",
+   "author": ""
+  },
+  {
+   "name": "Cười người chớ vội cười lâu\nLỡ đâu ăn tát, răng đâu mà cười!",
+   "author": ""
+  },
+  {
+   "name": "Viết lên thành giai điệu dù đôi khi chẳng ai hiểu.\nNỗi buồn sẽ lại rơi trong từng nốt nhạc\nNhững ngã rẽ cuộc đời những điều tốt khác\nNhững yêu thương lặng im để nước mắt hát\n-- Chạm --",
+   "author": ""
+  },
+  {
+   "name": "Cho dù cuộc sống có nhộn nhịp nơi đô thị.\nNhưng thiếu em thì nơi đây vẫn trở nên vô vị.",
+   "author": ""
+  },
+  {
+   "name": "Hãy đếm tuổi của bạn bằng số bạn bè chứ không phải số năm. Hãy đếm cuộc đời bạn bằng nụ cười chứ không phải bằng nước mắt.",
+   "author": ""
+  },
+  {
+   "name": "Tao thường hay đi lang thang mà không cần ai,\nVà đã được dạy là trăm lần đúng = 1 lần sai.\n-- Đi Đâu về Đâu --",
+   "author": ""
+  },
+  {
+   "name": "1 nguyên tắc làm đàn ông, anh cần thiết phải dạy\nMày yếu thì có thể chạy, mày nghiện còn có thể cai\nNhưng kẻ thù của thằng anh em ngồi cùng bàn tiệc là không thể đãi.\n-- Ân Xá --",
+   "author": ""
+  },
+  {
+   "name": "Sài Gòn không bao giờ ngủ bởi vì tiền không bao giờ đủ\n-- Sài Gòn đẹp lắm --",
+   "author": ""
+  },
+  {
+   "name": "Đủ thông minh... để nhận ra một số thứ là giả dối\nNhưng không đủ dũng cảm để tin... đó là sự thật.",
+   "author": ""
+  },
+  {
+   "name": "Thứ giết chúng ta chính là kỉ niệm\nThứ không thay đổi được là kí ức\nThứ làm ta nhớ là những bài học\nThứ nên thay đổi là cái ý thứ\n-- Bad Trip --",
+   "author": ""
+  },
+  {
+   "name": "Mưa có thể ngừng rơi. Nước Mắt có thể ngừng chảy. Nhưng.. Gió thì không thể ngừng bay. Và Nỗi đau thì không thể ngừng quên.",
+   "author": ""
+  },
+  {
+   "name": "Cần bao nhiêu nước mắt để đổi bình yên bên anh",
+   "author": ""
+  },
+  {
+   "name": "Nếu bắt đầu đã sai thì kết quả sẽ không bao giờ đúng",
+   "author": ""
+  },
+  {
+   "name": "Cười người chớ dại cười lâu\nĐể dành một ít hôm sau còn cười",
+   "author": ""
+  },
+  {
+   "name": "Bạn có yêu đời không? Vậy đừng phung phí thời gian vì chất liệu cuộc sống làm bằng thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười ngây thơ. Ta đánh mất trong dòng đời hối hả\nNụ cười giả tạo. Ta nhặt được từ xã hội bon chen",
+   "author": ""
+  },
+  {
+   "name": "Biển vẫn cậy mình dài rộng thế\nVắng cánh buồm một chút đã cô đơn",
+   "author": ""
+  },
+  {
+   "name": "Muốn bước tiếp và trưởng thành tập buông bỏ và thứ tha\nChuyện hiện tại của kiếp người chỉ là kéo được quá khứ ra\n-- Duyên -- ft Huỳnh Tú & Khói",
+   "author": ""
+  },
+  {
+   "name": "Nỗi buồn lớn nhất là cố tỏ ra hạnh phúc\nNỗi đau lớn nhất là luôn cố gắng mỉm cười",
+   "author": ""
+  },
+  {
+   "name": "Dẫu có cùng nhau qua bao miền chông gai\nBỗng, ông Trời nhớ ra trao duyên mình nhầm lẫn",
+   "author": ""
+  },
+  {
+   "name": "Nhiều người không quan tâm tới tiền cho tới khi họ cạn kiệt tiền, và những người khác cũng làm điều tương tự với thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Liều thuốc tốt nhất là nụ cười. Nhưng cười mà không có lý do, thì đã đến lúc cần đến thuốc.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay lạc bước trời Tây\nPhố đông, tim lạnh, người say, lòng buồn!",
+   "author": ""
+  },
+  {
+   "name": "Có những người đi tìm tình yêu cả đời\nVà mãi mãi ko bao giờ được 1 nửa kia trả lời\nNhưng mà anh, may mắn hơn người ta\nAnh đã có những cuộc tình cay đắng hơn người ta\n1 con người thật thà, anh đã yêu 1 cách chân tình\nThậm chí anh yêu em còn hơn cả bản thân mình\nChuyện tình mình đẹp như 1 cơn mưa trong 1 ngày nắng\nVà buồn như 1 cơn mưa, tầm tã trong 1 ngày vắng em\n-- Untitled --",
+   "author": ""
+  },
+  {
+   "name": "Khi nhỏ trầy xước tí la toáng lên, lớn lên rồi vết thương lòng không ai biết",
+   "author": ""
+  },
+  {
+   "name": "Sống trong hiện tại thật khó khăn, sống trong tương lai là vô nghĩa, và sống trong quá khứ là bất khả thi.",
+   "author": ""
+  },
+  {
+   "name": "Em không cần một người con trai tốt. Em chỉ cần một người vì sợ em buồn mà sống tốt hơn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Anh hỏi nè, bạn trai cũ của em sao? Thôi khỏi cần nói ừ nó tệ thật.\nWow người ta bỏ em, how? Tiếp cận được em đã là nghệ thuật.\nAnh nói: Xinh cỡ em vậy là đủ rồi. Thí sinh the face không đủ tuổi.\n-- Krazy --",
+   "author": ""
+  },
+  {
+   "name": "Đời tôi buồn... ai mua tôi bán\nXã hội vui...ai bán tôi mua\nSự cô đơn... tôi đã có thừa\nĐã từng yêu... nhưng chưa từng hạnh phúc",
+   "author": ""
+  },
+  {
+   "name": "Nước vô tình, ngàn năm trôi mãi\nMây vô tình, mây mãi bay xa\nTrăng vô tình, trăng đùa với gió\nNgười vô tình, sao hiểu tình tôi",
+   "author": ""
+  },
+  {
+   "name": "Yêu thì dễ, giữ mới khó! Chia tay thì đơn giản cái không làm được là... quên!",
+   "author": ""
+  },
+  {
+   "name": "Anh bảo em phải vui lên nhưng chính anh lại làm em buồn",
+   "author": ""
+  },
+  {
+   "name": "Em về điểm phấn, tô son lại\nNgạo với nhân gian một tiếng cười",
+   "author": ""
+  },
+  {
+   "name": "Đã buồn suốt cả mùa đông\nMà sao đến hạ vẫn không hết buồn.",
+   "author": ""
+  },
+  {
+   "name": "Thời gian không thực sự giúp chúng ta giải quyết định được vấn đề gì cả. Nó chỉ biến những vấn đề vốn ta chưa nghĩ thông suốt trở nên không còn quan trọng nữa mà thôi!",
+   "author": ""
+  },
+  {
+   "name": "Đã bao gìờ bạn nghĩ đến tôi chưa... hay chỉ vờ như chưa hề quen biết...",
+   "author": ""
+  },
+  {
+   "name": "Nếu nụ cười là phép ẩn dụ của nổi đau, thì khóc là tính chất bắc cầu của nỗi nhớ.",
+   "author": ""
+  },
+  {
+   "name": "Sự chần chừ là kẻ trộm thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Em à! Đợi chờ không phải là hạnh phúc\nAnh biết yêu thuơng không nhất thiết phải gần nhau\nNhưng nỗi nhớ em lớn dần thêm từng phút\nCảm giác quen thuộc sắp thêm một lần đau\n-- PHÍA SAU EM -- ft Kay Trần",
+   "author": ""
+  },
+  {
+   "name": "Coi thời gian chỉ là mê cung mơ hồ\nRồi tao nhảy ra khỏi đó với bản năng là sơ đồ\nĐể ngày dài qua đi nhường chỗ cho màn đêm tới\nChắt lọc những gì hôm nay để coi tao có được gì thêm mới\n-- Ai cũng có một ngày dài -- ft Blacka & Pjpo",
+   "author": ""
+  },
+  {
+   "name": "Tao muốn thoát ra, như chưa bao giờ bị giam cầm\nNhốt bởi 6 bức tường vô hình huyền bí tao ko cam tâm\nNhư chưa bao giờ phải thất vọng, tự cô lập\nNhư chưa bao giờ mất lòng tin, phải cố chấp\nSống như chưa bao giờ phải đặt câu hỏi về nghĩa lý\nHồn nhiên và ngây thơ như chưa bao giờ có giây phút chia ly\n-- Chưa bao giờ --",
+   "author": ""
+  },
+  {
+   "name": "Hồng trần như mộng, người tỉnh mộng tan\nNhân sinh như kịch, người tản kịch tàn.",
+   "author": ""
+  },
+  {
+   "name": "Đem kí ức cất vào trong tủ\nCái gì cũ cứ để nó tự phai...",
+   "author": ""
+  },
+  {
+   "name": "Trong cuộc đời chúng ta vào một lúc nào đấy, ở một nơi nào đó, bạn sẽ gặp được một người khiến bạn muốn bỏ lại cả thế giới sau lưng.",
+   "author": ""
+  },
+  {
+   "name": "Trong trái tim anh... em tạm thời hay là vĩnh viễn!",
+   "author": ""
+  },
+  {
+   "name": "Có bao giờ trăng tròn lại khuyết.\nCó bao lần định viết lại thôi.\nHôm nay mượn bút thay lời.\nMượn trang giấy nhỏ gửi lời hỏi yêu",
+   "author": ""
+  },
+  {
+   "name": "Đã là của tôi xin đừng tìm người khác\nĐã là của người khác xin đừng tìm đến tôi",
+   "author": ""
+  },
+  {
+   "name": "Kỷ niệm chỉ có giá trị với những người không chịu buông bỏ thôi",
+   "author": ""
+  },
+  {
+   "name": "Tương lai được mua bằng hiện tại.",
+   "author": ""
+  },
+  {
+   "name": "Mày kiên cường, mày sẽ thắng vốn dĩ mày đủ khả năng\nLinh hồn mày không hạ đẳng vì nó không thuộc về quỷ satan\nĐường vinh quang luôn mở đầu bằng chuỗi ngày tang tóc\nSẽ không bao giờ có chuyện trải sẵn những lời vàng ngọc\nĐể đứng trên hàng triệu người ngạo nghễ giữa đời ngang dọc\nPhải ý chí và mạnh mẽ vượt qua nghịch cảnh tàn khóc\n-- Không Phải Hôm Nay --",
+   "author": ""
+  },
+  {
+   "name": "Ngày em đến, em dạy anh các yêu thương trọn vẹn một người.\nNgày em đi, em chưa dạy anh cách quên đi một người anh từng trọn vẹn yêu thương.",
+   "author": ""
+  },
+  {
+   "name": "Trở về với đất mẹ em là cỏ hay là cây\nBay lên bầu trời kia em là gió hay là mây\n-- Đợi --",
+   "author": ""
+  },
+  {
+   "name": "Bao lâu rồi ta mới tái ngộ? Nhận ra hình hài nhưng chưa quen với thái độ\nBao lâu rồi ta mới tái ngộ? Thời gian vốn đã nhanh mà còn khoái độ\nBao lâu rồi ta mới tái ngộ? Đường nhà mày tới nhà tao đâu có mãi lộ?\nSao lâu rồi ta mới tái ngộ? Lần sau gặp lại chỉ còn cái mộ.\n-- Tái ngộ --",
+   "author": ""
+  },
+  {
+   "name": "Có những người chỉ chờ mình nói 1 câuđể ở lại\nCó những người chỉ chờ 1 lần mình dại để bỏ đi",
+   "author": ""
+  },
+  {
+   "name": "Kẻ yêu hoa trồng hoa không mọc\nKẻ vô tình cắm liễu lại xanh",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười có thể tặng bất cứ ai. Nhưng nước mắt chỉ dành cho những người ta không muốn mất đi.",
+   "author": ""
+  },
+  {
+   "name": "Ánh mắt kẻ si tình, khẽ nhìn người tình si\nVì tim người vô tri, hay tình ta vô vị!",
+   "author": ""
+  },
+  {
+   "name": "Nếu anh tương tư mà không tương tác...\nThì tình mình sao mà sang chương khác được đây...",
+   "author": ""
+  },
+  {
+   "name": "Chẳng một ai muốn chọn cây cỏ dại\nKhi đang nằm giữa một cánh đồng hoa",
+   "author": ""
+  },
+  {
+   "name": "Anh em tao là ai, là ai, là ai, là ai...\nLà những thằng ít nói nhưng khi tao ngã luôn là chỗ dựa tinh thần\nKhông phân trần đôi co với những đứa thích sân si\nNguồn sống ngoài tiền là nghĩa, còn lại là không cần gì\nKhông bào giờ tin đời màu hồng, nhưng trong lòng luôn luôn đầy hy vọng\n-- Đó Là Anh Em Tao --",
+   "author": ""
+  },
+  {
+   "name": "Tim em đang bật đèn xanh\nMà sao anh mãi đạp phanh thế này!!!",
+   "author": ""
+  },
+  {
+   "name": "Mỉm cười là cách tốt nhất lúc ta bất lực",
+   "author": ""
+  },
+  {
+   "name": "Mày không phải là thằng diễn viên nên đừng ráng diễn, đừng ráng nhập vai\nĐể cuộc đời mày không hối hận, cho số phận mày nó sáng ngày mai\nĐôi khi trong cuộc chơi có đôi lần mày gặp chuyện hy hữu\nNên cứ sống cho đúng nghĩa tình để đám ma mày anh em đi đủ\n-- BI ĐEN -- ft. ELBI",
+   "author": ""
+  },
+  {
+   "name": "Mà thế nào gọi là bình thường mà thế nào gọi là dị thường\nKhi mày là underground nhưng lại bắt chước nhạc thị trường\nCòn tao là một thanh niên bình thường khác mày ở chỗ tao sống có lý tưởng\n-- Dị Nhân --",
+   "author": ""
+  },
+  {
+   "name": "Sau này, khi em cuối cùng cũng học được cách yêu thương, thì anh đã biến mất giữa biển người mênh mông :)",
+   "author": ""
+  },
+  {
+   "name": "Gió cứ thổi xuyên qua miền ký ức\nPhút giây nầy ngực trái vẫn thấy đau...",
+   "author": ""
+  },
+  {
+   "name": "Người ta dùng thời gian để kiếm tiền... rồi dùng tiền để đốt thời gian",
+   "author": ""
+  },
+  {
+   "name": "Ai trên đời mà không từng sai chứ, tao cũng sai mà, thì mày cũng sai thôi\nSai liên tục nhiều lần là đằng khác chứ đâu chỉ đơn thuần lần 1 lần 2 boyz\nNhững cống hiến thời gian sẽ phai phôi, nhưng điều sai thì khắc vào tâm khảm\nCó những lời ngày xưa đã từng là chân lý nhưng tầm chục năm sau thì nó lại đâm nhảm\n-- Chỉ Là Công Việc --",
+   "author": ""
+  },
+  {
+   "name": "Lặng lẽ vào facebook của ai đó. Thấy người ta thân mật với người khác. Cảm giác tim đau lắm! Thế mà vẫn đều đặn làm việc ngốc nghếch ấy mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "Mày công kích, tao vẫn hiên ngang\nMày không thích, tao viết thêm trang\nBa mẹ tặng tao trí óc và tứ chi và lá gan đương nhiên tao không quên mang\n-- Dear Saigon --",
+   "author": ""
+  },
+  {
+   "name": "Trước mắt anh, em là tất cả...\nSau lưng em, anh chỉ là 1 gã đàn ông...",
+   "author": ""
+  },
+  {
+   "name": "Mến Quốc:... mình thích nhất phần add làm thơ. Mình là boy, đang ở xa quê hương. Ad Nguyễn Khánh làm giúp mình bài thơ tên Mến giúp mình nha.\n\nMến mới bước đến chốn đất khách\nKhác tiếng nói khác tới gió máy\nLắm lúc thấy đắng thấy trống vắng\nChất chứa nhớ đến bóng dáng ấy\n\nTía má chớ có quá lóng ngóng\nMến hứa cố gắng quyết chiến thắng\nPhấn đấu tiến tới chức giám đốc\nThắm thiết báo hiếu với tía má.\n\nChúc các bạn luôn lạc quan, vui vẻ :D",
+   "author": ""
+  },
+  {
+   "name": "Mày nghĩ tao ko chơi với mày là tao có tội? *hài*\nKo, tao ko chơi vì tao có sự chọn lựa thôi *đúng*\n-- SSK --",
+   "author": ""
+  },
+  {
+   "name": "Anh chả đến từ nơi thềm phố hoa..để nói em dăm đôi lời đường mật\nNơi anh về chỉ là ngõ quạnh hiu chất đầy trong tim những âu thường nhật\n-- Cuối Cùng --",
+   "author": ""
+  },
+  {
+   "name": "Không có gì để chắc chắn\nThì đừng ép người ta nói từ \"mãi mãi\"",
+   "author": ""
+  },
+  {
+   "name": "Thằng bạn mình nói :\"Tao là những gì ngày ấy mày thấy\"\nTrong văn phòng mình chỉ ước cái bàn đầy giấy này cháy\nNhớ ông thầy đó, cô giáo lớp này lấy thầy ấy\nMình không thể nào mất những khoảnh khắc ngày ấy.. Vậy đấy!\n-- Ngày Nào --",
+   "author": ""
+  },
+  {
+   "name": "Những ánh đèn lấp lánh từ những nhà cao ốc\nBỗng chốc nhoè đi khi trời cao khóc\nMưa rơi mưa rơi chuyến tàu cao tốc\nCảm thấy sao dòng đời như đang lao dốc.\n-- Có nhiều ngày ko nắng nhưng ko lạnh lắm đâu --",
+   "author": ""
+  },
+  {
+   "name": "Thời gian trôi ai cũng sẽ khác... chỉ có em là vẫn còn ác với anh",
+   "author": ""
+  },
+  {
+   "name": "Trong những nhà phê bình hiện có, vĩ đại nhất, chính xác nhất, thiên tài nhất là thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có những kí ức vui vẻ mới có thể xóa đi những kỉ niệm đau buồn.",
+   "author": ""
+  },
+  {
+   "name": "Một nụ cười có thể thay đổi một ngày, một cái ôm có thể thay đổi một tuần, một lời nói có thể thay đổi một cuộc sống.",
+   "author": ""
+  },
+  {
+   "name": "Những bài thơ đều mang 1 điều khác biệt\nChỉ có nỗi buồn là không bao giờ khác nhau",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta hoang dại như là cỏ lau\nBỏ tiền bỏ bạc chứ không bỏ nhau\nAnh sẽ nói cho em nghe những điều mà anh ấp ủ\nAnh hy vọng lời ca này vỗ về em trong giấc ngủ\nAnh cũng muốn em biết anh vốn không phải là thiếu gia\nNhưng ngày em về trong đời anh nhất định trải chiếu hoa\n-- Vì Yêu Cứ Đâm Đầu -- ft MIN x JUSTATEE",
+   "author": ""
+  },
+  {
+   "name": "Một điếu, cho anh em người cùng con giàu sinh ra tử\nMột điếu cho cha mẹ tội bất hiếu này khó tha thứ\nMột điếu dành cho Trời... Một điếu dành cho Đất\nMột điếu, dành cho những người lạy trước bàn thờ khi con mất\n-- Một Điếu --",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm chết bởi chữ tình\nSinh lòng thù hận cũng vì chữ yêu",
+   "author": ""
+  },
+  {
+   "name": "Khi tôi đang bực mình...chỉ cần 1 nụ cười của ai đó thôi cũng đủ để... cho nó ăn 1 cái tát :>",
+   "author": ""
+  },
+  {
+   "name": "Có những giây phút có thể làm nên lịch sử\nCó những cái chết có thể hoá thành bất tử\nCó những hành động có thể nói hay hơn vạn lời\nVà có những thằng vô ơn như mày do tao vô ý mà vô đời\n-- Tây phương bất bại --",
+   "author": ""
+  },
+  {
+   "name": "Điếu thuốc tàn bên ly cafe cạn, cuộc đời khốn nạn biết kết bạn cùng ai.",
+   "author": ""
+  },
+  {
+   "name": "Hãy cười lên và cả thế giới sẽ cùng cười với bạn, còn khóc bạn chỉ khóc trong cô đơn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không sợ người sai, tôi chỉ sợ người luôn có lý do cho cái sai của mình!",
+   "author": ""
+  },
+  {
+   "name": "Đời này kiếp này, nếu em không yêu được anh, thì chỉ còn có thể hận anh..!",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay, đủ xa sẽ cũ\nMai này, đủ lạ sẽ quên!",
+   "author": ""
+  },
+  {
+   "name": "Rồi đến một ngày, cả nỗi buồn cũng bỏ bạn mà đi, khi đó bạn mới hiểu thế nào là cô độc.",
+   "author": ""
+  },
+  {
+   "name": "E sẽ gọi a là gió vì a... đặc biệt đến khó tả :((",
+   "author": ""
+  },
+  {
+   "name": "Người ta cười bằng mười thang thuốc bổ...\nCòn tôi cười nổi khổ bao quanh",
+   "author": ""
+  },
+  {
+   "name": "Họ gọi anh là mọt sách, nhưng không hẳn là hiền\nĐể bước vào trái tim anh thì cần có thẻ thành viên\n...\nHọ biến em thành đỉnh cao, chinh phục như Everest\nKhông ai là Romeo, em không phải Juliet\nĐừng bắt anh phải nhắn tin ngôn tình như sách ghi chép\nBởi vì em không đẹp từng centimet\n-- Uncrush --",
+   "author": ""
+  },
+  {
+   "name": "Tại sao lại coi người ta là sự ưu tiên\nTrong khi mình chỉ là một sự lựa chọn?",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không có gì tặng tôi... thì hãy tặng tôi nụ cười của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Em ơi hôm nay chồng em sẽ không về. Làm một người đàn ông tốt thật là không dễ.\n-- Đi bụi --",
+   "author": ""
+  },
+  {
+   "name": "Ai lại chọn bên cành hoa dại\nKhi đang đứng giữa môt vườn hoa",
+   "author": ""
+  },
+  {
+   "name": "Hoa hồng trong tuyết vẫn tươi\nNgười trong đau khổ vẫn cười... là tôi.!",
+   "author": ""
+  },
+  {
+   "name": "Lá bay trong gió không có quyền lựa chọn hướng đi.",
+   "author": ""
+  },
+  {
+   "name": "Tâm trạng - đó là vào một ngày đẹp trời, bạn bỗng nhiên phát hiện hôm nay bạn không còn nhìn thấy nụ cười ấm áp và hiền lành của Cụ Hồ thân yêu trong ví nữa",
+   "author": ""
+  },
+  {
+   "name": "Ngay cả giấc mơ cũng chẳng thể diễn ra theo ý nguyện của chúng ta, huống chi là cuộc đời.",
+   "author": ""
+  },
+  {
+   "name": "Em vô tình dẫm lên bông hồng dại\nHoa chỉ buồn mà không nỡ giương gai",
+   "author": ""
+  },
+  {
+   "name": "Lần này là thề vì tiền nhiều lần rồi nên mình rất muốn... bỏ thuốc lá\nĐời còn nhiều điều cần cần nhiều nhiều lần nhiều lần cần... bỏ thuốc lá\nLòng tràn đầy buồn phiền vì đồng tiền vì người nhà dù là gì thì... bỏ thuốc lá\nQuyết chết vì hứa bố mày ráng tìm cách cho dù bất chấp... bỏ thuốc lá\n-- Bỏ Thuốc Lá --",
+   "author": ""
+  },
+  {
+   "name": "Hoa đẹp hoa thơm hoa vẫn tàn\nTình nặng tình sâu tình vẫn tan\nRượu đắng rượu say rượu vẫn cạn\nNgười hứa người thề người vẫn quên.",
+   "author": ""
+  },
+  {
+   "name": "Và em biết, tâm sự anh có đem chất thành hàng\nAnh đem nó giấu kĩ còn hơn người ta đem cất bạc vàng\nNgười ta vứt tàn tro, anh của em đem vứt cái gạt tàn\nDăm ba câu rap, anh lại xem nó như 1 khúc nhạc vàng\n-- Thuốc lá và cà phê --",
+   "author": ""
+  },
+  {
+   "name": "Tao đã có thể chiến thắng nhưng yêu hoà bình, lại hoãn binh\nSống như 1 thói quen, như thể quán tính\nBán tín và bán nghi. Vì tao tin đời khó lường\nĐã có... Những lý lẽ tưởng tỏ tường, rồi cả những ước mơ to tướng x2\n-- Có Sao Đâu --",
+   "author": ""
+  },
+  {
+   "name": "Đừng lãng phí thời gian của bạn cho những người không muốn giành thời gian của họ cho bạn.",
+   "author": ""
+  },
+  {
+   "name": "Khi buồn chỉ muốn ngồi một mình trong bóng đêm",
+   "author": ""
+  },
+  {
+   "name": "Diễn tả sao đây? Khi từ ngữ ko nói hết được\nBao nhiêu lời hoa mỹ ko thể sánh vai cùng em nhưng anh có 2 từ này: Thiên thần\n-- Yêu --",
+   "author": ""
+  },
+  {
+   "name": "Người ta chỉ cô đơn khi có thời gian dành cho nó.",
+   "author": ""
+  },
+  {
+   "name": "Anh ơi,\nLàm sao để nói tiếng yêu không bị từ chối?\nTrong em thật bối rối chẳng biết nói hay là thôi",
+   "author": ""
+  },
+  {
+   "name": "Hoa vô tình bỏ rơi cành lá\nNgười vô tình bỏ lỡ tơ duyên",
+   "author": ""
+  },
+  {
+   "name": "Em không đủ can đảm để bước đến bên anh.\nNhưng cũng không đủ tự tin để nhìn anh yêu người khác.",
+   "author": ""
+  },
+  {
+   "name": "Rồi ta sẽ khóc vì những tin nhắn khiến ta cười.",
+   "author": ""
+  },
+  {
+   "name": "Ai bảo rằng cây không buồn, không khóc\nĐá không sầu, không nhớ thương ai\nCây không buồn, sao lá vàng rơi rụng\nĐá không sầu, sao đá phủ rêu xanh",
+   "author": ""
+  },
+  {
+   "name": "Gió cuốn đi những muộn phiền của nắng\nNhưng tại sao!! Nắng lại không xóa sạch những mặn đắng của mưa : (",
+   "author": ""
+  },
+  {
+   "name": "Đến ghen mình còn không có tư cách! Mình là gì của nhau :(",
+   "author": ""
+  },
+  {
+   "name": "Thời gian ko bao giờ quay trở lại, chỉ có lòng người muốn trở lại với thời gian",
+   "author": ""
+  },
+  {
+   "name": "Khi nụ cười tôi tắt là nước mắt lên ngôi :(((",
+   "author": ""
+  },
+  {
+   "name": "Con không cần được người đời nhắc tên\nCon chỉ cần trái tim họ có lời con khắc lên\nDành cho những ai mà thằng Blacka này chưa kịp gặp\nDù bốn bể năm châu! trái tim ta vẫn chung nhịp đập... là người Việt\n-- Đây là Việt Nam --",
+   "author": ""
+  },
+  {
+   "name": "Này em ơi. Em có bao nhiêu cái xuân xanh\nThế giới em bỏ mặc tại sao lại đi theo chân anh\n...\nNhưng vì đời này đưa đẩy biến anh thành thằng dân đen\nNgông cuồng với thiên hạ nhưng lại quỳ dưới chân em\n...\nAnh không phải người thành phố nên tính tình rất nhỏ nhen\nAnh bỏ cả thế giới chứ chẳng bao giờ bỏ em\n-- Này Em Ơi --",
+   "author": ""
+  },
+  {
+   "name": "Thế giới này nhỏ lắm, chỉ cần xoay người 1 cái, bạn sẽ không ngờ lại gặp được ai. Nhưng thế giới này cũng lớn lắm, chỉ cần quay lưng bước đi là sẽ chẳng bao giờ gặp lại.",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân như một ly trà\nUống hết ly trà hết bà thanh xuân...",
+   "author": ""
+  },
+  {
+   "name": "Màn đêm lạnh lùng cùng làn khói thuốc\nLòng tôi lạnh buốt trong từng cơn đau.\nAnh nhớ em T.T.L.P",
+   "author": ""
+  },
+  {
+   "name": "Hãy là lý do cho nụ cười ngày hôm nay của ai đó.",
+   "author": ""
+  },
+  {
+   "name": "Về đêm, mọi thứ trở nên tĩnh lặng. Nỗi buồn cũng vì thế mà trở nên mênh mông hơn.",
+   "author": ""
+  },
+  {
+   "name": "Ghét một người có thể có lý do, nhưng yêu một người thì không.",
+   "author": ""
+  },
+  {
+   "name": "Trăm lối đi... chỉ mong một lối về\nVạn người nhớ... không bằng một người thương!",
+   "author": ""
+  },
+  {
+   "name": "Nắng thì không có về đêm, cũng như êm đềm chẳng bao giờ tồn tại mãi.",
+   "author": ""
+  },
+  {
+   "name": "Cha mẹ sinh tao ra chỉ có 2 con mắt và đều nằm ở đằng trước nên tao làm biếng ngước về đằng sau\n-- The King --",
+   "author": ""
+  },
+  {
+   "name": "Khuôn mặt đó quá đẹp, để em phải buồn như thế\nĐôi mắt đó biết cười, em đừng để rơi giọt lệ\nAnh thì ko hoàn hảo, nhưng a dám đảm bảo\nA sẽ yêu em thật nhiều, nhiều hơn những người đến trước\n-- So blue -- ft Am1r",
+   "author": ""
+  },
+  {
+   "name": "Đừng gieo cho em hi vọng vì từ đầu, anh vốn dĩ biết rằng mình không thể bên nhau.",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc như một cơn gió, vô tình lúc có lúc không...",
+   "author": ""
+  },
+  {
+   "name": "Có khi nào... sau bao nhiêu quan tâm ấy. Đến cuối cùng ta vẫn là người lạ trong danh bạ của nhau :((",
+   "author": ""
+  },
+  {
+   "name": "Trời buồn trời đổ cơn mưa\nNgười buồn người đổ hàng thưa lệ sầu...",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn vui bạn nghe nhạc để giải trí. Khi bạn buồn bạn sẽ thấu hiểu lời nhạc.",
+   "author": ""
+  },
+  {
+   "name": "Đố ai ngồi võng không đưa.\nĐố ai gặp lại người xưa không nhìn.\nĐố ai quên được chữ tình.\nĐố ai quên được người mình từng yêu.",
+   "author": ""
+  },
+  {
+   "name": "Khi họ hỏi về em... anh không gọi là người yêu cũ\nChỉ gọi là người từng thương... dù chuyện tình mình giỡ đã cũ\nLà người được nhớ không quyền được ghen vì giờ là gì của nhau\nEm theo người ta trọn vẹn niềm vui bỏ lại tình anh cùng ngàn nỗi đau\n-- Người Từng Thương -- Ft. Will, Suka",
+   "author": ""
+  },
+  {
+   "name": "Cho tao hỏi tụi mày 1 câu, Rap thế nào mới là văn minh?\nCòn việc quyết định kẻ thắng người thua không phải phận sự của thằng đăng tin\n-- Đây Là Rap Việt --",
+   "author": ""
+  },
+  {
+   "name": "Duyên do trời sinh nên khó gỡ...\nPhận do người buộc nên dễ buông...",
+   "author": ""
+  },
+  {
+   "name": "Anh chỉ muốn đi cho xa, anh không hề muốn đi cho nhanh\nĐể kịp giữ lại từng khoảnh khắc, những điều em khắc ghi cho anh\nVì chúng ta bằng da bằng thịt không phải sắt, đá haу đồng thau,\nNên anh mong vì chuуến đi đó, hai đứa mình sẽ phải lòng nhau\n-- Ngày Khác Lạ --",
+   "author": ""
+  },
+  {
+   "name": "Thời ấy bình dị lắm con ơi, chạm tay nhau 1 qiây thôi la nhớ nhau cả đời ^^",
+   "author": ""
+  },
+  {
+   "name": "Đến cả khoảng không cũng mang hình hài nỗi nhớ thì nhìn về phía nào cũng chỉ thấy một trời thương.",
+   "author": ""
+  },
+  {
+   "name": "Những người tin vào vật lý học đều hiểu rằng sự khác biệt giữa quá khứ, hiện tại và tương lai không gì hơn chỉ là một ảo ảnh dài lâu và ngoan cố do con người tạo ra.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tao cho da vàng, xăm Sài gòn trên la bàn\nNhắc tao nhớ về miền Nam dù bay cao tụi tao không xa đàn\n-- Da Vàng --",
+   "author": ""
+  },
+  {
+   "name": "Ranh giới giữa \"quan tâm\" và \"làm phiền\" mong manh lắm. Chỉ khác nhau ở một điểm là người nhận có cần nó hay ko?",
+   "author": ""
+  },
+  {
+   "name": "Nhắm mắt để biết thấy, bịt tai để biết nghe\nĐứng lại để biết chạy, ra đi để biết về\nNgừng hơi để biết thở, vỗ về để biết đau\nTa quên đi để biết nhớ, xa lạ để biết nhau\n-- Chạm --",
+   "author": ""
+  },
+  {
+   "name": "Vết sẹo bị giấu kín bất cứ lúc nào cũng có thể khiến con người ta đau đớn.",
+   "author": ""
+  },
+  {
+   "name": "Một bình bóng cười bằng 10 thang thuốc độc, tao không muốn 1 nụ cười hóa học",
+   "author": ""
+  },
+  {
+   "name": "Vốn sinh ra ông trời tặng cho mỗi người 1 hộp bút chì màu\nHộp thì 12 cây bút, hộp thì lại chỉ có 6\nNhưng rồi mày sẽ vẽ gì, với những màu mày đang có\nĐen, trắng, xanh, tím, vàng, đỏ\n-- Con nhà giàu, con nhà nghèo --",
+   "author": ""
+  },
+  {
+   "name": "Ngày có đẹp,thêm bao lâu rồi cũng sẽ tối\nCho anh đưa em 1 đoạn đường trước khi mình rẽ lối\n-- Hoàng hôn --",
+   "author": ""
+  },
+  {
+   "name": "Nhân gian vốn lắm bộn bề\nSao không bỏ hết rồi về bên nhau",
+   "author": ""
+  },
+  {
+   "name": "Món ăn ưa thích của anh không phải lẩu thái... nên không cần nói lời chua cay.\n-- Nguyên team đi vào hết --",
+   "author": ""
+  },
+  {
+   "name": "Nếu như đi 1 đoạn đường dài và trời đất ko dung\nThì nhà là nơi để về là điểm dừng cuối cùng\nDù cho bố không tin tưởng và nói là con không đúng\nDù cho mẹ có bực mình và đuổi con đi ra\nVẫn không có người phụ nữ nào yêu con bằng mẹ\nCũng không có người bạn nào sẽ khuyên con như cha\n-- Childhood --",
+   "author": ""
+  },
+  {
+   "name": "Muốn được cùng em, trồng rau bên hồ cá\nNhưng tim em lúc đó, là thời kì đồ đá\nAnh đã tin vào em như tin vào thuyết nhật tâm\nNhư Ga-li-lê người ta nói anh thật hâm\nCó lẽ Đác-win biết biển cả sẽ khô hơn\nNhưng anh tin ông ta không biết chúng ta đang tiến hoá để cô đơn\n-- Hai Triệu Năm -- ft. Biên",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi tâm trạng của bạn chỉ phụ thuộc vào 1 tin nhắn.",
+   "author": ""
+  },
+  {
+   "name": "Đường cong em nhiều hơn cả đường đua\nAnh không đùa với sắc đẹp vì anh thường thua\n-- Hello --",
+   "author": ""
+  },
+  {
+   "name": "Ta lội ngược gió để ôm trọn lấy nhau,\nRồi trong khoảnh khắc ta quay lại phút bắt đầu\nEm đưa tay với... hứa bên a ko thay đổi\nAnh đưa tay với... nhưng em buông tay anh vội...\n-- Rời xa -- ft Binz, ItsLee",
+   "author": ""
+  },
+  {
+   "name": "Giỏi chịu đựng, giỏi kìm nén. Không có nghĩa là không biết đau :)",
+   "author": ""
+  },
+  {
+   "name": "Vì đây là nơi thấy mình ngồi trên phi thuyền để truy tìm\n1 kho báu được cất giấu mang tên là gen di truyền\nNơi có nước mát và 1 chút ướt át\nNơi bắt đầu trước khi bước đi những bước khác\nLúc đó bầu trời sầu đời nên đang giông trên ban công\nCòn tao thì lơ mơ như con thuyền quên sang sông\nVì tao sống với những gì mình đang mong, oh!\n-- Nơi Con Đến -- ft. Mèo",
+   "author": ""
+  },
+  {
+   "name": "Không phải lúc nào đằng sau nụ cười cũng là niềm vui...\nĐôi khi nước mắt tuôn rơi ở nơi không ai biết cả",
+   "author": ""
+  },
+  {
+   "name": "Và tao rap cho tất cả người em cho người anh\nVà tao rap cho những mãnh đời bất hạnh\nVà tao rap cho những giấc mơ bất thành\nVà tao rap cho những tờ giấy bạc có màu xanh\n-- Và tao rap 2 --",
+   "author": ""
+  },
+  {
+   "name": "Và dần dần, tất cả đều thành con rối trong tay fan\nNgay cái ngai vàng mày đang ngồi đó cũng là họ dẫn lối cho mày đến\nĐiều mày cần đánh đổi là thể diện, một gương mặt cười đầy trìu mến\nVà đó là mức giá sàn để mày được ngàn người gọi tên\n-- Phán xét --",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta có trăm ngàn sự lựa chọn...\nNhưng cuối cùng, ta vẫn chọn làm tổn thương nhau...",
+   "author": ""
+  },
+  {
+   "name": "Không ai hoàn toàn thuộc về ai, có những người chỉ có thể giữ lại hình bóng trong tim.\nVì không phải yêu thương nào cũng được đền đáp bằng yêu thương, không phải yêu một người là sẽ được bên một người….",
+   "author": ""
+  },
+  {
+   "name": "Để tui nói cho mà nghe\nKo muốn mọc sừng như nghé thì có người yêu chớ mà khoe\nYêu đương chi rồi than mà còn lây lan luôn người nghe\nThời nay yêu nhanh như tờ vé số vậy đó sáng mua chiều xé\n-- CHUYỆN TÌNH CĂNG ĐẤY -- ft EMMA",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ lừa dối người khác. Bởi vì những người mà bạn lừa được đều là những người tin tưởng bạn!",
+   "author": ""
+  },
+  {
+   "name": "Em là cô gái yêu màu trắng. Ngược đường ngược nắng để yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "Cười lên.. nó dễ dàng hơn là giải thích lý do tại sao bạn đang buồn.",
+   "author": ""
+  },
+  {
+   "name": "Một nụ cười bằng mười thang thuốc bổ\nNhưng cười không đúng chỗ thì lấy rỗ mà lượm răng",
+   "author": ""
+  },
+  {
+   "name": "Em ơi gió đông gần kề\nEm mau thu sếp mà về với anh",
+   "author": ""
+  },
+  {
+   "name": "Chỉ vì một thằng tỏ ra thân thiện không có nghĩa nó là bạn.\nTrong áo nó là áo chống đạn, trong túi quần là súng AK cưa bán cưa nòng chơi láng.",
+   "author": ""
+  },
+  {
+   "name": "Yêu em, anh đã quên mất, anh từng mạnh mẽ\nĐừng xa anh để cho nỗi nhớ làm nhoà đi hết bức tranh anh từng vẽ.\n-- Crying over you --",
+   "author": ""
+  },
+  {
+   "name": "Anh đẹp tới mức được Unesco chụp hình đóng khung triển lãm\nVà nếu là fan của anh... vào xem sẽ được miễn giảm nha em!!!\n-- Đẹp Trai --",
+   "author": ""
+  },
+  {
+   "name": "Thời gian là vị bác sĩ giỏi nhưng lại là người trang điểm tồi.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mình chả thiết cười\nĐến thương hay hận cũng lười phân minh",
+   "author": ""
+  },
+  {
+   "name": "Trả công nuôi con mỗi ngày, mẹ đánh đổi bằng sự khó nhọc\nTiền lo cho con ăn học, mẹ trả bằng tuổi thọ từng sợi tóc\nĐể con luôn bình an, mẹ tập làm quen đời gai góc\nKhông muốn ai phải bận tâm đêm về chỉ mình mẹ khóc\n-- Mẹ Tôi --",
+   "author": ""
+  },
+  {
+   "name": "Hãy trân trọng thời gian và làm thành nền tảng vững chắc cho tương lai\nĐừng để thời gian qua đi rồi tương lai ngồi đó ước",
+   "author": ""
+  },
+  {
+   "name": "Đừng đem một nửa rất gần\nĐổi trao một thoáng ân cần rất xa",
+   "author": ""
+  },
+  {
+   "name": "Ta sinh ra không thuộc quyền sở hữu của ai cả chỉ la do ta đối xử tình cảm, tình yêu cũng vậy cố chấp níu giữ thì chỉ thành sự miễn cưỡng",
+   "author": ""
+  },
+  {
+   "name": "Tây Nguyên thì vẫn vậy\nTrời nắng và ít mây\nMai em chẳng còn đây\nTình anh vẫn tràn đầy",
+   "author": ""
+  },
+  {
+   "name": "Đừng tự trách cứ bản thân mình nữa, tất cả là quá khứ, bạn không còn sống ở đó nữa.",
+   "author": ""
+  },
+  {
+   "name": "Sơn bản vô ưu, nhân tuyết bạch đầu, thủy bản vô sầu, nhân phong khởi trứu!\nVietsub: Núi vốn vô tư vì tuyết mới bạc đầu. Biển vốn vô sầu vì gió mới nhăn nheo.",
+   "author": ""
+  },
+  {
+   "name": "Đây là thứ dùng để mua chuộc\nSống không có tiền, chắc chắn là kẻ thua cuộc\n-- Muốn có tiền --",
+   "author": ""
+  },
+  {
+   "name": "Tụi tao về!!! Nơi cất tiếng khóc đầu tiên!\nNơi vào sáng chủ nhật tiếng chuông nhà thờ cầu nguyện\nNơi bắt đầu câu chuyện bằng một tiếng chửi thề\nNơi mà người tài đóng góp, nhận lại tiếng cười chê\nNơi sự thật lười nghe, những chuyện tốt người kể\nNơi không phải chỉ sống, mà còn phải lo trăm bề!\n-- One more song --",
+   "author": ""
+  },
+  {
+   "name": "Không thương không nhớ không mơ mộng.\nKhông buồn không chán lệ không rơi.\nKhông yêu ai cả lòng băng giá.\nKhông nhớ ai cả hồn tự do.",
+   "author": ""
+  },
+  {
+   "name": "Cho phép anh không xin lỗi mỗi khi lý trí bị đánh gục\nCho phép anh vẫn giữ hết những gì về em\nCho phép anh không thể chúc em hạnh phúc\nCho phép anh không ngừng tìm kiếm một người nào đó tốt hơn em.\n-- All about you --",
+   "author": ""
+  },
+  {
+   "name": "Mong em khác, không đem những vết thương này theo mãi sau\nAnh xin lấy lại những câu nói khi cãi nhau...\nEm cần biết, khi đau lòng thì anh mới buông lời ác,\nThật buồn cười, kẻ tổn thương lại muốn tổn thương người khác...\n-- Ex's hate me -- ft AMEE",
+   "author": ""
+  },
+  {
+   "name": "Nếu không phải tôi chủ động quan tâm bạn thì liệu có bao giờ bạn quan tâm đến tôi!",
+   "author": ""
+  },
+  {
+   "name": "Rồi ai cũng sẽ bỏ đi\nChỉ có nỗi cô đơn là chung thủy",
+   "author": ""
+  },
+  {
+   "name": "Hoa đẹp hoa tan hoa vẫn tàn\nNghĩa nặng tình sâu tình vỡ tan\nRượu đắng rượu cay rượu vẫn hết\nNgười hứa người thề người lại quên",
+   "author": ""
+  },
+  {
+   "name": "Ai ko nghe nên cảm nhận\nTao ko nghe, để bao nhiêu năm con quỷ nó bám chân như cái bóng\nNó ko chỉ có 2 mặt, nó có cả đến 2 giọng\nNói 12 thứ tiếng và biết cách khiến người ta hài lòng\nVăn của nó kích thích, dù ko dài dòng\nSài gòn, ngày nó lượn cũng vài vòng\nTrong cái dáng lịch lãm, vào là mời ngồi\nNó sắp mua đc hết cả thế giới rồi\n-- Im Lặng Thôi --",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống như một tấm gương, bạn cau mày thì nó cũng cau mày lại với bạn, hãy mỉm cười... nó cũng sẽ mỉm cười với bạn",
+   "author": ""
+  },
+  {
+   "name": "Quá khứ là nơi bạn đã học được những bài học. Tương lai là nơi bạn áp dụng bài học đó. Vì thế đừng bỏ cuộc giữa chừng.",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói người con gái đi bên cạnh\nLà món trang sức quý nhất\nThế nên anh lấp lánh\nNhưng ko thể nào bằng mắt em\n-- Sao Cũng Được --",
+   "author": ""
+  },
+  {
+   "name": "Em là sóng, nhưng xin đừng như sóng đã xô vào xin chớ ngược ra khơi.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta không thể nhắm mắt băng qua đường cũng như không thể ghét một người mình từng thương.",
+   "author": ""
+  },
+  {
+   "name": "Đời người phải khóc bao nhiêu lần mới không lưu lệ.\nĐời người phải rơi bao nhiêu lệ mới không tan nát lòng.",
+   "author": ""
+  },
+  {
+   "name": "Em không sợ ai thích anh cả. Em chỉ sợ tình cảm ấy được anh đáp lại.",
+   "author": ""
+  },
+  {
+   "name": "Trên đôi môi yêu thương trôi qua\nGiờ đây không còn là đôi ta\nMà là em hoặc là anh\nYêu thương dù mong manh\nNhưng vẹn nguyên như chưa từng phôi pha\n-- Giữ -- ft Ngọc",
+   "author": ""
+  },
+  {
+   "name": "Trong lòng anh là con sóng dữ, tâm trí anh không phút bình yên\nKhông em anh không thể chống cự được, những suy nghĩ theo đêm dần dần đến\nĐông lại rơi cho con đường này vắng thêm, quay mặt với phía sau bao ngày ấm êm\nTừng câu thơ còn bỏ anh ra đi huống chi em vô tình vậy có phải chăng?\n-- Quên em --",
+   "author": ""
+  },
+  {
+   "name": "Nhớ quá khứ buồn rơi nước mắt\nNhìn tương lai lạnh toát mồ hôi",
+   "author": ""
+  },
+  {
+   "name": "Trên đường đời dẫu có nhiều nham nhở\nNếu gặp nhau xin hay nở nụ cười",
+   "author": ""
+  },
+  {
+   "name": "Họ cười tôi vì tôi không giống họ... Tôi cười họ vì họ quá giống nhau.",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười chưa chắc là bạn, mà lạng quạng tai nạn sắp xảy ra.",
+   "author": ""
+  },
+  {
+   "name": "Ngày ngày trông thấy e cười\nVui vẻ hanh phúc bên người mình yêu\nCòn a tâm trạng trái chiều.\nVừa đau vừa khổ người yêu không còn.",
+   "author": ""
+  },
+  {
+   "name": "Em biết không, đôi khi anh cần người trói\nBằng ánh mắt bằng hơi thở bằng cười nói\nBằng thinh lặng bằng hồ hởi bằng êm ru\nKhi trưa hè ngày đông lạnh trong đêm thu\n-- Lộn Xộn ll --",
+   "author": ""
+  },
+  {
+   "name": "Như Đan Trường những năm 90... Yeah, anh sẽ hôn môi xa\nCho em bài tình khúc vàng, dẫu tình đời có phong ba\nDù anh có tóc hai mái đi nữa, anh vẫn looking good\nKể cả, HariWon và Trấn Thành cũng không thể hơn đôi ta\n-- Nếu Như Là Định Mệnh -- ft. Hoài Lâm",
+   "author": ""
+  },
+  {
+   "name": "Mày biết vì sao tao có nhiều fan?\nLàm sao tao lấy nước mắt của họ chỉ qua gặp gỡ 1 lần?\nSee, tao đã thôi không còn áp đặt âm nhạc phải chất là giống như tao,\nVà đem tất cả tâm sự chất đống của tao gói gém đem đổ vào,\nCon đường thành công ở trong nghệ thuật không phải 1 thảm mượt đỏ,\nMày muốn tồn tại được lâu thì chỉ khi mày đã cảm được họ.\n-- Ân Cần --",
+   "author": ""
+  },
+  {
+   "name": "Qúa khứ chơi dại làm hại tương lai",
+   "author": ""
+  },
+  {
+   "name": "Nó lớn lên từng ngày... chưa trả thứ mình vay\nHọ phớt lờ sự thật như hằng ngày chưa từng thấy\nHọ tin thứ dc dạy... thần tượng thứ dc thấy\nHọ truyền tai với nhau muốn sống lâu đừng nói bậy...\n-- Đâu Muốn Sống Lâu --",
+   "author": ""
+  },
+  {
+   "name": "Vốn dĩ không định trưởng thành\nMà do bị ép nên đành lớn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Điều sai lầm của em không phải là em yêu anh... mà là nghĩ anh cũng yêu em.",
+   "author": ""
+  },
+  {
+   "name": "Em của ngày đó chính là em tuyệt vời nhất. Nhưng tôi của mãi sau này mới là tôi tuyệt vời nhất. Giữa hai con người tuyệt vời đó của chúng ta cách nhau một tuổi trẻ.\nDù chạy thế nào cũng không thắng được thanh xuân!",
+   "author": ""
+  },
+  {
+   "name": "Trong đầm gì đẹp bằng sen\nQuê mình ai đẹp bằng em\nEm xinh đẹp không cần bằng khen\n-- Lý cây bông --",
+   "author": ""
+  },
+  {
+   "name": "Người dễ cười cũng là người dễ khóc\nCòn lúc tan nát nhất họ sẽ im lặng",
+   "author": ""
+  },
+  {
+   "name": "Cảm nhận Rác Việt thì tao đã có viết lên nhiều bài đó\nCàng tiếp xúc với tụi mày, tao càng thấy yêu thêm loài chó\n-- Tứ phương bất bại --",
+   "author": ""
+  },
+  {
+   "name": "Ai ai cũng biết được rằng là đồ ăn phải chờ khi cúng kiến\nNhưng bước ra đường đời thì không bao giờ đi đúng tuyến\n-- Lửa màu đen --",
+   "author": ""
+  },
+  {
+   "name": "Khoảng trống... có thể lấp đầy bằng những yêu thương\nNhưng... tổn thương thì mãi mãi không gì bù đắp được.",
+   "author": ""
+  },
+  {
+   "name": "Nhớ em đã là một thói quen không thể bỏ của anh.",
+   "author": ""
+  },
+  {
+   "name": "Đừng vì còn trẻ không có tiền mà ủ rũ, tương lai, những ngày không có tiền còn rất nhiều",
+   "author": ""
+  },
+  {
+   "name": "Họ hết lòng vì họ chưa có được em\nLời đường mật buông ra như thói quen\nThề thốt trăng sao bao nhiêu lời hứa hẹn\nCứ tin nay mai cũng chẳng thể trọn vẹn\n-- Anh thì không -- ft Mỹ Tâm",
+   "author": ""
+  },
+  {
+   "name": "Nước mắt đến từ trái tim chứ không phải từ não.",
+   "author": ""
+  },
+  {
+   "name": "Đố ai sống được mà không yêu\nKhông nhớ không thương một kẻ nào",
+   "author": ""
+  },
+  {
+   "name": "Nắng có thể làm biển cả mất nhiều nước... vậy sao không thể làm khô đi nước mắt trong lòng",
+   "author": ""
+  },
+  {
+   "name": "Ko tinh thần thượng võ, tôn người hèn làm chủ\nVậy ý trời có muốn tao cũng ko thể bỏ qua đc chuyện cũ\n-- Chiến Thư --",
+   "author": ""
+  },
+  {
+   "name": "Đừng nghĩ người đang cười là người vui vẻ...\nHọ chỉ cười để giấu nỗi buồn tẻ bên trong...",
+   "author": ""
+  },
+  {
+   "name": "Có những cuộc gặp gỡ, có khi là duyên nợ, có khi lại là bi thương...",
+   "author": ""
+  },
+  {
+   "name": "Tài sản lớn nhất của bạn là khả năng kiếm tiền. Tài nguyên lớn nhất của bạn là thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Những điều thích thú nhất trong cuộc sống của tôi không đáng giá 1 xu nào cả. Thứ quý giá nhất với chúng ta rõ ràng là thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Thay vì tặng anh một đóa hồng không héo\nHay là để em gửi anh một mối tình không phai!",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta rồi sẽ cùng nhau trưởng thành, nhưng cũng vì trưởng thành mà xa nhau.",
+   "author": ""
+  },
+  {
+   "name": "Cả trăm hành động để lấy được nụ cười\nNhưng chỉ vài câu nói cũng khiến rơi nước mắt",
+   "author": ""
+  },
+  {
+   "name": "Đã bao lần trăng tròn rồi lại khuyết\nĐã bao lần định viết rồi lại thôi\nĐể hôm nay gục đầu trong nỗi nhớ\nTay vô tình đặt bút viết tên em.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao anh vẫn sợ mất em, ngay cả khi em không thuộc về anh?",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn bỏ lỡ một chuyến xe, vẫn có thể đợi tiếp chuyến sau.\nNhưng nếu bỏ lỡ một người tốt với bạn, thì đó có thể là chuyện cả đời.",
+   "author": ""
+  },
+  {
+   "name": "Thời gian giá trị hơn tiền bạc. Ta có thể có thêm tiền bạc nhưng không thể có thêm thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Cười là phép ẩn dụ của nỗi đau\nKhóc là tính chất bắc cầu của nỗi nhớ",
+   "author": ""
+  },
+  {
+   "name": "Em gửi thư tình vào nắng\nNgười lại bảo rằng thích mưa...",
+   "author": ""
+  },
+  {
+   "name": "Để yêu một người cần phải đi một đoạn đường dài. Nhưng để xa một người, chỉ cần... Lùi một bước và quay lưng",
+   "author": ""
+  },
+  {
+   "name": "Anh chưa từng lên kế hoạch cho cuộc đời anh\nSẽ là mây đen kéo đến hay trời ngời xanh\nNhưng nếu em muốn thấy chân trời mới toanh\nThì em ơi đi trốn với anh\n-- Đưa Nhau Đi Trốn --",
+   "author": ""
+  },
+  {
+   "name": "Tham vọng... tất cả những gì tụi tao có\nKhi phải chứng kiến những thứ còn lại cuốn trôi theo làn gió\nCho tới khi tao nằm dưới 3 tấc đất mày sẽ khóc vì lời mà tao viết\nChưa hết cấp 3 nhưng mày không thể dùng tiền mua những gì mà tao biết\n-- Tham Vọng --",
+   "author": ""
+  },
+  {
+   "name": "Thời gian là người thầy tuyệt vời, nhưng thật không may, nó giết tất cả học trò của mình.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc tình đôi ta như câu truyện cổ tích, nghe qua thì bổ ích, nhưng chua như cà chua\nEm dịu dàng, đoan trang, tựa Cô Tấm, bỏ qua Ông Bụt, để đu lấy Nhà Vua\n...\nĐám cưới em anh có thể không xuất hiện, nhưng đám ma nhất định phải báo nha\nTình cảm bấy lâu quá nhiều nên tất nhiên lễ tang của em anh sẽ đốt pháo hoa\n-- Qua ta --",
+   "author": ""
+  },
+  {
+   "name": "Vũ trụ mất hàng tỷ năm để tạo ra loài người, nhưng chỉ cho chúng ta một vài giây để chết.",
+   "author": ""
+  },
+  {
+   "name": "Ước gì trái tim mình là nước\nĐể không có những vết xước bên trong!\nNếu cảm xúc mà diễn tả được thành lời\nThì... con người ta đã chẳng phải gượng cười khi đau đớn!!!",
+   "author": ""
+  },
+  {
+   "name": "Quá khứ đang đợi ta trong mặt nạ tương lai",
+   "author": ""
+  },
+  {
+   "name": "Anh có con xe hai bánh\nLàm vợ anh xong anh cho em sanh hai bé\nEm xinh không cho ai sánh\nTình yêu ta dành cho em thì em lo vai chánh\n-- Yêu là phải nói --",
+   "author": ""
+  },
+  {
+   "name": "Ngày nắng lên tôi bán nụ cười vội vã\nĐêm lại về tôi mua lại những vụn vỡ yêu thương",
+   "author": ""
+  },
+  {
+   "name": "Ngay từ bé chúng ta đã được dạy dỗ rằng, đừng tin người lạ. Nhưng còn việc đừng tin ngay cả người quen thì mãi sau này lớn lên chúng ta mới tự học được.",
+   "author": ""
+  },
+  {
+   "name": "Tôi vẫn sống :\n- Nhẹ nhàng nhưng lạnh nhạt...\n- Biết chấp nhận!!\n- Và cẩn thận bước đi...Giấu một chút Cô đơn\nGiữ trong lòng không nói\nGiấu một chút Nỗi buồn\nNơi góc nhỏ trái tim!",
+   "author": ""
+  },
+  {
+   "name": "Người bận rộn chẳng còn thời gian để khóc.",
+   "author": ""
+  },
+  {
+   "name": "Khi chúng ta quyết định bước ra khỏi thế giới của một ai đó thì liệu trong mỗi phút giây ở quảng đời còn lại chúng ta có nhớ đến nhau không?",
+   "author": ""
+  },
+  {
+   "name": "Buồn là khi bạn trở về cuộc sống thực tại sau khi xem xong 1 bộ film tuyệt vời.",
+   "author": ""
+  },
+  {
+   "name": "Em lấy đi màu trắng của nắng\nEm mang về u buồn của mưa\nNắm tay em đi trên đoạn đường vắng\nQuá khứ lại hiện về tự hỏi đã đủ chưa\n-- Mất -- ft Binz",
+   "author": ""
+  },
+  {
+   "name": "Anh của ngày hôm qua luôn làm em cười hạnh phúc. Nhưng anh của ngày hôm nay làm em khóc mất rồi.",
+   "author": ""
+  },
+  {
+   "name": "Nụ cười có 1 sức mạnh rất lớn. Nó có thể che lấp đi 1 cảm xúc đầy dông bão",
+   "author": ""
+  },
+  {
+   "name": "Công việc đã xong chỉ muốn hội tụ bạn bè\nNhưng hôm nay đã hứa với vợ là anh sẽ không có lè nhè\nVề nhà sớm ta cùng ăn cơm để tạo niềm vui cho bạn đời\nCơm vợ nấu, bia vợ mua, ôi sao cuộc đời nó tuyệt vời\n-- UỐNG GÌ NÀO -- ft Pjnboys",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói tao rằng Việt Nam như tờ giấy, Dicky nên sang nước mỹ để định cư?\nNhưng tao sống chỉ vì những điều tốt đẹp, quá nhiều lý do để bản thân tha thứ\nNơi lạnh nhất không phải là Bắc Cực, mà là khi mày không có người thân\nĐổi tự do lấy cuộc sống nhàn nhã, nhưng mà sự cô đơn nhân lên tới ngàn lần\n-- Sống Cho Hết Đời Thanh Xuân -- ft Xám x Tuyết",
+   "author": ""
+  },
+  {
+   "name": "Vẽ yêu thương em chôn mình trong đó\nVẽ nụ cười em kéo nó lên môi.",
+   "author": ""
+  },
+  {
+   "name": "Đời ngắn! Nên đừng lãng phí thời gian với những người không có thời gian dành cho bạn.",
+   "author": ""
+  },
+  {
+   "name": "Giả vờ là người dưng\nVài lần bước chung phố\nRồi đèn xanh đèn đỏ\nRồi kẻ bỏ người đi.",
+   "author": ""
+  },
+  {
+   "name": "Boombap tới tai của tao với Mike cho nên tụi tao nuốt khói đắng để nhả lời nhạc\nPhải gọi tụi tao là những bậc thầy chuyên đi sắp xếp con chữ rời rạc\n-- Chiều mưa --",
+   "author": ""
+  },
+  {
+   "name": "Mãi đuổi theo một người, tôi đã quên mất thế giới của riêng mình.",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhiều, thương nhiều, nhớ nhiều làm chi?\nĐể rồi buồn nhiều, đau nhiều, khổ nhiều vẫn là mình thôi!",
+   "author": ""
+  },
+  {
+   "name": "Anh không đưa em bay cao vì sau lưng anh không có lông vũ\nThế giới của anh bé xíu anh là lao công kiêm luôn ông chủ\n-- Mơ --",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau nỗi đau là cả một thế giới bình lặng...",
+   "author": ""
+  },
+  {
+   "name": "Nếu như 1 ngày bầu trời tối sụp lại em sẽ ko đi tìm nến... mà em sẽ đi tìm anh.",
+   "author": ""
+  },
+  {
+   "name": "Anh vụng về vẽ đời mình bằng màu xám tro\nĐại diện cho ác quỷ nên phần thần anh báng bổ\n-- Tháng 7 của anh --",
+   "author": ""
+  },
+  {
+   "name": "Tâm trạng đang tan chậm :-(",
+   "author": ""
+  },
+  {
+   "name": "Qua bao nhiêu năm tháng mới biết tuổi đời có hạn?\nBiết bao nhiêu lũ bè mới gặp được 1 người bạn?\nSẽ được bao nhiêu người cùng ta trò chuyện đến sán?\nAi sẽ màng, sẽ hỏi hang khi đời chán không còn muốn ráng?\n--??? -- ft NDT",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm tơi bời\nCớ sao nhiều kẻ thảnh thơi vậy trời.",
+   "author": ""
+  }
+ ]
+}

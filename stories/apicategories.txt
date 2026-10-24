@@ -1,99 +1,94 @@
 {
-  "code": 200,
-  "message": "",
-  "isPassAppstore" : false,
-  "isForceAppstoreReviewing" : false,
-  "isPassAOSStore" : true,
-  "isForceAOSReviewing" : false,
-  "result": [
-    {
-      "id": 1,
-      "name": "Vova",
-      "image": "stories/img/vova.jpeg",
-      "count": 124
-    },
-    {
-      "id": 2,
-      "name": "Dân gian",
-      "image": "stories/img/dangian.jpg",
-      "count": 183
-    },
-    {
-      "id": 3,
-      "name": "Gia đình",
-      "image": "stories/img/giadinh.jpg",
-      "count": 148
-    },
-    {
-      "id": 4,
-      "name": "Tình yêu",
-      "image": "stories/img/tinhyeu.jpg",
-      "count": 195
-    },
-    {
-      "id": 5,
-      "name": "Tiếu lâm",
-      "image": "stories/img/tieulam.jpg",
-      "count": 136
-    },
-    {
-      "id": 6,
-      "name": "Công sở",
-      "image": "stories/img/congso.jpg",
-      "count": 139
-    },
-    {
-      "id": 7,
-      "name": "Học sinh",
-      "image": "stories/img/hocsinh.png",
-      "count": 164
-    },
-    {
-      "id": 8,
-      "name": "Truyện ngắn",
-      "image": "stories/img/truyenngan.jpg",
-      "count": 118
-    },
-
-
-    {
-      "id": 14,
-      "name": "Cười ngược",
-      "image": "stories/img/cuoinguoc.jpg",
-      "count": 1
-    },
-    {
-      "id": 15,
-      "name": "Truyện khác",
-      "image": "stories/img/khac.jpg",
-      "count": 230
-    },
-
-
-    {
-      "id": 9,
-      "name": "Cười haha",
-      "image": "stories/img/truyen18.jpg",
-      "count": 112
-    },
-    {
-      "id": 10,
-      "name": "Y học",
-      "image": "stories/img/yhoc.jpg",
-      "count": 68
-    },
-    {
-      "id": 11,
-      "name": "Tam quốc",
-      "image": "stories/img/tamquoc.jpg",
-      "count": 47
-    },
-    {
-      "id": 12,
-      "name": "Thế giới",
-      "image": "stories/img/thegioi.jpg",
-      "count": 84
-    }
-
-  ]
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "id": 1,
+   "name": "Vova & Học trò",
+   "image": "stories/img/vova.jpg",
+   "count": 187,
+   "description": "Vova, học sinh, thầy cô, thi cử"
+  },
+  {
+   "id": 2,
+   "name": "Dân gian & Tiếu lâm",
+   "image": "stories/img/dangian.jpg",
+   "count": 341,
+   "description": "Truyện cười dân gian, Trạng, tiếu lâm (bản sạch)"
+  },
+  {
+   "id": 3,
+   "name": "Vợ chồng & Gia đình",
+   "image": "stories/img/giadinh.jpg",
+   "count": 273,
+   "description": "Vợ chồng, bố mẹ, con cái, mẹ chồng nàng dâu"
+  },
+  {
+   "id": 4,
+   "name": "Tình yêu",
+   "image": "stories/img/tinhyeu.jpg",
+   "count": 73,
+   "description": "Hẹn hò, người yêu, crush, chia tay"
+  },
+  {
+   "id": 5,
+   "name": "Công sở",
+   "image": "stories/img/congso.jpg",
+   "count": 44,
+   "description": "Sếp, nhân viên, phỏng vấn, lương thưởng"
+  },
+  {
+   "id": 6,
+   "name": "Bác sĩ & Bệnh nhân",
+   "image": "stories/img/yhoc.jpg",
+   "count": 63,
+   "description": "Phòng khám, bệnh viện, thầy thuốc"
+  },
+  {
+   "id": 7,
+   "name": "Chuyện thế giới",
+   "image": "stories/img/thegioi.jpg",
+   "count": 56,
+   "description": "Truyện cười nước ngoài, du lịch, ngoại ngữ"
+  },
+  {
+   "id": 8,
+   "name": "Tam quốc & Tây du chế",
+   "image": "stories/img/tamquoc.jpg",
+   "count": 21,
+   "description": "Nhân vật Tam quốc, Tây du ký chế"
+  },
+  {
+   "id": 9,
+   "name": "Truyện ngắn vui",
+   "image": "stories/img/truyenngan.jpg",
+   "count": 17,
+   "description": "Truyện dài hơn, có cốt truyện"
+  },
+  {
+   "id": 10,
+   "name": "Hỏi xoáy đáp xoay",
+   "image": "stories/img/hoixoay.jpg",
+   "count": 80,
+   "description": "Đối đáp nhanh, câu kết bất ngờ"
+  },
+  {
+   "id": 11,
+   "name": "Nhậu & Bạn bè",
+   "image": "stories/img/nhau.jpg",
+   "count": 42,
+   "description": "Bạn bè, ăn nhậu, hàng xóm"
+  },
+  {
+   "id": 12,
+   "name": "Gen Z & Mạng xã hội",
+   "image": "stories/img/genz.jpg",
+   "count": 57,
+   "description": "Điện thoại, Facebook, TikTok, chat, công nghệ"
+  }
+ ]
 }

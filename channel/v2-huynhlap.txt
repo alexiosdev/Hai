@@ -1,0 +1,34 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "aw6rLeAo4gk",
+   "name": "Phim Hài Tết 2026 - Cậu Út Cậu Con Cúc P5 (Full)"
+  },
+  {
+   "idvideo": "r5a_AteAuho",
+   "name": "Best Cut: Chơi Hụi | Cậu Út Cậu Con Cúc P5"
+  },
+  {
+   "idvideo": "2NsLpkv-Pbk",
+   "name": "Best Cut: Tạp Hoá A.I Hồng | Cậu Út Cậu Con Cúc P5"
+  },
+  {
+   "idvideo": "w-rzVeIIewA",
+   "name": "Best Cut: Đặt Tên | Cậu Út Cậu Con Cúc P5"
+  },
+  {
+   "idvideo": "k6BT4Ht20vA",
+   "name": "Tết Ta Về... Chưa? | Huỳnh Lập, Chị Ca Nô, Phi Phụng, Bảo Trí"
+  },
+  {
+   "idvideo": "JQ4ulVcnORY",
+   "name": "Nhà Ăn Chiên (Nhà Gia Tiên Parody) | Huỳnh Lập, Anh Mặt Vuông, Hạnh Thảo"
+  }
+ ]
+}

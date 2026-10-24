@@ -1,0 +1,526 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Tôi cần gấp Google trong não, phần mềm diệt virus trong tim và phần mềm Photoshop trên mặt.",
+   "author": ""
+  },
+  {
+   "name": "Tháng trước gấu hỏi: \"Chọn game hay chọn em\". Nay nghĩ lại cũng thấy nhớ nhớ, 2h nữa server mới hết bảo trì... làm gì giờ ta!",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn chết, bạn không nhận thức được điều đó mà chỉ có những người xung quanh bạn biết. Khi bạn code ngu cũng vậy.",
+   "author": ""
+  },
+  {
+   "name": "Optimize code sớm là gốc rễ của mọi tội ác",
+   "author": ""
+  },
+  {
+   "name": "Lúc mới quen nhau chúng ta là Win10\nHơn một tháng thì còn Win8\nVài tháng nữa là Win VistaStater\nTới lúc cạn tình thì là Windowns XP Table PC Edition\nKhông nhìn mặt nhau nửa là loại Win cổ nhất... Windowns XP Media Center Edition.",
+   "author": ""
+  },
+  {
+   "name": "Mỹ đào xuống đất 500m, tìm dc một cọng dây đồng. Mỹ vội kết luận \"500 năm trước, nước Mỹ đã biết sử dụng cáp đồng\".\n\nĐến phiên nước Nhật đào xuống 1000m, tìm dc mảnh thủy tinh và cũng vội tuyên bố là \"1000 năm trước nước Nhật đã biết sử dụng cáp quang\".\n\nVà cuối cùng là Việt Nam, đào xuống 5000m. Kết quả, ko thấy gì hết, và kết luận một câu xanh rờn \"5000 năm trước Việt Nam đã biết sử dụng Wi-fi\".",
+   "author": ""
+  },
+  {
+   "name": "Ông nội tôi viết di chúc bằng máy tính, phần văn bản liệt kê tài sản đã ngốn gần hết dung lượng ổ cứng 2TB. Giờ ông ko biết phải làm thế nào để đính kèm file này vào email để gửi cho luật sư. thật là khổ.. các bạn làm IT giúp với.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao cú hay kiếm ăn về đêm, vì đêm là thời điểm mà WiFi mạnh nhất",
+   "author": ""
+  },
+  {
+   "name": "Cách để điện thoại rơi từ trên cao xuống mà không bể: Bật chế độ máy bay.",
+   "author": ""
+  },
+  {
+   "name": "Không hiểu tại sao người ta lại nghĩ ra nhiều truyện ma dài dòng như vậy, cứ hô \"Thứ hai\", \"Thi cuối kỳ\" hay \"Đứt cáp quang\" là tôi sợ muốn bay cả linh hồn ra rồi.",
+   "author": ""
+  },
+  {
+   "name": "Mặc cho mưa gió bão bùng\nAnh vẫn lạnh lùng cắn đứt cáp quang",
+   "author": ""
+  },
+  {
+   "name": "Đang đánh rank cầm jinx thấy thằng sp cứ núp chửi nó: \"Trời sao mày cứ núp sau ad hoài vậy\".\nNó trả lời: \"Phía sau 1 cô gái\"",
+   "author": ""
+  },
+  {
+   "name": "Khi tôi feed, chó ngừng sủa, chim ngừng bay\nCây ngừng rụng lá, cá ngừng lội\nChỉ có đồng đội là không ngừng chửi.",
+   "author": ""
+  },
+  {
+   "name": "Project Manager - người luôn cho rằng 9 người phụ nữ có thể tạo ra 1 đứa bé trong vòng 1 tháng thay vì...",
+   "author": ""
+  },
+  {
+   "name": "Khi dân IT đi taxi:\nTài xế: Anh đi tới địa chỉ nào anh?\nIT boy: 127.0.0.1",
+   "author": ""
+  },
+  {
+   "name": "Cảm giác bất an khi tự dưng 1 đứa bạn cũ hỏi mình đang học IT phải ko.",
+   "author": ""
+  },
+  {
+   "name": "Điều đau khổ nhất không phải là chứng kiến đồng đội lần lượt ngã xuống, mà là mình vẫn còn sống khi chưa cố gắng hết mình",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa, tui hay vào tiệm băng đĩa hỏi xem phim nào hay rồi về ra tiệm net download sau. kkkkk",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau 1 lập trình viên thành công là một người bạn gái... không tồn tại.",
+   "author": ""
+  },
+  {
+   "name": "Không phải tôi không muốn giao lưu, chỉ vì giao diện của tôi thực sự chưa được thân thiện.",
+   "author": ""
+  },
+  {
+   "name": "Dân IT có thể dễ dàng thức tới 5 giờ sáng.\nNhưng rất khó thức dậy lúc 5 giờ sáng.",
+   "author": ""
+  },
+  {
+   "name": "Có 2 con vi rút máy tính đến làm quen và nói chuyện với nhau. có 1 con hỏi : cậu đến từ đâu vậy??? con kia trả lời tớ đến từ USA. sau đó con kia đáp lại rằng: thế là cậu cùng giòng họ với tớ rồi tớ đến từ USB =)))",
+   "author": ""
+  },
+  {
+   "name": "Chơi game tệ không phải là lỗi của người chơi mà là lỗi của thằng kế bên",
+   "author": ""
+  },
+  {
+   "name": "Học sử bao nhiêu năm không thuộc nổi tên mấy ông vua.\nĐánh LOL 1 tuần thuộc hết các tướng :D",
+   "author": ""
+  },
+  {
+   "name": "Đời trai gõ phím bình thiên hạ.\nAnh hùng click chuột định giang sơn.\nMĩ nữ Liên Minh tìm lãng tử.\nTa buồn lên mạng đánh 3Q.",
+   "author": ""
+  },
+  {
+   "name": "#wife{\nright: 100%;\nmargin: 0;\n}",
+   "author": ""
+  },
+  {
+   "name": "Em đã “Thiêu đốt” trái tim anh khiến cho anh ko kịp “Hồi máu”. Ngày em “Tăng tốc” ra đi anh đã rất “Kiên cố” nhưng vẫn ko thể nào quên đc em, cố gắng “Thanh tẩy” những ký ức về em nhưng dường như vô vọng. Mất em cuộc đời anh rơi vào vực thẳm dẫu cho “Thiên lý nhãn” có soi rọi từng bước đường anh đi, ngày đêm anh vẫn cố gắng “Dịch chuyển” đến bên em nhưng dường như có 1 lớp “Lá chắn” vô hình ngăn cản. Ngày từng ngày trôi qua, anh vẫn mải miết chạy theo hình bóng em khiến anh “Kiệt sức”... Ko thể “Hồi sinh” được nữa...Thôi thì em “Tốc biến” cm đi. Người như em đáng bị “Trừng phạt” => Giờ thì anh thấy “Minh mẫn” hẳn ra. Gửi em người con gái của cuộc đời anh",
+   "author": ""
+  },
+  {
+   "name": "Một thuật toán cũng giống như việc tìm một tên trong danh bạ thành phố.",
+   "author": ""
+  },
+  {
+   "name": "Không sợ kẻ địch mạnh như hổ, chỉ sợ đồng đội ngu như bò.",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau 100 ngày ko thấy ý kiến gì, yêu nhau 999 ngày cũng chẳng ý kiến chi, yêu nhau 1024 ngày, anh ta hồ hởi bảo:\" Mình bên nhau đc 1 Gb rồi đó.\"",
+   "author": ""
+  },
+  {
+   "name": "- Dạ con họ Mai sanh cháu ra đặt tên gì ạ?\n- Cậu làm nghề gì?\n- Dạ, con là 1 lập trình viên (IT)\n- Vậy đặt là: Mai Com Pu Tơ.",
+   "author": ""
+  },
+  {
+   "name": "Cứ chơi Game cho hết ngày mát mẻ\nRồi âm thầm lặng lẽ cày tới đêm=)))",
+   "author": ""
+  },
+  {
+   "name": "Ngôn ngữ là nhất thời, thuật toán là mãi mãi.",
+   "author": ""
+  },
+  {
+   "name": "KS mạng không phải đểu\nĐó gọi là nghệ thuật last hit =))",
+   "author": ""
+  },
+  {
+   "name": "Gánh không nổi team là lỗi của mình!!",
+   "author": ""
+  },
+  {
+   "name": "Thứ yếu đuối nhất trên đời không phải con gái... mà là cáp quang việt nam",
+   "author": ""
+  },
+  {
+   "name": "- Kỹ năng làm choáng dài nhất trong LOL là gì?\n- Điện thoại của bạn gái.",
+   "author": ""
+  },
+  {
+   "name": "Trong phòng không rượu cũng không bia\nMỗi gói mỳ tôm chút ấm lòng\nĐêm tối OT ngồi fix bug\nCố nốt đêm này chắc là xong",
+   "author": ""
+  },
+  {
+   "name": "Nam quốc sơn hà, nam đế cư\nCode nhiều bụng bự, nội tạng hư\nSống ảo chém gió, tương lai khó\nBớt cày, thể dục...khỏi ngất ngư",
+   "author": ""
+  },
+  {
+   "name": "Nói cho cả nhà biết, chơi game thật sự có thể tìm được bạn trai, bạn trai tôi đã bỏ chạy theo người khác trong game rồi.",
+   "author": ""
+  },
+  {
+   "name": "Bước đến hàng game bóng xế tà\nNgày nghỉ đông quá toàn sửu ca\nMiệng hét mồm la tay cào phím\nĐ*t mẹ da sua hết mana",
+   "author": ""
+  },
+  {
+   "name": "- Lý do gì em lại chọn một thằng dev xấu trai như anh???\n- Vì lương anh cao và không có thời gian xài <3",
+   "author": ""
+  },
+  {
+   "name": "\"Em muốn chậm lại một chút\", cô nói. Nên anh update con iPhone 6 của cô lên hệ điều hành mới nhất.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao lập trình viên C++ thường chỉ sinh 1 đứa con?\n- Vì đa thừa kế khiến họ nhức đầu",
+   "author": ""
+  },
+  {
+   "name": "Nếu 1 cốc coffee vào buối sáng chưa đủ giúp bạn tỉnh táo... Hãy thử xóa 1 table trong Database để hiệu quả hơn.",
+   "author": ""
+  },
+  {
+   "name": "Có 2 loại lập trình viên: Thức dậy 6h sáng và Ngủ lúc 6h sáng",
+   "author": ""
+  },
+  {
+   "name": "Có 1 sự thật trái ngang đó là... mỗi lần mình có cảm tình với sách vở thì cái máy tính lại cầu hôn với mình.",
+   "author": ""
+  },
+  {
+   "name": "Người bình thường dùng đồng hồ để báo thức.\nLập trình viên dùng đồng hồ để báo giờ ngủ.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao bạn thường cáu gắt?\n- Vì debug\n- Vậy bạn đối mặt với sự cáu gắt đó như thế nào?\n- Tiếp tục debug",
+   "author": ""
+  },
+  {
+   "name": "Lập trình viên nào cũng có thể code cho máy tính hiểu.\nNhưng lập trình viên giỏi là người viết code cho cả con người hiểu.",
+   "author": ""
+  },
+  {
+   "name": "Lên non mới biết non cao\nNghiện game mới biết lao đao về tiền",
+   "author": ""
+  },
+  {
+   "name": "Nhớ ngày xưa đi chơi net mất xe đạp, coi lại camera thì thấy bà nào đó bịt mặt dắt đi. Chủ quán thấy vậy đền cho 500k, về nhà thấy xe đạp dựng trước cửa, lúc đó không biết nên cười hay khóc nữa =))",
+   "author": ""
+  },
+  {
+   "name": "Mặc cho mưa gió bão bùng\nAnh với thằng bạn vẩn cùng cày game",
+   "author": ""
+  },
+  {
+   "name": "Mạnh mẽ lên - Tui hay nói với wifi nhà tui câu này",
+   "author": ""
+  },
+  {
+   "name": "Hãy viết code như thể người maintain là 1 đứa sát nhân điên cuồng biết địa chỉ nhà bạn.",
+   "author": ""
+  },
+  {
+   "name": "Để trở thành 1 lập trình viên giỏi: 3% là tài năng, 97% là cần tập trung không bị xao lãng bởi Internet.",
+   "author": ""
+  },
+  {
+   "name": "- Nước nào nằm gần USA?\n- USB",
+   "author": ""
+  },
+  {
+   "name": "Nếu các bạn nghe tiếng la hét ngoài đường... đừng lo tụi nó đang chơi game =))",
+   "author": ""
+  },
+  {
+   "name": "Một lập trình viên trước khi đi ngủ chuẩn bị 2 cái ly:\n- Một ly có nước để phòng nếu đêm muốn uống nước.\n- Một ly không có nước để dùng trong trường hợp không muốn uống.",
+   "author": ""
+  },
+  {
+   "name": "- Giúp mình câu hỏi tuyển dụng này với: \"Các nguyên tắc khi phát triển ứng dụng Android?\"\n- Nguyên tắc khi phát triển ứng dụng Android là không thể chạy trên hệ điều hành IOS hoặc là Window Phone... nhé",
+   "author": ""
+  },
+  {
+   "name": "Đang ngồi đánh Liên Minh Huyền Thoại. Đang là thần thánh vs tướng LebLanc vừa combat xong có được pentakill thì nghe 1 tiếng quen thuộc... Ak thì ra la cha kiu :(",
+   "author": ""
+  },
+  {
+   "name": "Fix bug là chuyện dễ. Tìm đoạn code gây ra bug để fix mới là chuyện khó",
+   "author": ""
+  },
+  {
+   "name": "Garena Liên quân mobile - Thắng bại tại WiFi",
+   "author": ""
+  },
+  {
+   "name": "Game online bao nhiêu người vui vẻ\nNhưng lại buồn khi gặp toàn trẻ trâu",
+   "author": ""
+  },
+  {
+   "name": "Debug là việc khó gấp đôi code. Nếu viết code thông minh quá mức, bạn sẽ không đủ thông minh để debug nó.",
+   "author": ""
+  },
+  {
+   "name": "Khi IT lập trình = Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V",
+   "author": ""
+  },
+  {
+   "name": "Nếu IE đã dám yêu cầu bạn đặt nó làm trình duyệt mặc định\nThì bạn chẳng có lý do gì mà không dũng cảm mở lời với cô gái mình thích.",
+   "author": ""
+  },
+  {
+   "name": "Khi IT kể về mối tình của họ: \"Tôi thích cô ấy, rồi cô ấy block tôi luôn\".",
+   "author": ""
+  },
+  {
+   "name": "- Trung thu này đi đâu nhỉ?\n- Tao thì chắc đi rừng hoặc đi mid. Còn mày?\n- Tao thì chắc đi bay, Pochinki hoặc khu quân sự nào đó.",
+   "author": ""
+  },
+  {
+   "name": "Công việc của lập trình viên không phải là ngồi 8 tiếng 1 ngày để gõ code.\nCông việc của lập trình viên là thay đổi thế giới, làm cho nó trở nên tốt đẹp hơn",
+   "author": ""
+  },
+  {
+   "name": "Ra net chơi liên minh thì thằng nhóc ngồi cạnh kêu: \"Anh chơi game nhái liên quân à???\"",
+   "author": ""
+  },
+  {
+   "name": "Tâm trạng không tốt liền chơi 2 ván game, chơi xong mới phát hiện ra thật ra ban nãy tâm trạng mới tốt.",
+   "author": ""
+  },
+  {
+   "name": "Ước mong của tui là có 1 nơi nào đó có thể thực hiện câu SQL này của tôi:\nSELECT Name, Phone, Address FROM World.Girls WHERE age>18 and age <28 and no_BF='true'",
+   "author": ""
+  },
+  {
+   "name": "Chúng mày ai thích mid thì đi đi... tao đi giữa cho :))",
+   "author": ""
+  },
+  {
+   "name": "Mới tìm được công việc đòi hỏi trên 8 năm kinh nghiệm lập trình với ngôn ngữ Swift... và Swift là ngôn ngữ vừa mới ra đời cách đây 3 năm.",
+   "author": ""
+  },
+  {
+   "name": "Tôi còn có thể thuộc về ai được nữa khi cuộc sống của tôi đã thuộc về game rồi.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua có một lập trình viên đang tập bơi ở giữa hồ, đột nhiên chới với rồi chìm nghỉm.\n- Sao anh ta không kêu cứu nhỉ? Xung quanh đó có nhiều người lắm mà.\n- Nhưng anh ta cứ kêu F1! F1! Có ai hiểu được đâu.",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua, hàng xóm đổi tên Wifi thành \"Hack if u can\"\nTôi nhìn thấy, nay nó được đổi thành \"Challenge accepted\".",
+   "author": ""
+  },
+  {
+   "name": "- Anh ta không ngủ 2 ngày vì nhớ cô ấy\n- Tôi không ngủ 4 ngày vì thiếu \";\" thế thôi",
+   "author": ""
+  },
+  {
+   "name": "Trường Giang cuồn cuộn chảy về đâu\nHoa sơn mây phủ trắng mái đầu\nMấy ai đong đếm tình thiên hạ\n10 năm liệu đã đủ đậm sâu",
+   "author": ""
+  },
+  {
+   "name": "Thầy giáo hỏi: \"Trong rừng con nào mạnh nhất\".\nHọc sinh trả lời: \"Baron\"",
+   "author": ""
+  },
+  {
+   "name": "Khi tui biên dịch và code chạy suôn sẻ trong lần đầu. Tui tự hỏi đã làm sai chỗ nào.",
+   "author": ""
+  },
+  {
+   "name": "Máy tính là 1 cỗ máy ngu ngốc, có thể làm được những điều vô cùng thông minh.\nLập trình viên là những người thông minh, có thể làm những việc vô cùng ngu ngốc",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi...anh chỉ là thằng cài win dạo!!!",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn chơi Sona sẽ có hàng nghìn đứa lao lên che chở đòn cho bạn đó gọi là... dại gái.",
+   "author": ""
+  },
+  {
+   "name": "Huhu, không muốn chơi cái game ngu học này nữa đâu, đánh tới nhà rồi mà còn đi ăn rồng... ai sáng chế ra cái game này thế.. ai đó làm ơn... phá nhà là win rồi... hix hix",
+   "author": ""
+  },
+  {
+   "name": "Sau 4 năm đại học, thành tựu lớn nhất là biết search thành thục trên stackoverflow và google.",
+   "author": ""
+  },
+  {
+   "name": "Cướp được Baron 1 lần thì gọi là may mắn đi. Nhưng nếu có người làm được những 2 lần liên tiếp thì không còn nghi ngờ gì nữa. Người ta gọi đó là cực kỳ may mắn :v",
+   "author": ""
+  },
+  {
+   "name": "Mỗi khi bạn cảm thấy chán nản, bất lực. Nghĩ rằng mình thật vô dụng thì đừng quên rằng ít nhất bạn đã tạo ra bug giúp tester hoàn thành nhiệm vụ và để team mình có thêm việc để làm.",
+   "author": ""
+  },
+  {
+   "name": "Dù đúng hay sai thì thằng rừng là đứa luôn bị ăn chửi nhiều nhất team.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn hay đi nhắc nhở, chỉ trách, phê bình người khác khi họ làm sai. Bạn đã, đang và sẽ là 1 tester.",
+   "author": ""
+  },
+  {
+   "name": "Có 1 cách giúp bạn có thể giảm số mạng Feed nhanh chóng... bạn chỉ cần AFK",
+   "author": ""
+  },
+  {
+   "name": "Ks là 1 nghê thuật\nNgười Ks là 1 nghệ nhân\nNgười bị Ks là 1 nạn nhân =))",
+   "author": ""
+  },
+  {
+   "name": "- Muốn theo nghề lập trình thì có cần IQ cao không?\n- Mấy thằng không sẽ nó có, mấy thằng có sẽ nói không.",
+   "author": ""
+  },
+  {
+   "name": "Em ước em là một máy tính để có thể\nDelete quá khứ về anh\nCopy niềm vui hiện tại\nCut những nỗi đau\nSave lại những nụ cười",
+   "author": ""
+  },
+  {
+   "name": "Nếu debug là quá trình loại bỏ bug trong phần mềm, thì code chính là quá trình gây ra bug.",
+   "author": ""
+  },
+  {
+   "name": "11h gấu gọi và hỏi là \" giờ anh chọn em hay chọn game, \"\n11h20' trả lời: \" tất nhiên là chọn em rồi\"\nDaxua 20'GG",
+   "author": ""
+  },
+  {
+   "name": "Anh sẽ biến cái phần mềm đó thành phần cứng vì em.",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã từng nghĩ : #include là #include",
+   "author": ""
+  },
+  {
+   "name": "Giang hồ hiểm ác không bằng mạng lag thất thường.",
+   "author": ""
+  },
+  {
+   "name": "Cãi nhau với phụ nữ cũng như đọc Software License Agreement. Đọc đến trang cuối vẫn không hiểu gì nhưng vẫn phải phớt lờ click vào \"Tôi đồng ý\".",
+   "author": ""
+  },
+  {
+   "name": "- Nó to quá, không vừa đâu mà\n- Ok, vậy để anh nén file lại",
+   "author": ""
+  },
+  {
+   "name": "Dắt gấu vô quán net chơi game...\nMấy thằng nhỏ chạy lại nói Anh ơi mở phim xxx xem :-D",
+   "author": ""
+  },
+  {
+   "name": "PM: Vì sao hôm qua cậu lấy cái ghế phang vào chú tester phòng bên?\nDev: Mấy anh thông cảm, dạo này OT nhiều quá em không đủ sức cầm cái bàn...",
+   "author": ""
+  },
+  {
+   "name": "Code tui chả bao giờ có bug. Chỉ là đôi khi tiềm ẩn tính năng ngẫu nhiên thôi.",
+   "author": ""
+  },
+  {
+   "name": "\"Internet Explorer\" cái tên ám ảnh của dân lập trình Web 1.0",
+   "author": ""
+  },
+  {
+   "name": "Trước khi gặp e, a nghĩ mình sẽ ko bỏ được game.\nSau khi gặp e, a vẫn giữ nguyên suy nghĩ đấy",
+   "author": ""
+  },
+  {
+   "name": "Dân IT chuyện với con gái như là tình trạng \"Keyboard not found\" nhưng vẫn muốn \"Strike F1 to continue\"",
+   "author": ""
+  },
+  {
+   "name": "Pick tao thì phải có trình\nĐừng như cơn gió feed rồi lại out",
+   "author": ""
+  },
+  {
+   "name": "Cứ đang gõ dài loằng ngoằng thì đứa kia lại chat câu mới, lại phải xóa đi gõ lại câu khác.",
+   "author": ""
+  },
+  {
+   "name": "Dev luôn có 2 trạng thái:\n- Anh cân cả thế giới\n- Tôi đang làm cái vẹo gì đây?",
+   "author": ""
+  },
+  {
+   "name": "Có một lần đang chơi LOL được nửa game bỗng nhớ ra bạn gái đang chờ dưới mưa, lập tức tự tát mình một cái thật kêu. Không thể chấp nhận được, chơi game mà dám phân tâm!",
+   "author": ""
+  },
+  {
+   "name": "Thân thể ở ngoài game, tinh thần ở trong game, muốn thành đại cao thủ, nhất định phải cày đêm",
+   "author": ""
+  },
+  {
+   "name": "Công việc của lập trình viên hằng ngày chỉ là convert cafe sang source code.",
+   "author": ""
+  },
+  {
+   "name": "Phận làm trai, gõ phím bình thiên hạ\nChí anh hùng, click chuột định giang sơn",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa, có ông khách hàng xài máy vi tính nhận được thông báo sau “Cannot found the printer”…thế là hắn xoay cái monitor về phía máy in….thế đấy",
+   "author": ""
+  },
+  {
+   "name": "Cuối cùng thứ giết tôi không phải là kỷ niệm, mà là 2 thằng teleport ra đường giữa.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi có loại cảm giác thỏa mãn khi bị chửi... là \"Hack\" vì chơi quá hay!",
+   "author": ""
+  },
+  {
+   "name": "Trên game trường anh đánh gục tất cả, dưới tình trường anh gục ngã trước em.",
+   "author": ""
+  },
+  {
+   "name": "Đánh tới nhà chính... ngứa tay troll mở đầu hàng ai ngờ 4 phiếu xanh lè...",
+   "author": ""
+  },
+  {
+   "name": "Cho người ta một phần mềm, bạn sẽ làm họ bực mình một ngày\nDạy người ta lập trình, họ sẽ bực mình cả đời",
+   "author": ""
+  },
+  {
+   "name": "Trong trường hợp nơi làm việc báo cháy:\n1. git commit\n2. git push\n3. Rời khỏi tòa nhà",
+   "author": ""
+  },
+  {
+   "name": "Trên thế giới có hơn 5 triệu con game. Thế mà em lại lấy tình cảm của tôi ra làm trò đùa.",
+   "author": ""
+  },
+  {
+   "name": "Nhớ lại cái ngày mình và thằng bạn bắt xe lên Hà Nội đi thi vừa xuống xe các anh chị tình nguyện viên hỏi han các em cần gì cứ nhờ anh chị. Thằng bạn mình: \"Ở đây gần quán game nào không anh chị?\"",
+   "author": ""
+  },
+  {
+   "name": "Bạn bè tốt là khi mình bị hàng chờ 20 phút nhưng nó vẫn chấp nhận ngồi chờ để đánh chung.",
+   "author": ""
+  },
+  {
+   "name": "Khi IT tỏ tình:\nwhile(true){\nI.love(you)\n}",
+   "author": ""
+  },
+  {
+   "name": "Bị team địch thiêu đốt... mình nhanh tay tốc biến ra sông để dập lửa.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu luôn mang đến sự đau khổ\nNhưng game thì làm gì có điều này",
+   "author": ""
+  },
+  {
+   "name": "Bước tới hàng game bỗng giật mình\nSửu nhi khăn đỏ đánh liên minh\nĐiếu thuốc trên tay phì phèo hút\nĐạnh hạng yasuo thể hiện trình",
+   "author": ""
+  }
+ ]
+}

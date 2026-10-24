@@ -1,0 +1,1130 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "- Có đúng là cuộc tình của anh chị kéo dài đến 15 năm mới đi đến hôn nhân?\n- Đúng thế. Chúng tôi yêu nhau chính xác là 15 năm 2 tháng 1 ngày.\n- Anh chị làm gì trong thời gian chờ đợi ấy?\n- Chúng tôi đều lập gia đình riêng!",
+   "author": ""
+  },
+  {
+   "name": "Chị tôi lớn tuổi hơn tôi.\nMẹ tôi lớn tuổi hơn tôi rất nhiều",
+   "author": ""
+  },
+  {
+   "name": "Đôi vợ chồng đang thiu thiu ngủ. Có tiếng động bên ngoài, cô vợ giật mình la lớn\"chết chồng em về\". Anh chồng giật mình chui tọt xuống gầm giường",
+   "author": ""
+  },
+  {
+   "name": "Miu Miu nhà tôi đẻ ra đứa con xấu mù, tai cụt mắt híp, tôi vừa vuốt lông nó vừa chán nản nói: \"Sao mày xấu thế, chẳng giống mẹ mày gì.\"\nMẹ tôi đi qua buông cho câu: \"Con cũng thế đấy.\"",
+   "author": ""
+  },
+  {
+   "name": "- Chúng ta hãy đốt hết các hóa đơn chi phí cho đám cưới đi nhé!\n- Tại sao phải làm điều đó vậy anh yêu?\n- Anh sợ rằng sau này con trai chúng ta mà đọc được đống hóa đơn ấy thì không dám lấy vợ nữa.",
+   "author": ""
+  },
+  {
+   "name": "- Bố ơi, ai là chúa tể muôn loài hả bố?\n- Mẹ mày, hay còn gọi là Vợ tao.",
+   "author": ""
+  },
+  {
+   "name": "Cả nhà đang ngồi tại bàn ăn sau bữa tối, thằng con hỏi:\n- Bố ơi, tại sao bố lại lấy mẹ?\nChồng quay ngay sang vợ, cao giọng:\n- Đấy, không phải một mình tôi thắc mắc về chuyện đó nhé!",
+   "author": ""
+  },
+  {
+   "name": "Ở nhà vợ tôi nói nhiều lắm. Con két nhà nuôi lăn ra chết vì ko có cơ hội để nói.",
+   "author": ""
+  },
+  {
+   "name": "- Thật ngưỡng mộ anh chị quá, cưới nhau bao năm nay rồi mà ngày nào cũng thấy anh cầm tay chị dạo phố.\n- Tôi mà buông tay ra cái thì cô ấy sẽ sà vào hàng quán ngay chú ạ.",
+   "author": ""
+  },
+  {
+   "name": "- Cho dù đã qua 95 năm, ông vẫn gọi bà là vợ yêu, em yêu, tình yêu của anh. Bí mật là gì thế ạ?\n- Ta quên tên bà ấy lâu lắm rồi nhưng ta không dám hỏi lại.",
+   "author": ""
+  },
+  {
+   "name": "- Ông xã, có thích nghịch nước không?\n- Haha, thích chứ\n- Có bong bóng nữa càng vui nhỉ!\n- Đương nhiên rồi, tự nhiên muốn chơi quá\n- Vậy à! Anh đi rửa bát đi.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn thay đổi thế giới hãy thực hiện ngay khi còn độc thân.\nMột khi đã kết hôn thì thay đổi kênh Tivi thôi, bạn cũng không thể làm nổi.",
+   "author": ""
+  },
+  {
+   "name": "- Quan hệ giữa cậu và bố vợ ra sao?\n- Rất tốt! Chúng tôi hợp nhau, trừ một lần duy nhất, tôi không hiểu ý ông ấy.\n- Lần nào vậy?\n- Lúc tôi xin cưới, ông ấy can ngăn và nói vì rất thương tôi, thế mà tôi đã không tin ông ta.",
+   "author": ""
+  },
+  {
+   "name": "Ly dị là sự kiện mà người đàn ông phải giặt đồ cho mình... thay vì trước đó phải giặt đồ cho cả hai.",
+   "author": ""
+  },
+  {
+   "name": "Lấy vợ là 1 hình thức bắt cóc con cái nhà người ta được bố mẹ, nhà nước, xã hội và chính phủ cho phép",
+   "author": ""
+  },
+  {
+   "name": "Người độc thân không hiểu được niềm vui của người có vợ. Và chính người có vợ cũng không hiểu điều này.",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng ôm trong lòng giấc mộng giải cứu thế giới, nhưng chẳng ai nghĩ đến việc giúp mẹ làm việc nhà.",
+   "author": ""
+  },
+  {
+   "name": "- Tháng này lương đc 10 triệu, nên chuyển khoản cho em bao nhiêu đây?\n- Tuỳ anh.\n- 2 triệu nhé?\n- Anh nói gì cơ? Em nghe chưa rõ.\n- 8 triệu!\n- Ừ, tuỳ a nhé.",
+   "author": ""
+  },
+  {
+   "name": "- Sao trong mấy tấm ảnh mày lại đứng cách xa cô dâu thế?\n- Để lúc giận nhau hay ly dị thì xé ra cho dễ!",
+   "author": ""
+  },
+  {
+   "name": "Adam quả là tay gặp may đầu tiên vì chẳng có mẹ vợ.",
+   "author": ""
+  },
+  {
+   "name": "Lấy chồng là 1 hình thức bỏ nhà theo trai được bố mẹ, nhà nước và xã hội công nhận.",
+   "author": ""
+  },
+  {
+   "name": "Khi ta đi làm về, con chó hiền lành thường ngày bỗng nhiên sủa ầm ĩ, thì rất có thể vợ ta đã nói gì đó không tốt về ta với nó...",
+   "author": ""
+  },
+  {
+   "name": "Tôi với mẹ đi xe bus, không may bị người khác đụng vào. Mẹ tôi rất lo lắng nói với tôi: Lông chân con dài như thế, không làm bị thương người khác chứ?",
+   "author": ""
+  },
+  {
+   "name": "Vợ tui đảm đang lo mọi việc trong nhà mỗi tội nấu ăn... heo lắc đầu",
+   "author": ""
+  },
+  {
+   "name": "- Nhìn phòng mày có giống cái chuồng lợn không? Còn không chịu dọn ngay!\n- Mẹ đã bao giờ thấy con lợn nào biết dọn phòng chưa? Toàn là người nuôi lợn dọn mà!",
+   "author": ""
+  },
+  {
+   "name": "Trăng lên đến đỉnh trăng mờ\nVợ ơi cho hỏi mấy giờ ăn cơm?",
+   "author": ""
+  },
+  {
+   "name": "- Bố ơi, người ta vẫn thường bảo ''treo đầu dê bán thịt chó\" có nghĩa là gì ạ?\n- À cũng giống như chiều hôm qua con bảo với bố là con đi học thêm nhưng trốn ra tiệm net ý =))",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân là 1 mối quan hệ giữa 2 người trong đó có 1 người luôn đúng và người còn lại là người chồng",
+   "author": ""
+  },
+  {
+   "name": "Vâng. Tình yêu là sự hòa hợp giữa hai phía. Phía họ hàng nhà trai và họ hàng nhà gái :3",
+   "author": ""
+  },
+  {
+   "name": "Ra đường sợ nhất kẹt xe.\nVề nhà sợ nhất “Mình ơi đưa tiền”",
+   "author": ""
+  },
+  {
+   "name": "Yêu là nhau tình cờ\nCưới nhau là bất ngờ",
+   "author": ""
+  },
+  {
+   "name": "Đi khắp thế gian không ai tốt bằng mẹ.\nGánh nặng cuộc đời không ai khổ bằng cha.\nNước biển mênh mông không đong đầy tình mẹ.\nMây trời lồng lộng không phủ kín công cha.\nTần tảo sớm hôm mẹ nuôi con khôn lớn.\nMang cả tấm thân gầy cha che chở đời con.\nAi còn mẹ xin đừng làm mẹ khóc.\nĐừng để buồn lên mắt mẹ nghe không!",
+   "author": ""
+  },
+  {
+   "name": "Gia đình ly hôn đầu tiên ở Việt Nam là Lạc Long Quân và Âu Cơ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu người chồng im lặng trong gia đình, nghĩa là vợ anh ta có tài năng của một nhạc trưởng.",
+   "author": ""
+  },
+  {
+   "name": "Cảnh sát nói với một lái xe:\n- Đèn xi nhan và đèn pha của ông hỏng cả, phạt hai trăm nghìn đồng.\n- Bà vợ ngồi ở băng sau nói với lên: Anh thấy chưa, vậy mà tiệm sửa xe đòi những bốn trăm nghìn...",
+   "author": ""
+  },
+  {
+   "name": "Chồng em trước khi cưới anh ấy đã hứa sẽ cho em cuộc sống đẹp như trong phim. Mà lúc đấy em quên hỏi đó là thể loại phim gì. Đến khi lấy nhau về anh ấy mới cho em biết đó là Phim Võ Thuật.",
+   "author": ""
+  },
+  {
+   "name": "Em còn nhớ những ngày ta mới yêu nhau tuyệt vời như thế nào không? Thật tiếc là ta lại cưới nhau.",
+   "author": ""
+  },
+  {
+   "name": "Cô vợ bảo với chồng: \"Khi anh tưới cây xong, chúng ta sẽ nói chuyện về thứ em thấy trên điện thoại của anh\"... Và 4 ngày rồi tôi vẫn thấy anh ấy đứng tưới cây.",
+   "author": ""
+  },
+  {
+   "name": "Và, ba à, con chẳng hề ghét ba đâu\nMọi hờn giận đều đến từ những kỳ vọng ta ghép cho nhau\nBa cũng chỉ mong muốn được thấy, con cứng cáp trong cuộc đời bạc\nChẳng vui vẻ gì khi có 1 thằng con luôn chống đối không hợp tác\nCon thì quên đi mất, ba cũng là đứa trẻ tổn thương\nÔng nội cũng chẳng ở đó để cho ba 1 cuộc sống bình thường\nSuy cho cùng, cả 2 đều đau 1 nỗi đau chung\nQuá bận rộn chứng minh ba sai, mà con đã quên làm những điều đúng\n-- Cho Ba --",
+   "author": ""
+  },
+  {
+   "name": "Một ông chồng nghi bà vợ mình bị lãng tai bèn quyết định thử nghiệm.\nÔng khẽ đứng sau lưng vợ 10m gọi: \"Mình ơi! Mình có nghe rõ không?\"\nKhông thấy vợ trả lời, thế là ông tiến tới khoảng 6m rồi gọi lại: \"Mình có nghe rõ không?\"\nVẫn chẳng thấy bà ừ hử. Ông bèn đi đến chỗ cách bà còn 3m hỏi: \"Mình không nghe gì hết hả?\"\nBà vợ đáp: \"Lần này em trả lời là lần thứ ba rồi đấy!\".",
+   "author": ""
+  },
+  {
+   "name": "Yêu nhau là do duyên số, cưới nhau là do sự cố xảy ra",
+   "author": ""
+  },
+  {
+   "name": "Điều gì mà anh ko dám làm... cưới em, anh còn dám mà",
+   "author": ""
+  },
+  {
+   "name": "Chồng là một thứ bán ko ai mua, cho ko ai lấy, vứt ko ai nhặt nhưng cứ hở ra là mất.",
+   "author": ""
+  },
+  {
+   "name": "Theo thống kê của ủy ban tan vỡ hạnh phúc gia đình..cứ 100 người đàn ông ra khỏi giường vào lúc 6h sáng thì...5 người đi vệ sinh...5 người đi làm..và 90 người còn lại thì đi về nhà :D",
+   "author": ""
+  },
+  {
+   "name": "- Tôi thật là khổ, chồng tôi ngày nào cũng uống rượu say bét nhè\n- Chồng bà bắt đầu uống rượu từ khi nào?\n- Trước khi chúng tôi cưới nhau.\n- Thế sao lúc đó bà vẫn quyết định cưới ông ấy?\n- Vì lúc đó tôi nghĩ chắc hẳn anh ta phải có rất nhiều tiền nên mới uống rượu mỗi ngày như thế.",
+   "author": ""
+  },
+  {
+   "name": "-Mỗi tháng vợ chồng cậu kiếm được bao nhiêu?\n-Mình kiếm được 10 triệu, cộng thêm cô ấy, còn khoảng 2 triệu.",
+   "author": ""
+  },
+  {
+   "name": "Chồng dắt xe ra khỏi nhà đi nhậu\n- Vợ quát: VÀO NHÀ NGAY!!!\n- Chồng mạnh mồm hét: Sợ gì mà ông không vào?",
+   "author": ""
+  },
+  {
+   "name": "Đến khi phải tự mình mưu sinh hằng ngày. Tôi mới nhận ra đây chính là thứ áp lực thực sự cha mẹ đã gánh vác thay cho tôi suốt bao năm tháng để đợi tôi trưởng thành.",
+   "author": ""
+  },
+  {
+   "name": "Khốn khổ nhất của thằng đàn ông có vợ là đi ăn cắp thu nhập của chính mình",
+   "author": ""
+  },
+  {
+   "name": "Lấy chồng cũng như giải nghiệm ấy, được Phương Án Chấp Nhận Được là tốt lắm rồi, cứ nhăm nhăm đi tìm nghiệm tối ưu khéo mà gặp phải vòng lặp vô hạn, mà lặp xong rồi quay về thì chắc gì còn Phương Án Chấp Nhận Được mà lấy.",
+   "author": ""
+  },
+  {
+   "name": "Vợ 1000 năm trước được gọi là nương tử,\n500 năm trước gọi là thê tử\nngày nay gọi là sư tử\ntương lai chắc sẽ là bom nguyên tử",
+   "author": ""
+  },
+  {
+   "name": "Ông chồng nhận cú điện thoại từ trạm sửa xe:\n- Vợ ngài vừa lái xe đến chỗ chúng tôi, chắc bà ấy muốn sửa xe, nhưng...\n- Hiểu rồi! Đừng lo, tôi sẽ thanh toán tiền sửa xe.\n- Chiếc xe có lẽ không nên chữa nữa mà chúng tôi muốn hỏi xem ông có đồng ý thanh toán khoản chi phí để sửa trạm không ạ?",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân là khi 1 chàng trai trẻ mua rau thay vì mua hoa.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này không có đàn ông sợ vợ, chỉ có đàn ông bị vợ làm cho sợ mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Lạc Long Quân và Âu Cơ là cặp vợ chồng đầu tiên ở VN không có kế hoạch hóa gia đình.",
+   "author": ""
+  },
+  {
+   "name": "Nói yêu em không vì nhan sắc\nMà cưới em chê đắt là sao",
+   "author": ""
+  },
+  {
+   "name": "- Vợ mình suốt ngày chê mình ấu trĩ, chơi game cũng lải nhải, đá bóng cũng cằn nhằn.\n- Mỗi tháng thử cho cô ấy 30 triệu tiêu vặt đi, dù cậu có ngồi chơi búp bê cả ngày cô ấy cũng ko chê nửa lời đâu.",
+   "author": ""
+  },
+  {
+   "name": "Mấy người vừa đẹp trai vừa nhiều tiền thì đừng có cưới vợ :v cưới vợ xong chỉ còn đẹp trai thôi",
+   "author": ""
+  },
+  {
+   "name": "Chồng: Vợ ơi! Mở cửa cho anh!\nVợ: Anh vừa nhận được 1 vé VIP \"Ngủ ngoài đường\" khi tham gia trò chơi trúng thưởng \"Về không đúng giờ\". Chi tiết trò chơi xem tại trang web: http://dungnhonvoichuy.com",
+   "author": ""
+  },
+  {
+   "name": "Bạn ơi, dừng lại là thất bại, còn thở là còn gỡ... Tôi còn muốn lương thiện lắm, cái thiện trong tôi còn nhiều lắm nhưng lương vợ giữ hết rồi.",
+   "author": ""
+  },
+  {
+   "name": "Con cái có đứa chê bố mẹ khó. Còn chó không biết chê chủ nghèo.",
+   "author": ""
+  },
+  {
+   "name": "- Cậu đi đâu mà cứ ôm khư khư cái radio vậy?\n- Vợ chồng mình cãi nhau, và mình quyết định bỏ nhà ra đi.\n- Hẳn cái radio là tài sản duy nhất mà cô ta chia cho cậu?\n- Không, mình đề phòng khi cô ta nhắn tin trên đài tìm người lạc.",
+   "author": ""
+  },
+  {
+   "name": "Từ khi có em đời anh mới biết nỗi khổ của một người ở đợ",
+   "author": ""
+  },
+  {
+   "name": "Trai Việt Nam! Kiên cường - Bất khuất\nĐầu đội trời, chân đạp đất\nVợ dọa là ngất =))",
+   "author": ""
+  },
+  {
+   "name": "- Em này, anh đã mời một người bạn đến nhà ăn tối.\n- Cái gì? Anh điên à? Nhà cửa thì bề bộn, em thì không đi chợ, bát đĩa dơ bẩn chưa rửa. Mà em cũng chẳng muốn nấu một bữa ăn như vậy nữa.\n- Anh biết chứ!.\n- Thế mà anh còn cố tình mời mọc?\n- À, vì anh chàng tội nghiệp kia đang nghĩ đến chuyện lập gia đình.",
+   "author": ""
+  },
+  {
+   "name": "\"Con nhà người ta\" đứa trẻ ngoan nhất, học giỏi nhất, thương bố mẹ nhất và bí ẩn nhất Việt Nam",
+   "author": ""
+  },
+  {
+   "name": "Ngày ấy lỡ đưa tay cho cô ấy nắm, giờ phải đưa cả lương :(",
+   "author": ""
+  },
+  {
+   "name": "Hình ảnh vợ chồng trao nhẫn cho nhau khi kết hôn, nhẫn ở đây tượng trưng cho việc phải biết nhẫn nhịn nhau trong quãng đường còn lại.",
+   "author": ""
+  },
+  {
+   "name": "Nếu tình yêu là ánh sáng thì hôn nhân là hoá đơn tiền điện!",
+   "author": ""
+  },
+  {
+   "name": "Nhà cũng của vợ, iPhone cũng của vợ, SH cũng của vợ luôn... chỉ có vợ là của chồng thôi",
+   "author": ""
+  },
+  {
+   "name": "Chồng tui cẩn thận tinh tế lắm nha. Tra dầu vô cửa để kéo êm, ra vô phòng rón rén sợ làm tui thức, nằm xuống nhẹ nhàng và sau đó tiếng ngáy của ổng mới làm tui mất ngủ.",
+   "author": ""
+  },
+  {
+   "name": "Vk : anh có iu e ko\nCk: có chứ anh iu e nhìu m\nVk : thiệt chứ anh!\nCk: thiệt mà e anh sẽ làm tất cả vì vk iu\nVk : vậy anh đi chùi tolet đi",
+   "author": ""
+  },
+  {
+   "name": "- Nếu em đồng ý lấy anh, anh sẽ bỏ thuốc lá chứ?\"\n- Bỏ!\n- Cả rượu bia?\n- Bỏ\"\n- Game online?\n- Bỏ...\n- Anh còn muốn bỏ gì nữa ko?\n- Bỏ ý định kết hôn.",
+   "author": ""
+  },
+  {
+   "name": "- Trước lúc ra đi ta có điều này muốn trăn trối\n- Vâng ạ, bố nói đi\n- Đám tang ta con làm cái vòng hoa, rồi tung mọi người chụp, xem lần sau tới lượt thằng nào nhé!",
+   "author": ""
+  },
+  {
+   "name": "Ra đời trăm trận trăm thắng, về nhà không thắng nổi người đàn bà.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người chạy xe cẩn thận đấy. Bà xã mình vừa thi bằng lái xong.",
+   "author": ""
+  },
+  {
+   "name": "- Hễ tao đưa cô nào về giới thiệu thì y như rằng mẹ tao không đồng ý.\n- Vậy cậu thử giới thiệu một cô gái giống tính mẹ mày xem.\n- Tao cũng đã đưa một cô như thế về nhà, nhưng bố tao phản đối gay gắt. Ông ấy bảo: \"Đừng ngu như bố ngày xưa con ạ\".",
+   "author": ""
+  },
+  {
+   "name": "Tại các buổi tiệc thường có 2 loại người : người muốn về sớm và người muốn về trể. Ðiều rắc rối là 2 loại người này thường kết hôn với nhau.",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân cũng giống như số \"PI\" trong toán học: tự nhiên, phi lý và rất quan trọng.",
+   "author": ""
+  },
+  {
+   "name": "- Phụ nữ đúng là số khổ mà. Có chồng con xong nhan sắc tàn tạ, giờ thảm đến mức soi gương cũng không dám nữa.\n- Bà còn may mắn hơn tôi chán, than thở gì chứ?\n- Đàn ông các ông thì có phải lo lắng gì đâu mà xuống sắc, lại còn bảo tôi may hơn.\n- Bà tự ngắm mình trước gương có mấy phút thôi đã đau khổ vậy rồi. Còn tôi phải ngắm bà suốt từ ngày này sang tháng nọ mà có được than vãn tiếng nào đâu.",
+   "author": ""
+  },
+  {
+   "name": "- Này, chàng rể mới của bà thế nào?\n- Tất cả đều được, chỉ phải tội không biết đánh bạc!\n- Nhưng đó là ưu điểm của anh ta đấy chứ?\n- Không, khuyết điểm lớn bà ạ. Thằng đó không biết đánh bạc nhưng cứ đâm đầu vào chơi.",
+   "author": ""
+  },
+  {
+   "name": "Bí mật để có một gia đình hạnh phúc... vẫn còn là một bí mật",
+   "author": ""
+  },
+  {
+   "name": "Mẹ: Dậy đi gần tới giờ vô học rồi kìa\nTôi: Con ra trường rồi mà\nMẹ: Mày là giáo viên mà",
+   "author": ""
+  },
+  {
+   "name": "Hai bố con đi cắm trại.\nBố: con có thấy những ngôi sao kia không?\nCon: dạ thấy ạ.. mà con đang ngủ sao bố hỏi vậy?\nBố: con biết nó có ý nghĩa là gì không.\nCon: dạ biết ạ... như tình yêu của bố dành cho con ạ..\nBố: Đồ ngu. Mất lều rồi con ạ...",
+   "author": ""
+  },
+  {
+   "name": "Một ông bố dạy con:\n- Cưới được một cô vợ tốt là thành công được 1 nửa rồi\n- Vậy sau này con cưới 2 cô",
+   "author": ""
+  },
+  {
+   "name": "- Ở lớp, con thường làm gì để phải mang biệt danh là học sinh cá biệt hả?\n- Dạ, con không làm gì ạ!",
+   "author": ""
+  },
+  {
+   "name": "Mẹ gọi điện hỏi:\" Ăn cơm chưa con?\" Tôi buồn bã đáp:\" Hết sạch tiền rồi mẹ ạ, con đang gặm bánh mì không đây này.\" Mẹ tôi xót ruột bảo:\" Sao có thể ăn mỗi bánh mì không chứ?\" Tôi hồ hởi, đang định xin mẹ ít tiền tiêu vặt thì mẹ nói tiếp:\" Đừng ăn mỗi bánh mì thế, uống nước lọc nữa con ạ, không nghẹn đấy.\"",
+   "author": ""
+  },
+  {
+   "name": "- Bố có chuyện này muốn cho con biết, dù sao con cũng đã lớn\n- Chuyện gì mà nghiêm trọng thế ạ?\n- Thực ra bố không phải là người đẻ ra con\n- Cái gì... bố không đùa đấy chứ?\n- Không con ạ, mẹ mới là người đẻ ra con, bố chỉ giúp lúc đầu thôi.",
+   "author": ""
+  },
+  {
+   "name": "Tiểu lý phi đao không bằng mẹ tao phi dép",
+   "author": ""
+  },
+  {
+   "name": "- Ba cho con tiền đi cắt tóc UnderCut\n- Ở nhà đi ba cắt đầu FatherCut cho!!!",
+   "author": ""
+  },
+  {
+   "name": "Thứ nhất thì tu tại gia\nThứ nhì tu chợ, thứ ba tu chùa\nTu đâu cho bằng tu nhà\nThờ cha kính mẹ ấy là chân tu",
+   "author": ""
+  },
+  {
+   "name": "Chớ có kết hôn. Đàn ông cưới vợ là vì họ đã thấm mệt với đời, còn phụ nữ cưới chồng là vì tính hiếu kỳ. Nhưng rồi cả hai đều sẽ phải thất vọng.",
+   "author": ""
+  },
+  {
+   "name": "Năm đó, mẹ tôi chê ba tôi lùn...\nCòn ba thì chê mẹ tôi xấu...\nKhông hiểu sao 2 người lại lấy nhau\nĐẻ ra 1 đứa vừa lùn vừa xấu như tối :(",
+   "author": ""
+  },
+  {
+   "name": "Người yêu sang chơi, tôi lấy hoa quả gọt cho anh ấy ăn, ra vẻ thuỳ mị nết na. Mẹ trông thấy thì hỏi: \"Hôm nay ăn táo bỏ vỏ cơ à?\"",
+   "author": ""
+  },
+  {
+   "name": "Mọi chuyện đều là chuyện nhỏ chỉ có lấy vợ nhỏ là chuyện lớn.",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ tôi không bao giờ so sánh tôi với mấy đứa con nhà người ta. Bởi vì tôi được so sánh với con bò.",
+   "author": ""
+  },
+  {
+   "name": "- Đơn ly dị đây, mời cô ký vào!\n- Trời ơi, làm sao anh có thể nhẫn tâm đến thế?\n- Với cô, như thế là đáng đời rồi.\n- Tôi dại dột thì không nói, chứ cô gái kia có tội tình gì mà anh lại lấy người ta?",
+   "author": ""
+  },
+  {
+   "name": "Mẹ: Con gái thích chàng trai như thế nào?\nCon: Phải tuyệt vời như bố con ấy.\nMẹ: (thở dài) Mai mẹ đưa mày ra viện mắt khám xem sao.",
+   "author": ""
+  },
+  {
+   "name": "Học không lo học, sau này đi móc bọc nha con!",
+   "author": ""
+  },
+  {
+   "name": "Lúc yêu người ta thường đánh mất sự tỉnh táo mà chỉ khi cưới nhau rồi, họ mới nhận ra sự mất mát đó.",
+   "author": ""
+  },
+  {
+   "name": "Vợ là đàn bà, chứ không phải cứ đàn bà là vợ được.",
+   "author": ""
+  },
+  {
+   "name": "- Con nhớ mấy năm ngoái, ba đều cúng mặn mà sao năm nay ba cúng chay vậy?\n- Cái quan trọng là cúng gì nó không quan trọng, chủ yếu cái lòng thôi... năm nay ba cúng vậy nhìn cho nó xôm tụ con hiểu không. Năm ngoái cúng chay, năm nay cúng mặn vậy thôi. Thần thánh cũng có người ăn chay người ăn mặn chứ mày.",
+   "author": ""
+  },
+  {
+   "name": "- Này con yêu! Anh hai thì học kinh tế, anh ba học tài chính. Sao con không theo gương các anh mà lại đi học luật?\n- Nếu con không học làm luật sư thì sau này ai sẽ cứu hai anh con đây?",
+   "author": ""
+  },
+  {
+   "name": "Mẹ em bảo với em, hồi mang bầu em mẹ em toàn bị táo bón. Em hỏi tại sao, mẹ em bảo: \"Con ở trong bụng mẹ ăn vụng hết shit rồi còn đâu.\"",
+   "author": ""
+  },
+  {
+   "name": "Đi làm từ thiện lễ bái khắp nơi\nĂn uống xả hơi quên ngày giỗ mẹ",
+   "author": ""
+  },
+  {
+   "name": "Có bao giờ các bạn tự đặt câu hỏi tại sao cha mẹ có thể thức khuya dậy sớm như vậy không? Lớn lên tôi mới biết đánh thức cha mẹ không phải tiếng gà cục tác hay là đồng hồ báo thức, mà là gánh nặng, cuộc sống là trách nhiệm...",
+   "author": ""
+  },
+  {
+   "name": "Gia đình là nơi cuộc sống bắt đầu và tình yêu không bao giờ kết thúc.",
+   "author": ""
+  },
+  {
+   "name": "Trước đám cưới có thể làm mọi việc, sau đám cưới còn có thể cả li dị nữa.",
+   "author": ""
+  },
+  {
+   "name": "Cưới lần đầu vì yêu, lần thứ hai vì tính toán, lần thứ ba vì thói quen.",
+   "author": ""
+  },
+  {
+   "name": "Đừng xa hoa khi mẹ già còn tần tảo\nĐừng huyền ảo gây phiền não cho cha yêu.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ thông minh thường lấy chồng bị cận. Để hôm nào mình xấu quá thì giấu kính chồng đi.",
+   "author": ""
+  },
+  {
+   "name": "- Cái nhà thằng cha giàu sụ vậy mà chẳng bị mất trộm bao giờ. Sao lại có chuyện lạ nhỉ?\n- Có tên trộm nào lẻn vào khi vợ thì thức suốt đêm để canh chồng về, còn ông chồng thì về bất kỳ lúc nào kể cả nửa đêm.",
+   "author": ""
+  },
+  {
+   "name": "- Con gái bố, lần nào kiểm tra cũng điểm thấp thế. Không làm bài tốt hơn được à?\n- Dạ được ạ\n- Được gì, thề với bố đi\n- Con thề lần sau mà vẫn điểm thấp, con sẽ trở thành trẻ mồ côi.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi ghen tị với bố mẹ. Tại sao họ có thể sinh ra 1 đứa con tuyệt vời đến như vậy?",
+   "author": ""
+  },
+  {
+   "name": "Ăn trái ba lần mới biết trái ngon\nCon có lớn khôn mới hay lòng mẹ",
+   "author": ""
+  },
+  {
+   "name": "Điều làm nên giá trị người đàn ông không chỉ là khả năng có con mà là khả năng nuôi dạy chúng",
+   "author": ""
+  },
+  {
+   "name": "Có cha, có mẹ mới có mình\nSống sao cho xứng nghĩa tình làm con",
+   "author": ""
+  },
+  {
+   "name": "Tình chỉ đẹp khi còn dang dở.\nLấy nhau về nham nhở lắm em ơi",
+   "author": ""
+  },
+  {
+   "name": "Biết rồi... khổ lắm... nói mãi!",
+   "author": ""
+  },
+  {
+   "name": "Mẹ ơi mẹ đẹp như tiên.\nMẹ thêm dấu huyền mẹ gửi cho con.",
+   "author": ""
+  },
+  {
+   "name": "Vợ là tivi, bồ là di động. Ở nhà xem tivi, ra đường cầm di động. Không có tiền bán tivi, có tiền đổi di động...",
+   "author": ""
+  },
+  {
+   "name": "- Anh hai, làm hộ em bài toán này nha.\n- Được, nhưng phải đưa anh hai ngàn.\n- Nhiều vậy, một ngàn được không?\n- Không được vì anh phải đưa bạn anh phân nửa để nó làm.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ là tạo hóa tháng ngày\nLàm ra ngày tháng sâu dày đời con!",
+   "author": ""
+  },
+  {
+   "name": "- Sau này con lớn con có tiền rồi sẽ mua máy bay chở bố đi làm mỗi ngày bố nhé!\n- Mày có tiền mua máy bay rồi mà vẫn bắt bố đi làm mỗi ngày hả con? Uổng công bố cưng chiều mày nhất nhà.",
+   "author": ""
+  },
+  {
+   "name": "Công dưỡng dục ngàn năm ghi tạc.\nĐức sinh thành muôn thuở nào quên.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ đưa bé đi xem Đại thánh trở về, bé hỏi: \"Sao nhiều người lớn đi xem phim hoạt hình vậy mẹ?\"\nMẹ đáp: \"Họ chờ Đại thánh trở về lâu quá nên thành người lớn hết rồi con ạ.\"",
+   "author": ""
+  },
+  {
+   "name": "Mẹ yêu: Cô giáo vừa gọi điện bảo mày hôn bạn trai trong lớp. Có thật thế không?\nCon gái: Con xin lỗi mẹ... Lần sau con không dám như vậy nữa!!!\nMẹ yêu: Con với cái, mới 15 tuổi đầu mà đã lo yêu đương nhăng nhít quên cả sinh nhật lần thứ 30 của mẹ!!!",
+   "author": ""
+  },
+  {
+   "name": "Đừng ăn chơi khi mẹ còn cực khổ\nĐừng đua đòi khi cha đổ mồ hôi",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ ơi, con muốn mua con chó này về nuôi.\n- Nhà mình chỉ có thể nuôi 1 con vật thôi, con tự chọn đi nhé.\n- Vẫn cứ là nuôi con đi ạ.",
+   "author": ""
+  },
+  {
+   "name": "Gì mà phụ nữ hơn nhau ở tấm chồng. Hơn nhau là do chính mình nhé. Hãy độc lập trong suy nghĩ, trong tài chính, trong cả chuyện tình cảm. Đến lúc \"không chơi với nhau\" lúc đấy tay trắng ngồi khóc thì tủi lắm.",
+   "author": ""
+  },
+  {
+   "name": "Râu tôm nấu với ruột bầu\nChồng chan vợ húp, gật đầu khen ngon\nKhổ thân cho mấy đứa con,\nBố mẹ ăn hết thì con ăn gì",
+   "author": ""
+  },
+  {
+   "name": "Yêu em, anh tưởng em khờ\nCưới về mới biết em khờ ôn khôn",
+   "author": ""
+  },
+  {
+   "name": "Mẹ: Trên TV nay có gì không anh?\nBố: Có rất nhiều... bụi bặm, chắc tại em quên lau.",
+   "author": ""
+  },
+  {
+   "name": "Không thể sống ăn bám bố mẹ mãi được, điều đấy thật hổ thẹn… Mai mình sẽ chuyển xuống ở với bà ngoại…",
+   "author": ""
+  },
+  {
+   "name": "Mỗi lần tôi làm sai điều gì, mẹ tôi lại: \"Ngày xưa tao như mày mà đã phải làm bao nhiêu là việc... bla bla bla\". Đưa ánh mắt cầu cứu bố, bố quay sang... góp zui cùng mẹ :O",
+   "author": ""
+  },
+  {
+   "name": "Người vợ yêu chồng thật lòng là người vợ lặng lẽ làm việc vì chồng mà không cần kể công.",
+   "author": ""
+  },
+  {
+   "name": "Đi khắp cuộc đời không ai tốt bằng mẹ\nTiêu tiền của mẹ không ai giỏi bằng con",
+   "author": ""
+  },
+  {
+   "name": "Sinh con trông cậy tuổi già\nCon chẳng phụng dưỡng gửi nhà tình thương",
+   "author": ""
+  },
+  {
+   "name": "Sinh tôi ra chỉ là tác dụng phụ, chủ yếu là ông bà hưởng thụ quá trình sản xuất thôi!",
+   "author": ""
+  },
+  {
+   "name": "Tôi chỉ có một điều ước duy nhất dành cho cha mẹ tôi là họ có một người con dâu xinh đẹp, tài giỏi và thương chồng.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là một giấc mơ dài ngọt ngào, và hôn nhân là chiếc đồng hồ báo thức.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ mày, đi dọn phòng đi nhìn xem có giống cái chuồng gà không\nMẹ ơi năm nay là năm con gà mà mẹ",
+   "author": ""
+  },
+  {
+   "name": "Cơm mẹ nấu bữa ăn bữa bỏ\nBước ra đời bữa đói bữa no",
+   "author": ""
+  },
+  {
+   "name": "Tụi nhỏ bây giờ sướng quá rồi, toàn bố mẹ lo cho hết có phải lo lắng gì đâu!",
+   "author": ""
+  },
+  {
+   "name": "Con: Ba có bận gì không ba?\nBa: Có đang bận bà ba nè!!!",
+   "author": ""
+  },
+  {
+   "name": "Hai vợ chồng đi trên xe, vợ đang cầm lái bỗng quay sang hỏi chồng:\n- Anh thân yêu, phanh không hoạt động, làm thế nào bây giờ?\n- Chết thật, em cố gắng đâm vào cái gì đó rẻ tiền thôi.",
+   "author": ""
+  },
+  {
+   "name": "Gia đình là nhất. Vật chất là nhì",
+   "author": ""
+  },
+  {
+   "name": "- Chồng đi làm về hùng hổ quát: \"Tôi hỏi cô cái nhà này ai làm chủ?\"\n- Vợ tát yêu chồng: \"Thôi đi anh yêu, hôm nay lĩnh lương rồi hả?\"\n- \"Nhẹ nhàng thế còn nghe được. Đây anh nộp lương cho mình này.\"",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân luôn tặng bạn một đặc ân: chỉ có ai có nó mới có thể ly di",
+   "author": ""
+  },
+  {
+   "name": "Ngày mùng 2/9, cô con gái hỏi bố:\n- Bố ơi thế bố định đi xem pháo hoa ở đâu?\n- Xem ở trên trời chứ ở đâu con!!",
+   "author": ""
+  },
+  {
+   "name": "Suốt ngày dán mắt vô tivi thế hả con?!",
+   "author": ""
+  },
+  {
+   "name": "Ai ơi, còn một mái nhà hãy biết trân trọng.\nCòn cha còn mẹ hãy biết yêu thương.\nĐừng đợi đến mùa Vu Lan mới lo báo hiếu...",
+   "author": ""
+  },
+  {
+   "name": "Chồng là thằng nhiều khi không cần có\nChồng là thằng nhiều khi có như không",
+   "author": ""
+  },
+  {
+   "name": "Em rửa chén đi, thế giới để anh lo.",
+   "author": ""
+  },
+  {
+   "name": "Cánh cò cõng nắng cõng mưa\nMẹ tôi cõng cả gió sương bốn mùa",
+   "author": ""
+  },
+  {
+   "name": "Ước mơ của mẹ là nhìn thấy con trưởng thành, còn ước mơ của con là nhìn thấy mẹ trẻ lại.",
+   "author": ""
+  },
+  {
+   "name": "- Con trai, ba muốn con đậu kỳ thi này\n- Con sẽ đậu với điểm tuyệt đối\n- Con đang đùa à?\n- Thế ai bắt đầu trước?",
+   "author": ""
+  },
+  {
+   "name": "Em cho anh 1 cây kẹo không có nghĩa là anh có quyền ăn nó một mình. Em cho anh cả cuộc đời không có nghĩa là anh có quyền đối xử với em như một osin.",
+   "author": ""
+  },
+  {
+   "name": "- Con không nghe lời mẹ, mẹ đem con nhốt trong chuồng gà bây giờ.\n- Mẹ nhốt con trong cái chuồng gà đâu có lợi gì? Con đâu biết đẻ trứng?",
+   "author": ""
+  },
+  {
+   "name": "Con: Bố ơi sao con đánh yasuo dở như shit mà bố vẫn cho con chơi chung team vậy???\nBố: Cho dù con có chơi dở ra sao thì bố vẫn cho con chơi chung taem với bố mà... Với lại nếu như không có con thì mấy bọn trong quán net lại nói bố óc chó nhất team thì sao =)))",
+   "author": ""
+  },
+  {
+   "name": "Lấy vợ như có thêm một bà mẹ nhưng lại ko đc đối xử như một đứa con.",
+   "author": ""
+  },
+  {
+   "name": "- Cưới nhau xong, các con sống ở đây cũng khá lâu rồi. Các con có định mua nhà không?\n- Không cần ạ. Chúng con sẽ mãi sống trong trái tim của nhau.",
+   "author": ""
+  },
+  {
+   "name": "Nghe vợ là sống, chống vợ là chết",
+   "author": ""
+  },
+  {
+   "name": "Ngồi trước TV, cô bé reo lên kích động\n- Mẹ ơi, nhìn chồng con mà xem, đẹp trai khủng khiếp! Đời này con chỉ kết hôn cùng anh ấy thôi\n- Nếu nó biết bến đỗ cuộc đời là con thì nó còn động lực mà cố gắng đi hát, đi diễn nữa không?",
+   "author": ""
+  },
+  {
+   "name": "Sao con người ta cái gì cũng giỏi còn điểm của mày lại thấp lè tè thế này!",
+   "author": ""
+  },
+  {
+   "name": "Mẹ ơi con hiểu một điều\nKhi con mất mẹ như diều mất dây\nCuộc đời như ớt chín cây\nTrái ngọt thì ít trái cay thì nhiều\nMẹ ơi con chịu bao điều\nNhưng không chịu nổi thân diều đứt dây.",
+   "author": ""
+  },
+  {
+   "name": "Việt Nam dân chủ cộng hòa\nĐàn ông rửa chén, đàn bà ngồi chơi",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông chỉ đánh giá được đúng người đàn bà mà mình yêu quý sau khi đã cưới một người đàn bà khác làm vợ.",
+   "author": ""
+  },
+  {
+   "name": "Thương con mẹ dệt niềm tin\nCho con ăn học, cho mình ước ao\nNổi lo mẹ cộng thêm vào\nTuổi xuân tươi đẹp mẹ trừ bớt ra",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ à, mẹ xách nặng quá hở mẹ?\n- Bé có cách gì đỡ cho mẹ?\n- Mẹ bế bé, bé xách hộ mẹ",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ ơi con có 1 tin vui\n- Mày có người yêu hả?\n- Con nói là 1 tin vui, chứ không phải là 1 phép màu",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi cảm thấy ghen tị với ba mẹ mình...\nVì có 1 đứa con xinh đẹp, nết na, hiền dịu :v",
+   "author": ""
+  },
+  {
+   "name": "Chúng mày chỉ nghĩ là đi họp phụ huynh về thì bị mắng, đánh các kiểu. Có ai nghĩ lúc họp phụ huynh bố mẹ xấu hổ với giáo viên với phụ huynh khác như nào không?",
+   "author": ""
+  },
+  {
+   "name": "Cô gái ngồi cạnh tao những năm tháng cấp 3 dễ thương lắm... thi thoảng nhìn trộm tao khẽ mỉm cười. Giờ tao và cô ấy về chung một nhà rồi. Quên mất cô ấy là chị dâu tao.",
+   "author": ""
+  },
+  {
+   "name": "Chiều chiều ra đứng ngõ sau.\nTrông về quê mẹ ruột đau chín chiều\nHôm nay ngày đã bao nhiêu\nMà sao chưa thấy mẹ yêu gửi tiền.",
+   "author": ""
+  },
+  {
+   "name": "Chiều nay bỗng nhớ mẹ hiền.\nMẹ ơi! Mẹ nhớ gởi tiền cho con!",
+   "author": ""
+  },
+  {
+   "name": "Tuần trước đi khám, bác sĩ nói mình bị vô sinh... sáng nay nghe vợ báo tin có thai, em vui lắm các bác ạ.",
+   "author": ""
+  },
+  {
+   "name": "- Nhà bác hàng xóm rất không vui vì con đánh vào mắt con trai bác ấy. Con nói là sơ suất phải không?\n- Vâng ạ, con định nhằm vào mũi nó cơ.",
+   "author": ""
+  },
+  {
+   "name": "- Tối nay Valentine cầm ít tiền mà tiêu này con trai.\n- Ơ, con đã báo cáo với bố mẹ 3 lần rồi là con chưa có người yêu mà\n- Điều đó thì cả xóm này ai chả biết. Ý là cầm tiền rồi tự lo bữa tối đi, tí bố dặt mẹ đi ăn nhà hàng.",
+   "author": ""
+  },
+  {
+   "name": "Sinh con cơ cực lầm than\nNuôi con khôn lớn, gian nan bội phần\nMẹ luôn chu đáo ân cần\nNhịn ăn nhịn mặc để phần cho con.",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ, con bị phạt\n- Sao vậy con?\n- Ở trường, thầy giáo chỉ thước vào mặt con và nói \"Ở cuối cây thước này là 1 thằng ngốc\"\n- Con chỉ hỏi lại là \"Thầy muốn nói đầu nào của cây thước ạ?\"",
+   "author": ""
+  },
+  {
+   "name": "- Chồng ơi, 20/10 anh tính như nào đây?\n- Tính như thường thôi em, 20/10 = 2",
+   "author": ""
+  },
+  {
+   "name": "Nếu một ngày con mất đi tất cả\nCuộc đời này con chỉ cần mẹ thôi\nMất vật chất, con còn tìm lại được\nMất mẹ rồi con biết tìm nơi đâu",
+   "author": ""
+  },
+  {
+   "name": "Con nít con nôi yêu đương cái gì, lo mà học đi!",
+   "author": ""
+  },
+  {
+   "name": "10 năm đám cưới lại 1 lần để kỷ niệm... Chủ yếu để tuyên dương mình làm sao có thể sống với con đó cả chục năm như thế thôi =))",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa đi họp phụ huynh về dù tao có điểm kém, mẹ vẫn cười tươi và nói với bố rằng \"Em đi họp mệt rồi, anh đánh nó giúp em\".",
+   "author": ""
+  },
+  {
+   "name": "Mẹ: Ra kêu bà nội, cha con với tụi bạn vô ăn cơm đi. Mẹ nấu xong rồi đây.\nTui: Dạ. Bà nội, cha, tụi bay vô ăn cơm.",
+   "author": ""
+  },
+  {
+   "name": "Trước khi bạn ra đời, bố mẹ của bạn đã chẳng \"đáng chán\" như bây giờ. Bố mẹ đã trả những hoá đơn của bạn, giặt giũ quần áo bạn sạch sẽ và lắng nghe bạn kể xem bạn sành điệu như thế nào. Vì vậy trước khi phàn nàn bố mẹ điều gì thì hãy dọn dẹp buồng ngủ của bạn cho ngăn nắp đi đã.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi người mẹ đều nói với con gái mình phải biết bảo vệ bản thân, nhưng lại có rất ít người nói với con trai mình đừng bao giờ làm tổn thương con gái nhà người khác...",
+   "author": ""
+  },
+  {
+   "name": "Đường đời còn rộng thênh thang.\nMà tóc mẹ đã bạc sang trắng trời\nMẹ đau vẫn giữ tiếng cười\nMẹ vui vẫn để một đời nhớ thương",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tôi vai tóc bạc phơ\nLưng còng như thể bản đồ Việt Nam",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân không hẳn là tình yêu mà là liên minh để thực hiện những nghĩa vụ trước tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "- Con với cái, lười chảy nhớt, suốt ngày ăn rồi nằm\n- Trời ơi, những câu đó không làm tổn thương con được đâu.",
+   "author": ""
+  },
+  {
+   "name": "Gọi cho mẹ than hết tiền, mẹ xuýt xoa: \"Hết tiền à, thế thôi mẹ cúp máy đây, không lại tốn tiền điện thoại của con.\"",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ định đi nhà hàng cao cấp nhân ngày lễ tình nhân, tôi nằng nặc đòi đi cùng: \"Cho con đi với, người ta bảo con gái kiếp trước là tình nhân của bố đấy, con có quyền được đi cùng.\" Bố đáp: \"Nếu thế kiếp trước chắc chắn bố dẫn con đi rồi, kiếp này nghỉ nhé.\"",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ cho con tiền nộp học\n- Mẹ hết rồi, Còn tiền đô đây... con lấy ko\n- Lấy\n- Trên bàn thờ đó con :)))",
+   "author": ""
+  },
+  {
+   "name": "Ông bố đang ngủ, thằng con lại nói... bố quên uống thuốc ngủ kìa",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ ơi, nãy giờ mẹ có thấy tình yêu của đời con ở đâu không?\n- Điện thoại mày ở trên giường kìa con quỷ",
+   "author": ""
+  },
+  {
+   "name": "- Cám ơn bác đã tặng cháu chiếc kèn dịp lễ Giáng sinh vừa qua. Đúng là món quà lớn nhất của cháu, nhờ nó mà cháu có tiền đấy...\n- Thế cháu thổi kèn giỏi đến như vậy cơ à?\n- Không phải thế, nhưng bố cháu cho cháu mỗi tuần 10 đồng để cháu đừng thổi nữa!",
+   "author": ""
+  },
+  {
+   "name": "Phòng như cái “chuồng heo” mà cũng ở được hả con?!",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ ơi, hình như bố sắp ngất.\n- Sao thế?\n- Có anh shipper vừa đến. Khi xem tờ hóa đơn, tự nhiên chân tay bố run lẩy bẩy, mặt mày tái mét...\n- Tuyệt! Vậy là chiếc váy mừng sinh nhật của mẹ đã đến rồi đấy!",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ già ít chăm lo\nKhi chết thi thố mồ to mã dầy",
+   "author": ""
+  },
+  {
+   "name": "Cho đến giờ bố mẹ vẫn nợ tôi một lời xin lỗi vì đã ban cho tôi khuôn mặt này =))",
+   "author": ""
+  },
+  {
+   "name": "Con từng là đứa không biết nói dối chửi bậy... Cho đến ngày mẹ thả con đến trường :'(",
+   "author": ""
+  },
+  {
+   "name": "Ở dơ như thế sau này “ma” nào mà thèm rước mày!",
+   "author": ""
+  },
+  {
+   "name": "Cha mẹ chỉ biết cho, chẳng biết đòi. Con cái thích vòi mà không biết trả.",
+   "author": ""
+  },
+  {
+   "name": "Nơi nào có hôn nhân mà không có tình yêu, ở đó xuất hiện tình yêu mà không có hôn nhân.",
+   "author": ""
+  },
+  {
+   "name": "Bố hỏi con: Bố và mẹ thì con yêu ai nhất?\nCon: Dạ, cả hai ạ\nBố: Vậy mẹ ở Đức, bố ở Pháp thì con đi nước nào..?\nCon: Đi Đức ạ.!\nBố: Vậy mẹ ở Pháp, bố ở Đức thì con đi nước nào..?\nCon: Đi Pháp ạ..!\nBố: VÌ SAO CON TOÀN ĐI THEO MẸ VẬY?\nCon: Vì Đức con đã đi rồi ạ...",
+   "author": ""
+  },
+  {
+   "name": "Trẻ con phải ngủ riêng sớm rèn tính tự lập\nThế sao bố lớn rồi vẫn ngủ với mẹ?",
+   "author": ""
+  },
+  {
+   "name": "Từ ngàn xưa nước mắt luôn rơi xuống\nHạt mưa sa đâu chảy ngược lên nguồn\nTrên đường đời mẹ bao lần vấp ngã\nCó bao giờ con hỏi: “Mẹ đau không?\"",
+   "author": ""
+  },
+  {
+   "name": "Khi hôn nhân tan vỡ thì lọ mỡ cũng chia đôi",
+   "author": ""
+  },
+  {
+   "name": "Ở nhà mình, nếu ba mẹ cùng ý kiến thì ba quyết. Còn ngược lại, trái quan điểm nhau thì mẹ quyết.",
+   "author": ""
+  },
+  {
+   "name": "Một cô bé mách với bố:\n- Bố ơi, trong lớp có thằng bắt nạt con.\n- Lấy ghế táng nó đi.\n- Nhưng con là con gái mà.\n- Thế thì kiếm cái ghế màu hồng nhé.",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau sự hào nhoáng của một số người con là sự lam lũ của cha mẹ.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ sợ nước mắt mẹ rơi\nChứ ăn chơi lúc nào chả được.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời bao nổi đắng cay\nNhìn về cha mẹ, lệ cay nghẹn ngào\nHôm nay nước mắt tuôn trào\nNhớ ơn cha mẹ, cả đời cưu mang",
+   "author": ""
+  },
+  {
+   "name": "- Vợ mày có cấm hút thuốc lá ở nhà không?\n- Cấm tuốt, ở nhà, ở cơ quan cũng như nơi công cộng.\n- Hút ngoài đường thì liên quan gì đến vợ mày chứ.\n- Vợ tao bảo, trong gia đình một người hút thuốc là đủ tốn tiền lắm rồi.",
+   "author": ""
+  },
+  {
+   "name": "- Bố ơi, tình yêu là gì ạ?\n- Tình yêu chính là dù bố chỉ có 2 bàn tay trắng nhưng mẹ con vẫn đồng ý gả cho bố.\n- Vậy tình thân là gì ạ?\n- Tình thân chính là mẹ con sẽ không bao giờ đồng ý cho con lấy một người chỉ có 2 bàn tay trắng.",
+   "author": ""
+  },
+  {
+   "name": "- Có 1 tin vui và 1 tin buồn, ba muốn nghe tin nào trước :3\n- Tin vui :v\n- Con thi đậu đại học rồi.\n- Thế còn tin buồn?!\n- Hồi nãy con nói giỡn =)))",
+   "author": ""
+  },
+  {
+   "name": "Đôi lúc chạy về thấy cha mẹ còn mạnh khỏe là đủ thấy bình yên.",
+   "author": ""
+  },
+  {
+   "name": "Cha mẹ giàu sang con thong thả\nCha mẹ nghèo con vất vả gian nan\nLàm con đừng có thở than\nPhải hiểu cha mẹ gian nan bội phần\nKhổ đau trăm vạn ngàn lần\nĐể cho con trẻ cuộc đời an vui",
+   "author": ""
+  },
+  {
+   "name": "- Sao bố lại đặt tên con là Gia Bảo vậy?? (hồ hởi)\n- Tại tao ham rẻ, mua nhầm bao giả nên mới ra mày",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao con đánh bạn? Con có biết lớn đánh nhỏ là hèn lắm không?\n- Thế sao bố lại đánh con?",
+   "author": ""
+  },
+  {
+   "name": "- Bố ơi, bố đã từng yêu ai chưa?\n- Rồi con trai! Bố đã từng yêu say đắm 1 giáo viên tiểu học\n- Một tình yêu thật đẹp! Và kết quả sao ạ?\n- Mẹ mày phát hiện... và bắt mày chuyển trường",
+   "author": ""
+  },
+  {
+   "name": "Ra đường ăn nói nhẹ nhàng\nVề nhà phũ phàng với cả người thân.",
+   "author": ""
+  },
+  {
+   "name": "Đàn ông sợ vợ mới ngoan\nKhông biết sợ vợ hoàn toàn là sai\nSợ vợ mới đáng mặt giai\nKính vợ mới có tương lai huy hoàng\nĐàn ông sợ vợ mới sang\nNếu không sợ vợ tan hoang cửa nhà\nDẫu sao vợ cũng đàn bà\nMột phạm trù rất rườm rà mênh mông\nNên mới đặt cạnh đàn ông\nMột phạm trù cũng mênh mông rườm rà.",
+   "author": ""
+  },
+  {
+   "name": "Chú hàng xóm: \"Làm điếu Vina chứ anh?\"\nBố: \"Thôi, cảm ơn chú, anh đang cai.\"\nChú hàng xóm: \"Anh bỏ hút thuốc thật đấy à?\"\nBố: \"Cai Vina thôi, hút chán quá.\"",
+   "author": ""
+  },
+  {
+   "name": "Tui: Hồi ấy sao mẹ lại gả cho bố ạ?\nMẹ: Tại bị đui.\nTui: Sao nhà mình nghèo thế bố?\nBố: Vì phải chữa mắt cho mẹ mày.",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông nắm tay người phụ nữ trước hôn nhân thì đó là tình yêu, sau khi thành vợ chồng thì đó là anh ta đang tự vệ!",
+   "author": ""
+  },
+  {
+   "name": "- Vợ tôi đang lừa dối tôi.\n- Làm sao anh biết?\n- Tối hôm nọ cô ấy không về nhà. Khi tôi hỏi thì cô ấy trả lời rằng đã ngủ ở nhà Hương, cô bạn thân nhất của cô ấy.\n- Thế thì sao?\n- Cô ấy nói dối. Chính tôi mới ngủ ở nhà Hương tối hôm đó.",
+   "author": ""
+  },
+  {
+   "name": "- Bố ngày xưa chịu khổ tí thì bây giờ có phải con đã thành thiếu gia nhà giàu rồi không?\n- Thì bây giờ mày cố gắng cho con mày nó thành thiếu gia\n- Tại sao con phải chịu khổ để nó sướng\n- Ngày xưa tao cũng nghĩ như thế =))",
+   "author": ""
+  },
+  {
+   "name": "Làm trai rửa bát quét nhà, vợ gọi thì dạ mới là trai ngoan",
+   "author": ""
+  },
+  {
+   "name": "Giỗ cha coi nhẹ, nuôi mẹ thì không. Cả vợ lẫn chồng đi làm từ thiện.",
+   "author": ""
+  },
+  {
+   "name": "Ước mơ con là vòng quanh thế gian\nƯớc mơ của mẹ là thấy con về...",
+   "author": ""
+  },
+  {
+   "name": "Chơi game có kiếm được tiền không mà chơi hoài vậy?!",
+   "author": ""
+  },
+  {
+   "name": "Người đàn ông không dành thời gian cho gia đình không bao giờ có thể trở thành người đàn ông thực thụ.",
+   "author": ""
+  },
+  {
+   "name": "Có người từng hỏi tôi, vào ngày sinh nhật của mình, ai đã tặng tôi món quà tuyệt vời nhất? Tôi nói rằng đó là mẹ tôi, người đã tặng cho tôi sinh mệnh này, đến tận bây giờ tôi vẫn đang dùng đến.",
+   "author": ""
+  },
+  {
+   "name": "Trước khi cưới đàn ông đều đeo bám phụ nữ đến nửa đem mới chịu về.\nSau khi cưới phụ nữ phải đợi nữa đêm mới thấy chồng mình về.",
+   "author": ""
+  },
+  {
+   "name": "Gia đình là để yêu thương, không phải để lựa chọn.",
+   "author": ""
+  },
+  {
+   "name": "Người phụ nữ duy nhất trên đời vẫn đẹp lúc già chính là vợ mình!.",
+   "author": ""
+  },
+  {
+   "name": "Điều tuyệt vời nhất về gia đình là... ở không phải trả tiền trọ =))",
+   "author": ""
+  },
+  {
+   "name": "Làm chồng phải biết nể nang\nVợ nói thì phải sẵn sàng ngồi nghe.",
+   "author": ""
+  },
+  {
+   "name": "Để vợ chịu khổ là đàn ông kém cỏi!",
+   "author": ""
+  },
+  {
+   "name": "- Lớp con có tất cả 28 bạn à?\n- Vâng ạ, sao bố biết?\n- Xem thứ hạng của mày là biết rồi",
+   "author": ""
+  },
+  {
+   "name": "Ngôn ngữ đầu tiên chúng ta nói được gọi là ngôn ngữ mẹ đẻ bởi vì khi ở nhà bố chả có cơ hội nào để nói.",
+   "author": ""
+  },
+  {
+   "name": "Cơm người khổ lắm ai ơi\nChẳng như cơm mẹ vừa ngồi vừa ăn\nDẫu cha mẹ có khó khăn\nCũng cho con đủ gối chăn, cơm lành",
+   "author": ""
+  },
+  {
+   "name": "- Sao em không học nấu ăn trước khi về nhà chồng?\n- Lần sau em học.",
+   "author": ""
+  },
+  {
+   "name": "- Ba ơi! Chiều nay ba đến lớp để cô giải lại bài toán cô ra ngày hôm qua.\n- Sao lại là ba? Ba có đi học đâu?\n- Cô bảo tất cả ai làm sai bài toán này đều phải đến ạ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như mình có thành công về nhà hông có mẹ thì cũng hổng vui.",
+   "author": ""
+  },
+  {
+   "name": "Có phải nhà ai cũng sẽ có 1 ông bố kì lạ thế này không? Mỗi lần xem tivi đều thế này: \"Bố, bố không xem thì con tắt tivi đi nhé.\" \"Xem.\" \"Rõ ràng con vừa thấy bố nhắm mắt mà.\" \"Tao đang nghe.\"",
+   "author": ""
+  },
+  {
+   "name": "Con ơi, 2 giờ sáng rồi đấy, dậy rửa mặt rồi uống thuốc ngủ đi con.",
+   "author": ""
+  },
+  {
+   "name": "Con trai: Cảm nghĩ của bố thế nào khi có 1 đứa con đẹp trai như con?\nBố: Câu đấy nên đi hỏi ông nội mày.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ nuôi con biển bờ lai láng\nCon nuôi mẹ kể tháng kể ngày...",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có cha mẹ mới yêu con vô điều kiện.\nCòn thế giới ngoài kia... phải có điều kiện mới yêu con.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ là người có thể thay thế bất kì ai, nhưng ko ai có thể thay thế mẹ!",
+   "author": ""
+  },
+  {
+   "name": "Một người vợ tốt luôn tha thứ cho chồng khi cô ta sai.",
+   "author": ""
+  },
+  {
+   "name": "Con: Lúc đi xe bus, bố bắt con nhường chỗ cho 1 phụ nữ. Con không nhường thế là bố đánh con :((\nMẹ: Bố nói như thế là đúng đấy con yêu\nCon: Nhưng lúc đó con đang ngồi trên đùi bố.",
+   "author": ""
+  },
+  {
+   "name": "- Bố, tại sao bố cưới mẹ?\n- Tại mày",
+   "author": ""
+  },
+  {
+   "name": "Chị mắng em trai :\"Cái thằng quỷ sứ, làm gì mà cứ huỳnh huỵch lên thế, chẳng có 1 chút... nữ tính gì cả\".",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao bài thi của con thấp điểm vậy?\n- Vắng mặt!\n- Con vắng mặt vào ngày thi?\n- Không, thằng ngồi kế bên.",
+   "author": ""
+  },
+  {
+   "name": "Thú vui tao nhã, giặt tã cho con",
+   "author": ""
+  },
+  {
+   "name": "Con: Ba bắt con đi học thêm wài à\nBa: Học thêm có gì đâu... giống như đi ăn cơm mà kêu cơm thêm thôi =))",
+   "author": ""
+  },
+  {
+   "name": "Âu Cơ có thể nói là mẹ thiên hạ còn Lạc Long Quân có thể nói là cha thiên nhiên",
+   "author": ""
+  },
+  {
+   "name": "Ngày mai tôi phải ly hôn rồi, nguyên nhân là vì hôm nay đi làm về kể cho vợ một câu chuyện cười, cô ấy không cười mà người trong tủ lại cười.",
+   "author": ""
+  },
+  {
+   "name": "Nhà xưa dáng mẹ sầu cô lẽ, mõi mắt trông chờ bóng con xa.",
+   "author": ""
+  },
+  {
+   "name": "Mới mua cái áo 300k, không dám nói giá cao, về nói với bố 50k... Ngày mai bố gửi mua 3 cái.",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu là biển\nHọc sinh là thuyền\nPhụ huynh có quyền\nCấm thuyền ra biển",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ ơi! Hôm nay kiểm tra 1 tiết, lớp con không ai xem tài liệu và quay bài của nhau cả.\n- Tốt! Thế kiểm tra môn gì vậy?\n- Dạ, kiểm tra môn thể dục, môn nhảy xa ạ!",
+   "author": ""
+  },
+  {
+   "name": "Tao đang bực mình về đến cổng con chó nó cào chân tao, mới đá nó có 1 phát. Mẹ tao trừng mắt quát: \"Thằng chó nó lại đánh con à\".",
+   "author": ""
+  },
+  {
+   "name": "Mẹ đi quảng gánh trên vai\nMẹ về quảng cả tương lai con về",
+   "author": ""
+  },
+  {
+   "name": "Thằng bạn được 2 điểm. Tớ hỏi:\n- Hôm qua có bị mắng không?\n- Không,chỉ được ăn ăn rất nhiều.\n- Sướng thế còn gì\n- Cho ăn đòn có chi sướng",
+   "author": ""
+  },
+  {
+   "name": "Con: Ba ơi, ba có thể viết trong bóng tối được không\nBa: Được\nCon: Vậy thì ba hãy tắt đèn và kí vào sổ liên lạc cho con nhé.",
+   "author": ""
+  },
+  {
+   "name": "Ngưòi nào khuyên ta đúng khi ta sai là thầy ta người nào chửi ta sai khi ta đúng!! A ha...đích thị là vợ ta!!",
+   "author": ""
+  },
+  {
+   "name": "Cha là ngân hàng lớn nhất mà tạo hoá đã ban cho.",
+   "author": ""
+  },
+  {
+   "name": "- Cô giáo con xinh lắm ạ.\n- Thế cô dạy con những gì?\n- Cô chẳng biết gì hết, chỉ luôn miệng hỏi: \"Ai nói cho cô biết nào?\"",
+   "author": ""
+  },
+  {
+   "name": "Tiền không tự sinh ra mà do các ông chồng cực khổ làm ra!!\nTiền không tự mất đi mà mất vào tay các bà vợ của họ!!!!",
+   "author": ""
+  },
+  {
+   "name": "Con đừng áp lực trong việc học quá nha! Hãy luôn nhớ rắng \"Thất bại là mẹ đập con\"",
+   "author": ""
+  },
+  {
+   "name": "Đừng lấy một chàng hoàng tử như trong truyện cổ tích. Mà hãy lấy một người đàn ông coi bạn là công chúa.",
+   "author": ""
+  },
+  {
+   "name": "Ngày rằm báo hiếu Vu Lan\nCầu mong cha mẹ bình an cả đời",
+   "author": ""
+  },
+  {
+   "name": "Con gì ăn lắm nói nhiều, nhanh già lâu chết miệng kêu tiền tiền... (con vợ em)",
+   "author": ""
+  }
+ ]
+}

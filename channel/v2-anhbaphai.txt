@@ -1,0 +1,66 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "p-H1Hu-ibYc",
+   "name": "Anh Ba Phải | 24H Đặt Lợp Lũi Mùa Nước Nổi - Hài Vô Đối"
+  },
+  {
+   "idvideo": "zPiVJ0Eusr0",
+   "name": "Anh Ba Phải | Thức Đêm Đi Soi Trong Mưa Bão Cực Vui"
+  },
+  {
+   "idvideo": "qLKRF6Fp24A",
+   "name": "Anh Ba Phải | Phần 5 - Thử Thách 365 Ngày Xây Dựng Khu Căn Cứ"
+  },
+  {
+   "idvideo": "yuzaVm6d3E8",
+   "name": "Anh Ba Phải | Kéo Côn Mùa Nước Lũ Cực Vui"
+  },
+  {
+   "idvideo": "Pygf0M_rlj4",
+   "name": "Anh Ba Phải | Câu Ếch Mùa Nước Nổi - Cười Bò"
+  },
+  {
+   "idvideo": "UI5C5iHAMr0",
+   "name": "Anh Ba Phải | Câu Cá Đêm Dành Cho Người Gan Dạ"
+  },
+  {
+   "idvideo": "ef_RYcs58p8",
+   "name": "Anh Ba Phải | Dẫn Team Ra Đồng Bắt Heo Đất Về Nướng Lu"
+  },
+  {
+   "idvideo": "UlNnUNsiMO4",
+   "name": "Anh Ba Phải | Bánh Dân Gian - Tìm Ra Vua Bánh Lá - Cười Lộn Ruột"
+  },
+  {
+   "idvideo": "ME7nkUxva4Y",
+   "name": "Anh Ba Phải | Thử Thách 24h Cắm Trại Khu Camping"
+  },
+  {
+   "idvideo": "GoH6Ejxftw0",
+   "name": "Anh Ba Phải | Trốn Tìm Khu Nhà Anh Phú"
+  },
+  {
+   "idvideo": "_7jlEyJfkMk",
+   "name": "Anh Ba Phải | Lần Đầu Dẫn Mấy Em Đi Vườn Bách Thú"
+  },
+  {
+   "idvideo": "VtqQbq_CKIQ",
+   "name": "Anh Ba Phải | Thử Thách Lần Đầu Đi Bán Vé Số Của Mấy Em"
+  },
+  {
+   "idvideo": "gUg-AmofN8Y",
+   "name": "Anh Ba Phải | Thử Thách 24H Cắm Trại Đấu Giá - Cùng Cười Với Băng Hải Tặc"
+  },
+  {
+   "idvideo": "zS-NWABms7k",
+   "name": "Anh Ba Phải | Phần 1 - Thử Thách 365 Ngày Tự Tay Xây Khu Camping"
+  }
+ ]
+}

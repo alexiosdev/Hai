@@ -1,0 +1,3122 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "- Lịch sử loài người có rất nhiều phát minh vĩ đại nhưng có 1 phát minh vĩ đại nhất có thể quét sạch hết tất cả các phát minh khác, mày biết là gì không?\n- Bom nguyên tử\n- Đó là cây chổi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống tàn bạo, toàn người giả tạo và ai cũng nói xạo 1 cách thành thạo =)",
+   "author": ""
+  },
+  {
+   "name": "Đồng tiền bây giờ mất giá quá. Hồi trước mẹ cho 10k ra tạp hóa mua được bao nhiêu thứ. Nào là oshi, thạch rau câu, kẹo cao su, kẹo mút, cả bút, gôm, thước kẻ, vài ba lon nước ngọt,... Bây giờ quán nào cũng có camera, chán thật.",
+   "author": ""
+  },
+  {
+   "name": "- Hihi, hôm trước sao thấy anh đi SH sao hôm nay đi Dream thế?\n- À hôm nào vui anh đi SH, hôm nào buồn đi Dream em ạ\n- Thế hôm nay anh buồn ạ?\n- Đúng rồi em, nó không cho anh mượn SH.",
+   "author": ""
+  },
+  {
+   "name": "Đầu óc không thông vác bao ni lông cũng thấy nặng",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần bạn sống tốt và hiền lành, thì tự khắc người khác sẽ trèo lên đầu bạn ngồi.",
+   "author": ""
+  },
+  {
+   "name": "Bệnh sĩ chết trước bệnh tim",
+   "author": ""
+  },
+  {
+   "name": "Dù bạn có tài năng hay nỗ lực nhiều đến thế nào đi chăng nữa thì một số việc muốn giải quyết vẫn cần có thời gian. Bạn không thể khiến một đứa bé chào đời trong 1 tháng bằng cách làm 9 người phụ nữ mang thai được",
+   "author": ""
+  },
+  {
+   "name": "Có 1 sự thật là: Khi bạn yêu 1 ai đó, chưa chắc người ta đã yêu lại bạn. Nhưng nếu bạn đã chửi 1 ai đó thì chắc chắn 100% là người ta sẽ chửi lại bạn!",
+   "author": ""
+  },
+  {
+   "name": "Khi móng tay dài, chúng ta cắt móng tay chứ không cắt ngón tay. Cũng tương tự, khi hiểu nhầm phát sinh, hãy cắt bớt cái tôi chứ đừng cắt đứt mối quan hệ.",
+   "author": ""
+  },
+  {
+   "name": "Đừng tưởng có nhiều người theo đuổi là hay ho lắm.\nMột quả bóng bẩn có đến 22 người đuổi theo đấy thôi.\nChẳng qua chỉ là để sút.",
+   "author": ""
+  },
+  {
+   "name": "Hãy tha thứ cho người khác, không phải vì họ xứng đáng được nhận điều đó mà là vì bạn xứng đáng được hưởng bình yên.",
+   "author": ""
+  },
+  {
+   "name": "Vô duyên (tính từ) : đặc điểm mô tả những người luôn hoang tưởng nghĩ rằng mình hài huớc.",
+   "author": ""
+  },
+  {
+   "name": "Tất cả mọi thứ chỉ quý giá tại 2 thời điểm: Trước khi có được và sau khi mất đi.",
+   "author": ""
+  },
+  {
+   "name": "Trên bao thuốc in \"Hút thuốc có thể gây ung thư phổi\" nhưng nhiều người vẫn hút, tại sao vậy? Vì họ nghĩ là chỉ CÓ THỂ gây thôi.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn chết, bạn không biết bạn chết. Bạn không phải chịu đựng chuyện đó mà chỉ có những người xung quanh bạn thôi... Khi ngu cũng vậy :))",
+   "author": ""
+  },
+  {
+   "name": "Lưỡi không xương trăm đường lắc léo\nNói không khéo mồm chẳng còn răng :))",
+   "author": ""
+  },
+  {
+   "name": "Rất dễ nói ra điều mình suy nghĩ khi mình không suy nghĩ gì cả.",
+   "author": ""
+  },
+  {
+   "name": "Khi một người đàn ông ngồi bên một cô gái đẹp, một tiếng chỉ như một phút.\nNhưng để anh ta ngồi trên một cái lò nóng, một phút sẽ dài hơn một giờ.\nĐó là tính tương đối.",
+   "author": ""
+  },
+  {
+   "name": "Cách tôt nhất để giữ 1 hàm răng đẹp là đánh răng 1 ngày 2 lần, kiểm tra định kỳ 3 tháng 1 lần và nhất là...đừng chọc giận người khác",
+   "author": ""
+  },
+  {
+   "name": "Can đảm là dám sống chứ không phải dám chết",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn có bóng, bạn không cần phải phòng thủ bởi vì trên sân chỉ có một quả bóng duy nhất.",
+   "author": ""
+  },
+  {
+   "name": "Não tôi là một cái máy lọc rất tinh vi. Nó hoạt động như túi trà Lipton: chỉ giữ lại cặn bã còn tinh hoa thì chảy hết ra ngoài.",
+   "author": ""
+  },
+  {
+   "name": "Tốc độ ánh sáng đi nhanh hơn tốc độ âm thanh. Nên người ta chỉ có vẻ khôn ngoan cho đến khi ta nghe họ phát biểu.",
+   "author": ""
+  },
+  {
+   "name": "Đôi mắt là cửa sổ tâm hồn nhưng cái miệng mới là cửa chính :v",
+   "author": ""
+  },
+  {
+   "name": "Yên tâm đi, trong cái rủi lại có cái xui...",
+   "author": ""
+  },
+  {
+   "name": "Tất cả chúng ta đang sống vì 2 lý do:\n1. Chúng ta được sinh ra\n2. Chúng ta chưa bị chết",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn ở ngoài sáng, tất cả mọi thứ đều theo bạn, nhưng khi bạn bước vào bóng tối, ngay cả cái bóng của bạn cũng không đi theo bạn nữa",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống luôn có những sự việc nằm ngoài dự đoán của con người, ví dụ như, cậu đang nghĩ tôi sẽ lấy ví dụ đúng không?",
+   "author": ""
+  },
+  {
+   "name": "Theo lý thuyết thì lý thuyết không khác với thực tế là mấy, nhưng theo thực tế thì thực tế khác xa lý thuyết.",
+   "author": ""
+  },
+  {
+   "name": "Đừng ngần ngại cống hiến hết 100% của mình cho công việc nhưng nhớ bỏ ngay suy nghĩ đó khi tham gia hiến máu",
+   "author": ""
+  },
+  {
+   "name": "Chém gió không có gì là xấu, quan trọng là có biết gì đâu mà chém.",
+   "author": ""
+  },
+  {
+   "name": "Khi nào đá biết bơi thì lá sẽ chìm.",
+   "author": ""
+  },
+  {
+   "name": "6 năm trời, không bia, không rượu, không thuốc lá, không chơi đêm và cả không đàn bà... thế rồi cũng đến ngày... tôi đủ tuổi vào lớp 1",
+   "author": ""
+  },
+  {
+   "name": "Mọi người cười tôi vì tôi khác họ\nTôi cười mọi người, vì tưởng mọi người cười với tôi",
+   "author": ""
+  },
+  {
+   "name": "Trong những thời khắc đen tối nhât, một cử chỉ đơn giản của ai đó cũng có thể bừng sáng mọi thứ, ví dụ như là bật công tắc điện.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta thường thích nghe lời người khác, đặc biệt nếu đó là người đã quá cố.",
+   "author": ""
+  },
+  {
+   "name": "Có một số người hễ xuất hiện là mang lại niềm vui. Có một số người khác hễ rời đi là ai nấy đều vui.",
+   "author": ""
+  },
+  {
+   "name": "Một người bình thường nếu chăm chỉ tập thể dục sẽ có khả năng sống tới tận lúc chết",
+   "author": ""
+  },
+  {
+   "name": "Trên thế giới này không phải những thứ có cánh đều là thiên thần",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ mong người khác hiểu cảm giác của mình. Vì nếu họ hiểu đã chẳng đối xử với bạn như vậy.",
+   "author": ""
+  },
+  {
+   "name": "- \"Biết trước không có kết quả, còn lao đầu vào yêu, thật là ngu xuẩn phải không thầy?\"\n- \"Biết trước là sẽ chết nhưng ta vẫn cố sống tốt từng ngày, có ngu xuẩn thì cũng là cả thiên hạ cùng ngu xuẩn.\"",
+   "author": ""
+  },
+  {
+   "name": "Đôi lúc, cuộc đời để ta ngập chìm trong rắc rối. Nhưng không phải để bạn chết chìm, mà là để bạn học được cách bơi.",
+   "author": ""
+  },
+  {
+   "name": "Khoảng cách xa nhất trên đời này chính là: Bạn bị kẹt thứ gì đó trong răng, lưỡi bạn biết nó ở đâu, nhưng tay bạn thì chịu thua chẳng biết nó ở chốn nào...",
+   "author": ""
+  },
+  {
+   "name": "Phong cách ngoại giao, đó là khi biết đổ thêm dầu vào lửa mà không để bị bỏng tay.",
+   "author": ""
+  },
+  {
+   "name": "Lười biếng là mẹ đẻ của mọi tật xấu. Nhưng dù sao nó cũng là mẹ nên hãy tôn trọng nó!",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng giữ lời hứa nếu họ còn nhớ đã hứa những gì.",
+   "author": ""
+  },
+  {
+   "name": "Phần lớn mọi người dành cả đời mình để sống trên hòn đảo ảo tưởng mang tên \"NGÀY NÀO ĐÓ TÔI SẼ\".",
+   "author": ""
+  },
+  {
+   "name": "Ai là nhà tạo mẫu tóc chuyên nghiệp và sáng tạo nhất, theo tôi đó là chiếc gối. Mỗi lần sử dụng gối là có một kiểu tóc mới chới với người nhìn...",
+   "author": ""
+  },
+  {
+   "name": "Mẹ thấy thằng ấy chẳng tử tế gì đâu, đừng yêu nó nữa con ạ",
+   "author": ""
+  },
+  {
+   "name": "Kết quả của một bài kiểm tra phụ thuộc rất lớn vào giám thị và chỗ ngồi của bạn",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống không phải là phim ảnh, không có nhiều đến thế... những lần không hẹn mà gặp nhau.",
+   "author": ""
+  },
+  {
+   "name": "Hãy luôn mở to đôi mắt. Hãy quan sát khắp mọi thứ xung quanh. Bởi vì bất kỳ điều gì bạn thấy đều có thể truyền cảm hứng cho bạn",
+   "author": ""
+  },
+  {
+   "name": "Đồng hồ là đồ vật treo trong lớp và được học sinh nhìn nhiều hơn cả bảng.",
+   "author": ""
+  },
+  {
+   "name": "Có 1 cách làm cho luôn quần áo sạch đó là không bao giờ mặc đến nó nữa.",
+   "author": ""
+  },
+  {
+   "name": "Bất cứ ai làm việc gì, dù nghe có vẻ hết mình vì người khác, cũng một phần vì bản thân mình.",
+   "author": ""
+  },
+  {
+   "name": "Cách tốt nhất để không bị chỉ trích chính là đừng cố gắng làm điều gì mới mẻ cả.",
+   "author": ""
+  },
+  {
+   "name": "Có một vấn đề là, với một dân số tăng đáng kể theo thời gian, con số những người nổi bật tính bình quân trên đầu người lại giảm đi.",
+   "author": ""
+  },
+  {
+   "name": "Kẹo - đơn vị tiền lẻ không chính thức của Việt Nam.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời có luật nhân quả, khi bạn cho đi thứ gì, bạn sẽ mất luôn thứ đó.",
+   "author": ""
+  },
+  {
+   "name": "Đừng sống 1 năm tới tận 75 lần và gọi nó là cuộc đời.",
+   "author": ""
+  },
+  {
+   "name": "Đậu má là viết tắt của đồ uống đậu xanh rau má :v",
+   "author": ""
+  },
+  {
+   "name": "Mặc dù Axit rất nguy hiểm nhưng nhìn chung chúng cũng chẳng an toàn tí nào.",
+   "author": ""
+  },
+  {
+   "name": "Sống sao cho người ta nể, đừng kể lể cho người ta khinh",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là thế... để tâm đến bản thân thì đời là một con đường!!! Để tâm đến người khác thì đời là một mê cung...",
+   "author": ""
+  },
+  {
+   "name": "Ráng học đi sau này làm bác sĩ\nKhám lòng người coi giả tạo đến đâu?",
+   "author": ""
+  },
+  {
+   "name": "Cánh quạt trên máy bay có tác dụng làm mát cho phi công. Khi cánh quạt ngừng quay các bạn sẽ thấy... phi công đổ mồ hôi liên tục.",
+   "author": ""
+  },
+  {
+   "name": "Dân ta phải biết sử ta\nKhối kẻ nhầm lẫn nói ra sử Tàu.",
+   "author": ""
+  },
+  {
+   "name": "Thực chất, người ta vô cảm chỉ đơn giản vì lòng tin của họ đã bị đem ra thử thách quá nhiều lần...!",
+   "author": ""
+  },
+  {
+   "name": "Chỉ làm quen với các cô gái không có anh trai nếu mình là đàn ông.",
+   "author": ""
+  },
+  {
+   "name": "Tất cả chúng ta đều thay đổi. Chỉ là nhanh đến chóng mặt hoặc chậm đến mức không ai nhận ra.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không muốn bị lãng quên ngay khi bạn vừa nhắm mắt lìa đời, hãy viết ra một điều gì đó đáng để đọc hoặc làm một điều gì đó đáng để viết lại.",
+   "author": ""
+  },
+  {
+   "name": "Nếu em chưa đau khổ thì em chưa hiểu được hạnh phúc là gì. Khi em trải qua quá nhiều đau thương thì những điều bình thường cũng khiến em hạnh phúc.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống nó không giống như cuộc đời, vì cuộc đời nó tơi bời hơn cuộc sống.",
+   "author": ""
+  },
+  {
+   "name": "Trường học nó bắt buộc ta học trước rồi mới kiểm tra\nCòn trường đời nó bắt ta kiểm tra trước rồi mới rút ra bài học",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống không tặng cho ta thứ gì cả. Những gì cuộc sống đem lại cho ta đều đã được ghi giá một cách kín đáo.",
+   "author": ""
+  },
+  {
+   "name": "Ghen ăn tức ở vạn đời khổ\nSẻ chia nhường nhịn trọn kiếp vui",
+   "author": ""
+  },
+  {
+   "name": "\"Ấy\" là từ bá đạo nhất VN. Nó có thể thay thế cho bất kì từ nào",
+   "author": ""
+  },
+  {
+   "name": "Ích kỷ là có ích cho thế kỷ",
+   "author": ""
+  },
+  {
+   "name": "\"Nhà tắm\" nơi thăng hoa của âm nhạc.",
+   "author": ""
+  },
+  {
+   "name": "Người giơ tay về phía bạn chưa chắc đã thực lòng muốn cứu bạn.",
+   "author": ""
+  },
+  {
+   "name": "Nền văn minh tiến bộ nhờ sự gia tăng số lượng những hành động chúng ta có thể thực hiện mà không cần phải suy nghĩ",
+   "author": ""
+  },
+  {
+   "name": "Người ta sẽ dễ dàng chấp nhận ý kiến của bạn nếu bạn nói Benjamin Franklin vừa nói ý đó trước đây.",
+   "author": ""
+  },
+  {
+   "name": "Nước trong thì không có cá, người tốt quá thì không ai chơi",
+   "author": ""
+  },
+  {
+   "name": "Các bạn biết 66771508 là gì hông là sấu sấu bẩn bẩn một năm không tắm đó",
+   "author": ""
+  },
+  {
+   "name": "Hãy đi lên bằng chính đôi chân của mình nếu... thang máy hỏng",
+   "author": ""
+  },
+  {
+   "name": "Bên ngoài nhìn thấy như không, bên trong thủ đoạn mênh mông ngất trời",
+   "author": ""
+  },
+  {
+   "name": "Cristiano Ronaldo - người đàn ông nhiều gàu nhất thế giới, quảng cáo gàu nào cũng thấy.",
+   "author": ""
+  },
+  {
+   "name": "Muốn nhìn thấy cầu vồng phải chịu đựng cơn mưa",
+   "author": ""
+  },
+  {
+   "name": "Khi già thị lực người ta kém đi nhưng nhìn thấy nhiều hơn.",
+   "author": ""
+  },
+  {
+   "name": "Đừng nói lý với kẻ say\nĐừng bắt tay với kẻ xấu\nĐừng chiến đấu với kẻ liều\nĐừng nói nhiều với kẻ ngu",
+   "author": ""
+  },
+  {
+   "name": "Có sóng gió thì mới khao khát bình yên có đi xa thì mới ước ao trở về",
+   "author": ""
+  },
+  {
+   "name": "Homie! Phải biết tự tôn trọng mình\nĐồng nghĩa với việc tôn trọng lời thốt ra từ họng mình\nĐồng ý mày có thể sai, chỉ cần nhận thức mày nể ai\nCòn lại, miệng đời đồn đại nói thiệt thằng này cũng chẳng để tai\n-- Bạn hiền --",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn nói rằng tôi được tự do trao tặng niềm tin, điều đó có nghĩa là tôi được phép tin cả những điều sai lầm.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống phải chăng chỉ là để kiếm tiền thôi sao?",
+   "author": ""
+  },
+  {
+   "name": "Tốt bụng và ngu ngốc là hai từ khác nhau!",
+   "author": ""
+  },
+  {
+   "name": "- \"Dạo này con béo quá, buồn lắm thầy ạ.\"\n- \"Từng thớ thịt trên người con là do chính miệng con ăn mà thành, con lấy tư cách gì mà than thở đây?\"",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời giống như nhạc jazz, càng ngẫu hứng càng hay.",
+   "author": ""
+  },
+  {
+   "name": "Ngẫm xem thế sự ngược đời\nMột con cá ngược lắm người buông câu",
+   "author": ""
+  },
+  {
+   "name": "Thất bại không đáng sợ. Đáng sợ chính là giờ mà vẫn có người tin vào câu đấy nữa.",
+   "author": ""
+  },
+  {
+   "name": "Là thanh niên thì phải có trách nhiệm với gia đình xã hội, với nội ngoại hai bên.",
+   "author": ""
+  },
+  {
+   "name": "Quan trọng khi bước ra khỏi trò chơi này mình là ai chứ không phải trong trò chơi mình là ai.",
+   "author": ""
+  },
+  {
+   "name": "Quay đầu là bờ...ai ngờ là biển",
+   "author": ""
+  },
+  {
+   "name": "Nếu thần tượng 1 huyền thoại thì cứ gọi người ấy là thần thoại!",
+   "author": ""
+  },
+  {
+   "name": "Đợi mãi mà vẫn chưa thấy tháng 12 đến thì gọi là => Chậm chạp",
+   "author": ""
+  },
+  {
+   "name": "Tôi có thể cưỡng lại tất cả mọi thứ... trừ sự cám dỗ",
+   "author": ""
+  },
+  {
+   "name": "Trên đời, có nhiều người lạ lắm. Họ chỉ thấy lỗi sai của người khác mà không nhìn thấy đống rác trên đầu mình!",
+   "author": ""
+  },
+  {
+   "name": "cả cây khế to vậy mà không có lấy 1 trái ổi :v",
+   "author": ""
+  },
+  {
+   "name": "Cứ mỗi lần tôi tìm thấy chìa khóa thành công cho cuộc đời, y như rằng ông trời sẽ đột ngột đổi ổ khóa khác...",
+   "author": ""
+  },
+  {
+   "name": "Nhàm chán + so sánh sẽ giết chết bạn",
+   "author": ""
+  },
+  {
+   "name": "Bạn không hề ngu tí nào chẳng qua là mọi người xung quanh bạn quá thông minh mà thôi",
+   "author": ""
+  },
+  {
+   "name": "Nuôi cái giận trong lòng thì khác nào uống thuốc độc mà trông chờ người khác chết.",
+   "author": ""
+  },
+  {
+   "name": "Miệng đời dù có ác ôn\nNhưng nhờ có nó ta khôn lên nhiều",
+   "author": ""
+  },
+  {
+   "name": "Có 1 sự thật là... bạn sẽ trẻ mãi... cho tới tận lúc già",
+   "author": ""
+  },
+  {
+   "name": "Chàng trai:\" Con theo đuổi nàng hơn sáu năm nay vẫn chưa có kết quả gì. Xin thiền sư chỉ giáo.\"\nThiền sư đưa mắt về phía con ốc sên đang miệt mài bò trên thân cây.\nChàng trai trầm tư một lát, rồi nói:\" Ý thầy là chỉ cần bền bỉ kiên trì đến cùng, nhất định sẽ thành công?\"\n\"Không, ý ta là trước tiên con cần có căn nhà của riêng mình như con ốc sên kia đã.\"",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời không có gì là miễn phí...",
+   "author": ""
+  },
+  {
+   "name": "Khi xem một bức tranh, nếu chưa hiểu gì, hãy tin chắc những người chung quanh đều như thế.",
+   "author": ""
+  },
+  {
+   "name": "Ai ăn hết cái từ đường nhà mày à :)))",
+   "author": ""
+  },
+  {
+   "name": "Tiền bạc không phải là tất cả. Vì còn có vàng và kim cương.",
+   "author": ""
+  },
+  {
+   "name": "Khi thằng điên nói, người nào cũng hiểu nhưng không ai tin. Khi nhà bác học nói, ai cũng không hiểu nhưng người nào cũng cắm đầu vào tin.",
+   "author": ""
+  },
+  {
+   "name": "Thả tôi ra",
+   "author": ""
+  },
+  {
+   "name": "Mỗi người 1 cách sống, đừng dạy người khác phải hưởng thụ cuộc sống như thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Lắm khi chúng ta chỉ coi những người đồng tình với mình là thông minh.",
+   "author": ""
+  },
+  {
+   "name": "Càng lớn càng cô đơn, mà càng nghèo thì càng bị xa lánh.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống là 10% sự kiện xảy ra với bạn và 90% là cách bạn phản ứng với nó.",
+   "author": ""
+  },
+  {
+   "name": "Không tranh luận với kẻ có địa vị và kiến thức thấp hơn mình.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người nói : Ta không thể sống thiếu tình yêu... và khi thiếu oxy thì lăn đùng ra hết",
+   "author": ""
+  },
+  {
+   "name": "Gọi em là bút cũ vì em yêu anh hết mực :))",
+   "author": ""
+  },
+  {
+   "name": "CR7 và Messi chưa từng ghi được bàn thắng nào vào lưới đội tuyển Việt Nam",
+   "author": ""
+  },
+  {
+   "name": "Người ta vội vã phán xét người khác để tránh chính mình bị phán xét",
+   "author": ""
+  },
+  {
+   "name": "Người không vì mình trời chu đất diệt",
+   "author": ""
+  },
+  {
+   "name": "Trong xã hội này, chúng ta thường không làm những việc to lớn, bởi vì chúng ta sợ mắc lỗi.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống luôn cho bạn cơ hội thứ hai, nó được gọi là ngày mai.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc tình dù đúng hay sai, thì người có thai sẽ là người cho con bú",
+   "author": ""
+  },
+  {
+   "name": "Bạn muốn cắt thế nào?",
+   "author": ""
+  },
+  {
+   "name": "Chàng trai: \"Bạn bè mới kết hôn đã ly hôn, làm con mất hết niềm tin vào tình yêu.\"\nThiền sư chậm rãi chỉ tay về phía chậu hoa lan và hoa đỗ quyên ngoài sân.\nChàng trai ngắm nhìn hồi lâu rồi nói:\" Ý thầy là tình yêu vốn tự nhiên như hoa cỏ, lúc thì dịu dàng khoe sắc sáng bừng không gian, nhưng rồi cũng có lúc lụi tàn buồn bã thê lương. Con người vốn dĩ ko nên đòi hỏi quá nhiều ở tình yêu?\"\nThiền sư thở dài đáp:\" Không, ý ta là chuyện người ta ly hôn thì có lan quyên gì đến cậu?\"",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi món quà có giá trị nhất được gửi tặng theo cái cách mà bạn không bao giờ có thể ngờ đến.",
+   "author": ""
+  },
+  {
+   "name": "Con người là loại động vật duy nhất bị kích thích bởi bi kịch của đồng loại.",
+   "author": ""
+  },
+  {
+   "name": "Ăn cướp thời cổ đại: Núi này là ta mở, cây này là ta trồng, nếu muốn đi qua đường này phải để lại tiền mãi lộ. Trải qua mấy trăm năm văn minh thay đổi, tới xã hội hiện đại, ăn cướp biến thành: Phía trước 500m là trạm thu phí, xin giảm tốc độ, đi chậm...",
+   "author": ""
+  },
+  {
+   "name": "Đừng mơ trong cuộc sống...mà hãy sống cho giấc mơ.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ đánh nhau khi biết chắc mình có thể thắng hoặc hòa.",
+   "author": ""
+  },
+  {
+   "name": "Hầu hết mọi người đánh giá quá cao những gì họ có thể làm trong một năm và đánh giá quá thấp những gì họ có thể làm trong mười năm.",
+   "author": ""
+  },
+  {
+   "name": "Không chịu suy xét là người mù quáng\nKhông thể suy xét là người ngu xuẩn\nVà không dám suy xét là nô lệ.",
+   "author": ""
+  },
+  {
+   "name": "Đừng có đẻ con qua mặt Âu Cơ, chết đứng qua mặt Từ Hải, múa đao qua mặt Quan Công.",
+   "author": ""
+  },
+  {
+   "name": "Quốc tế thiếu Nhi - ngày cả thế giới không cần những đứa tên Nhi.",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã đọc và đồng ý với những điều khoản trên.",
+   "author": ""
+  },
+  {
+   "name": "Trong bóng đá cũng như điện ảnh, có thể coi khán giả là người xem phim, huấn luyện viên là đạo diễn, còn các cầu thủ là diễn viên và người viết kịch bản là... giới cá cược.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn giúp một người và chờ đợi điều gì đó quay trở lại. Thì việc bạn đang làm là kinh doanh chứ ko phải lòng tốt.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời giống như 1 vở kịch, nghĩa là gặp cảnh nào ta diễn cảnh đó, chủ yếu là diễn đạt và sống nhạt cho bớt đau.",
+   "author": ""
+  },
+  {
+   "name": "Trà sữa không thiếu một giọt, Selfie không thiếu một người.",
+   "author": ""
+  },
+  {
+   "name": "Đến một ngày, cuộc sống của con người sẽ hoàn toàn phụ thuộc vào công nghệ",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống không phải nơi tìm lại chính mình.\nCuộc sống là nơi tạo nên con người bạn.",
+   "author": ""
+  },
+  {
+   "name": "\"Nhân duyên tiền định\" chính duyên số của con người là do đồng tiền quyết định.",
+   "author": ""
+  },
+  {
+   "name": "Có những món quà được trao đi để được tiếp tục trao cho người khác.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn đúng thi cần gì phải tức giận\nNếu bạn sai thì có tư cách gì để tức giận",
+   "author": ""
+  },
+  {
+   "name": "Cấm đổ rác",
+   "author": ""
+  },
+  {
+   "name": "Vì cả cuộc đời mỗi người là một câu chuyện nên điều cần biết không phải là dài hay ngắn! Mà là nó hay hay dở!",
+   "author": ""
+  },
+  {
+   "name": "Tội phạm chẳng khác gì ta... ngoại trừ hắn bị bắt.",
+   "author": ""
+  },
+  {
+   "name": "Chết là nguyên nhân cướp đi mạng sống hàng triệu người mỗi năm",
+   "author": ""
+  },
+  {
+   "name": "Môn Tập Làm Văn là môn đầu tiên... dạy học sinh nói dối",
+   "author": ""
+  },
+  {
+   "name": "Nhân từ với kẻ thù là tàn nhẫn với bản thân",
+   "author": ""
+  },
+  {
+   "name": "Chiếc giường đắt giá nhất là giường bệnh.",
+   "author": ""
+  },
+  {
+   "name": "Khoa học đã chứng minh rằng bạn sẽ không thể sống nổi vào ngày 30/2",
+   "author": ""
+  },
+  {
+   "name": "Thứ sáu ngày mười ba không bao giờ rơi vào ngày chủ nhật",
+   "author": ""
+  },
+  {
+   "name": "Vào ngày 31/12/1999 toàn thế giới... chuẩn bị bước sang năm 2000",
+   "author": ""
+  },
+  {
+   "name": "Vẽ người... vẽ mặt... khó vẽ cốt\nBiết người... biết mặt... khó biết lòng\nChân thành quá mức là 1 cái tội\nTin người quá vội là 1 cái ngu",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống phồn hoa dễ làm ta xa đọa\nNhưng cuộc đời ai biết trước được tương lai...\nNếu một mai cuộc đời con vấp ngã\nXin cha mẹ hãy tha lỗi cho con..!",
+   "author": ""
+  },
+  {
+   "name": "Ở đây anh hơi bị quê chứ ở quê anh hơi bị ghê",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay đọc được câu danh ngôn rất hay: \"Chúng ta không thể kéo dài chiều dài cuộc đời nhưng chúng ta có thể mở rộng nó\". Tôi thấy câu này vô cùng chí lý. Nó có nghĩa là: Tuy chúng ta không thể cao thêm, nhưng chúng ta có thể tiếp tục béo.",
+   "author": ""
+  },
+  {
+   "name": "Mình là con cừu thì đừng tham gia cuộc chơi của những con sói.",
+   "author": ""
+  },
+  {
+   "name": "Trường là nhà bởi vậy người ta mới gọi là nhà trường",
+   "author": ""
+  },
+  {
+   "name": "Trẻ con để ý đúng sai, người lớn thì chỉ nhìn vào lợi ích.",
+   "author": ""
+  },
+  {
+   "name": "Những người không bằng tôi thì mới soi mói, chỉ trích tôi. Còn những người hơn tôi, họ đã không thèm chú ý đến tôi lâu rồi!",
+   "author": ""
+  },
+  {
+   "name": "Đây là lần đầu tiên của em...",
+   "author": ""
+  },
+  {
+   "name": "- \"Đ'\" là gì vậy chị Bích Phương?\n- Từ này là cùng nghĩa với từ \"không\" nhưng được trang trí thêm sắc thái giận dữ.",
+   "author": ""
+  },
+  {
+   "name": "Năm nay quyết định có gấu",
+   "author": ""
+  },
+  {
+   "name": "Trí tuệ vĩ đại thì luận bàn về ý tưởng; trí tuệ thông thường thì luận bàn về sự kiện; chỉ có đám tiểu nhân mới luận bàn về người khác",
+   "author": ""
+  },
+  {
+   "name": "Nếu kế hoạch A không dùng được, thì ta hãy còn tận 28 chữ cái kia mà. Cứ bình tĩnh.",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm giống như một chiếc lược mà cuộc đời chỉ ban tặng sau khi chúng ta đã mất hết cả tóc.",
+   "author": ""
+  },
+  {
+   "name": "Em bé mà nói chuyện vớ vẩn thì được gọi là => Nhảm nhí",
+   "author": ""
+  },
+  {
+   "name": "Một loại tà ám bao phủ thế hệ trẻ - đó là \"Tà tưa\" tên cúng cơm là Trà sữa",
+   "author": ""
+  },
+  {
+   "name": "Một người đau chân có lúc nào quên được cái chân đau của mình để nghĩ đến một cái gì khác đâu? Khi người ta khổ quá thì người ta chẳng còn nghĩ gì đến ai được nữa. Cái bản tính tốt của người ta bị những nỗi lo lắng, buồn đau ích kỷ che lấp mất...",
+   "author": ""
+  },
+  {
+   "name": "Yêu không công khai... đến lúc có thai... đừng hòng anh nhận.",
+   "author": ""
+  },
+  {
+   "name": "Cách để bắt đầu một việc là dừng nói lại và hãy bắt đầu làm.",
+   "author": ""
+  },
+  {
+   "name": "Sống ở đời này các phải biết... nhẫn nhục với kẻ mạnh... nhẫn nhịn với kẻ liều... và nhẫn tâm với kẻ yếu =))",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cần bạn tự tin và cố gắng hết sức trong tất cả những việc bạn làm, bạn... sẽ bị kiệt sức.",
+   "author": ""
+  },
+  {
+   "name": "Tự kỷ là tự mình sống hết thế kỷ.",
+   "author": ""
+  },
+  {
+   "name": "Những người lãnh đạo đầu càng nhỏ càng có xu hướng thích dùng bạo lực để ngăn cản những người đối lập.",
+   "author": ""
+  },
+  {
+   "name": "Khi chúng ta đem tặng hoa cho người khác, thì người đầu tiên ngửi được mùi hương đầu tiên là chính chúng ta. Khi mà chúng ta nắm bùn ném vào người khác, thì người bị lấm bẩn đầu tiên cũng chính chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Nhịn không phải là nhục mà là rất nhục",
+   "author": ""
+  },
+  {
+   "name": "Lực hút lớn nhất quả đất đó là... chiếc giường vào buổi sáng :D",
+   "author": ""
+  },
+  {
+   "name": "Những người giỏi không sinh ra là đã xuất chúng sẵn mà họ đã lớn lên một cách xuất chúng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như đi đâu đó mà không có người đi cùng, thì chắc hẳng là bạn đang đi một mình.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không phải một người có thể làm cho mọi người cười, nhưng có thể làm cho bản thân tôi cười.",
+   "author": ""
+  },
+  {
+   "name": "Đời hài... Ai cũng sắm cho mình 1 vai\nKhông làm nai thì cũng làm chó dại",
+   "author": ""
+  },
+  {
+   "name": "Chàng trai:\" Xã hội nhiễu nhương, tham quan nhan nhản, người xấu dương dương tự đắc, người tốt cam chịu cúi đầu. Con thực sự ko chịu nổi, sự uất hận đau đớn khiến con ăn ko ngon ngủ ko yên. Xin thầy cho con một lời khuyên.\"\nThiền sư bèn đưa cho chàng trai một tờ giấy trắng và một hộp màu.\nChàng trai tô những màu khác nhau trên tờ giấy, sau đó mỉm cười nói: \"Con hiểu rồi, ý thầy là cuộc đời vốn đa sắc màu, chỉ cần sống ko thẹn với lòng, sống theo lý tưởng của mình là đủ ạ?\"\nThiền sư chán nản lắc đầu:\" Không, ý ta là con cứ làm màu tiếp đi.\"",
+   "author": ""
+  },
+  {
+   "name": "Ban ngày mà không có ánh mặt trời thì giống như... bạn biết rồi đó... ban đêm.",
+   "author": ""
+  },
+  {
+   "name": "Đưa lì xì mẹ giữ cho khi nào cần mẹ đưa lại",
+   "author": ""
+  },
+  {
+   "name": "Hãy ở bên người làm cho bạn cười, ngay cả khi bạn mệt mỏi, không vui.",
+   "author": ""
+  },
+  {
+   "name": "Muốn hoa thơm thì đừng nên chọn sắc\nChọn cuộc đời chứ ai chọn cuộc chơi",
+   "author": ""
+  },
+  {
+   "name": "Lãnh đạo nghĩ và nói về giải pháp.\nNgười đi theo nghĩ và nói về vấn đề.",
+   "author": ""
+  },
+  {
+   "name": "Lời mày nói, một cái chấm câu tao cũng không tin!",
+   "author": ""
+  },
+  {
+   "name": "\"Tiết dự giờ\" - khoảnh khắc khả năng diễn xuất được bộc phát đỉnh điểm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn đi nhanh hãy đi một mình.\nNhưng nếu muốn đi xa hãy đi cùng nhau",
+   "author": ""
+  },
+  {
+   "name": "\"Lì xì\" là ngồi lì ra cho người ta xì tiền cho mình",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tao có gọi thì nói là tao đang ngủ nhà mày nha. Sáng mai tao bao cafe.",
+   "author": ""
+  },
+  {
+   "name": "Chuyện tình cảm cũng giống như lòng người, khi đầy – khi với, rất khó đoán.Thế nên, đừng trách thế gian sao bội bạc, chỉ tiếc cuộc đời lắm gian nan.",
+   "author": ""
+  },
+  {
+   "name": "Cách tốt nhất để giữ lời hứa là đừng hứa gì cả.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống giống như một cuốn sách. Một vài chương khá buồn, một số chương hạnh phúc và một số chương rất thú vị. Nhưng nếu bạn chưa bao giờ lật thử một trang bạn sẽ không bao giờ biết được những gì ở chương tiếp theo!",
+   "author": ""
+  },
+  {
+   "name": "Bạn có biết Donald Trump sinh vào đúng ngày... sinh nhật của mình.",
+   "author": ""
+  },
+  {
+   "name": "Thể diện rốt cuộc bao nhiêu tiền một cân? Tại sao chúng ta phải để tâm đến cách nhìn của người khác.",
+   "author": ""
+  },
+  {
+   "name": "Cho bạn chép bài là hại bạn!",
+   "author": ""
+  },
+  {
+   "name": "Sự thật là...một vòng tròn không thể nào 361°",
+   "author": ""
+  },
+  {
+   "name": "Truyền thuyết kể rắng: Nếu như mỗi ngày bạn ăn đều đặn 1 trái táo. Thì sau 1 tuần bạn sẽ nhận thấy rằng... bạn đã ăn được 7 trái táo.",
+   "author": ""
+  },
+  {
+   "name": "\"Bây giờ già rồi\" là câu nói yêu thích của công dân có độ tuổi bắt đầu từ độ tuổi 13 đến vô tận",
+   "author": ""
+  },
+  {
+   "name": "Gửi vợ tương lai. Hôm này ngày 8/3 e đừng làm gì có lỗi với anh nhé. Thân!",
+   "author": ""
+  },
+  {
+   "name": "Hãy tránh người tiêu cực bằng mọi cách, họ là người phá huỷ người tự tin và lòng kiêu hãnh mạnh mẽ nhất.",
+   "author": ""
+  },
+  {
+   "name": "Tất cả cuộc sống đều là thử nghiệm. Bạn càng thử nghiệm nhiều càng tốt.",
+   "author": ""
+  },
+  {
+   "name": "\"Ngủ\" khoảnh khắc thời gian trôi nhanh nhất.",
+   "author": ""
+  },
+  {
+   "name": "Sống trên cõi đời này nghĩa là bạn đang sống cùng với sự dối trá. Thật may mắn nếu bạn không góp phần vào nó.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn ngủ quên trong cuộc sống, tất cả những gì bạn có là những giấc mơ.",
+   "author": ""
+  },
+  {
+   "name": "Cái đích của cuộc đời: Một là sức khỏe, hai là gia đình, ba là sự nghiệp, và bốn là bạn bè. Kẻ thành công là kẻ làm được hàm (fx) này.",
+   "author": ""
+  },
+  {
+   "name": "Muốn thương nhau thì phải hiểu nhau.\nMuốn hiểu nhau thì phải tin tưởng nhau\nMuốn tin tưởng nhau thì phải thật lòng với nhau",
+   "author": ""
+  },
+  {
+   "name": "Vạn sự tùy duyên, cứ an yên mà sống. Có duyên chân trời cũng gặp, vô duyên trước mặt cũng như không.",
+   "author": ""
+  },
+  {
+   "name": "Làm người, nếu ai đó lợi dụng, chứng tỏ bạn cũng có giá trị.",
+   "author": ""
+  },
+  {
+   "name": "Sự lợi hại thực sự không phải là bạn quen biết bao nhiêu người, mà là vào lúc bạn gặp hoạn nạn, có bao nhiêu người quen biết bạn.",
+   "author": ""
+  },
+  {
+   "name": "Các nhà khoa học đã đau não để chứng minh bán kính của Trái Đất bằng...1 nửa đường kính của nó :v",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể truy cập vào những trang dán mác 18+ dù đã đủ 18 hay chưa",
+   "author": ""
+  },
+  {
+   "name": "Cứ mỗi phút ở châu phi... thì lại có 60 giây trôi qua.",
+   "author": ""
+  },
+  {
+   "name": "Dắt chó đi dạo vô ý để sổng ra thì gọi là => Cẩu thả",
+   "author": ""
+  },
+  {
+   "name": "Mày có bị đốt ra tro tao cũng nhận ra mày.",
+   "author": ""
+  },
+  {
+   "name": "Sau khi bạn sinh ra, cơ hội chết của bạn đã tăng 100%",
+   "author": ""
+  },
+  {
+   "name": "Đời không vui như tui đang diễn",
+   "author": ""
+  },
+  {
+   "name": "Nếu mày giỏi việc gì, thì đừng bao giờ làm nó miễn phí",
+   "author": ""
+  },
+  {
+   "name": "Tương lai khóc hay cười phụ thuộc vào độ lười của quá khứ",
+   "author": ""
+  },
+  {
+   "name": "Phan Đình Tùng chưa từng quảng cáo cho bất kỳ hãng dầu gội đầu nào.",
+   "author": ""
+  },
+  {
+   "name": "Bi kịch của cuộc đời là ở chỗ ta già đi quá nhanh mà khôn ngoan thì quá trễ...",
+   "author": ""
+  },
+  {
+   "name": "Bãi rác - nơi có nhiều người được nhặt về nuôi nhất Việt Nam.",
+   "author": ""
+  },
+  {
+   "name": "Tôi chọn người lười biếng để làm những việc khó khăn. Bởi 1 người lười biếng sẽ tìm ra cách dễ dàng để làm việc đó.",
+   "author": ""
+  },
+  {
+   "name": "Sống đơn giản cho đời thanh thản\nSống khùng điên cho đời bình yên",
+   "author": ""
+  },
+  {
+   "name": "- \"Làm thế nào để kết thúc đời độc thân ạ?\"\nThiền sư chỉ tay về ngọn núi đối diện.\n- Ý thầy là người có nhân duyên với con đang ở ngọn núi kia ạ?\"\n- \"Không, năm đó vì muốn kết thúc đời độc thân ta đã lên núi này làm sư, núi kia còn trống đấy, con có thể sang đó tu hành.\"",
+   "author": ""
+  },
+  {
+   "name": "Nếu bị dồn vào đường cùng thì bất cứ ai cũng có thể làm chị Dậu",
+   "author": ""
+  },
+  {
+   "name": "Đời rất dở nhưng vẫn phải niềm nở",
+   "author": ""
+  },
+  {
+   "name": "\"Kinh nghiệm\" là những thứ mà mỗi khi ta nghiệm lại đều thấy kinh quá",
+   "author": ""
+  },
+  {
+   "name": "\"FA\" thực chất là chữ viết tắt cho \" FAN ANIME\"",
+   "author": ""
+  },
+  {
+   "name": "Anh rất tốt, nhưng giờ em chưa muốn yêu đương",
+   "author": ""
+  },
+  {
+   "name": "Đây là hiện tượng tự nhiên\nMà đã là hiện tượng tự nhiên thì ko nên can thiệp",
+   "author": ""
+  },
+  {
+   "name": "Khi nào đi uống cafe nhé!",
+   "author": ""
+  },
+  {
+   "name": "Đứng lại, đừng chạy tên trộm kia",
+   "author": ""
+  },
+  {
+   "name": "Mĩ đã mạnh còn có Hoa Kỳ hỗ trợ.",
+   "author": ""
+  },
+  {
+   "name": "Hãy sống với tất cả những gì mình có",
+   "author": ""
+  },
+  {
+   "name": "Ngươi có thể chiếm được thể xác ta nhưng ngươi sẽ không bao giờ có được tâm hồn ta đâu",
+   "author": ""
+  },
+  {
+   "name": "Trong sự vùi dập của số phận, điều dễ nhìn thấy nhất là khí tiết của một người.",
+   "author": ""
+  },
+  {
+   "name": "Có một ngày bạn sẽ hiểu lương thiện khó hơn thông minh nhiều\nThông minh là một loại tài năng thiên phú...còn lương thiện lại là một sự lựa chọn...",
+   "author": ""
+  },
+  {
+   "name": "Tất cả mọi người chỉ cách bạn một ly cafe mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "\"Phòng y tế\" nơi trốn học vừa an toàn vừa sướng.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ nhận sai chẳng khác nào nói mình nhu nhược.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời ngắn tựa gang tay..\nNgọt ngào không hết đắng cay làm gì",
+   "author": ""
+  },
+  {
+   "name": "Cho tao xin chỉ 1 miếng thôi",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là những chuyến đi, gặp nhau thì ít chia li thì nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Giúp đỡ người khác khi gặp khó khăn và họ sẽ nhớ tới bạn khi họ lại gặp khó khăn.",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ không bao giờ đạt đến đích nếu bạn cứ dừng lại và ném đá vào mỗi con chó trên đường chỉ vì tiếng sủa của chúng!",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi bạn phải học cách chấp nhận sự thật vì... sự thật thì làm thao có thể chối cãi :v",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng phải mang gánh nặng trên vai nhưng không phải ai cũng biết biến nó thành sức mạnh.",
+   "author": ""
+  },
+  {
+   "name": "Độ dài của chuyến du lịch là do độ dày mỏng của ví tiền quyết định\nĐộ rộng của chuyến đi tùy thuộc vào đôi mắt\nCòn chiều sâu của chuyến đi lại được quyết định bởi tâm hồn.",
+   "author": ""
+  },
+  {
+   "name": "Tột đỉnh của sự thông minh là phải giả vờ thần kinh trong 1 vài tình huống.",
+   "author": ""
+  },
+  {
+   "name": "Đừng để tình cảm lành mạnh bị giết chết bởi những nguyên tắc cứng nhắc.",
+   "author": ""
+  },
+  {
+   "name": "Sau này chúng ta sẽ trở thành loại người mà chúng ta đã từng ghét nhất",
+   "author": ""
+  },
+  {
+   "name": "Một số người tìm gặp bạn khi họ rãnh.\nMột số người cố tình rãnh để tìm gặp bạn.",
+   "author": ""
+  },
+  {
+   "name": "Sống thì phải có mục đích, mục đích ấy đừng quá khó cũng đừng quá dễ vì chúng ta đừng quá ràng buộc bản thân và cũng đừng quá dễ dãi với nó.",
+   "author": ""
+  },
+  {
+   "name": "Định nghĩa \"Chồng\"\n- Nhà nữ triết học khẳng định: \"Chồng là một dạng vật chất, nó không bao giờ bị mất đi, chỉ chuyển từ 'người' này sang 'người' khác\".\n- Nhà nữ vật lý học thì nói: \"Chồng chịu ảnh hưởng rất lớn của lực 'vạn vật hấp dẫn', khi xa thì hút khi gần thì đẩy\".\n- Cô nhân viên y tế thì cảnh báo: \"Chồng là một loại vi khuẩn hay 'lờn thuốc', rất khó trị\".\n- Cô nhân viên ngân hàng thì than vãn: \"Chồng là chuyên gia vay nóng, nhưng khả năng chi trả thì không có\".\n- Chị nông dân thì thú nhận: \"Chồng là 'lúa giống', nếu ta không tranh thủ 'sạ' hết ở ruộng mình, có nguy cơ bị chị hàng xóm mượn giống\".",
+   "author": ""
+  },
+  {
+   "name": "Không quan trọng mày là ai, đừng mắc công thanh minh, những gì mày đang làm, sẽ định nghĩa con người mày.",
+   "author": ""
+  },
+  {
+   "name": "Chúa cho tôi 2 chân để chơi bóng, không phải để chạy theo người phụ nữ không quan tâm tới tôi.",
+   "author": ""
+  },
+  {
+   "name": "Sống ở đời thì nên biết \"lòng tốt nào cũng có giới hạn của nó\"",
+   "author": ""
+  },
+  {
+   "name": "Đường lâu không đi. Đường đầy cỏ dại.\nNgười không qua lại. Người thành người dưng.",
+   "author": ""
+  },
+  {
+   "name": "Những phiền não trong cuộc đời được gói gọn trong 12 chữ: Buông không được, nghĩ không thông, nhìn không thấu, quên không nổi!",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ tôi mới hiểu thấu, nếu một lần bạn đã có tiền đủ cho cuộc đời của bạn, bạn hãy đeo đuổi một mục đích khác không liên quan đến tiền bạc.",
+   "author": ""
+  },
+  {
+   "name": "Khi 2 ng đàn ông yêu nhau, họ vẫn dùng dầu ăn để nấu nướng.",
+   "author": ""
+  },
+  {
+   "name": "Việt Nam sở hữu lượng người nói tiếng Việt lớn nhất thế giới",
+   "author": ""
+  },
+  {
+   "name": "Trai đẹp bây giờ nó yêu nhau hết cả rồi",
+   "author": ""
+  },
+  {
+   "name": "Girl: Đây là lần đầu của e đó a\nBoy: Anh cũng thế\nGirl: Mà con trai bọn anh sao lần nào xong cũng hút thuốc vậy\nBoy: Quen r!",
+   "author": ""
+  },
+  {
+   "name": "Con gái được mệnh danh là sư tử\nCon trai được mệnh là bé cưng của sư tử:*",
+   "author": ""
+  },
+  {
+   "name": "Cảm giác trống trải ùa về khi đêm xuống là một hội chứng khá phổ biến. Các nhà khoa học gọi nó là: ĐÓI",
+   "author": ""
+  },
+  {
+   "name": "Thực tiễn đã chứng minh rằng: Trước khi thức dậy bạn phải...đi ngủ",
+   "author": ""
+  },
+  {
+   "name": "Luôn có người nói bạn đã thay đổi, nhưng không ai hỏi bạn đã trải qua những gì.",
+   "author": ""
+  },
+  {
+   "name": "Một số điều trong cuộc sống chỉ đơn giản là cần được trải nghiệm – chứ không phải để lý giải. Tình yêu là một điều như vậy.",
+   "author": ""
+  },
+  {
+   "name": "Muốn có hoa thơm đừng nên chọn sắc\nMuốn có bạn tốt đừng nhắc đến giàu sang",
+   "author": ""
+  },
+  {
+   "name": "Đừng là người đầu tiên cũng đừng là người cuối cùng.",
+   "author": ""
+  },
+  {
+   "name": "Hầu hết những người rớt đại học là do không đủ điểm",
+   "author": ""
+  },
+  {
+   "name": "Biến đổi tính chất của một nguyên tố hoá học còn dễ hơn thay đổi bản chất của một con người.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ tự hào khi bạn có nhiều người theo đuổi. Hãy nhớ, những thứ rẻ tiền thì luôn có nhiều người muốn mua.",
+   "author": ""
+  },
+  {
+   "name": "Không bao giờ được tiêu nhiều hơn số tiền bạn có.",
+   "author": ""
+  },
+  {
+   "name": "Ai nói tiền không mua được thời gian, hẳn người đó chưa từng ngồi quán net",
+   "author": ""
+  },
+  {
+   "name": "Phí của giời 10 đời không có",
+   "author": ""
+  },
+  {
+   "name": "Răng cứng chóng gãy, lưỡi mềm bền lâu.",
+   "author": ""
+  },
+  {
+   "name": "Thà ta phụ thiên hạ chứ không để thiên hạ phụ ta",
+   "author": ""
+  },
+  {
+   "name": "Giấy ăn ko chỉ lau miệng.",
+   "author": ""
+  },
+  {
+   "name": "Thí sinh không được mang tài liệu vào phòng thi",
+   "author": ""
+  },
+  {
+   "name": "Muốn thân ai đó, phải có lúc cùng hư hỏng với người ta.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta đang có tất cả nếu chúng ta đang có 1 vật có tên là \"tất cả\"",
+   "author": ""
+  },
+  {
+   "name": "Nếu không có gì thay đổi thì... hết hôm nay... sẽ đến ngày mai.",
+   "author": ""
+  },
+  {
+   "name": "Lớp trưởng là ô sin cao cấp nhất của lớp",
+   "author": ""
+  },
+  {
+   "name": "Giữa người với người, đừng nói đến chuyện xứng hay không xứng, phù hợp là tốt rồi.\nMột chiếc bật lửa giá 3 ngàn cũng có thể châm điếu thuốc vài triệu. Một bữa tiệc mấy chục triệu cũng không thoát khỏi gói muối 5 ngàn.",
+   "author": ""
+  },
+  {
+   "name": "Con mắt nhìn thấy tất cả nhưng không tự nhìn thấy nó. Cũng như chúng ta thấy mọi lỗi lầm của người khác mà không thấy lỗi lầm của bản thân.",
+   "author": ""
+  },
+  {
+   "name": "Hãy nói nếu bạn có những lời lẽ mạnh hơn, nếu không thì hãy im lặng",
+   "author": ""
+  },
+  {
+   "name": "Học lực là một tấm huy chương đồng, năng lực là tấm huy chương bạc, nhân duyên, các mối quan hệ xã hội của con người là huy chương vàng và tư duy đứng trên tất cả những tấm huy chương nói trên.",
+   "author": ""
+  },
+  {
+   "name": "Người ta thường nói cuộc đời ngắn ngủi nhưng nó chính là thứ ta sở hữu lâu nhất!",
+   "author": ""
+  },
+  {
+   "name": "Biết sai sửa sai nhưng không bao giờ nhận mình sai.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này không có người tốt! Chỉ có những thằng khờ không biết làm việc xấu",
+   "author": ""
+  },
+  {
+   "name": "6677028 = xấu xấu bẩn bẩn không hay tắm",
+   "author": ""
+  },
+  {
+   "name": "\"Tuổi LoL\" là con giáp thứ 13 sau tuổi hợi",
+   "author": ""
+  },
+  {
+   "name": "\"Ngủ thêm 5 phút\" sau khi vừa tắt báo thức được xem là trò chơi nguy hiểm nhất thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Tránh xa những điều xấu xa, thay vì đang bình luận về nó.",
+   "author": ""
+  },
+  {
+   "name": "Ai rồi cũng sẽ trưởng thành và cái giá của sự trưởng thành thường rất lớn.",
+   "author": ""
+  },
+  {
+   "name": "Khoa học đã chứng minh những đứa để tóc dài rất xinh (Trừ những đứa xấu)",
+   "author": ""
+  },
+  {
+   "name": "Đôi lúc cũng cần thiết dừng chân trong cuộc hành trình theo đuổi hạnh phúc, và chỉ đơn giản là cảm nhận hạnh phúc.",
+   "author": ""
+  },
+  {
+   "name": "Hãy sợ con dê húc phía trước, con ngựa đá phía sau, còn kẻ ngu thì phải đề phòng tứ phía.",
+   "author": ""
+  },
+  {
+   "name": "Thiền sư, dạo này con phát hiện mình càng ngày càng chán phụ nữ, chỉ có hứng thú với đàn ông. Xin thiền sư giúp con.\"\nThiền sư ko nói ko rằng, nhảy lên nóc nhà. Chàng trai hồ hởi đáp:\" Ý thầy là con nên nhìn cao trông rộng, ko cần câu nệ tiểu tiết?\"\nKhông, ta chỉ muốn tránh xa con chút thôi.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc bạn chưa dồn mình vào đường cùng thì bạn còn chưa biết mình bất tài đến đâu.",
+   "author": ""
+  },
+  {
+   "name": "Người ta chỉ biết trách mắng kẻ xấu nhưng họ không bao giờ nghĩ rằng: kẻ xấu từ đâu mà ra.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ dạy heo học hát, điều đó làm lãng phí thời gian của bạn và làm heo cũng bực mình!",
+   "author": ""
+  },
+  {
+   "name": "Bí quyết để sống lâu là đừng bao giờ ngừng thở.",
+   "author": ""
+  },
+  {
+   "name": "\"Họp phụ huynh\" nguyên nhân gây sứt mẻ và phá hoại hạnh phúc gia đình",
+   "author": ""
+  },
+  {
+   "name": "Đừng khi nào tham dự một bàn tiệc khi chưa biết rõ ai là kẻ trả tiền.",
+   "author": ""
+  },
+  {
+   "name": "\"Đừng buồn nha!\"... mày nói tao là đừng buồn là tao sẽ không buồn sao",
+   "author": ""
+  },
+  {
+   "name": "Đổi ngay câu \"Bạn đã hiểu chưa?\" thành câu \"Tôi nói có dễ hiểu không?\"",
+   "author": ""
+  },
+  {
+   "name": "Một cuộc hành trình thực sự được tính không phải bằng dặm, mà bằng những người bạn.",
+   "author": ""
+  },
+  {
+   "name": "Đời thì hối hả bon chen\nCon người ngày càng nhỏ nhen giả tạo",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn nghĩ bản thân mình rẻ mạt, bạn sẽ thấy tất cả mọi thứ đều đắt đỏ.",
+   "author": ""
+  },
+  {
+   "name": "Anh hứa chỉ ngủ thôi",
+   "author": ""
+  },
+  {
+   "name": "Hãy là sự kinh hoàng với những kẻ xuất chúng!",
+   "author": ""
+  },
+  {
+   "name": "Việt Nam nằm trong top 10 những nước có lực lượng quân đội mạnh nhất Đông Nam Á",
+   "author": ""
+  },
+  {
+   "name": "\"Phòng thi\" nơi học sinh chưa quen chẳng mấy chốc trở thành bằng hữu.",
+   "author": ""
+  },
+  {
+   "name": "Ở nơi rất lắm nhân tài\nKiểu gì cũng có một vài thằng ngu!",
+   "author": ""
+  },
+  {
+   "name": "Xã hội biến chất, lòng người biến mất",
+   "author": ""
+  },
+  {
+   "name": "Hút thuốc lá có hại cho sức khỏe bản thân nhưng nếu bạn ko hút thuốc, và ai cũng như bạn thì sẽ có hại cho hàng ngàn công nhân nhà máy thuốc lá.",
+   "author": ""
+  },
+  {
+   "name": "Duyên ai nấy hưởng, nghiệp ai nấy mang\nĐi khắp thế gian, không phiền không lụy.",
+   "author": ""
+  },
+  {
+   "name": "Ăn một mình đau bụng",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống giống như đi một chiếc xe đạp. Để giữ thăng bằng bạn phải liên tục tiến lên.",
+   "author": ""
+  },
+  {
+   "name": "Theo một nghiên cứu mới nhất : Đa số con trai đều là nam giới",
+   "author": ""
+  },
+  {
+   "name": "Đặc quyền cả cuộc đời bạn là được thể hiện bạn là ai.",
+   "author": ""
+  },
+  {
+   "name": "Giận dữ không tự mất đi, nó chỉ chuyển từ cơn giận của người này sang nỗi sợ hãi của người khác!!",
+   "author": ""
+  },
+  {
+   "name": "Có những việc, khi còn trẻ, dù có cố gắng thế nào cũng không thể hiểu được. Nhưng một khi đã hiểu ra rồi thì tuổi trẻ cũng đã ở lại phía sau.",
+   "author": ""
+  },
+  {
+   "name": "Những người có IQ cao thường sẽ thuận 1 trong 2 tay, bước đi bằng 2 chân, thở bằng mũi và nhìn bằng mắt",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời không như ta mong đợi là do ta còn chưa hiểu nó.",
+   "author": ""
+  },
+  {
+   "name": "Hầu hết rắc rối cuộc đời xảy ra đều là vì: Bạn nói có quá nhanh và nói không quá chậm!",
+   "author": ""
+  },
+  {
+   "name": "Chỉ những gì không thay đổi được mới là sai lầm.",
+   "author": ""
+  },
+  {
+   "name": "Chiến thắng bản thân là chiến thắng vĩ đại, nếu bạn đã rất cố gắng mà vẫn không thể chiến thắng nổi bạn thân. Chỉ có thể lý giải là vì BẢN THÂN BẠN QUÁ VĨ ĐẠI.",
+   "author": ""
+  },
+  {
+   "name": "Không phải cái gì \"có cánh\" cũng bay được",
+   "author": ""
+  },
+  {
+   "name": "Sau một thời gian anh đã suy nghĩ, anh nhận ra là anh đã suy nghĩ được một thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Người thông minh luôn làm những việc đã thành công 1 nửa.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn mặc quần áo ra đường mà bị chê xấu thì tốt nhất bạn không nên\nmặc quần áo nữa.",
+   "author": ""
+  },
+  {
+   "name": "Chữ xấu là dấu hiệu của thiên tài",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là vở kịch dài\nTa là vai chính cả hài lẫn bi",
+   "author": ""
+  },
+  {
+   "name": "Một khúc quanh trên đường, không phải là kết thúc con đường trừ khi bạn không chịu rẽ.",
+   "author": ""
+  },
+  {
+   "name": "Tôi đoán lòng người không đoán được, chưa đoán mà đã vội đổi thay.",
+   "author": ""
+  },
+  {
+   "name": "Thế giới sẽ không bị phá huỷ bởi những kẻ làm điều tàn ác, nhưng bởi những ai chứng kiến mà không làm bất cứ điều gì.",
+   "author": ""
+  },
+  {
+   "name": "Tao là ai thì khỏi nói ra mọi người cũng đã biết\nNước suối trôi ngược về nguồn thì cứ thử xét độ tinh khiết\n...\nDần trong từng bước, vần thật mướt, tao làm thơ\nBây giờ ko lẽ tao thấy tụi mày ăn cướp mà làm ngơ\n-- 1008 -- ft Acy",
+   "author": ""
+  },
+  {
+   "name": "\"Ừ\" là loại tin nhắn khiến chúng ta vắt óc và tận dụng toàn bộ chất xám của não để duy trì cuộc trò chuyện.",
+   "author": ""
+  },
+  {
+   "name": "Nụ hôn đầu đúng nghĩa là nụ hôn ĐẦU... là phải hôn lên đầu nha các bạn.",
+   "author": ""
+  },
+  {
+   "name": "Từ xa xưa con người đã biết dùng nuớc sôi để... nấu mì",
+   "author": ""
+  },
+  {
+   "name": "Áo vua là long bào, vậy não của vua sẽ gọi là long não.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống này có vay sẽ có trả\nLuật nhân quả chẳng bỏ sót một ai!",
+   "author": ""
+  },
+  {
+   "name": "Cảnh ngộ không làm giảm đi phong độ",
+   "author": ""
+  },
+  {
+   "name": "\"Đám cưới\" là 1 quá trình nhảy vọt, từ gấu tiến hóa thành sư tử.",
+   "author": ""
+  },
+  {
+   "name": "Nó hiền lắm, nó không cắn đâu",
+   "author": ""
+  },
+  {
+   "name": "Tôi không sợ những kẻ tập một lần 10.000 cú đá, tôi chỉ sợ những kẻ tập 10.000 lần một cú đá!",
+   "author": ""
+  },
+  {
+   "name": "Đáng ghét là đáng được tuyên dương nhưng bị người ta ghen rồi ghét",
+   "author": ""
+  },
+  {
+   "name": "Ở một nơi nào đó thì \"hạnh phúc\" là bất hạnh và vô phúc",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống này làm gì có màu hồng\nCó qua có lại chứ ai cho không",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn không mù, thì đừng quen biết tôi từ miệng người khác!!!",
+   "author": ""
+  },
+  {
+   "name": "Tốt nghiệp rồi chúng ta vẫn là bạn tốt của nhau nhá!",
+   "author": ""
+  },
+  {
+   "name": "Vịt là 1 loài có 2 chân, chạy nhanh hơn... rùa, bay cao hơn... chuột, tuy nhiên lại bơi kém con... cá",
+   "author": ""
+  },
+  {
+   "name": "Theo nghiên cứu của các nhà khoa học thì 1 giờ không thể có 61 phút",
+   "author": ""
+  },
+  {
+   "name": "Bị trộm trộm mất máy điều hòa thì gọi là => Mất mát",
+   "author": ""
+  },
+  {
+   "name": "\"Đã xem\" = \"Đã xem thường\" nếu sau 1 phút ko trả lời",
+   "author": ""
+  },
+  {
+   "name": "Theo nghiên cứu của NASA bão bao giờ cũng có gió.",
+   "author": ""
+  },
+  {
+   "name": "\"Ukm\" thực chất là từ viết tắt của \"Ừ kệ mày\"",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn tháo gỡ chiếc kính hồng hay đen về cuộc đời trên mắt thì có lẽ bạn đã là một người trưởng thành rồi đấy!",
+   "author": ""
+  },
+  {
+   "name": "Tôi rất là trong sáng, chỉ thỉnh thoảng gây án trong đêm.!",
+   "author": ""
+  },
+  {
+   "name": "Mối tình đầu để lâu thì là mối tình đầu lâu :v",
+   "author": ""
+  },
+  {
+   "name": "Thời trang có thể mua. Phong cách phải sở hữu.",
+   "author": ""
+  },
+  {
+   "name": "Đừng hỏi cơ hội ở đâu rồi? Cơ hội chỉ tồn tại ở những nơi có vấn đề cần giải quyết. Hãy giải quyết vấn đề của mình, các bạn sẽ có cơ hội.",
+   "author": ""
+  },
+  {
+   "name": "Không thích tôi? Tuyệt, tôi không thức dậy mỗi ngày chỉ để làm vừa lòng bạn.",
+   "author": ""
+  },
+  {
+   "name": "Bất cứ hành động nào còn hàm ý một điều kiện thì nó chưa phải là hành động yêu thương mà chỉ là sự đổi chác.",
+   "author": ""
+  },
+  {
+   "name": "Thật ra xinh đẹp không quá khó... Chỉ cần bạn biết ảo tưởng là được.",
+   "author": ""
+  },
+  {
+   "name": "Ở đâu có con người, ở đó có tiếng hát. Trên mặt đất, trần gian này tiếng hát nhắc nhở ta một điều giản dị: tôi hát là tôi hiện hữu.",
+   "author": ""
+  },
+  {
+   "name": "Phải hiểu ai cũng là con ếch. Chỉ khác nhau cái giếng mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm không phải là thứ để rút mãi",
+   "author": ""
+  },
+  {
+   "name": "\"Tùy\" là 1 từ dễ nói, khó nghe và dễ làm tổn thương người khác. Cảm giác như mình không là gì, không quan trọng và không đáng để lưu tâm.",
+   "author": ""
+  },
+  {
+   "name": "Đừng lấy bí mật của tôi để cải thiện mối quan hệ của bạn với người khác.",
+   "author": ""
+  },
+  {
+   "name": "Điếu thuốc đen thở ra làn khói trắng... nhìn cuộc đời đổi trắng thấy đen..",
+   "author": ""
+  },
+  {
+   "name": "Đơn giản có thể khó khăn hơn là phức tạp. Bạn phải nổ lực thật nhiều trong việc giữ suy nghĩ gọn gàng để đạt được tới sự đơn giản.",
+   "author": ""
+  },
+  {
+   "name": "Con người càng lúc càng đông.\nThạch Sanh thì ít, Lý thông thì nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Hãy sống như chưa từng tồn tại..",
+   "author": ""
+  },
+  {
+   "name": "Tại sao lòng bàn chân trắng hơn mặt và tay?\n...\nvì lòng bàn chân nó biết giấu mặt.",
+   "author": ""
+  },
+  {
+   "name": "Kim giây - công dụng thực sự của nó là để xem đồng hồ còn hoạt động hay không.",
+   "author": ""
+  },
+  {
+   "name": "Thang máy ko phải là 1 cái thang.",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể ngủ 25 tiếng một ngày",
+   "author": ""
+  },
+  {
+   "name": "Bản thân ta khi mới sinh ra là 1 bản gốc xin đừng chết như 1 bản sao",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn có tiền trong tay, chỉ có bạn quên mất mình là ai. Nhưng...Khi bạn không có đồng nào, cả thế giới sẽ quên đi bạn là ai. Đó là cuộc sống!",
+   "author": ""
+  },
+  {
+   "name": "Lúc đi học, thầy bảo tích phân dùng để giải tích...\nRa đi làm, ông chủ nói tích phân lại là để bón cây.",
+   "author": ""
+  },
+  {
+   "name": "Dẫu biết rằng đường đời nhiều sỏi đá\nChỉ mong rằng vấp ngã vẫn còn răng",
+   "author": ""
+  },
+  {
+   "name": "Có một ngày, bạn cảm thấy cuộc sống thật gian nan, nhưng như vậy thì thành quả gặt hái có thể sẽ rất to lớn.",
+   "author": ""
+  },
+  {
+   "name": "Chàng trai:\" Thiền sư, con hay bị mất ngủ, nên làm thế nào ạ.\"\nThiền sư chỉ tay về bức tường trắng xoá ngoài sân.\nChàng trai ngẫm nghĩ hồi lâu:\" Ý thầy là con nên vứt bỏ tạp niệm, lòng sáng như ngọc mới mong an giấc?\"\nThiền sư bực mình nói: \"Ý ta là mời cậu về cho, nửa đêm nửa hôm ko cho ai ngủ hả?\"",
+   "author": ""
+  },
+  {
+   "name": "Mỹ phẩm là sản phẩm từ Mỹ",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống không phải là một vấn đề cần được giải quyết,\nNhưng nó là thực tế cần được trải nghiệm.",
+   "author": ""
+  },
+  {
+   "name": "Đừng cho phép lưỡi bạn vượt quá ý nghĩ của bạn.",
+   "author": ""
+  },
+  {
+   "name": "\"Sổ đầu bài\" - nơi quy tụ những anh hùng hào kiệt võ lâm.",
+   "author": ""
+  },
+  {
+   "name": "Niềm vui không thể mua được, niềm vui không phải là đồ chơi, mà chính là sự trải nghiệm cuộc đời phong phú.",
+   "author": ""
+  },
+  {
+   "name": "Sai một lần thì có thể là tai nạn. Nhưng lặp đi lặp lại sai lầm đó thì chính là sự lựa chọn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi thích đi, nhưng tôi ghét phải đến.",
+   "author": ""
+  },
+  {
+   "name": "Sống là phải niềm nở nhưng ko được sơ hở",
+   "author": ""
+  },
+  {
+   "name": "Một đội quân sư tử được một con nai dẫn dắt sẽ không bao giờ là đội quân sư tử.",
+   "author": ""
+  },
+  {
+   "name": "Khi đối mặt với hai sự lựa chọn hãy tung đồng xu lên... không phải chọn sấp hay ngửa, mà là trong lúc nó rơi xuống ta mới biết bản thân đang hy vọng điều gì!",
+   "author": ""
+  },
+  {
+   "name": "Nếu không thể chung thuỷ tuyệt đối thì phải là người lừa dối triệt để.",
+   "author": ""
+  },
+  {
+   "name": "Khi có con mèo đen đi qua trước mặt bạn thì điều đó có nghĩa là nó\nđang đi đâu đó.",
+   "author": ""
+  },
+  {
+   "name": "Đã nói 5 phút ra rồi mà cứ 15 phút gọi điện một lần là sao?",
+   "author": ""
+  },
+  {
+   "name": "Thế giới đã phải chịu tổn thất rất lớn. Không phải vì sự tàn ác của những người xấu, mà là vì sự im lặng của những người tốt.",
+   "author": ""
+  },
+  {
+   "name": "Những người không biết mình đang đi trong bóng tối sẽ không bao giờ tìm thấy ánh sáng.",
+   "author": ""
+  },
+  {
+   "name": "Sư tử có thể là chúa tể sơn lâm nhưng chó sói thì không bao giờ diễn trong rạp xiếc.",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi cuộc sống cố tình đánh ngã bạn. Việc của bạn chính là đứng lên và chiến đấu như 1 chiến binh thực thụ",
+   "author": ""
+  },
+  {
+   "name": "Đỗ đại học chỉ đơn giản là chuyển địa điểm chơi game từ nhà quê lên thành phố mà thôi.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn nhìn cuộc sống này chỉ thấy toàn màu đen... Thì bạn đã tự biến mình thành người mù.",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã coi rất nhiều phim kinh dị. Nhưng nó không đáng sợ bằng lòng người.",
+   "author": ""
+  },
+  {
+   "name": "Thiếu nữ là chữ viết tắt của...thiếu nữ tính.",
+   "author": ""
+  },
+  {
+   "name": "Giao lưu và phối hợp với nhau gọi tắt là Giao hợp.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn đang thấy mình ở dưới một cái hố sâu thì điều cần làm là ngừng đào nó.",
+   "author": ""
+  },
+  {
+   "name": "Đi đêm mới biết đêm dài.\nĐi ngày mới biết ngày dài như đêm.",
+   "author": ""
+  },
+  {
+   "name": "Kết hôn là cách nhanh nhất để khôi phục lại xã hội nữ quyền.",
+   "author": ""
+  },
+  {
+   "name": "FUCK = Friend U Can Keep. Tạm dịch: hãy giữ lấy tình bạn. Cho nên hãy \"fuck\" tất cả những người bạn của bạn để cho họ thấy họ quan trọng như thế nào =))",
+   "author": ""
+  },
+  {
+   "name": "Tao thề là tao không lấy, nhưng 1 khi tao lấy thì tao sẽ không trả. - thanh niên ko lấy bút của bạn cho biết...",
+   "author": ""
+  },
+  {
+   "name": "Có 2 điều trong cuộc đời bạn không nên bỏ lỡ, đó là điều thứ nhất và điều thứ hai.",
+   "author": ""
+  },
+  {
+   "name": "Cơ bản là có 2 loại người: Người làm nên chuyện và người tuyên bố mình làm nên chuyện. Nhóm đầu tiên ít đông hơn.",
+   "author": ""
+  },
+  {
+   "name": "Thật dễ dàng để làm quen với một người xa lạ. Nhưng thật khó để quên đi một người xa lạ đã từng quen",
+   "author": ""
+  },
+  {
+   "name": "Chính nghĩa sẽ thắng ư? Đương nhiên kẻ nào thắng kẻ đó là chính nghĩa?",
+   "author": ""
+  },
+  {
+   "name": "Ngó lên mình chẳng bằng ai – Ngó xuống thì cũng chẳng ai hơn mình",
+   "author": ""
+  },
+  {
+   "name": "Một bước đi sai vạn lối tắc\nĐạp đổ nguyên tắc vạn lối đi",
+   "author": ""
+  },
+  {
+   "name": "Mày nhớ lại xem, mày làm rơi nó ở đâu???",
+   "author": ""
+  },
+  {
+   "name": "Lướt FB thêm 10 phút nữa rồi ngủ",
+   "author": ""
+  },
+  {
+   "name": "Đường về đêm vắng canh thâu\nNhìn anh tôi tưởng con trâu đang cười",
+   "author": ""
+  },
+  {
+   "name": "Nếu không làm cho mẹ chồng yêu, hãy nhanh chóng làm cho mẹ chồng sợ. Đừng cố hòa hợp vô ích.",
+   "author": ""
+  },
+  {
+   "name": "Người thông minh là người có thể che giấu đi sự thông minh của mình.",
+   "author": ""
+  },
+  {
+   "name": "Hãy cẩn trọng với những ai bạn trút bầu tâm sự, một đôi tai biết lắng nghe cũng có thể trở thành cái miệng ko biết ngậm lại",
+   "author": ""
+  },
+  {
+   "name": "Một người được ngồi dưới bóng cây mát ngày hôm nay là nhờ ai đó đã trồng cây từ rất lâu rồi",
+   "author": ""
+  },
+  {
+   "name": "Võ lâm tương truyền: Nếu bạn luôn ngâm mình trong nước, thì người bạn sẽ không bao giờ khô.",
+   "author": ""
+  },
+  {
+   "name": "Không chịu cố gắng suy nghĩ và mở rộng tầm nhìn đã khiến một số người phải vất vả làm duy nhất một việc trong suốt cuộc đời họ",
+   "author": ""
+  },
+  {
+   "name": "Không có người đàn ông lí tưởng chỉ có người đàn bà ảo tưởng",
+   "author": ""
+  },
+  {
+   "name": "Mặc dù bao nhiêu người, bao nhiêu lần cố gắng giết thời gian bao nhiêu lần đi nữa, nó vẫn sống sờ sờ và không chịu dừng lại.",
+   "author": ""
+  },
+  {
+   "name": "Quá thường xuyên … Tôi nghe người ta khoe khoang về số dặm người ta đi, hơn là những gì người ta thấy. –",
+   "author": ""
+  },
+  {
+   "name": "Nhẫn tâm là viết tắt của từ nhẫn nại và tâm lý.",
+   "author": ""
+  },
+  {
+   "name": "Bao giờ lấy chồng",
+   "author": ""
+  },
+  {
+   "name": "Đừng cầu xin cho một cuộc sống dễ dàng, Hãy cầu cho có sức mạnh để chịu đựng một cuộc sống khó khăn.",
+   "author": ""
+  },
+  {
+   "name": "Làm Tấm cũng được, làm Cám cũng được, nhưng đừng làm con cá bống chỉ há miệng chờ cho ăn.",
+   "author": ""
+  },
+  {
+   "name": "Sau khi Colombo đặt 1 chân lên Châu Mỹ thì phải bước tiếp... chân thứ 2 lên!",
+   "author": ""
+  },
+  {
+   "name": "Những bài học đắt giá nhất thường đến từ những khoảng thời gian tồi tệ nhất.",
+   "author": ""
+  },
+  {
+   "name": "Có lẽ vì \"Yêu\" bắt đầu bằng chữ \"Y\" nên cuối cùng thường chia làm 2 ngã.",
+   "author": ""
+  },
+  {
+   "name": "Cái chết không phải là chấm hết nếu chúng ta có thể sống tiếp trong con cái của chúng ta và những thế hệ sau. Bởi chúng cũng là chúng ta, thể xác của ta chỉ là những chiếc lá úa vàng trên tán cây đời.",
+   "author": ""
+  },
+  {
+   "name": "Bọn này đúng là càng lớn càng nhiều tuổi",
+   "author": ""
+  },
+  {
+   "name": "Đọc cả ngàn chương sách, cả vạn câu từ chẳng qua là để lừa người và tránh bị người lừa.",
+   "author": ""
+  },
+  {
+   "name": "Khoa học đã vất vả chứng minh rằng..MẶT TRĂNG và...MẶT TRỜI không bao giờ gặp nhau chúng chỉ gặp nhau khi thằng này đói và muốn ăn thằng kia",
+   "author": ""
+  },
+  {
+   "name": "Chỉ cuộc đời sống để phục vụ người khác là một cuộc đời đáng sống.",
+   "author": ""
+  },
+  {
+   "name": "Không sử dụng rượu, bia khi tham gia giao thông",
+   "author": ""
+  },
+  {
+   "name": "Sự thật đằng sau của những chiếc dép in \"Made in china\" đó là... chúng được sản xuất ở trung quốc.",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ sống khó lắm. Cứ kiểu sống theo cảm xúc của người khác chứ không phải cảm xúc của mình.",
+   "author": ""
+  },
+  {
+   "name": "Giá mà cuộc đời này giống như chiếc đồng hồ cát, khi ta lật ngược lại thì tất cả sẽ quay lại nơi bắt đầu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu thỉnh thoảng bạn cảm thấy mình bé nhỏ, vô dụng hay tuyệt vọng. Thì đừng bao giờ quên rằng, một ngày nọ bạn đã từng là con tinh trùng nhanh nhất.",
+   "author": ""
+  },
+  {
+   "name": "Người lớn dạy trẻ con học nói, con trẻ con dạy người lớn im lặng.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi người đều có một mục tiêu phấn đấu của riêng mình. Nhưng muốn leo lên đỉnh thì đừng chọn sống an nhàn.",
+   "author": ""
+  },
+  {
+   "name": "Nắng Ninh Thuận đốt cháy đời trai trẻ\nBụi thao trường vùi lấp tuổi thanh xuân",
+   "author": ""
+  },
+  {
+   "name": "Các nhà khoa học trên thế giới đã chứng minh thành công quan điểm: Sau khi trái đất quay được 1 vòng thì nó sẽ tiếp tục quay thêm vòng nữa",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống vốn không công bằng. Hãy tập quen dần với điều đó.",
+   "author": ""
+  },
+  {
+   "name": "Dù có là trẻ trâu nhưng biết đâu có lúc là anh hùng",
+   "author": ""
+  },
+  {
+   "name": "Nếu muốn có được niềm vui lâu dài, phải chịu đựng sự gian khổ tạm thời.",
+   "author": ""
+  },
+  {
+   "name": "Khuyết điểm của anh là có quá nhiều ưu điểm",
+   "author": ""
+  },
+  {
+   "name": "Giận dữ chỉ náu mình trong lồng ngực của những kẻ ngu xuẩn.",
+   "author": ""
+  },
+  {
+   "name": "\"Cư dân mạng\" là những người rất yếu vì hơi chút là họ lại phát sốt lên. Nhưng đôi lúc lại rất mạnh khi vài ngày lại thi nhau ném đá ngưới khác",
+   "author": ""
+  },
+  {
+   "name": "Bớt nói một chút thì đầu bớt thẹo",
+   "author": ""
+  },
+  {
+   "name": "Đừng tốt với ai quá khi chưa biết bản chất thật của họ!\nĐể không phải ngỡ ngàng khi họ rớt mặt nạ ra!",
+   "author": ""
+  },
+  {
+   "name": "Không có gì là mãi mãi. Chỉ có từ \"Mãi mãi\" mới là mãi mãi",
+   "author": ""
+  },
+  {
+   "name": "Hút thuốc lá có hại cho sức khỏe",
+   "author": ""
+  },
+  {
+   "name": "Yêu đơn phương chính là: Tôi muốn kết nối wifi của bạn, bạn lại không cho tôi biết mật khẩu.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể là anh hùng nếu bạn tên là Hùng và bạn có 1 đứa em.",
+   "author": ""
+  },
+  {
+   "name": "Những nhân cách không phải hình thành bởi cái gì họ nghe và nói, mà bằng lao động và hành động.",
+   "author": ""
+  },
+  {
+   "name": "Nôbita và Chaien... là nguồn gốc của Nô en",
+   "author": ""
+  },
+  {
+   "name": "Con người có thể mất đi nam tính, có thể mất đi nữ tính nhưng đừng đánh mất nhân tính. (Mr. 2 Bon Kurei)",
+   "author": ""
+  },
+  {
+   "name": "Góp ý đi ạ nhưng em không thích bị chê.",
+   "author": ""
+  },
+  {
+   "name": "Người ta không bao giờ xem trọng quá trình và sự vất vả, mệt mỏi của bạn đâu. Cái người ta xem trọng là kết quả và vị trí cuối cùng mà bạn đạt được thôi.",
+   "author": ""
+  },
+  {
+   "name": "Đời cho ta vẻ ngoài ngô ngố Để che giấu tâm hồn giông tố và bản chất khủng bố bên trong!",
+   "author": ""
+  },
+  {
+   "name": "Người vô hướng thì mãi không thoát khỏi ảo tưởng\nHoa vô thường rồi cũng bay theo gió vô phương",
+   "author": ""
+  },
+  {
+   "name": "-Ông bố: Tôi có 4 thằng con. Một thằng có bằng cử nhân kinh tế, một thằng có bằng thạc sĩ quản trị, một thằng tiến sĩ, thằng còn lại là thằng út chỉ tối ngày trộm cắp.\n-Khách: Sao ông không từ mặt và đuổi thằng út ra khỏi nhà đi.\n-Ông bố: Ông điên à. Nó là thằng duy nhất kiếm ra tiền. Bọn còn lại đều thất nghiệp cả -_-",
+   "author": ""
+  },
+  {
+   "name": "Kế hoạch mà diễn ra đúng dự đoán thì ko có gì bất ngờ cả. Cho dù đó là kế hoạch kinh khủng đi chăng nữa.",
+   "author": ""
+  },
+  {
+   "name": "Một người hạnh phúc luôn hài lòng với hiện tại, thay vì lo lắng cho tương lai.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đẹp trai là tài sản, thì tôi tay trắng lập nghiệp =))",
+   "author": ""
+  },
+  {
+   "name": "Rõ ràng là trên đời này chẳng có gì rõ ràng cả!",
+   "author": ""
+  },
+  {
+   "name": "Bất kể chân thành thế nào, khi gặp người hoài nghi, bạn sẽ thành kẻ nói dối.",
+   "author": ""
+  },
+  {
+   "name": "Người ta đau lòng thường không phải vì tình yêu đã kết thúc.\nMà bởi vì khi mọi thứ kết thúc rồi nhưng vẫn còn yêu.",
+   "author": ""
+  },
+  {
+   "name": "Không tin thì không dùng, đã dùng là phải tin",
+   "author": ""
+  },
+  {
+   "name": "Người thông minh biết tận dụng những tình huống có lợi, còn người anh minh thì biết tạo ra những tình huống có lợi.",
+   "author": ""
+  },
+  {
+   "name": "Điều đau khổ nhất khi bị phản bội là nó không bao giờ tới từ kẻ thù của chúng ta.",
+   "author": ""
+  },
+  {
+   "name": "Xin tự giới thiệu: tôi là tôi, ko thiếu gì chỉ thiếu nợ. cái gì cũng biết chỉ ko biết mắc cỡ.",
+   "author": ""
+  },
+  {
+   "name": "Bất luận con mèo quay đầu bao nhiêu lần, cái đuôi nó cũng vẫn ở đằng sau.\nBất luận có cố gắng đến đâu, bạn vẫn không thể làm vừa lòng hết thảy mọi người.",
+   "author": ""
+  },
+  {
+   "name": "Đừng biến trái tim bạn thành một con đường, để ai cũng có thể đi qua\nMà hãy biến nó thành một bầu trời, nơi mà tất cả mọi người đều mơ ước tới.",
+   "author": ""
+  },
+  {
+   "name": "Mình đã bảo rồi mà bạn không nghe",
+   "author": ""
+  },
+  {
+   "name": "Làm hài lòng người khác là cách nhanh nhất để đánh mất chính bản thân mình.",
+   "author": ""
+  },
+  {
+   "name": "Muốn thử một cô gái, hãy dẫn cô ta vào cửa hiệu vì lòng tham là thứ khó giấu nhất trên đời.",
+   "author": ""
+  },
+  {
+   "name": "Càng trọc đầu càng khó bị nắm tóc và vì thế, càng trở nên nguy hiểm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu đi bơi vào 1 ngày trời mưa chắc chắn bạn sẽ bị ướt",
+   "author": ""
+  },
+  {
+   "name": "- Thiền sư ơi, bạn gái con lại giận mà con chả biết cô ấy giận cái gì...\n- Con đừng lo, có tới 90% đàn ông trên thế giới không biết tại sao phụ nữ giận\n- Vậy 10% còn lại là những ai, con muốn gặp để học hỏi\n- 10% còn lại thậm chí còn không biết phụ nữ đang giận.",
+   "author": ""
+  },
+  {
+   "name": "Cái chết là phát minh tuyệt vời nhất của tạo hóa, nó là tác nhân thay đổi cuộc đời.",
+   "author": ""
+  },
+  {
+   "name": "Cũng giống như những con đường trên mặt đất; kỳ thực, trên mặt đất vốn làm gì có đường. Người ta đi mãi thì thành đường thôi.",
+   "author": ""
+  },
+  {
+   "name": "Đất mềm làm ngựa khuỵ chân, lời ngon ngọt dễ làm người té ngã.",
+   "author": ""
+  },
+  {
+   "name": "Người không thể tin tưởng thì có thể mua chuộc.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ yếu thường làm tổn thương kẻ yếu hơn mình.",
+   "author": ""
+  },
+  {
+   "name": "Khi không còn những thằng như tao! Ai sẽ cần đến mày chứ người hùng?",
+   "author": ""
+  },
+  {
+   "name": "Không có cuộc sống bất tử, chỉ có những sự nghiệp bất tử.",
+   "author": ""
+  },
+  {
+   "name": "Cấp trên bao giờ cũng đúng. Nếu cấp trên sai, cấp trên sẽ đúng vào lúc khác.",
+   "author": ""
+  },
+  {
+   "name": "Tác dụng của đồng hồ báo thức chính là nhắc mình tới lúc đổi một tư thế ngủ khác rồi",
+   "author": ""
+  },
+  {
+   "name": "\"CLASS\" thật ra có nghĩa là \"Come Late And Start Sleeping\"",
+   "author": ""
+  },
+  {
+   "name": "Vì đời ảo khiến con người điên đảo\nHay vì con người đóng quá tài, quá nhập vai",
+   "author": ""
+  },
+  {
+   "name": "\"Tự sướng\" là hình thức chụp ảnh làm sướng bản thân nếu ảnh đó được nhiều like trên facebook.",
+   "author": ""
+  },
+  {
+   "name": "Gái gú đối với bần tăng chỉ như là cơn gió thoảng qua. Nhưng mà trời nóng thế này. Bần tăng cũng cần một chút gió",
+   "author": ""
+  },
+  {
+   "name": "Một hôm nắng gió trở trời,\nHai người xa lạ bỗng rời xa nhau...",
+   "author": ""
+  },
+  {
+   "name": "Đừng kể những mơ ước nhỏ bé của mình cho bất cứ ai, vì thế nào cũng có ngày bị lôi ra giễu cợt.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ thử độ sâu của dòng sông bằng cả hai chân.",
+   "author": ""
+  },
+  {
+   "name": "Tâm lý học cho rằng, nếu bạn không thể ngủ được. Đó là bởi bạn đang thức trong 1 giấc mơ ai đó.",
+   "author": ""
+  },
+  {
+   "name": "Hà Nội không vội được đâu",
+   "author": ""
+  },
+  {
+   "name": "Bóng tối không thể xua đi bóng tối, chỉ có ánh sáng mới làm được điều ấy.\nHận thù không thể xua đuổi đi hận thù, chỉ có yêu thương mới có thể làmm được điều ấy.",
+   "author": ""
+  },
+  {
+   "name": "Truyền thuyết kể rằng phần xanh của cục gôm có khả năng tẩy được mực",
+   "author": ""
+  },
+  {
+   "name": "Hỏi về cách kiếm tiền bạn sẽ được lời khuyên, hỏi về lời khuyên bạn sẽ nhận được cách kiếm tiền.",
+   "author": ""
+  },
+  {
+   "name": "Khi được người tốt giúp đỡ bạn sẽ hiểu được bạn cần phải sống như thế nào.",
+   "author": ""
+  },
+  {
+   "name": "Tai phone: dụng cụ chống nghe chửi hiệu quả!",
+   "author": ""
+  },
+  {
+   "name": "Sống không để tồn tại, sống là để trải nghiệm.",
+   "author": ""
+  },
+  {
+   "name": "Tao đã, sống như 1 người tốt ghét tội ác\nVà chính từ đó tao biết bản chất con người là bội bạc\nNhưng cái mà nguy hiểm nhất là sự giả tao\nNhư trinh thám đến cuối câu chuyện mới hiểu vậy là sao\n-- Làm gì --",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống giống như bóng đá, chúng ta cần mục tiêu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn uống 2 ly cafe trong 1 ngày mua đông, bạn sẽ thức cho đến tận lúc đi ngủ",
+   "author": ""
+  },
+  {
+   "name": "Nắm trong tay nhiều tài nguyên đến đâu không quan trọng. Nếu bạn không biết cách sử dụng thì vĩnh viễn không bao giờ là đủ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu cứ tin vào một điều nói dối thì cuối cùng nó sẽ thành sự thật",
+   "author": ""
+  },
+  {
+   "name": "Ðừng hỏi tôi bạn là ai, hãy hỏi mẹ của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Quá để ý đến cảm nhận của người khác là không tán đồng với chính bản thân.",
+   "author": ""
+  },
+  {
+   "name": "Lúc nào người ta vô công rồi nghề thì họ sẽ làm những chuyện long trời lỡ đất.",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ đem lại niềm vui nhưng không phải lúc nào cũng vậy, còn thuốc lá thì lúc nào cũng có khói.",
+   "author": ""
+  },
+  {
+   "name": "Bình yên đến từ bên trong đừng tìm kiếm nó bên ngoài.",
+   "author": ""
+  },
+  {
+   "name": "Hoàn cảnh sống có ảnh hưởng đến việc hình thành nhân cách của chúng ta, nên hãy ý thức về điều đó.",
+   "author": ""
+  },
+  {
+   "name": "\"Thức ăn\" nghĩa là còn…thức…còn….ăn",
+   "author": ""
+  },
+  {
+   "name": "Đỉnh cao của giả tạo 10 điểm môn GDCD",
+   "author": ""
+  },
+  {
+   "name": "Tối nay sẽ có 1 hiện tượng bầu trời tối sầm lại không có một ánh sáng, nhà khoa học Mỹ NASA đã chứng minh rằng đó là màn đêm",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn nhắm mắt lại, bạn sẽ không nhìn thấy gì hết.",
+   "author": ""
+  },
+  {
+   "name": "Người ta sẽ không bao giờ hiểu ý nghĩa của những việc bạn đã làm cho họ. Cho đến khi bạn không làm những việc đó nữa.",
+   "author": ""
+  },
+  {
+   "name": "- Trong cuộc thi gần đây, người được mệnh danh là thiên tài được 300 điểm, con được 298 điểm, phải chăng con cũng đáng được gọi thiên tài?\n- Con được 298 điểm vì thực lực của con chỉ có vậy, cậu kia được 300 điểm vì bài thi tổng cộng chỉ có 300 điểm thôi.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ im lặng – người làm ngơ\nRồi tất cả cũng phai mờ như chưa bao giờ tồn tại",
+   "author": ""
+  },
+  {
+   "name": "Gương nhà tắm - thứ khiến ta bị ảo tưởng về nhan sắc của mình.",
+   "author": ""
+  },
+  {
+   "name": "Bạn hãy nhớ đừng bao giờ nhìn thẳng vào... mặt mình mà hãy nhìn qua gương.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn quyết định chỉ làm những điều mà bạn biết chắc chắn nó sẽ hoạt động trơn tru, thì bạn đang bỏ phí nhiều cơ hội khác.",
+   "author": ""
+  },
+  {
+   "name": "- Thưa thầy, thấy bạn bè gặp chuyện mà ko nói là vì sao?\n- Vì sợ mất lòng\n- Vậy thấy người dưng gặp chuyện mà ko nói là vì sao?\n- Vì sợ mất công\n- Thấy thích crush quá mà ko nói là vì sao?\n- Vì sợ mất giá",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ em không cho yêu :(",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ cảm thấy khó thở mỗi khi bạn nín thở.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là một trò đùa chơi xem đứa nào quay được nhiều vòng quanh mặt trời nhất.",
+   "author": ""
+  },
+  {
+   "name": "Tao sẽ không lấy chồng! - Câu cửa miệng của những đứa hay theo chồng bỏ cuộc chơi sớm nhất hội.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không bắt đầu thì sẽ không có kết thúc. Nhưng...nếu không có kết thúc thì... cũng sẽ không có bắt đầu",
+   "author": ""
+  },
+  {
+   "name": "Bạn thân bình thường chúng nó rất nhây, nhưng những lúc cần nghiêm túc thì vẫn... tiếp tục nhây...",
+   "author": ""
+  },
+  {
+   "name": "Yasuo gánh team 20gg",
+   "author": ""
+  },
+  {
+   "name": "Mọi vị thánh đều có một quá khứ, mọi tên quỷ dữ đều có một tương lai.",
+   "author": ""
+  },
+  {
+   "name": "Có 2 việc nên cố gắng hạn chế, làm càng ít càng tốt:\n- Dùng miệng của mình can thiệp vào cuộc sống của người khác\n- Dùng đầu của người khác để suy nghĩ về cuộc sống của mình",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời vốn bất công nên cọng lông không bao giờ thẳng.\nCuộc đời bất bình đẳng nên đừng cố vuốt thẳng cọng lông",
+   "author": ""
+  },
+  {
+   "name": "NGU có nghĩa là : Never Give Up. Nên hãy vui khi người ta chửi bạn ngu",
+   "author": ""
+  },
+  {
+   "name": "Luôn luôn tôi từ chối xem bất cứ một điều gì là đúng, chỉ vì những người am hiểu dạy bảo thế, hay cũng vì tất cả mọi người đều chấp nhận nó. Mỗi nhận thức tôi đều phải chinh phục nó. Tất cả tôi phải suy nghĩ toàn diện, từ gốc rễ, không thành kiến.",
+   "author": ""
+  },
+  {
+   "name": "\"Vân vân\" một kí hiệu để cho người khác tin rằng bạn biết nhiều hơn so với điều bạn thật sự biết.",
+   "author": ""
+  },
+  {
+   "name": "Tư duy là công việc khó nhất. Vì vậy chỉ có một vài người có một vài người có thể làm được.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời thật lắm đắn đo\nLàm sao cho được ấm no, đàng hoàng.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống là chuỗi những ngày hạnh phúc. Mà không phải ai cũng đúc kết thành.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ nào tư duy bằng cái đầu của chính mình, kẻ đó sẽ không bao giờ trở thành nô lệ",
+   "author": ""
+  },
+  {
+   "name": "Đừng vì một người, mà quên đi bao người khác\nĐừng vì một cơn sóng ác, mà ghét cả đại dương.",
+   "author": ""
+  },
+  {
+   "name": "VALENTINE: Vội vã - Ăn xong - Lên giường - Êm ái - Nhắm mắt - Trong chăn - Im lặng - Nằm ngủ - End!",
+   "author": ""
+  },
+  {
+   "name": "\"Nước suối\" thực tế là nước lọc đóng chai.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ đi nói dối. Bởi vì bạn phải nghĩ thêm một số câu nữa để biện minh đấy",
+   "author": ""
+  },
+  {
+   "name": "Đầu tư không phải là một trò chơi mà một gã với chỉ số IQ 160 thắng một gã có chỉ số IQ 130",
+   "author": ""
+  },
+  {
+   "name": "Năm 1987, có 1 bức ảnh đã chụp được 1 người đàn ông có tóc dính trên đầu.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều khi tôi cảm thấy mình lạc lõng giữa chính cuộc đời này, muốn bỏ tất cả để đi 1 nơi thật xa, nhưng có 1 điều níu chân tôi lại đó chính là gia đình - điều làm tôi cố gắng từng ngày",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ đi lừa dối người khác. Bởi vì những người mà bạn lừa được đều là những người tin tưởng bạn.",
+   "author": ""
+  },
+  {
+   "name": "Xin lỗi (động từ): Trong tiếng Việt có nghĩa là mong tha thứ hoặc an ủi. Ở một số trường hợp còn có nghĩa là khiến người nghe thêm đau đớn.",
+   "author": ""
+  },
+  {
+   "name": "Không ai biết tại sao thứ 6 lại quá gần thứ 2, còn thứ 2 lại quá xa thứ 6",
+   "author": ""
+  },
+  {
+   "name": "Con người luôn không hài lòng với những gì mình đang có.\nVà luôn hối tiếc với những gì mình đã mất.",
+   "author": ""
+  },
+  {
+   "name": "Cái gì mua được bằng tiền thì đều có hạn sử dụng",
+   "author": ""
+  },
+  {
+   "name": "Cô ơi tính tiền cho bạn cháu ;))",
+   "author": ""
+  },
+  {
+   "name": "Thà là số không hoàn toàn còn hơn là một số âm.",
+   "author": ""
+  },
+  {
+   "name": "Bạn sẽ chẳng lớn được... nếu bạn thiếu hoóc môn tiêu hóa!",
+   "author": ""
+  },
+  {
+   "name": "Nhìn gì mà nhìn 10 nghìn nửa phút.",
+   "author": ""
+  },
+  {
+   "name": "Lâu nay giờ mới mới chợt nhận ra 'Circle K' là 'OK'",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời như một cuốn sách, kẻ ngu đần thì chỉ lật qua một cách chóng vánh còn người khôn thì vừa đọc vừa trầm tư, suy ngẫm vì họ biết mình chỉ được đọc nó một lần.",
+   "author": ""
+  },
+  {
+   "name": "Muốn bước vào cuộc đời tôi? Cửa đang mở đấy. Muốn ra đi? Cửa vẫn mở. Nhưng hãy nhớ, đừng đứng ngay lỗi ra vào, cản đường người khác.",
+   "author": ""
+  },
+  {
+   "name": "Không được nói chuyện trong khi hôn.",
+   "author": ""
+  },
+  {
+   "name": "Có 1 loại người... tiền thì không có nhưng cái gì cũng mua.",
+   "author": ""
+  },
+  {
+   "name": "Là lãnh đạo là phải có tầm nhìn chứ không phải là bù nhìn",
+   "author": ""
+  },
+  {
+   "name": "Sống trong đời sống, cần có 1 tấm... bằng đại học...",
+   "author": ""
+  },
+  {
+   "name": "Bạn nói tôi không tốt. Vậy bạn đã đủ tốt để phán xét tôi chưa?",
+   "author": ""
+  },
+  {
+   "name": "Những người ghét bóng đá bởi vì họ không thể kiểm soát nó trong đôi chân của mình.",
+   "author": ""
+  },
+  {
+   "name": "Trong chu vi, điểm cuối cũng chính là điểm khởi đầu.",
+   "author": ""
+  },
+  {
+   "name": "Hoàn thành tốt hơn hoàn hảo.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ở gần một người mà bạn thấy thời gian trôi thật nhanh còn khi xa người đó bạn lại thấy thời gian trôi qua thật chậm thì bạn nên đem đồng hồ đi sửa.",
+   "author": ""
+  },
+  {
+   "name": "Bạn chỉ có thể làm một vài điều trong đời miễn là đừng làm quá nhiều điều sai.",
+   "author": ""
+  },
+  {
+   "name": "Thật thà thẳng tính thường thua thiệt\nLườn lách lươn lẹo lại lên lương",
+   "author": ""
+  },
+  {
+   "name": "Cảm ơn đời\nNếu không có sóng gió\nTa sẽ không biết được đứa nào là chó hay là người.",
+   "author": ""
+  },
+  {
+   "name": "1 người mà 90 tuổi thì chắc chắn là sống lâu hơn người 60 tuổi rồi, bạn nhỉ!",
+   "author": ""
+  },
+  {
+   "name": "Có những người mà ta không biết nói chuyện gì, nhưng cũng có những người mà ta có rất nhiều chuyện để cùng im lặng.",
+   "author": ""
+  },
+  {
+   "name": "Thời trang là một thứ xấu xa đến mức cứ mỗi nửa năm, chúng ta lại phải tìm cách thay đổi nó một lần.",
+   "author": ""
+  },
+  {
+   "name": "Pháp luật có thể trừng phạt, nhưng đạo đức mới cứu chuộc được tâm hồn.",
+   "author": ""
+  },
+  {
+   "name": "Không chuẩn bị nghĩa là bạn đã sẵn sàng cho việc thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Thành quả cuộc đời không phải là số tiền đã gom góp được mà là số người đến đám tang ta.",
+   "author": ""
+  },
+  {
+   "name": "Chúng ta có thể phàn nàn vì trong bụi hoa hồng có gai, hoặc là vui mừng vì trong bụi gai có hoa hồng.",
+   "author": ""
+  },
+  {
+   "name": "\"Facebook\" nơi người ta kết bạn với nhau nhưng lại chẳng bao giờ nói chuyện.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi bước đi là một nỗi đau... khi bạn bị đau chân",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn muốn trở thành một người luôn thành công thì cách duy nhất là bạn đừng bao giờ...thất bại",
+   "author": ""
+  },
+  {
+   "name": "Món quà lớn nhất mà bạn có thể trao cho người khác là món quà của tình yêu và sự chấp nhận vô điều kiện.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể rất lương thiện nhưng tuyệt đối không được buông lỏng cảnh giác với xã hội này, bởi vì có một số người căn bản không phải là con người.",
+   "author": ""
+  },
+  {
+   "name": "Nghiên cứu cho thấy thường xuyên đăng ảnh lên Facebook là dấu hiệu chứng tỏ bạn có... tài khoản Facebook.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn yêu đời thì bạn có thể tha thứ cho người đời rất nhiều chuyện.",
+   "author": ""
+  },
+  {
+   "name": "Mọi hành vi ngu xuẩn đều xuất phát tự sự bắt chước những người chúng ta không thể giống.",
+   "author": ""
+  },
+  {
+   "name": "Người ta không trân trọng những gì đang có, mà chỉ thích nhòm ngó những thứ khó thuộc về mình.",
+   "author": ""
+  },
+  {
+   "name": "Cấm ham vui quên nhiệm vụ... vì nhiệm vụ là cao cả...",
+   "author": ""
+  },
+  {
+   "name": "Độc thân là gì? Là toàn thân dính độc rất nguy hiểm",
+   "author": ""
+  },
+  {
+   "name": "Cuối cùng mọi thứ sẽ ổn. Nếu nó chưa ổn, thì chưa phải cuối cùng.",
+   "author": ""
+  },
+  {
+   "name": "Con người hạnh phúc dùng thanh xuân thay đổi cả cuộc đời\nCòn người bất hạnh dùng cả cuộc đời để sửa lại thanh xuân",
+   "author": ""
+  },
+  {
+   "name": "Bạn sinh ra không phải để làm hài lòng tất cả mọi người. Vậy nên đừng quá bận tâm tới những gì người khác nói về bạn, hãy là chính mình.",
+   "author": ""
+  },
+  {
+   "name": "Hiểu thế nào là cao cấp mặc dù suốt đời không có tiền mua. Nếu không cao về tài sản, hãy cao về thẩm mỹ.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không hề nghi ngờ năng lực quan sát của cô. Tôi chỉ để ý tới nghịch lý, ai lại đi hỏi danh tính một người đeo mặt nạ?",
+   "author": ""
+  },
+  {
+   "name": "Đừng cúi đầu, vương miện sẽ rơi\nChớ rơi lệ, kẻ xấu sẽ cười.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ nói về bản thân quá nhiều, bởi vì người khác đã làm việc đó sau lưng bạn.",
+   "author": ""
+  },
+  {
+   "name": "Bị người yêu phản bội, muốn nhảy lầu cho rồi Lên sân thượng mới nhớ ra mình mọc sừng chứ không phải mọc cánh!",
+   "author": ""
+  },
+  {
+   "name": "Khi đi bộ một quảng đường xa ta chợt nhân ra một điều mỏi chân",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời giống như một con đường, lại là đường cao tốc không được quay đầu lại, chỉ có thể tiến về phía trước.",
+   "author": ""
+  },
+  {
+   "name": "Cô gái: \"Thiền sư, sao chồng con lại đi ngoại tình, trong khi con hết mực yêu chiều chăm sóc anh ấy.\"\nThiền sư: \"Trước tiên con ăn cái bánh này đi.\"\nCô gái ăn xong, thiền sư hỏi: \"Ngon không?\"\n-\"Có ạ.\"\n-\"Muốn ăn nữa không?\"\n-\"Có ạ.\"\n-\"Bây giờ con hiểu lý do rồi chứ?\"\nCô gái gật gù đáp:\" Vâng ạ, lòng người tham lam, không có giới hạn.\"\nThiền sư vội lắc đầu quầy quậy:\" Không không, do con béo quá rồi đó.\"",
+   "author": ""
+  },
+  {
+   "name": "Đừng nói cho ai biết nha",
+   "author": ""
+  },
+  {
+   "name": "Tất cả đàn ông đều chung thủy... cho đến khi bị phát hiện.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống vốn dĩ cũng lóe sáng rồi chợt tắt giống như pháo hoa. Vì vậy hãy cứ sống hết mình.",
+   "author": ""
+  },
+  {
+   "name": "\"Chăn\" dụng cụ chống ma hiệu quả nhất.",
+   "author": ""
+  },
+  {
+   "name": "Ngủ thêm 5p nữa thôi rồi sẽ dậy đi học",
+   "author": ""
+  },
+  {
+   "name": "Giới hạn 1 kiếp nhân sinh quá ngắn ta phải hưởng vội vàng mới kịp",
+   "author": ""
+  },
+  {
+   "name": "Thôi để mai rồi học",
+   "author": ""
+  },
+  {
+   "name": "Cứ xây con thuyền của mình đi, chẳng thể biết mưa sẽ to đến thế nào đâu.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ nói người khác là quá đáng khi chính bản thân mình cũng ích kỉ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn đi cướp ngân hàng, bất luận là thành công hay thất bại, thì trong 10 năm tới bạn cũng không phải đi làm.",
+   "author": ""
+  },
+  {
+   "name": "\"Yolo\" thực tế thì nó được hiểu là \"You only live online\"",
+   "author": ""
+  },
+  {
+   "name": "Để tao gánh team!",
+   "author": ""
+  },
+  {
+   "name": "Kẻ ngu ngốc nào cũng có thể khiến mọi thứ trở nên to hơn, phức tạp hơn và bạo lực hơn. Chỉ với bàn tay của thiên tài và có đủ dũng khí mới có thể xoay ngược tình thế trên.",
+   "author": ""
+  },
+  {
+   "name": "Một đống tế bào bị cháy thì gọi là => Mô phỏng",
+   "author": ""
+  },
+  {
+   "name": "Ở nhà cháu nó ngoan lắm... nhưng tội cái, cháu nó lại rất ít khi ở nhà.",
+   "author": ""
+  },
+  {
+   "name": "Từ khi nào \"chó\" đã trở thành chuẩn mực của xã hội.",
+   "author": ""
+  },
+  {
+   "name": "Ai bỏ mặc mày mày phải nhớ, sau này gặp nạn nhớ phải bơ",
+   "author": ""
+  },
+  {
+   "name": "\"Batman\" - tỷ phú thích cosplay và có vấn đề với người nhập cư",
+   "author": ""
+  },
+  {
+   "name": "Nếu có người ghét bạn mà không cần lý do, hãy cho họ 1 lý do",
+   "author": ""
+  },
+  {
+   "name": "Đề kháng có thừa nhưng ko phòng ngừa được khốn nạn",
+   "author": ""
+  },
+  {
+   "name": "Không có hoàn cảnh nào tuyệt vọng, chỉ có người tuyệt vọng vì hoàn cảnh.",
+   "author": ""
+  },
+  {
+   "name": "\"Cổng trường\" nơi học sinh giải quyết mâu thuẫn.",
+   "author": ""
+  },
+  {
+   "name": "Vô duyên là viết tắt của vô tư của duyên dáng.",
+   "author": ""
+  },
+  {
+   "name": "- \"Những người tài giỏi thường khó hoà nhập đám đông phải không thầy?\"\n- \"Họ dễ hoà nhập với nhau, chỉ là con khó mà nhập bọn với họ được thôi.\"",
+   "author": ""
+  },
+  {
+   "name": "Có 2 sai lầm trong cuộc sống:\n- Một là sống cho người khác coi\n- Hai là coi người khác mà sống",
+   "author": ""
+  },
+  {
+   "name": "Khi xem truyện hay phim về Bạch tuyết mọi người đều thích và nhắc đến hoàng tử nhưng họ quên đi họ được cười nhờ ai.",
+   "author": ""
+  },
+  {
+   "name": "Con nít bị trĩ gọi là ấu trĩ",
+   "author": ""
+  },
+  {
+   "name": "Tôi không biết chiến tranh thế giới thứ 3 sẽ sử dụng vũ khí nào nhưng tôi biết rằng chiến tranh thế giới thứ 4 sẽ sử dụng gậy gộc và đá!",
+   "author": ""
+  },
+  {
+   "name": "Đừng lãng phí thời gian để giải thích: người ta chỉ nghe những gì họ muốn nghe.",
+   "author": ""
+  },
+  {
+   "name": "Làm người... không nên dùng sự thông minh của mình để lợi dụng lòng tin của người khác. Cái mà ta được, chỉ là vật chất, cái mà ta mất là nhân cách một con người.",
+   "author": ""
+  },
+  {
+   "name": "Bố thằng tèo đi nhậu thì nhớ uống ít ít thôi nhá",
+   "author": ""
+  },
+  {
+   "name": "Có một sự thật là.. Chỉ có thanh niên đa cấp mới đem lại tiền tỷ cho nhau =))",
+   "author": ""
+  },
+  {
+   "name": "Đừng nghĩ rằng cả thế giới này đã quay lưng bỏ rơi bạn. Thật ra, cả thế giới này đã bao giờ rảnh rỗi mà quan tâm tới bạn đâu!",
+   "author": ""
+  },
+  {
+   "name": "Du lịch chỉ là từ nơi mình chán sống đến nơi người khác chán sống.",
+   "author": ""
+  },
+  {
+   "name": "Có khi nào loài muỗi thống trị trái đất, nuôi con người để lấy máu.",
+   "author": ""
+  },
+  {
+   "name": "Khoa học đã chứng minh những người ly hôn đều đã kết hôn.",
+   "author": ""
+  },
+  {
+   "name": "Thứ mà con người ta đố kỵ không phải là thành tích vượt trội của những người lạ mà chính là sự thăng tiến của những người xung quanh.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có biết? Rằng số xương trong người bạn đủ để làm một... bộ xương.",
+   "author": ""
+  },
+  {
+   "name": "Thầm lặng bước vào mà lặng lẽ đi ra là bạn nợ tôi 1 lời chào lịch sự",
+   "author": ""
+  },
+  {
+   "name": "Nếu không đủ giỏi, thì đừng đi ngược đám đông. Tắc đường tầm này, đôi lúc cũng do mấy thằng ngu thích đi ngược chiều.",
+   "author": ""
+  },
+  {
+   "name": "Khi gặp chuyện ngặt nghèo, những những cái con người văn minh này chúng sẽ ăn thịt lẫn nhau. Hiểu không? Tao không phải quái vật tao chỉ đi trước thời đại thôi.",
+   "author": ""
+  },
+  {
+   "name": "Oxi là một chất cực độc hít quá nhiều sẽ dẫn đến tử vong vào một ngày nào đó.",
+   "author": ""
+  },
+  {
+   "name": "Đời không khó... chỉ có con người làm khó nhau",
+   "author": ""
+  },
+  {
+   "name": "Vũ = múa\nTrụ = cột\n=> Vũ trụ = múa cột",
+   "author": ""
+  },
+  {
+   "name": "Thà không mở miệng và để người ta nghĩ bạn là kẻ ngu ngốc còn hơn là mở miệng và xóa hết mọi sự nghi ngờ.",
+   "author": ""
+  },
+  {
+   "name": "Bạn cảm thấy đạo đức là vì bạn chưa có cơ hội làm sai.",
+   "author": ""
+  },
+  {
+   "name": "\"Đầu bút\" kẹo mút không vị nhưng rất được ưa chuộng đối với học sinh.",
+   "author": ""
+  },
+  {
+   "name": "Kinh nghiệm là cách nói khác của sai lầm và thất bại",
+   "author": ""
+  },
+  {
+   "name": "Bạn không thể buồn khi bạn ngủ.\nBạn không thể ngủ khi bạn buồn.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có hai loại người lúc nào cũng ngăn cản bạn đương đầu với thử thách: một là kiểu người hèn nhát; hai là người sợ bạn thành công hơn họ",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu cho phép những ca khúc ra đời. Nỗi đau và niềm hân hoan làm thành bào thai sinh nở ra âm nhạc. Âm nhạc như thế là tình yêu, là trong bản thân nó hàm chứa một cõi nhân sinh bề bộn những khổ đau và hoan lạc.",
+   "author": ""
+  },
+  {
+   "name": "Kết luận của một cuộc khảo sát rất nghiêm túc vừa được đưa ra đó là: \"Tất cả các vụ cháy xảy trên toàn thế giới đều có nguyên nhân từ lửa\".",
+   "author": ""
+  },
+  {
+   "name": "Đôi khi bạn không thể nhìn nhận bản thân rõ ràng cho đến lúc bạn thấy ảnh phản chiếu của mình trong mắt người khác",
+   "author": ""
+  },
+  {
+   "name": "Không có gì làm mất giá ô tô của ta bằng việc ta muốn bán nó.",
+   "author": ""
+  },
+  {
+   "name": "Sợ chết là nỗi sợ hãi phi lý nhất vì người đã chết chẳng thể nào có nguy cơ bị tai nạn được.",
+   "author": ""
+  },
+  {
+   "name": "Con rắn lột da rất nhiều lần, sau bao lần lột da thì nó vẫn là con rắn. Hãy nhớ điều đó và cẩn thận với những người đang trở lại trong cuộc sống của bạn.",
+   "author": ""
+  },
+  {
+   "name": "Con gái rất dễ khóc nhưng 1 khi họ không thể khóc được nữa tức là... họ đã nín rồi.",
+   "author": ""
+  },
+  {
+   "name": "Người thích và quý bạn thì ít thôi chứ người ghét và không quan tâm tới bạn thì nhiều lắm.",
+   "author": ""
+  },
+  {
+   "name": "Đừng sợ kẻ thông minh. Hãy sợ kẻ ngốc tưởng mình thông minh.",
+   "author": ""
+  },
+  {
+   "name": "Tất cả những tên tội phạm nguy hiểm trên thế giới đều được sinh ra bởi phụ nữ.",
+   "author": ""
+  },
+  {
+   "name": "\"Tác giả truyện tranh Conan\" - người biết nhiều thủ thuật giết người nhất trên thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Theo một nghiên cứu cho thấy: Bão gồm có: B, ã, o.",
+   "author": ""
+  },
+  {
+   "name": "Lòng người rất khó đoán, không ai biết lúc nào nó lên cơn đòi đi thăm nhà vệ sinh",
+   "author": ""
+  },
+  {
+   "name": "Kiến là loài côn trùng thông minh nhất. Vì người ta hay hỏi ý kiến.",
+   "author": ""
+  },
+  {
+   "name": "Đầu lòng hai ả tố nga\nĐứa nhất là chị đứa sau là em",
+   "author": ""
+  },
+  {
+   "name": "Giàu thì nó ghét, đói rét thì nó khinh, thông minh thì nó tìm cách tiêu diệu",
+   "author": ""
+  },
+  {
+   "name": "Nếu không vì hình thức bên ngoài, đâu dễ gì người ta thích nhau qua ánh mắt đầu tiên.",
+   "author": ""
+  },
+  {
+   "name": "Chàng trai ủ rũ: \"Con hết lòng hết dạ với mối tình đầu, cô ấy nói gì cũng nghe, muốn sao cũng chiều, kết quả cô ấy chê con nhu nhược, ko có chính kiến đòi chia tay. Đến người thứ hai, con luôn tỏ ra quyết đoán mạnh mẽ, sẵn lòng lăn xả vì nàng, ko ngờ cô ấy bảo con quá hoàn hảo, ở cạnh con ko có cảm giác an toàn.\"\nThiền sư bất giác đưa tay sờ đầu.\nChàng trai nhanh nhảu nói:\" Ý của thầy là con nên dùng đầu suy nghĩ, tuỳ từng hoàn cảnh mà xử lý khác nhau?\"\n\"Ý ta là một hoà thượng như ta thì hiểu gì về yêu đương chứ?\"",
+   "author": ""
+  },
+  {
+   "name": "Cấm trẻ em dưới 18 tuổi",
+   "author": ""
+  },
+  {
+   "name": "Cứ 10 phụ nữ chạy LEAD thì có 2 người chạy ẩu như 8 người còn lại.",
+   "author": ""
+  },
+  {
+   "name": "Trưởng thành là quá trình không ngừng phát hiện ra bản thân trong quá khứ HÓA RA BỊ NGU.",
+   "author": ""
+  },
+  {
+   "name": "Ngu mà tỏ ra nguy hiểm thì không có gì phải sợ, đáng sợ là những kẻ nguy hiểm nhưng tỏ ra ngu",
+   "author": ""
+  },
+  {
+   "name": "Thế giới là một cuốn sách. Những ai không đi du lịch, trải nghiệm thì chỉ đọc duy nhất một trang.",
+   "author": ""
+  },
+  {
+   "name": "Đừng tin vào quảng cáo. Hãy tin vào giá tiền.",
+   "author": ""
+  },
+  {
+   "name": "Chủ nhật trôi nhanh như cách nyc trở mặt.",
+   "author": ""
+  },
+  {
+   "name": "Ăn nhiều rau quả trong vòng 90 năm sẽ giúp bạn sống rất thọ",
+   "author": ""
+  },
+  {
+   "name": "Sau cơn mưa vẫn có cầu vồng.\nTrong đêm tối vẫn thấy các vì sao.",
+   "author": ""
+  },
+  {
+   "name": "Người cứu bạn khỏi cảnh sắp hết hơi chưa chắc là 1 bác sĩ, có thể là 1 tay vá xe.",
+   "author": ""
+  },
+  {
+   "name": "Cho không lấy, thấy không xin, rình rình ăn trộm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn biết rằng sẽ thất bại, hãy thất bại theo cách huy hoàng",
+   "author": ""
+  },
+  {
+   "name": "Không phải cái gì lấp lánh cũng là vàng.\nKhông phải ai nhìn đàng hoàng cũng là người tử tế.",
+   "author": ""
+  },
+  {
+   "name": "Bạn có thể không phải là kỳ thủ nhưng cũng cần tính trước các nước đi.",
+   "author": ""
+  },
+  {
+   "name": "Trí tuệ của con người không nằm ở đôi mắt, mà nằm ở khối óc và trái tim.",
+   "author": ""
+  },
+  {
+   "name": "Mỗi sáng thức dậy bạn nghĩ về ai đó. Trước khi đi ngủ lại nghĩ về ai đó. Như vậy có nghĩa tổng cộng hôm nay bạn đã nghĩ về hai người rồi.",
+   "author": ""
+  },
+  {
+   "name": "Phần lớn những người nói dối đều muốn giấu diếm sự thật",
+   "author": ""
+  },
+  {
+   "name": "Vật chất dễ vay\nÂn tình khó trả\nBạn bè dễ kiếm\nTri kỷ khó tìm",
+   "author": ""
+  },
+  {
+   "name": "Kim vàng ai nỡ uốn câu\nNgười khôn ai nỡ nói nhau nặng lời",
+   "author": ""
+  },
+  {
+   "name": "Anh rất tốt, nhưng em rất tiếc!!! Em chỉ xem anh như là anh trai :p",
+   "author": ""
+  },
+  {
+   "name": "Sống là phải để cuộc đời chạy theo mình xin chữ ký\nChứ không bao giờ đuổi theo ai xin bố thí cái gì :\">",
+   "author": ""
+  },
+  {
+   "name": "Ca khúc là đời sống thứ hai, sau cái thân thể mà cha mẹ đã sinh thành.",
+   "author": ""
+  },
+  {
+   "name": "Keo quá thì tụi nó chửi, mà tốt quá thì tụi nó nghi ngờ.",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn sống theo quan điểm của người khác, bạn sẽ chết.",
+   "author": ""
+  },
+  {
+   "name": "\"Tao đang tới\" - thực tế là tao đang lết cái thây lười biếng ra khỏi giường",
+   "author": ""
+  },
+  {
+   "name": "Đừng phí tiền ăn một món sang trọng nếu không có người nhìn.",
+   "author": ""
+  },
+  {
+   "name": "Người ta luôn cảm thương nước mắt của công chúa, mà quên rằng phù thủy cũng biết đau...",
+   "author": ""
+  },
+  {
+   "name": "Ngu vài lần.. dần dần sẽ khôn ra",
+   "author": ""
+  },
+  {
+   "name": "Ánh sáng cần bóng tối để tồn tại\nCũng như hạnh phúc lớn lên từ nỗi đau",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống, ngay cả khi có một ngàn lý do để làm cho bạn khóc, bạn vẫn phải tìm một triệu lý do để giữ nụ cười.",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng là thiên tài. Nhưng nếu anh đánh giá 1 con cá dựa trên khả năng leo cây của nó thì con cá đó sẽ sống hết cả cuộc đời mà nghĩ rằng nó rất đần độn.",
+   "author": ""
+  },
+  {
+   "name": "Bữa nào đi cafe nha! - Câu nói mấy đứa bận suốt đời",
+   "author": ""
+  },
+  {
+   "name": "Nặng tình nặng nghĩa thì nặng nợ\nVô tình, vô nghĩa thì vô tư",
+   "author": ""
+  },
+  {
+   "name": "Người ta giành tuổi xuân đi đó đi đây. Còn mình giành tuổi xuân để chinh phục chính mình.",
+   "author": ""
+  },
+  {
+   "name": "90% người VN: nghe một nữa, hiểu một phần tư, kể lại gấp đôi!",
+   "author": ""
+  },
+  {
+   "name": "Thôi tết đến con tranh thủ đi mỗi chỗ tí.",
+   "author": ""
+  },
+  {
+   "name": "Đằng sau sự vui vẻ là những giây phút lặng lẽ đến tê người",
+   "author": ""
+  },
+  {
+   "name": "Hãy mang đôi giày của tôi, và trải qua thử những thứ tôi đã từng trải. Nếu bạn vượt qua mọi thứ tốt hơn tôi, thì hãy phán xét tôi, còn không thì ngậm miệng lại.",
+   "author": ""
+  },
+  {
+   "name": "Đối với mình không có khái niệm nói dối! Nhưng khi bối rối thì ngôn từ có hơi thay đổi!",
+   "author": ""
+  },
+  {
+   "name": "Thước đo của cuộc đời không phải thời gian, mà là sự cống hiến.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng có điều gì là hoàn toàn sai, ngay cả 1 cái đồng hồ chết còn đúng hai lần trong một ngày.",
+   "author": ""
+  },
+  {
+   "name": "Đi đúng giày sẽ không đau chân,\nYêu đúng người sẽ không đau tim,\nChơi đúng bạn sẽ không đau đầu.",
+   "author": ""
+  },
+  {
+   "name": "Đừng đợi hoàn hảo mới bắt đầu.",
+   "author": ""
+  },
+  {
+   "name": "Khi bình yên người ta thường quên đi những lời thề trong giông bão.",
+   "author": ""
+  },
+  {
+   "name": "Theo như khoa học đã chứng minh rằng Trái Đất chỉ có 1 chứ không có 2",
+   "author": ""
+  },
+  {
+   "name": "Khoa học đã chứng minh rằng vào giây phút bạn vừa mới sinh ra chính là lúc bạn là người nhỏ tuổi nhất thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Người đời có thể ghét bạn bởi bạn khác biệt và không để cho mình bị giới hạn bởi sự tầm thường. Nhưng sâu thẳm trong họ, họ ước gì mình có đủ can đảm để làm điều tương tự.",
+   "author": ""
+  },
+  {
+   "name": "Nếu không ai nắm tay bạn... hãy cho tay vào túi quần và đi tiếp.",
+   "author": ""
+  },
+  {
+   "name": "Phần lớn đàn ông đều bị hấp dẫn bởi phụ nữ",
+   "author": ""
+  },
+  {
+   "name": "Một lợi ích khi nói chuyện một mình là ít nhất bạn đã biết lắng nghe 1 ai đó =))",
+   "author": ""
+  },
+  {
+   "name": "Trên đời không tồn tại tình yêu sét đánh, chả có thằng ngu nào muốn bị cháy thành than cả",
+   "author": ""
+  },
+  {
+   "name": "Cách hợp lý nhất để sống trong thế giới này là phá bỏ đi những nguyên tắc. Và tối nay, chúng ta sẽ phá vỡ luật lệ.",
+   "author": ""
+  },
+  {
+   "name": "- \"Công ty con vừa có một nhân viên mới cực kì xinh đẹp, con có nên tỏ tình với cô ấy không?\"\n- \"Dục tốc bất đạt.\"\n- \"Ý thầy là nên tìm hiểu đối phương thêm một thời gian xem có thực sự hợp nhau không ạ?\"\n- \"Ý ta là con không nghĩ rằng, biết đâu trong đám bạn bè của cô ấy còn có người xinh đẹp quyến rũ hơn sao?\"",
+   "author": ""
+  },
+  {
+   "name": "\"Facebook\" hiện đang là thứ nhắc nhở sinh nhật hiệu quả.",
+   "author": ""
+  },
+  {
+   "name": "Nhà nghỉ là một hậu trường đóng phim lớn nhất VN. Chỉ cần bộ phim nào ra là sẽ nổi tiếng.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc sống khó hơn bạn nghĩ nhưng nó không khó nếu như bạn tư duy",
+   "author": ""
+  },
+  {
+   "name": "Đừng sống quá hà khắc. Bạn không thể thoát khỏi nó mà còn mạng đâu.",
+   "author": ""
+  },
+  {
+   "name": "Người con trai hay đợi bạn ngủ trước rồi mới đi ngủ, đó là người thực sự online lâu hơn bạn.",
+   "author": ""
+  },
+  {
+   "name": "Từ bỏ không hẳn là chịu thua.\nMà là không muốn chạy đua với những thứ vô nghĩa.",
+   "author": ""
+  },
+  {
+   "name": "Sốc như cơn lốc",
+   "author": ""
+  },
+  {
+   "name": "Bóng đá không còn là môn thể thao nữa... bóng đá là một tôn giáo.",
+   "author": ""
+  },
+  {
+   "name": "Cuộc tình dù đúng dù sai, người phá thai vẫn là bác sĩ",
+   "author": ""
+  },
+  {
+   "name": "Hôn nhân như một \"Nấm mồ\"... nhưng dù sao mồ yên mả đẹp vẫn hơn phơi thây ngoài đường...:))",
+   "author": ""
+  },
+  {
+   "name": "Làm gì cũng nên dành cho mình cơ hội thất bại.",
+   "author": ""
+  },
+  {
+   "name": "Vào năm 1969, 2 người đàn ông ra khơi đánh cá đã phát hiện... ngoài biển có rất nhiều nước.",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này vốn dĩ không tồn tại chuyện \"không biết làm\". Khi mất đi mọi chỗ dựa tự khắc, chuyện gì cũng sẽ biết làm.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ta không còn phạm phải sai lầm thì có lẽ là ta đã quá già.",
+   "author": ""
+  },
+  {
+   "name": "Cùng một câu nói... Vào những thời điểm khác nhau... Sẽ tạo ra hiệu quả khác nhau!",
+   "author": ""
+  },
+  {
+   "name": "Khi bạn đọc đc dòng chữ này chắc hẳn bạn...ko bị mù",
+   "author": ""
+  },
+  {
+   "name": "Dân ta phả biết sử ta... Nếu mà không biết thì tra Google",
+   "author": ""
+  },
+  {
+   "name": "Đường vô xứ Nghệ quanh quanh.\nXe đi không khéo gãy vành như chơi.",
+   "author": ""
+  },
+  {
+   "name": "Bây giờ thì phải làm sao...\nBây giờ ta phải làm sao bây giờ...\nLàm sao để biết bây giờ...\nBây giờ ta biết bây giờ làm sao...",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng có tuổi trẻ và những câu chuyện về tuổi trẻ của riêng mình.",
+   "author": ""
+  },
+  {
+   "name": "Tất cả đều có thể, trừ những thứ không thể!!!",
+   "author": ""
+  },
+  {
+   "name": "Ở đâu cũng có anh hùng\nỞ đâu cũng có thằng khùng, thằng điên.",
+   "author": ""
+  },
+  {
+   "name": "Chẳng làm gì sai mà cũng nên tội",
+   "author": ""
+  },
+  {
+   "name": "Khi nói một lời đúng lí ngọt ngào, đến kẻ điên cũng dừng bước cảm động.",
+   "author": ""
+  },
+  {
+   "name": "Hạnh phúc không phải là một điểm đến. Mà đó là cả một chuyến đi dài.",
+   "author": ""
+  }
+ ]
+}

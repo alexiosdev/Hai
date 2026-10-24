@@ -1,0 +1,622 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Mỗi lần tôi đối mặt với đồ ăn tôi đều tự nói với bản thân: \"Ăn nữa sẽ chết!\"\nVà kết quả chứng minh: Căn bản là tôi không hề sợ chết!",
+   "author": ""
+  },
+  {
+   "name": "Đi nhậu để quên chuyện buồn. Rồi sao? Quên chìa khoá, quên điện thoại, quên ví, quên tất cả mọi thứ trừ cái chuyện buồn cần phải quên.",
+   "author": ""
+  },
+  {
+   "name": "Rượu là một chất lỏng ko màu, có mùi, có vị... Uống xong sẽ xảy ra 1 số hiện tượng hóa học như kết tủa bạo lực và bay hơi nhân cách.",
+   "author": ""
+  },
+  {
+   "name": "Nấu mì tôm, để ngâm đấy 1 tiếng. Mì nở ra đầy bát, thế là ăn no.",
+   "author": ""
+  },
+  {
+   "name": "- Món này mặn quá, chờ chốc nữa hãy ăn.\n- Tại sao?\n- Ko nghe người ta bảo mọi thứ nhạt dần theo thời gian à?",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã từng có một căn nhà ngay sát bên bờ biển nhưng nếu muốn ra biển thì cần đi qua một quán rượu. Và tôi không bao giờ đi bơi cả.",
+   "author": ""
+  },
+  {
+   "name": "Tôi cứ nghĩ không khí là miễn phí cho đến khi mở gói bim bim",
+   "author": ""
+  },
+  {
+   "name": "- Phục vụ bàn! Có con ruồi chết trong dĩa súp của tôi.\n- Thưa ông, điều đó chứng tỏ súp của chúng tôi mới nấu, còn rất nóng. Con ruồi vừa sa vào đã chết ngay.",
+   "author": ""
+  },
+  {
+   "name": "Con cóc là cậu ông trời\nNếu ai bắt được có nồi cháo ngon",
+   "author": ""
+  },
+  {
+   "name": "Dễ tính là tính cách của những người cho ăn thì ăn, không cho ăn thì ăn.",
+   "author": ""
+  },
+  {
+   "name": "Trong nhà không vợ cũng không con\nChỉ có bia lon với xì gà\nBàn ghế chông chênh đầy đồ nhậu\nCuộc đời ế vợ thật là phê!",
+   "author": ""
+  },
+  {
+   "name": "Miếng ăn là miếng tồi tàn, mất ăn 1 miếng lộn gan lên trên đầu. Ăn đi mấy đứa ơi!",
+   "author": ""
+  },
+  {
+   "name": "- Các anh nên nhớ, rượu là nguyên nhân dẫn đến sự chia ly của biết bao cặp vợ chồng...\n- Xin lỗi giáo sư. Xin giáo sư cho biết, vậy cần phải uống bao nhiêu để có thể có được sự chia ly này ạ?",
+   "author": ""
+  },
+  {
+   "name": "Để có một bữa ăn ngon, bạn hãy xem thật nhiều chương trình dạy nấu ăn trên tivi, tham khảo thật nhiều sách dạy nấu ăn, và sau đó cùng cả nhà đi ăn nhà hàng.",
+   "author": ""
+  },
+  {
+   "name": "Nếu người phụ nữ trông thanh mảnh thì hoặc là nàng ăn ít hoặc là chồng nàng uống rượu quá nhiều.",
+   "author": ""
+  },
+  {
+   "name": "Chiều dài, chiều rộng, chiều cao\nChiều mai em rảnh anh bao bún bò",
+   "author": ""
+  },
+  {
+   "name": "Với tôi tất cả là hư vô... chỉ có cá khô là ăn suốt",
+   "author": ""
+  },
+  {
+   "name": "Thịt chó mà thiếu mắm tôm\nNhư đi khách sạn chỉ ôm rồi về",
+   "author": ""
+  },
+  {
+   "name": "Đêm thu lạnh lẽo bụng đói meo.\nMột gói mì tôm bé tẻo teo.\nNấu nước, thêm hành, pha chanh ớt.\nGói mì phút chốc đã đi vèo.\nTrời khuya lưng lửng lòng chưa đã.\nThêm gói mì cua nấu tiếp theo.\nTựa gối rung đùi lim dim mộng.\nƯớc sao có được đĩa bánh bèo.",
+   "author": ""
+  },
+  {
+   "name": "Bánh mì nướng muối ớt - Muốn cùng anh chia sớt vui buồn.",
+   "author": ""
+  },
+  {
+   "name": "Rượu uống vào gan hân hoan ca hát. Thuốc lá vào phổi bát ngát hương thơm",
+   "author": ""
+  },
+  {
+   "name": "Rượu bia làm đỏ mặt và đen danh dự",
+   "author": ""
+  },
+  {
+   "name": "Nhìn vòng 2 cậu là tớ biết cậu có tâm hồn ăn uống mãnh liệt lắm. Ahihi",
+   "author": ""
+  },
+  {
+   "name": "Hãy cho tôi đôi đũa, tôi có thể ăn cả thế giới.",
+   "author": ""
+  },
+  {
+   "name": "Nếu có chuyện ko vui. Tôi uống để quên hết chuyện đó\nNếu có chuyện vui. Tôi uống để chúc mừng\nVà nếu chẳng có chuyện gì thì uống vào sẽ có chuyện.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ thù giết nhau bằng bom bằng đạn\nKhông nên giết bạn bằng uống bằng ăn",
+   "author": ""
+  },
+  {
+   "name": "Độc lập, tự do miếng nào to thì gắp",
+   "author": ""
+  },
+  {
+   "name": "Rượu phùng tri kỷ ngàn chén thiếu.\nTiếng không chung đụng vạn câu thừa.",
+   "author": ""
+  },
+  {
+   "name": "Chỉ có bia mới hiểu, bụng mênh mông nhường nào. Chỉ có bụng mới biết, bia đi đâu về đâu.",
+   "author": ""
+  },
+  {
+   "name": "Có một loại mất trí nhớ mang tính lựa chọn gọi là: Rốt cuộc thì hôm nay mình đã ăn chưa nhỉ...",
+   "author": ""
+  },
+  {
+   "name": "Một chế độ ăn công bằng là hai tay đều có thức ăn ngon.",
+   "author": ""
+  },
+  {
+   "name": "Đồ ăn chính là biểu tượng của tình yêu khi ta không tìm ra từ ngữ nào để diễn tả.",
+   "author": ""
+  },
+  {
+   "name": "Đói thì phải ăn, khát thì phải uống\nCác nhà khoa học gọi đó là ĐỊNH LUẬT BẢO TOÀN TÍNH MẠNG",
+   "author": ""
+  },
+  {
+   "name": "Bị nhà hàng buffet cho vào blacklist.",
+   "author": ""
+  },
+  {
+   "name": "Tiên học nhậu, hậu học say",
+   "author": ""
+  },
+  {
+   "name": "Tao vừa cai được rượu rồi chúng mày ạ!\nThằng nào đi nhậu ăn mừng với tao không?",
+   "author": ""
+  },
+  {
+   "name": "Rượu làm nổi lên những điều thầm kín nhất.",
+   "author": ""
+  },
+  {
+   "name": "Biết ăn là sẽ mập, nhưng dặn lòng, đằng nào cũng méo yêu ai.",
+   "author": ""
+  },
+  {
+   "name": "Cứ ăn đi cho đời nó khỏe\nRồi lúc béo tha hồ tăng cân",
+   "author": ""
+  },
+  {
+   "name": "Mới nhậu say, đi tới trước ga rồi bảo thằng xe ôm\nTui: m chở dùm t ra sân ga tau lửa đi!!!\nXe ôm : tới ga rồi mà Anh.\nTui thì thầm rút ra 100k và bảo: bữa sau đi chậm lại xíu nha :))))",
+   "author": ""
+  },
+  {
+   "name": "Lúc uống rượu gọi đâu cũng có bạn\nLúc hoạn nạn gọi bạn toàn thuê bao",
+   "author": ""
+  },
+  {
+   "name": "Ép dầu ép mỡ... ai lỡ ép ăn",
+   "author": ""
+  },
+  {
+   "name": "Cà phê - thức uống yêu thích của thế giới văn minh.",
+   "author": ""
+  },
+  {
+   "name": "- Tao đi nhậu về vợ tao toàn phải quỳ mới nói chuyện được với tao\n- Chỉ tao cách với\n- Dễ ợt, đi nhậu về mày cứ chui vào gầm giường cho tao",
+   "author": ""
+  },
+  {
+   "name": "- Thưa bác sĩ, tôi nên tập những động tác nào để gầy bớt đi được ạ?\n- Bà hãy quay đầu từ phải sang trái rồi ngược lại.\n- Tập như vậy vào lúc nào, thưa bác sĩ.\n- Lúc người ta đưa thức ăn cho bà.",
+   "author": ""
+  },
+  {
+   "name": "Học làm chi thi hoài chả đậu\nThà ở nhà ăn nhậu sướng hơn",
+   "author": ""
+  },
+  {
+   "name": "Bia độc hơn rượu vì có bia mộ chứ đâu có rượu mộ.",
+   "author": ""
+  },
+  {
+   "name": "Nhiều người hỏi tôi yêu hay ăn quan trọng hơn...?\nTôi không trả lời vì khi đó tôi đang nhai.",
+   "author": ""
+  },
+  {
+   "name": "Ngoài gia đình thì đối với chế\n- Tiền là nhất, đồ ăn là nhì... Vì k có tiền sẽ k có đồ ăn.",
+   "author": ""
+  },
+  {
+   "name": "Đói là căn bệnh nan y mà chỉ có ăn mới chữa đc.",
+   "author": ""
+  },
+  {
+   "name": "Độc lập tự do, ăn no rồi ngủ",
+   "author": ""
+  },
+  {
+   "name": "Rượu là gạo, bia là lúa, mồi là đồ ăn nên nhậu nhiều... bổ",
+   "author": ""
+  },
+  {
+   "name": "- Sao ông lại đi ăn xin?\n- Để tôi lấy tiền uống rượu.\n- Vậy sao ông lại uống rượu?\n- Để tôi có đủ dũng khí đi ăn xin.",
+   "author": ""
+  },
+  {
+   "name": "Bỗng nhiên có khát vọng mãnh liệt là giảm béo, cũng may mà mình tự chủ tốt, vừa thấy cơm cái là áp chế được ý nghĩ này xuống.",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm bia đá cũng mòn, bia chai cũng bể, chỉ còn bia... ôm.",
+   "author": ""
+  },
+  {
+   "name": "Thóc đâu mà đãi gà rừng.\nCơm đâu mà đãi người dưng bây giờ",
+   "author": ""
+  },
+  {
+   "name": "Rượu nà từ gạo mà ra\nTa đây uống rượu cũng là ăn cơm.",
+   "author": ""
+  },
+  {
+   "name": "Chim khôn chọn cành cao để đậu\nNgười khôn chọn người nhậu để chơi",
+   "author": ""
+  },
+  {
+   "name": "Đàn bà và rượu kéo đàn ông ra khỏi sự phán đoán.",
+   "author": ""
+  },
+  {
+   "name": "Yêu thương có thể lấp đầy hết tất cả chỉ trừ... bao tử. :))",
+   "author": ""
+  },
+  {
+   "name": "Quyết không yêu để tiền uống rượu\nKhắc tên em lên cổ, cánh, chân gà.",
+   "author": ""
+  },
+  {
+   "name": "Thua trời một vạn không bằng thua bạn một ly",
+   "author": ""
+  },
+  {
+   "name": "Nam vô tửu như kì vô phong\nTrúng gió đi luôn vào phòng bệnh",
+   "author": ""
+  },
+  {
+   "name": "Sáng nay thầy giáo ghé nhà\nBà già cắt tiết con gà đãi chơi\nThầy cười “Khách sáo... trời ơi”\nDứt câu thầy đớp tả tơi con gà.",
+   "author": ""
+  },
+  {
+   "name": "Người ta ăn 2 bát là no, bạn ăn no rồi vẫn ăn thêm được 2 bát nữa...",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu chỉ như hạt cát... vì đồ ăn đã lấn át tình yêu.",
+   "author": ""
+  },
+  {
+   "name": "Ở đời, nhịn không bao giờ nhục... mà nhịn là đói.",
+   "author": ""
+  },
+  {
+   "name": "Chim khôn lựa cành mà đậu\nGái khôn lựa mấy anh nhậu mà nhờ",
+   "author": ""
+  },
+  {
+   "name": "Ăn no không lo chết đói",
+   "author": ""
+  },
+  {
+   "name": "Trên đời này thứ mình cầm mà không nỡ buông nhất có lẽ chính là đôi đũa.",
+   "author": ""
+  },
+  {
+   "name": "\"Nhậu\" liều thuốc trị bách bệnh... ngay cả bệnh thất tình.",
+   "author": ""
+  },
+  {
+   "name": "Đừng bao giờ tranh cãi ở bàn ăn, bởi người không đói luôn thắng thế.",
+   "author": ""
+  },
+  {
+   "name": "Uống bia không phải giải sầu\nUống bia để biết trong đầu có ai",
+   "author": ""
+  },
+  {
+   "name": "Rượu gặp bạn hiền ngàn chén thiếu.\nChuyện người không hợp nửa câu thừa.",
+   "author": ""
+  },
+  {
+   "name": "Ngày xưa đi nhậu giải sầu.\nNgày nay đi nhậu chỉ cầu đừng say.\nNgày xưa mỗi đứa hai chai.\nNgày nay mỗi đứa lai rai hai thùng.",
+   "author": ""
+  },
+  {
+   "name": "- Chúng tôi sẽ tạm giam xe của anh vì tội uống rượu bia khi tham gia giao thông.\n- Người uống rượu ko giam người mà lại giam xe?",
+   "author": ""
+  },
+  {
+   "name": "Rượu ngon phải có bạn hiền\nXin chớ lạm dụng triền miên suốt ngày",
+   "author": ""
+  },
+  {
+   "name": "Tô canh lạnh lẽo nước trong veo\nMột lát hành khô bé tẻo teo\nNước chấm gọi là hơi gợn tí\nVài ba miếng mỡ gió bay vèo",
+   "author": ""
+  },
+  {
+   "name": "Tao đâu có ăn như heo, mà là bản năng sinh tồn tao hơi mạnh hơn người thường thôi.",
+   "author": ""
+  },
+  {
+   "name": "Uống rượu chân chính chính là uống tâm tình! Chính là uống ý cảnh! Cũng không phải đem rượu đổ vào bụng rồi hét lên là uống rượu, đấy chỉ có thể gọi là giày xéo rượu mà thôi!",
+   "author": ""
+  },
+  {
+   "name": "Chiều chiều gió thổi đầu non\nTrong lòng muốn nhậu nhưng không có tiền",
+   "author": ""
+  },
+  {
+   "name": "Các bạn học toán, học văn\nEm thì bận ngủ, bận ăn mất rồi",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời là sóng gió, thịt chó là muôn năm",
+   "author": ""
+  },
+  {
+   "name": "Tham ăn không phải là xấu Tham ăn là để thể hiện sự ủng hộ người nấu mà thôi...",
+   "author": ""
+  },
+  {
+   "name": "Còn tiền còn bạc còn huynh đệ.\nHết mồi hết rượu mất anh em.",
+   "author": ""
+  },
+  {
+   "name": "Nếu như ăn là sai... thì tôi đây không cần đúng =))",
+   "author": ""
+  },
+  {
+   "name": "Sáng ra nhìn gái tối vào hang\nThịt nướng bia lon đã sẵn sàng\nBàn đá chông chênh toàn đồ nhậu\nCuộc đời ế vợ thiệt là sang =)))",
+   "author": ""
+  },
+  {
+   "name": "Cha ông đức độ ban cho rượu.\nCon cháu thảo hiền thoả sức Say!!!",
+   "author": ""
+  },
+  {
+   "name": "Chưa ăn trông đứng trông ngồi\nĂn rồi đứng dậy như hồi chưa ăn",
+   "author": ""
+  },
+  {
+   "name": "Để sát trùng vết thương ngoài da, ta nên dùng cồn.\nĐể sát trùng vết thương tâm hồn, ta cũng dùng cồn nhưng mà dạng uống.",
+   "author": ""
+  },
+  {
+   "name": "Nước chảy đá mòn bia sài gòn không bao giờ thiếu..",
+   "author": ""
+  },
+  {
+   "name": "Ăn tranh thủ ngủ khẩn trương, học hết sức, chơi hết mình.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không ấn tượng với công nghệ cho tới khi tôi có thể tải về thức ăn.",
+   "author": ""
+  },
+  {
+   "name": "Cứ nói tui ham ăn... rồi sẽ có 1 ngày tui lăn chết cả thế giới...",
+   "author": ""
+  },
+  {
+   "name": "Thân anh như ổ bánh mì\nEm mà đói bụng, nhâm nhi cầm chừng",
+   "author": ""
+  },
+  {
+   "name": "Chiều chiều có dĩa lòng heo\nCó chai rượu gạo khó nghèo vượt qua",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu sương gió không bằng thịt chó trời mưa",
+   "author": ""
+  },
+  {
+   "name": "Nam quốc sơn hà nam đế cư\nRượu rót ra rồi để đấy ư?\nĐã nhấc lên rồi làm luôn chứ?\nLong đền dính chén thế là hư!",
+   "author": ""
+  },
+  {
+   "name": "Chủ quán rượu thích người nghiện rượu nhưng không muốn anh ta làm rể nhà mình.",
+   "author": ""
+  },
+  {
+   "name": "Thân thể ở trong chai, tâm hồn ở ngoài chai, muốn làm nên việc lớn, mỗi ngày phải vài chai.",
+   "author": ""
+  },
+  {
+   "name": "Trông tôi có vẻ đang suy nghĩ đấy, nhưng đến 90% suy nghĩ trong bộ não tôi là nên ăn gì tiếp theo.",
+   "author": ""
+  },
+  {
+   "name": "Cho chị cần một ly cà phê Ý... mà đúng ý nha.",
+   "author": ""
+  },
+  {
+   "name": "Làm trai cho đáng nên trai\nChỉ tiêu phải nhậu chục chai mỗi ngày",
+   "author": ""
+  },
+  {
+   "name": "Không bia không phải đàn ông?\nHết bia mất vợ thì là đàn chi.",
+   "author": ""
+  },
+  {
+   "name": "Nhớ vợ thương con...thèm thịt chó\nVợ thì chưa có... chó chưa nuôi",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ thà đau dạ dày vì nhậu. Còn hơn đau lòng vì đàn ông.",
+   "author": ""
+  },
+  {
+   "name": "Đi một ngày đàng…mất 10 ngàn tiền cơm",
+   "author": ""
+  },
+  {
+   "name": "Trong bàn nhậu luôn có một đứa uống nước ngọt và nó còn là... dũng sĩ diệt mồi nữa.",
+   "author": ""
+  },
+  {
+   "name": "Có công ăn vặt có ngày lên cân.",
+   "author": ""
+  },
+  {
+   "name": "Người chết đuối trong ly rượu đông hơn người chết đuối dưới sông",
+   "author": ""
+  },
+  {
+   "name": "Đi ăn nhưng tuyệt đối không ăn tôm và các món có canxi vì nó rất tốt cho sự phát triển của Sừng =))",
+   "author": ""
+  },
+  {
+   "name": "Suýt nữa 1 người vợ mất chồng, 2 đứa con mất bố và bia hơi Hải Xồm mất một vị khách.",
+   "author": ""
+  },
+  {
+   "name": "Ngồi bàn tiệc đừng ra vẻ anh hùng, vì rượu đã làm cho lắm người gục ngã.",
+   "author": ""
+  },
+  {
+   "name": "Nam quốc sơn hà nam đế cư\nNhỏ không uống rượu lớn sinh hư.",
+   "author": ""
+  },
+  {
+   "name": "Cọng hành xã hẹ củ tỏi cà chua đập vịt tự do nhậu hết.",
+   "author": ""
+  },
+  {
+   "name": "Càng ăn dạ dày càng nở ra, người thường dạ dày là bộ nhớ 16G, tôi là 16TB.",
+   "author": ""
+  },
+  {
+   "name": "Bữa sáng của tôi rất phong phú nha. Bữa thì tôi ăn gà, bữa thì ăn bò, bữa thì tôm, bữa thì lẩu thái. Nhưng chúng đều gọi chung là Gấu Đỏ :)",
+   "author": ""
+  },
+  {
+   "name": "Nước chảy bèo trôi... nước sôi thì mì tôm chín.",
+   "author": ""
+  },
+  {
+   "name": "Trong khi tụi mày rãnh rỗi cmt thì tao cùng các nhà khoa học đang tìm hiểu tại sao pizza lại có hình tròn mà lại bỏ vào hộp vuông rồi lại ăn theo hình tam giác, cuối cùng về lại thiên nhiên bằng hình trụ.",
+   "author": ""
+  },
+  {
+   "name": "Kẻ uống rượu không biết sự nguy hiểm của rượu\nNgười không uống rượu không hiểu được lợi ích của nó.",
+   "author": ""
+  },
+  {
+   "name": "Mấy đời bánh đúc có xương\nMấy đời mới nhậu sương sương đã về",
+   "author": ""
+  },
+  {
+   "name": "Cuộc đời này, chỉ ăn với giảm cân thôi đã rất mệt rồi.\nCần gì phải yêu đương cho nặng lòng cơ chứ.",
+   "author": ""
+  },
+  {
+   "name": "Ai cũng thích ăn cơm\nNhưng lại thèm ăn phở\nMột lý do muôn thuở:\nPhở nhiều nước hơn cơm.",
+   "author": ""
+  },
+  {
+   "name": "- Ê, mày ăn 2 trái táo trong tủ lạnh phải không?\n- Đúng 50%\n- Ủa! Sao lại là 50%?\n- Thì nghĩa là tao ăn 4 trái lận đó!",
+   "author": ""
+  },
+  {
+   "name": "Chưa đi chưa biết Lào Cai\nĐi rồi mới biết phải cai thuốc lào =))",
+   "author": ""
+  },
+  {
+   "name": "Ngồi bên bia rượu hàng giờ, dễ hơn đợi chờ nửa giây đèn đỏ.",
+   "author": ""
+  },
+  {
+   "name": "Uống rượu chẳng thể giải sầu\nUống rượu chỉ tổ nhức đầu mà thôi",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ cho tiền ăn học, không học được thì cố mà… ăn thôi.",
+   "author": ""
+  },
+  {
+   "name": "Ngại là hại bao tử",
+   "author": ""
+  },
+  {
+   "name": "Tình yêu quan trọng thật đấy nhưng đồ ăn mới là thứ nuôi sống con người :v",
+   "author": ""
+  },
+  {
+   "name": "Rượu kích thích lòng ham muốn nhưng làm tàn lụi hiệu năng.",
+   "author": ""
+  },
+  {
+   "name": "Ăn hột mít luộc có thể gây mất đoàn kết nội bộ và nghi ngờ lẫn nhau.",
+   "author": ""
+  },
+  {
+   "name": "Khi tôi uống cà phê, các ý tưởng xuất hiện như đi diễu hành trong quân đội.",
+   "author": ""
+  },
+  {
+   "name": "Nhà sạch thì mát, bát sạch thì hết cơm",
+   "author": ""
+  },
+  {
+   "name": "Lương Sơn Bá, Chúc Anh Đài\nĂn cơm cháy sống qua ngày.",
+   "author": ""
+  },
+  {
+   "name": "Bi kịch của đời người là đam mê đặc biệt với ẩm thực nhưng lại phải tích cực giảm cân...",
+   "author": ""
+  },
+  {
+   "name": "Người ta đi cấy lấy công.\nCòn đi ăn nhậu phải trông nhiều bề.\nLo mau hết rượu hết mồi.\nVợ kêu con réo thế thời mất vui!",
+   "author": ""
+  },
+  {
+   "name": "Dạ dày của người ta gọi là dạ dày, dạ dày mày gọi là dạ dày plus!",
+   "author": ""
+  },
+  {
+   "name": "Trăm năm kiều vẫn là kiều\nĂn xong rửa chén là điều tất nhiên",
+   "author": ""
+  },
+  {
+   "name": "Tiết kiệm là quốc sách\nĂn là quốc sạch",
+   "author": ""
+  },
+  {
+   "name": "Không ốm không đau, ăn sau rửa bát.",
+   "author": ""
+  },
+  {
+   "name": "Tự nhiên anh thấy lờ mờ\nTưởng đâu say nắng, ai ngờ say men",
+   "author": ""
+  },
+  {
+   "name": "Ngước mặt lên trời hận đời bỏ đói.",
+   "author": ""
+  },
+  {
+   "name": "Đời không uống bia đời vô nghĩa\nKiếp sống không rượu kiếp sống thừa.",
+   "author": ""
+  },
+  {
+   "name": "Đừng ăn thỏa đói, đừng nói thỏa giận",
+   "author": ""
+  },
+  {
+   "name": "Đắng cay chua ngọt đã từng\nAnh mà bỏ rượu, em đừng có mơ.",
+   "author": ""
+  },
+  {
+   "name": "Xưa kia ta ở trên trời\nBởi hay uống rượu trời đày xuống đây.\nXuống đây ta uống cho say\nXơ gan cổ chướng mới bay về trời.",
+   "author": ""
+  },
+  {
+   "name": "Mới mở quán cháo lòng làm tấm biển \"Hết lòng phục vụ quý khách\". Cả ngày, không có một người khách.",
+   "author": ""
+  },
+  {
+   "name": "Uống rượu không phải để say\nUống rượu để biết đắng cay thế nào?\nUống rượu không phải để sầu\nUống rượu để biết trong đầu nhớ ai.",
+   "author": ""
+  },
+  {
+   "name": "Say là cái điên tự nguyện",
+   "author": ""
+  },
+  {
+   "name": "1 ngày có 24 giờ, cho nên trong một két bia sẽ có 24 chai...",
+   "author": ""
+  },
+  {
+   "name": "Có một sự đói... nhẹ!",
+   "author": ""
+  },
+  {
+   "name": "Hay là mình cứ bất chấp ăn như heo",
+   "author": ""
+  }
+ ]
+}

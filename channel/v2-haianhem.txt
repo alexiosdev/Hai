@@ -1,0 +1,58 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "UPen6eK_qGs",
+   "name": "Kính Nhìn Xuyên Thấu | Hai Anh Em Phần 1181"
+  },
+  {
+   "idvideo": "IUQ4arJDaOI",
+   "name": "Chú Đạt Thành Đạt Và Món Gà Chiên Sốt Mật Ong Cay | Hai Anh Em Phần 1180"
+  },
+  {
+   "idvideo": "clE7KQmCvBc",
+   "name": "Ước Gì Được Nấy | Hai Anh Em Phần 1179"
+  },
+  {
+   "idvideo": "Gpm1WK5-xLo",
+   "name": "20/10 - Khi Đàn Ông Là Phái Yếu | Hai Anh Em Phần 1178"
+  },
+  {
+   "idvideo": "a63jEzU2JxE",
+   "name": "Cuộc Hẹn Cuối Cùng | Hai Anh Em Phần 1177"
+  },
+  {
+   "idvideo": "VCjJT27Yf58",
+   "name": "Chiếc Túi Đến Từ Cõi Âm | Hai Anh Em Phần 1176"
+  },
+  {
+   "idvideo": "FNQtzgv9V-s",
+   "name": "Kho Báu Đầu Làng | Hai Anh Em Phần 1175"
+  },
+  {
+   "idvideo": "WdK_7mtnkS8",
+   "name": "Bố Tôi | Hai Anh Em Phần 1174"
+  },
+  {
+   "idvideo": "L1qwqYYWJPc",
+   "name": "Khôn Lỏi Gặp Cao Thủ | Hai Anh Em Phần 1173"
+  },
+  {
+   "idvideo": "tcndcIQlFmE",
+   "name": "Lên Phố Gặp Bão Tố | Hai Anh Em Phần 1172"
+  },
+  {
+   "idvideo": "Ila4fkbcW2k",
+   "name": "Hồn Ma Thảo Tồ | Hai Anh Em Phần 1171"
+  },
+  {
+   "idvideo": "VO9eHH52X3I",
+   "name": "Gia Sư Cá Biệt | Hai Anh Em Phần 1170"
+  }
+ ]
+}

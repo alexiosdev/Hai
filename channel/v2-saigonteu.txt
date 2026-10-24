@@ -1,0 +1,70 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "DjN9FCJQ9jw",
+   "name": "Khởi Ít, Nghiệp Nhiều - Tùng BT | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "3nSFXSKzFyE",
+   "name": "Con Hơn Cha Nhà Lắm Lét - Nhi Võ | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "q7UPH6u0X10",
+   "name": "Tuy Hòa Mà Thắng - Đăng Hòa | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "NDrV4wQwUyc",
+   "name": "Lên Mạng Xuống Đường - Trọng Phan | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "KE50SC98cvc",
+   "name": "Lạc Đà Ở Đà Lạt - Tùng BT | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "NzJfwiYev6U",
+   "name": "Tếu Ứng Xử: Các Anh 'Tài' Thi Nhau Xem Ai Là Hoa Hậu - Tếu Ứng Tác #33"
+  },
+  {
+   "idvideo": "g9RVxypej5U",
+   "name": "Tại Sao Là Khang Hi? - Khang Hi | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "uCEG-zstcj0",
+   "name": "Tếu Taxi: Anh 'Tài' Phương Nam Đón Celeb - Tếu Ứng Tác"
+  },
+  {
+   "idvideo": "6Ldb0wcWYr0",
+   "name": "Tếu Nhìn Lại - Best Of Phương Nam | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "gi1z96ieWHs",
+   "name": "Cảm Ơn Trân Thành - Stephen Vũ | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "f8Oauncv6HI",
+   "name": "Đấu Tếu Cá Tháng Tư: 2 Thật, 1 Trật? - Tập 2"
+  },
+  {
+   "idvideo": "_BRiLYsAum8",
+   "name": "Đấu Tếu Cá Tháng Tư: 2 Thật, 1 Trật? - Tập 1"
+  },
+  {
+   "idvideo": "UiUnVnWNOxE",
+   "name": "Tếu Nhìn Lại - Best Of Trung Coffee | Hài Độc Thoại"
+  },
+  {
+   "idvideo": "uMxy6tKlEeA",
+   "name": "Tếu Lên Trình #5: Gái Miền Slay - Nhi Võ"
+  },
+  {
+   "idvideo": "6EMKpzY39tk",
+   "name": "Tếu Lên Trình #4: Người \"Hướng Ngại\" Shopping - Uy Lê"
+  }
+ ]
+}

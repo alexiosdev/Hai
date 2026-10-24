@@ -1,0 +1,202 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "idvideo": "9y_qjldeykI",
+   "name": "NGHỆ THUẬT YÊU P1 | TẬP 393 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "I6EIycEe3mc",
+   "name": "CHIẾN DỊCH RA Ở RIÊNG P2 | TẬP 392 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "A0BHw5fGQK4",
+   "name": "CHIẾN DỊCH RA Ở RIÊNG P1 | TẬP 391 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "h_pxYem-Om0",
+   "name": "HỚT TAY TRÊN P2 | TẬP 390 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "CBWKCcESHiU",
+   "name": "HỚT TAY TRÊN P1 | TẬP 389 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "VaB4p5I5E84",
+   "name": "CUỘC TÌNH CÁ ĐỘ | TẬP 388 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "GJezwty6qMg",
+   "name": "BÍ MẬT, ÁC THẬT P2 | TẬP 387 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "GDO97hKfAaY",
+   "name": "BÍ MẬT, ÁC THẬT P1 | TẬP 386 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "w-LnPHwFGfs",
+   "name": "BÀI TEST IQ | TẬP 385 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "q7FAcfxN5QU",
+   "name": "CHUYÊN GIA HÒA GIẢI P2 | TẬP 384 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "7DmPHMPAvFc",
+   "name": "CHUYÊN GIA HÒA GIẢI P1 | TẬP 383 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "qXEJya6l9KY",
+   "name": "GIAN THƯƠNG CÓ PHÚ P2 | TẬP 382 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "NTrj5r_S_Iw",
+   "name": "GIAN THƯƠNG CÓ PHÚ P1 | TẬP 381 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "MigicmmpE2w",
+   "name": "LỚP HỌC TIẾT KIỆM P2 | TẬP 380 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "twRcTlO1U6c",
+   "name": "LỚP HỌC TIẾT KIỆM P1 | TẬP 379 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "VxW4ZyIraiM",
+   "name": "KIÊNG - NGÀY ĐẦU THÁNG | TẬP 378 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "HtYJQZhUQiE",
+   "name": "CHIẾN DỊCH PR CHO ĐẠI CA P2 | TẬP 377 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "P6vUxZF7-hc",
+   "name": "CHIẾN DỊCH PR CHO ĐẠI CA P1 | TẬP 376 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "CnhWGJyF1vg",
+   "name": "LỌT SÀNG XUỐNG NIA P2 | TẬP 375 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "koMaJUkNIXU",
+   "name": "LỌT SÀNG XUỐNG NIA P1 | TẬP 374 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "JQgS3FT4Iic",
+   "name": "KỶ VẬT QUÝ THẬT | TẬP 373 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "5STtlUXu3AE",
+   "name": "GIA SƯ CỰC QUÁI P5 | TẬP 372 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "WOwdLwTrhpc",
+   "name": "GIA SƯ CỰC QUÁI P4 | TẬP 371 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "iX0hdTghC7k",
+   "name": "GIA SƯ CỰC QUÁI P3 | TẬP 370 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "yBVI8KNtNWE",
+   "name": "GIA SƯ CỰC QUÁI P2 | TẬP 369 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "jdeJBIq45MM",
+   "name": "GIA SƯ CỰC QUÁI P1 | TẬP 368 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "iQZZnze1RiU",
+   "name": "TRỔ TÀI TÁN GÁI | TẬP 367 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "NasxOgGgTgo",
+   "name": "QUYẾT ĐỊNH ĐỔI ĐỜI P2 | TẬP 366 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "U65oKVIGhzc",
+   "name": "QUYẾT ĐỊNH ĐỔI ĐỜI P1 | TẬP 365 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "SxDHSFbvV8c",
+   "name": "MÓN QUÀ VÔ GIÁ | TẬP 364 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "cdH4hpYCN5k",
+   "name": "SỰ THẬT KHÔNG NGỜ | TẬP 363 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "M343HTpVMms",
+   "name": "DẠY DỖ NHỮNG ĐỨA TRẺ P2 | TẬP 362 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "VvoCzYVowjk",
+   "name": "DẠY DỖ NHỮNG ĐỨA TRẺ P1 | TẬP 361 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "LkcOADDQOnU",
+   "name": "BỨC THƯ SẤM SÉT | TẬP 360 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "s_ppbDztx0Y",
+   "name": "BIÊN LAI KHỐNG | TẬP 359 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "2p5Ul-TId-E",
+   "name": "ĐẬP KÉT | TẬP 358 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "s7ex7C-U3MA",
+   "name": "GIA SƯ NỮ QUÁI | TẬP 357 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "HUM7c8PYaD4",
+   "name": "HẬN CÁI MÙNG 8 THÁNG 3 | TẬP 356 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "HTl9t1XZ4_M",
+   "name": "TRỐN QUÀ | TẬP 355 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "rgXeELaM4VI",
+   "name": "TRUNG TÂM CỨU HỘ | TẬP 354 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "lxovAnDgNB0",
+   "name": "HỌ HÀNG TAN VỠ | TẬP 353 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "ZrWc6e1Y5dM",
+   "name": "ÔNG BÁC TỪ TRÊN TRỜI RƠI XUỐNG | TẬP 352 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "zewCDiDfVj8",
+   "name": "NHỮNG VAI DIỄN ĐỂ ĐỜI | TẬP 351 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "77xJ_rdkgwc",
+   "name": "SHOWBIZ PHÊ TÍT | TẬP 350 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "9icXKUU_jv4",
+   "name": "GIẢI QUYẾT HÀNG TỒN | TẬP 349 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "TQJS1f_c60U",
+   "name": "COLLAGEN CHO TÂM HỒN | TẬP 348 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "0VEwmsVkrA0",
+   "name": "ĐI NHẬT - CÓ THẬT | TẬP 347 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  },
+  {
+   "idvideo": "QgfiHBQI4oo",
+   "name": "SỰ RA ĐI KHÔNG BÁO TRƯỚC | TẬP 327 | SERIES PHIM HAY CHI PU, B TRẦN, MẠNH QUÂN"
+  }
+ ]
+}

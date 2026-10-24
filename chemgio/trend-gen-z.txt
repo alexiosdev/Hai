@@ -1,0 +1,330 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Ngày đầu đi làm, sếp hỏi: “Em có câu hỏi gì không?”. Tôi hỏi: “Dạ mấy giờ được về ạ?”. Cả phòng im lặng, tuyệt đối điện ảnh.",
+   "author": ""
+  },
+  {
+   "name": "- Bài nhóm tới đâu rồi mày?\n- Đang ở giai đoạn quan trọng nhất.\n- Giai đoạn gì?\n- Đổi tên file từ “final” thành “final thật”.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không nghèo. Tôi chỉ đang trong giai đoạn “thanh lọc ví” sau 11.11.",
+   "author": ""
+  },
+  {
+   "name": "Nhờ AI viết bài luận, cuối bài nó còn dặn: “Bạn nên đọc lại trước khi nộp”. Đến AI cũng không tin tôi.",
+   "author": ""
+  },
+  {
+   "name": "Tưởng mình giỏi multitask, hóa ra chỉ là làm 5 việc cùng lúc và hoàn thành 0 việc.",
+   "author": ""
+  },
+  {
+   "name": "Hai đứa bạn thân dính nhau sít rịt, đi đâu cũng chung – chung luôn cả khoản quên mang ví.",
+   "author": ""
+  },
+  {
+   "name": "Cứ thấy dòng “Chỉ còn 1 sản phẩm” là tay tôi tự bấm mua. Ba ngày sau não mới hỏi: “Mua cái này làm gì?”.",
+   "author": ""
+  },
+  {
+   "name": "- Ai dạy mày edit video mượt vậy?\n- Tự học trên mạng.\n- Phải gọi bằng sư phụ!\n- Thôi đừng. Lần trước có đứa gọi sư phụ xong, tao phải edit miễn phí cho cả lớp.",
+   "author": ""
+  },
+  {
+   "name": "Giỏ hàng của tôi giống hệt ước mơ: thêm vào thì dễ, thanh toán thì khó.",
+   "author": ""
+  },
+  {
+   "name": "Tôi là chill guy chính hiệu: deadline dí, sếp gọi, mẹ hỏi chuyện người yêu – tôi vẫn bình tĩnh mở tủ lạnh tìm đồ ăn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không trì hoãn. Tôi chỉ đang cho deadline thêm thời gian để nó tự nhận ra mình không gấp như nó nghĩ.",
+   "author": ""
+  },
+  {
+   "name": "Gen Z thất tình: khóc 5 phút, đổi ảnh đại diện 1 lần, đăng 3 bài nhạc buồn lên story, rồi rủ hội bạn đi ăn lẩu.",
+   "author": ""
+  },
+  {
+   "name": "Họp online ai cũng tắt camera. Không ai nói ra, nhưng ai cũng biết cả phòng đang mặc áo sơ mi với quần đùi.",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ: Học online sao con tắt camera?\n- Con: Dạ camera của con đang học tập trung, không muốn bị ai làm phiền ạ.",
+   "author": ""
+  },
+  {
+   "name": "Họp lớp: đứa flex xe mới, đứa flex nhà mới, tôi flex streak học ngoại ngữ 300 ngày… và vẫn chỉ tự tin nói được “hello”.",
+   "author": ""
+  },
+  {
+   "name": "Gatekeep là khi tìm được quán cơm ngon bổ rẻ mà nhất quyết không đăng story, vì sợ mai tới hết chỗ ngồi.",
+   "author": ""
+  },
+  {
+   "name": "No cap, sáng nay tôi dậy lúc 5 giờ. Dậy tắt báo thức rồi ngủ tới 9 giờ, nhưng vẫn tính là đã dậy.",
+   "author": ""
+  },
+  {
+   "name": "“Làm đại đi” – câu nói mở đầu cho rất nhiều dự án thành công… và nhiều gấp đôi số lần phải làm lại.",
+   "author": ""
+  },
+  {
+   "name": "- Bài thuyết trình của tao sao mày?\n- Highkey đẹp, lowkey không hiểu gì.",
+   "author": ""
+  },
+  {
+   "name": "Người đáng gọi bằng sư phụ: tắt báo thức, rep sếp “Dạ em dậy rồi”, rồi ngủ tiếp mà không hề tỉnh.",
+   "author": ""
+  },
+  {
+   "name": "Tôi là nạn nhân của thuật toán: vừa buột miệng nói muốn mua tai nghe, cả buổi tối mạng xã hội chỉ cho tôi xem tai nghe.",
+   "author": ""
+  },
+  {
+   "name": "Seen không rep là chuyện bình thường. Seen xong, ba tiếng sau rep đúng một chữ “ok” – đó mới là đỉnh cao của sự lạnh lùng.",
+   "author": ""
+  },
+  {
+   "name": "Thức tới 2 giờ sáng xem video “Bí quyết ngủ sớm”. Kết quả: lý thuyết thì thuộc làu.",
+   "author": ""
+  },
+  {
+   "name": "AI làm bài hộ nhanh, chuẩn, trích dẫn đầy đủ. Chỉ có một điểm yếu: viết hay quá, thầy đọc là biết ngay không phải tôi.",
+   "author": ""
+  },
+  {
+   "name": "Deadline không làm tôi sợ. Cái làm tôi sợ là 23h58 bấm nộp bài thì wifi báo “Không có kết nối”.",
+   "author": ""
+  },
+  {
+   "name": "Thứ duy nhất trong đời tôi chạy đúng KPI là pin điện thoại: tụt đều 1% mỗi phút, không trễ ngày nào.",
+   "author": ""
+  },
+  {
+   "name": "Gen Z mua cây cảnh về để chữa lành. Một tuần sau lên mạng tìm cách chữa lành… cho cây.",
+   "author": ""
+  },
+  {
+   "name": "Tôi chăm lắm, ngày nào cũng mở file luận văn ra. Mở ra, nhìn nó một lúc, rồi đóng lại cho nó nghỉ ngơi.",
+   "author": ""
+  },
+  {
+   "name": "“Cơm nước gì chưa người đẹp?” – câu mở đầu dịu dàng nhất của chủ shop online, ngay trước khi gửi bảng giá.",
+   "author": ""
+  },
+  {
+   "name": "- Mày có tin vào tình yêu không?\n- Tao tin mã freeship hơn. Ít nhất nó còn ghi rõ ngày hết hạn.",
+   "author": ""
+  },
+  {
+   "name": "Tuổi 22 muốn đi du lịch khắp thế giới. Hiện tại đang du lịch khắp thế giới qua ảnh của người khác.",
+   "author": ""
+  },
+  {
+   "name": "Đi làm năm nhất: tháng đầu tôi định thay đổi công ty. Tháng thứ ba công ty đã thay đổi tôi – giờ tôi pha cà phê cho cả phòng rất chuẩn.",
+   "author": ""
+  },
+  {
+   "name": "Vibe thứ Hai của tôi: tâm hồn ở biển, thân xác ở phòng họp, laptop ở mức pin 3%.",
+   "author": ""
+  },
+  {
+   "name": "Thầy hỏi: “Có bạn nào có câu hỏi không?”. Cả lớp đồng loạt tắt mic – lần đoàn kết hiếm hoi nhất học kỳ.",
+   "author": ""
+  },
+  {
+   "name": "Lương chưa về, nhưng tôi đã kịp lên kế hoạch tiêu sạch nó trên ba ứng dụng mua sắm.",
+   "author": ""
+  },
+  {
+   "name": "Săn sale lúc 0h: tim đập nhanh, tay run, mạng lag. Thi đại học còn chưa hồi hộp bằng.",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ: Ngủ sớm đi con, thức khuya mụn lên đó.\n- Con: Ok mom.\n(2 giờ sáng, con vẫn đang xem video “Cách trị mụn do thức khuya”.)",
+   "author": ""
+  },
+  {
+   "name": "Flex nhẹ: cả tháng nay tôi không đặt đồ ăn lần nào. Lý do: hết tiền từ mùng 5.",
+   "author": ""
+  },
+  {
+   "name": "Làm việc từ xa nghĩa là: gần tủ lạnh, xa năng suất.",
+   "author": ""
+  },
+  {
+   "name": "Đồng hồ thông minh nhắc: “Đã đến lúc đứng dậy vận động”. Tôi đứng dậy thật – đi lấy bịch snack.",
+   "author": ""
+  },
+  {
+   "name": "Hỏi AI “làm sao để bớt lười”, nó trả lời 10 bước rất chi tiết. Tôi lười đọc tới bước 2.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ gửi link bài báo “Người trẻ cần biết tiết kiệm”. Tôi rep “Ok mom” bằng chiếc điện thoại mới… trả góp 12 tháng.",
+   "author": ""
+  },
+  {
+   "name": "Ảnh món tự nấu đăng lên đẹp như nhà hàng 5 sao, đủ wow rồi đó. Đừng ai hỏi vị, hỏi vị là toang.",
+   "author": ""
+  },
+  {
+   "name": "Thanh xuân của tôi là những buổi tối nhìn thanh tải bài giảng online đứng im ở 99%.",
+   "author": ""
+  },
+  {
+   "name": "Đặt báo thức 6h, 6h05, 6h10, 6h15. Không phải tôi lười, tôi chỉ tôn trọng tiến trình thức dậy.",
+   "author": ""
+  },
+  {
+   "name": "- Sếp: Tối nay em tăng ca được không?\n- Em: Dạ được ạ. Nhưng KPI tháng này của em là “sống sót tới thứ Sáu”, sếp duyệt giúp em nhé.",
+   "author": ""
+  },
+  {
+   "name": "Định lướt mạng 5 phút cho thư giãn. Ngẩng lên đã 2 tiếng, và tôi biết cách nấu món ăn của một nước mà tôi không đọc nổi tên.",
+   "author": ""
+  },
+  {
+   "name": "Streak nhắn tin với bạn thân 500 ngày. Gặp nhau ngoài đời, 5 phút đã hết chuyện, phải mở điện thoại nhắn tiếp cho đỡ ngại.",
+   "author": ""
+  },
+  {
+   "name": "- Mẹ: Sao dạo này con hay nói “toang” vậy?\n- Con: Là hỏng hết rồi đó mẹ.\n- Mẹ: À, vậy bảng điểm học kỳ này của con là toang hả?\n- Con: … Mẹ học nhanh quá.",
+   "author": ""
+  },
+  {
+   "name": "Ngôn ngữ nhắn tin Gen Z: “ok” là bình thường, “okk” là vui, “ok.” là đang giận, còn “Ok bạn” là chuẩn bị xa nhau.",
+   "author": ""
+  },
+  {
+   "name": "Mục tiêu hôm nay: không mở app mua sắm. Trạng thái: thất bại lúc 7h15, khi đang đánh răng.",
+   "author": ""
+  },
+  {
+   "name": "Hỏi AI cách bắt chuyện với crush, AI hướng dẫn cực chi tiết. Tôi làm theo y chang, crush khen: “Cậu nói chuyện giống AI ghê.”",
+   "author": ""
+  },
+  {
+   "name": "- Lương tháng đầu mày tiêu sao?\n- Chia 4 phần: ăn uống, trả nợ, tiết kiệm, đầu tư.\n- Ghê vậy!\n- Ừ, kế hoạch thì ghê. Thực tế phần ăn uống đã ăn luôn ba phần kia.",
+   "author": ""
+  },
+  {
+   "name": "Bài tập nhóm 5 người: 1 người làm, 1 người hỏi “cần giúp gì không?”, 3 người còn lại xuất hiện đúng lúc chụp ảnh nộp bài.",
+   "author": ""
+  },
+  {
+   "name": "- Đồng nghiệp: Em có green flag nào không?\n- Em: Có ạ. Sếp nhắn sau giờ làm, em vẫn trả lời ngay: “Dạ mai em xem ạ”.",
+   "author": ""
+  },
+  {
+   "name": "Nhóm chat lớp báo 99+ tin nhắn. Mở ra: 97 cái sticker, 1 câu “Mai nộp bài hả?” và 1 câu “Ủa có bài hả?”.",
+   "author": ""
+  },
+  {
+   "name": "Đăng ảnh 10 phút chưa ai thả tim, tôi bắt đầu nghi ngờ thuật toán, nghi ngờ wifi, rồi nghi ngờ luôn tình bạn.",
+   "author": ""
+  },
+  {
+   "name": "Tôi là nạn nhân của câu “săn sale cho tiết kiệm”: tiết kiệm được 200 nghìn, tiêu thêm 2 triệu cho đồ không cần.",
+   "author": ""
+  },
+  {
+   "name": "Thả “haha” vào tin nhắn sếp không phải vì buồn cười, mà vì đó là cảm xúc an toàn nhất.",
+   "author": ""
+  },
+  {
+   "name": "- Cô: Bài văn này hay quá, em tự viết à?\n- Em: Dạ, em tự… gõ câu lệnh ạ.",
+   "author": ""
+  },
+  {
+   "name": "Gom đơn đồ ăn với đồng nghiệp để tiết kiệm phí ship. Chưa tiết kiệm được đồng nào, nhưng biết rõ ai hay “quên” trả tiền.",
+   "author": ""
+  },
+  {
+   "name": "Đeo tai nghe mà không bật nhạc là cách gatekeep sự yên tĩnh hiệu quả nhất văn phòng.",
+   "author": ""
+  },
+  {
+   "name": "Story 24h: ảnh nghỉ dưỡng bên biển xanh. Sự thật: hồ bơi chung cư, chỉnh màu hơi tay một chút. Đủ wow rồi đó.",
+   "author": ""
+  },
+  {
+   "name": "Bạn tôi theo lối sống tối giản: phòng chỉ có một cái giường… và 47 hộp hàng online chưa bóc.",
+   "author": ""
+  },
+  {
+   "name": "- Đi cà phê không?\n- Ví tao đang ét o ét.\n- Tao bao.\n- Mười phút nữa có mặt, slay từ đầu đến chân.",
+   "author": ""
+  },
+  {
+   "name": "Tôi có trách nhiệm lắm: việc gì giao cho tôi, tôi cũng lo lắng về nó suốt đêm. Còn làm thì để sáng mai.",
+   "author": ""
+  },
+  {
+   "name": "Tiết kiệm kiểu Gen Z: bỏ trà sữa size L, chuyển sang mua hai ly size M.",
+   "author": ""
+  },
+  {
+   "name": "Mẹ tôi mới dùng mạng xã hội được một tuần, đã có nhiều bạn bè hơn tôi dùng mười năm.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không cần người yêu. Tôi cần người nhắc uống nước, ăn đúng giờ, nộp bài trước 23h59. À khoan, cái đó là app nhắc việc.",
+   "author": ""
+  },
+  {
+   "name": "Lowkey tôi muốn giàu, highkey tôi muốn ngủ tới trưa. Hai mong muốn này đánh nhau mỗi sáng, và lần nào cái thứ hai cũng thắng.",
+   "author": ""
+  },
+  {
+   "name": "Red flag lớn nhất của tôi: nhắn “5 phút nữa tới” trong khi tóc còn đang gội dở.",
+   "author": ""
+  },
+  {
+   "name": "Tin nhắn 2 giờ sáng của bạn thân: “Ngủ chưa?”. Dịch ra: “Tao có drama mới, nghe không?”.",
+   "author": ""
+  },
+  {
+   "name": "Định nghĩa toang: 7h59 mở file thuyết trình, phát hiện slide nào cũng ghi “Nhấp để thêm tiêu đề”.",
+   "author": ""
+  },
+  {
+   "name": "- Bà: Cháu hay nói “sus”, nghĩa là gì?\n- Cháu: Là đáng nghi đó bà.\n- Bà: À, vậy cái vụ cháu bảo đi thư viện mà xịt nước hoa thơm cả xóm là sus đó hả?",
+   "author": ""
+  },
+  {
+   "name": "- Sếp: KPI tháng này em đạt bao nhiêu?\n- Em: Dạ 100% ạ.\n- Sếp: Giỏi quá!\n- Em: 100% số buổi họp vào đúng giờ ạ.",
+   "author": ""
+  },
+  {
+   "name": "Đặt đồ ăn xong, app báo 30 phút. Tôi đi tắm đúng 5 phút, ra đã thấy 4 cuộc gọi nhỡ và tin nhắn: “Anh để đồ ở cổng nha em”. Shipper còn nhanh hơn tốc độ tôi gội đầu.",
+   "author": ""
+  },
+  {
+   "name": "Tôi không hướng nội cũng không hướng ngoại. Tôi hướng wifi: chỗ nào sóng mạnh, tôi ngồi đó.",
+   "author": ""
+  },
+  {
+   "name": "Bạn tôi vừa đi học vừa chạy xe công nghệ. Hỏi học ngành gì, nó bảo: “Ngành bản đồ thành phố, tao thuộc từng con hẻm rồi.”",
+   "author": ""
+  },
+  {
+   "name": "Gen Z không cãi bố mẹ. Gen Z chỉ “đã xem”, rồi lặng lẽ đi rửa bát.",
+   "author": ""
+  },
+  {
+   "name": "Lương về như story 24h: xem xong là biến mất.",
+   "author": ""
+  }
+ ]
+}

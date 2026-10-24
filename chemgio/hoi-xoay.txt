@@ -1,0 +1,1506 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Bệnh nhân và bác sĩ trao đổi với nhau:\n- Tôi thường căng thẳng và sợ hãi vào những kỳ thi lấy bằng lái xe.\n- Không sao đâu, cuối cùng rồi ông cũng thi đậu thôi mà.\n- Không, tôi là giám khảo.",
+   "author": ""
+  },
+  {
+   "name": "Bác sĩ: Anh đau ở đâu, lấy tay chỉ cho tôi xem!\nBệnh nhân: Tôi đau ở đây, đây, chỗ này, chỗ này, này, chỉ ở đâu cũng đau hết...\nBác sĩ: Như vậy thì đúng anh đau ở ngón tay rồi!",
+   "author": ""
+  },
+  {
+   "name": "- Tui ước mơ sẽ trở thành phi hành gia và bay đến mặt trời.\n- Mặt trời nóng thế sao bay tới được.\n- Tui có trí thông minh vô hạn mà tui đã nghĩ ra một cách mà chỉ có người thông minh như tui mới nghĩ ra đó là: tui sẽ bay đến mặt trời vào ban đêm.\n- Hạn hán lời",
+   "author": ""
+  },
+  {
+   "name": "- Anh đã phạm tội tày trời làm sao chúng tôi tha được? Nhưng có thể chấp thuận cho anh được quyền chọn lựa cách chết.\n- Xin đội ơn ngài. Xin cho tôi được chết... già!",
+   "author": ""
+  },
+  {
+   "name": "Tôi đã phẫu thuật laser mắt tháng trước nhưng đến bây giờ mắt tôi vẫn không thể bắn laser được là vì sao? Tôi có nên đòi tiền bồi thường không nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Sau này em muốn làm nghề gì\n- Em muốn làm cái nghề mà có thể đưa mọi người đi tất cả mọi miền đất nước\n- Vậy là em muốn làm hướng dẫn viên du lịch\n- Dạ không, cái nghề của em cao sang hơn nhiều... em làm xe ôm",
+   "author": ""
+  },
+  {
+   "name": "- Hồ sơ có viết cậu tính nhẩm rất nhanh, vậy tôi đố cậu 37 nhân 92 bằng bao nhiêu?\n- 350\n- Sai rồi.\n- Nhưng trả lời rất nhanh phải không ạ?",
+   "author": ""
+  },
+  {
+   "name": "- Đàn ông quyến rũ nhất khi nào?\n- Nhiều tiền và sắp chết",
+   "author": ""
+  },
+  {
+   "name": "Iphone sắp ra mắt phiên bản mới rồi. Mọi người cho mình hỏi nếu muốn đặt hàng trước thì lấy tiền đâu để đặt ạ?",
+   "author": ""
+  },
+  {
+   "name": "Nha sĩ nổi quạu nói với khách hàng:\n- Tại sao lần trước ông trả cho tôi những 2 tờ tiền giả?\n- Thì cũng huề thôi, ông nghĩ răng của ông là thật à?",
+   "author": ""
+  },
+  {
+   "name": "- Trường hợp của anh rất phức tạp...\n- Sao vậy bác sĩ, có gì lo ngại không?\n- Bệnh của anh nằm ở chương mà tôi đã nghỉ khi đi học",
+   "author": ""
+  },
+  {
+   "name": "Mọi người ai có biết chỗ nào bắn pháo bông sớm không? Mẹ mình bắt 10h phải về.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao con sâu răng không tiến hóa thành con bướm?",
+   "author": ""
+  },
+  {
+   "name": "- Thưa bác sĩ, dạo này tôi hay bị lú lẫn, nói trước quên sau!\n- Thế thì xin cụ trả tiền trước cho tôi.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mình đi xem End game, nghe thấy 2 bạn nữ ngồi sau nói chuyện:\n- Aquaman đâu mày?\n- Tập trước Thanos búng tay biến mất rồi :)))",
+   "author": ""
+  },
+  {
+   "name": "- Vì sao chim thường bay về phương Nam tránh rét?\n- Vì nó không đi bộ được",
+   "author": ""
+  },
+  {
+   "name": "Bệnh nhân than phiền với bác sĩ:\n- Tôi ngủ không ngon giấc, suốt đêm cứ mơ thấy một đàn chuột chơi bóng đá ầm ĩ.\n- Tối nay, ông uống hai viên thuốc này, sẽ khỏi thôi!\n- Để tối mai uống được không ạ?\n- Sao vậy?\n- Vì tối nay là trận chung kết của bọn chúng.",
+   "author": ""
+  },
+  {
+   "name": "- Em đói chết mất.\n- Thế ngồi yên đừng cử động, ko tiêu hao thể lực đấy.",
+   "author": ""
+  },
+  {
+   "name": "Nếu mỗi năm có 200 nghìn người chết do đuối nước và năm nay đã có đủ 200 nghìn người chết đuối thì đó có nghĩa là tôi có thể thở dưới nước không?",
+   "author": ""
+  },
+  {
+   "name": "Sinh nhật của con chim, thì được tính ngày quả trứng được sinh ra hay tính ngày trứng nở?",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi, thật khủng khiếp. Một chiếc xe ferrari đã đâm thẳng vào xe của em, rồi nó bị bẹp rúm ró!\n- Ôi! Không sao, em còn lành lặn là tốt. Thế em có kịp dạy cho hắn một bài học về tốc độ không?\n- Không kịp... Hắn để xe ở đấy và chuồn đi từ trước khi xe đâm nhau cơ.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người cho em hỏi nghiêm túc là vợ em năm đầu làm dâu nhưng Tết nhất chơi môn nào cũng thắng, luộc hết nguyên dòng họ thì có ảnh hưởng tới hạnh phúc gia đình không ạ?",
+   "author": ""
+  },
+  {
+   "name": "Em đang mang thai và phát hiện chồng em ngoại tình với một người đàn bà khác. Mọi người cho em hỏi đứa con trong bụng em là của em hay là của người đàn bà đó.",
+   "author": ""
+  },
+  {
+   "name": "- Chào em. Em có biết mình đã vi phạm gì không?\n- Dạ thưa. Em vượt đèn đỏ ạ.\n- Vậy sao thấy đèn đỏ mà không dừng?\n- Dạ. Tại em không thấy anh.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người tư vấn cho em với, em đang muốn đi Thái chơi nhưng đang phân vân không biết nên đi Thái Bình hay là Thái Nguyên?",
+   "author": ""
+  },
+  {
+   "name": "Phòng trọ nhà mình có vong. Làm sao để bắt nó cưa đôi tiền phòng với mình hả mọi người? Dịch dủng khó khăn quá.",
+   "author": ""
+  },
+  {
+   "name": "- Cậu lùn thật đó!\n- Mắt chó luôn nhìn thấy mọi thứ thấp hơn, cho cậu một cơ hội nữa, giờ cậu còn thấy tôi lùn không?",
+   "author": ""
+  },
+  {
+   "name": "Tôi từng nuôi một con chó, đặt tên cho nó là \"Đừng Động Đậy\". \"Lại đây, Đừng Động Đậy!\". Sau đó nó bị điên luôn!",
+   "author": ""
+  },
+  {
+   "name": "- Hôm qua tao thắng cả hai đại kiện tướng: cờ vua và bơi lội đấy.\n- Thật à?\n- Tao thi đấu cờ vua với kiện tướng bơi lội. Và thi bơi lội với kiện tướng cờ vua.",
+   "author": ""
+  },
+  {
+   "name": "Viêm não Nhật bản, có phải xem phim Nhật nhiều quá mới bị không?",
+   "author": ""
+  },
+  {
+   "name": "Đường Tăng đi thỉnh kinh có sử dụng Google Map không nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Cậu đã trải qua khoảnh khắc tính mạng bị đe doạ chưa?\n- Rồi, 20 năm trước, lúc con tinh trùng khác suýt thì đuổi kịp mình.",
+   "author": ""
+  },
+  {
+   "name": "- Em học giỏi toán lắm hả?\n- Dạ hông\n- Ủa vậy sao thi chuyên toán?\n- Tại em muốn làm thằng giỏi văn nhất lớp chuyên toán",
+   "author": ""
+  },
+  {
+   "name": "- Bác sĩ ơi sáng nào em dậy cũng thấy đau đầu\n- Thế em thử dậy vào buổi trưa xem",
+   "author": ""
+  },
+  {
+   "name": "- Lúc say anh thường gọi tên ai?\n- Chủ quán, cho thêm chai nữa",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao mày học giỏi lại không vào lớp chọn?\n- Thà giỏi nhất lớp ngu còn hơn ngu nhất lớp giỏi.",
+   "author": ""
+  },
+  {
+   "name": "Tuấn đang đọc sách thì nhà mất điện. Tuấn quyết định đốt nhà để đọc sách cho sáng. Tuấn thấy mình thật sáng suốt.",
+   "author": ""
+  },
+  {
+   "name": "Không hiểu sao có những người ngủ ngon lành trước 10 giờ đêm. Ý tôi là mấy bạn làm bằng cách nào? Bộ không có gì hạnh hạ mấy bạn hả?",
+   "author": ""
+  },
+  {
+   "name": "Gà Công nghiệp: A Khank óng ánh ơi cho e hỏi trong lần đầu tiên đi chơi vs con trai mình có nên giành trả tiền không hay là ăn xong rồi ngồi im, e là người không thích mắc nợ ai cả nhưng mà em cũng chẳng bít làm sao cả.Anh Khank óng ánh cho e lời khuyên nhá và cả lần thứ 2,3,4... nữa\n\nHehe, ko nên giành trả, tốt nhứt chia ra, xong nói: \"Ko được trọng nam khinh nữ, ỷ mình là nam mà được dành cái quyền trả tiền nhiều hơn phụ nữ à\"... con gái cứ quan trọng cái chuyện nợ nần nhỉ, con trai ko ai tính toán đâu... trừ mấy đứa hình dạng giống con trai làm mình tưởng nó là con trai :v Còn nếu muốn trải nghiệm trả tiền cho bạn nam thì bạn có thể mời mình đi ăn nè :v Mà thôi bắt đầu tao lao rồi, ngưng :D",
+   "author": ""
+  },
+  {
+   "name": "- Nếu em và mẹ anh rơi xuống nước anh sẽ cứu ai?\n- Thế giờ em muốn lấy 1 thằng con bất hiếu hay 1 thằng không yêu em.",
+   "author": ""
+  },
+  {
+   "name": "Bác sĩ: Ổn thôi H, dù là lần đầu phẫu thuật nhưng mọi chuyện sẽ ổn thôi\nBệnh nhân: H không phải tên của tôi\nBác sĩ: Tôi biết, H là tên của tôi.",
+   "author": ""
+  },
+  {
+   "name": "- Em sẽ là nắng, anh sẽ là mưa. Chúng ta cùng tạo nên 1 bầu trời tuyệt đẹp.\n- Và sẽ có cầu vồng nữa. Thành quả của nắng và mưa đấy.",
+   "author": ""
+  },
+  {
+   "name": "- Làm thế nào để nói với 1 người rằng họ hôi miệng mà không bị vô duyên?\n- Tôi với bạn đi uống nước súc miệng không?",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để biết số hạt cơm trong nồi là số chẵn hay số lẻ vậy?\n- Cơm chín thì số lẻ. Còn cơm sống là số bị ăn đòn...",
+   "author": ""
+  },
+  {
+   "name": "Tên Giả vừa mở tiệm vàng. Làm biển ghi: Vàng Giả uy tín chất lượng.",
+   "author": ""
+  },
+  {
+   "name": "- Mụn trứng cá mọc ở đâu mà mày cảm thấy yên tâm?\n- Mọc trên mặt người khác",
+   "author": ""
+  },
+  {
+   "name": "Huyền đang tưới cây thì trời mưa, Huyền vào nhà lấy ô rồi tiếp tục ra tưới cây tiếp...",
+   "author": ""
+  },
+  {
+   "name": "Tại sao gọi điện phải alô mà ko phải blô hay clô???",
+   "author": ""
+  },
+  {
+   "name": "- Có người yêu chưa con?\n- Dạ, người yêu con nhiều lắm chú ơi\n- Vậy sao không dẫn đứa nào về ra mắt đi\n- Đó người yêu con, chứ người con yêu đâu có đứa nào đâu.",
+   "author": ""
+  },
+  {
+   "name": "Nếu ngày xưa, ông Newton ngồi dưới cây sầu riêng. Thì vạn vật hấp dẫn có được ra đời không?",
+   "author": ""
+  },
+  {
+   "name": "- Sao anh chọc em hoài vậy?\n- Làm hoa cho ng ta hái, làm gái cho ng ta chọc",
+   "author": ""
+  },
+  {
+   "name": "- Ở tuổi 22 bạn sẽ chọn tình yêu hay sự nghiệp?\n- Chọn mỗi 1 ít: \"yêu nghiệp\"",
+   "author": ""
+  },
+  {
+   "name": "- Cảm giác khi học Toán?\n- Giống như xem phim Mỹ không có sub.",
+   "author": ""
+  },
+  {
+   "name": "- Khen đối phương đẹp trai một cách sáng tạo?\n- Nhìn cậu là mình muốn ngoại tình.",
+   "author": ""
+  },
+  {
+   "name": "- Mày đang viết gì vậy?\n- Một bức thư cho chính mình!\n- Trong đó nói gì?\n- Ngày mai tao mới có thể biết được điều đó sau khi nhận thư.",
+   "author": ""
+  },
+  {
+   "name": "- Cuộc sống của anh nếu thiếu em anh không sống nổi\n- Không sống nổi vậy anh sống chìm đi",
+   "author": ""
+  },
+  {
+   "name": "- Chồng tôi bị vô sinh, nếu anh có thể giúp tôi hoàn thành tâm nguyện đc làm mẹ, tôi sẽ biếu anh 500 triệu.\n- Dễ thôi thưa mẹ.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao anh lại làm tiền giả\n- Vì tôi không biết làm tiền thật ạ.",
+   "author": ""
+  },
+  {
+   "name": "Hồi trước, nhà nước khuyến cáo cấm tụ tập quá 20 người. Lúc dừng đèn đỏ em đếm hơn 20 người em sợ quá, em vượt đèn đỏ luôn. Sau đó, làm gì có sau đó... em bị bắt rồi.",
+   "author": ""
+  },
+  {
+   "name": "- Cảm giác thế nào khi bạn bè lần lượt kết hôn mà mình còn chưa có gì?\n- Như đi thi mà tụi nó lần lượt nộp bài mà bài làm của mình vẫn trống trơn",
+   "author": ""
+  },
+  {
+   "name": "- Ngây thơ và giả nai khác nhau ở chỗ nào?\n- Nhan sắc quyết định, xinh thì là ngây thơ, không xinh thì là giả nai.",
+   "author": ""
+  },
+  {
+   "name": "- Nhà em ở đâu vậy?\n- Nhà em hả, trên mặt đất dưới mặt trời.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao băng kotex không được gọi là băng cá nhân nhĩ?",
+   "author": ""
+  },
+  {
+   "name": "Tại sao tiền thật mua hàng giả chả sao. Tiền giả mua hàng thật lại bị bắt vào công an?",
+   "author": ""
+  },
+  {
+   "name": "- Một bộ phim mà không có nụ hôn nào?\n- Cuộc đời mày",
+   "author": ""
+  },
+  {
+   "name": "Theo khoa học chứng minh thì nơi lạnh nhất là Nam cực. Thế tại sao thầy dạy Văn em lại nói là nơi không có tình người nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Cái này bao nhiêu 1 đôi thế shop?\n- 2 chiếc 1 đôi em ơi",
+   "author": ""
+  },
+  {
+   "name": "- Yêu ai để không bị cắm sừng?\n- Yêu vợ thằng bạn nhé.",
+   "author": ""
+  },
+  {
+   "name": "Long mua hoa tặng bạn gái bó hoa hồng hết 120k, trên đường về Long thấy chỗ khác bán chỉ có 60k. Long quyết định vứt bó hoa cũ mua bó hoa 60k rẻ hơn để tiết kiệm. Long nghĩ mình thật thông minh.",
+   "author": ""
+  },
+  {
+   "name": "- Sao hũ đường mà chị dán chữ \"muối\"\n- Để lừa bọn kiến ấy mà!",
+   "author": ""
+  },
+  {
+   "name": "- Nhận được tin nhắn chia tay nên trả lời thế nào?\n- ĐÃ XEM",
+   "author": ""
+  },
+  {
+   "name": "Hoàng: Anh có giải thick cho em là tại sao đứa học ngu thì được gái bâu đầy còn đứa thông minh thì ko\n\nGái bâu đầy thì dễ bay đầu thôi có gì ham nhỉ :v Rồi trả lời câu hỏi, cái đứa học ngu ko phải cái gì cũng ngu, và ngược lại. Một cách khoa học hơn, con người có tới 7, 8 dạng thông minh: logic, không gian, cơ thể, ngôn ngữ, âm nhạc, nội tâm và tương tác. Vậy mấy đứa học giỏi thì lo học mãi chỉ vượt trội được 1, 2 loại thông minh thôi ko còn thời gian cho các loại thông minh khác... mà con gái lúc nào cũng vậy \"Khi tui cần thì mới được gần tui\" ví dụ như gần kiểm tra, thi cử,... thì các bạn học giỏi sẽ trở thành tâm điểm, còn hằng ngày \"tui buồn, tui chán, ai ráng làm tui cười, thì 10h/ ngày tui bên người đó\".",
+   "author": ""
+  },
+  {
+   "name": "Nếu bạn chiến thắng bản thân, thì bạn đã thắng hay đã thua???",
+   "author": ""
+  },
+  {
+   "name": "- Sao anh đi theo em hoài vậy?\n- Bố anh dạy phải biết theo đuổi ước mơ của mình em ạ.",
+   "author": ""
+  },
+  {
+   "name": "- Con chó nhà tao vừa nuốt con sâu to lắm mày ak!\n- Thế mày đưa nó tới bác sĩ thú y chưa?\n- Thôi khỏi, tao cho nó uống thuốc trừ sâu rồi!!!",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói điện giật nhanh lắm vậy ta bỏ tay vào điện thì tay ta giật nhanh hơn hay điện giật nhanh hơn nhỉ :)))",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua Vân lỡ tay đổi chai nước hoa của chị gái, Vân lấy chai Dạ Hương đổ vào rồi để lại chỗ cũ.",
+   "author": ""
+  },
+  {
+   "name": "Nếu trong tai tôi có nước thì nghe nhạc điện tử (EDM) có an toàn không?",
+   "author": ""
+  },
+  {
+   "name": "Nếu bị rắn cắn trên trán thì buộc chỗ nào để không bị lan ra?",
+   "author": ""
+  },
+  {
+   "name": "Có câu trời đánh tránh bữa ăn, thế con muỗi đang ăn thì không được đánh nó phải không?",
+   "author": ""
+  },
+  {
+   "name": "- Một ông chồng tốt thì trong ví phải có ảnh của vợ mình, đúng hay sai?\n- Sai. Một ông chồng tốt thì không nên có ví của riêng mình.",
+   "author": ""
+  },
+  {
+   "name": "- Tao cũng muốn một lần trải nghiệm cảm giác được người khác theo đuổi.\n- Cứ mua đồ không trả tiền là được chứ sao...",
+   "author": ""
+  },
+  {
+   "name": "Xử Nữ: Gặp ny sau nhiều ngày xa cách. Nếu là mình thì ad sẽ lm j. Nhớ tl e đếy. E \"nếu ad\" thế thôi chứ e sắp đc gặp ny zồi.\n\nLàm ngơ, giả vờ ko chờ và ko nhớ :v Sau đó làm thơ về giấc mơ... ngày mình trao duyên gửi nợ... và điều anh lo sợ... khi em làm vợ người ta",
+   "author": ""
+  },
+  {
+   "name": "- Dạo này mình đang học phối đồ, không biết con trai ghét con gái mặc gì nhất nhỉ?\n- Quần áo.",
+   "author": ""
+  },
+  {
+   "name": "- Sao sáng nay cậu không nghe máy?\n- Điện thoại tớ tắt chuông đã nhiều năm nay, nghe máy gì gì đó là dựa vào cái duyên cái số.",
+   "author": ""
+  },
+  {
+   "name": "Hùng vào quán net và thấy nhiều người chơi Dota2, Hùng nói rằng game này đạo của LOL. Bây giờ Hùng nằm viện và bắt đầu cảm thấy hối hận.",
+   "author": ""
+  },
+  {
+   "name": "Em tên Long, vợ em tên Linh. Em dò được pass facebook vợ em là linhyeutinh. Tinh là thằng quái nào vậy?",
+   "author": ""
+  },
+  {
+   "name": "- Bạn muốn khắc gì trên bia mộ của mình?\n- Tìm người ở ghép, giá cả thương lượng khi gặp mặt.",
+   "author": ""
+  },
+  {
+   "name": "- Eh, tao có việc cho mày làm đi ko?\n- Có, lương thế nào?\n- 1k/ phút\n- Ít thế, còn việc khác ko\n- Có, 60k/ giờ\n- Đc đấy, tao thấy cái 2 nghe có vẻ nhiều hơn.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu em nhảy xuống sông thì anh sẽ cứu em chứ?\n- Nếu anh nói có thì em sẽ nhảy xuống chứ?",
+   "author": ""
+  },
+  {
+   "name": "- Tôi nghĩ 1 trong 2 đội sẽ thắng\n- Còn tôi thì nghĩ ngược lại, trong 2 đội sẽ có 1 đội thua",
+   "author": ""
+  },
+  {
+   "name": "- Sáng tớ gặp 1 đứa có cái mặt thật đáng ghét.\n- Lúc cậu đang soi gương hả?",
+   "author": ""
+  },
+  {
+   "name": "Trứng gà, vịt được gọi là hột gà, hột vịt. Vậy tại sao trứng con le không được gọi là hột le?",
+   "author": ""
+  },
+  {
+   "name": "Thắm ở quê mới lên làm osin cho 1 gia đình giàu có, ngày đầu bà chủ bảo lấy nồi cơm vo gạo nấu cơm. Thắm vo gạo xong lấy nồi ra vườn chụm củi nấu.",
+   "author": ""
+  },
+  {
+   "name": "- Em ơi con trai hay con gái thế?\n- Là con anh là may rồi, trai hay gái quan trọng gì.",
+   "author": ""
+  },
+  {
+   "name": "- Anh có tài lẻ gì không?\n- Anh chỉ có tài chính",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao khảo cổ học thường là phụ nữ?\n- Vì họ thích đào bới quá khứ",
+   "author": ""
+  },
+  {
+   "name": "- Thất tình thì làm gì?\n- Thất cái gì làm cái đó.",
+   "author": ""
+  },
+  {
+   "name": "Thần núi là sơn tinh, thần nước là thủy tinh\nVậy thần tình yêu là yêu tinh à???",
+   "author": ""
+  },
+  {
+   "name": "Thah Niên Nhọ: Adm ơi tronq lớp e cứ bị bọn bạn nó chọc gán ghép vs con kia mà h nói câu j mà phản dame nó ây ad...\n\nKhông lấy nhan sắc ra đùa giỡn nha. Tụi mày bán rẻ nhan sắc tao quá vậy? Cái vẻ đẹp của tao phải nói là chim sa cá lặn, nguyệt thẹn hoa nhường này nếu mà lên sàn đi thì Ngọc Trinh cũng phải bỏ show để mà tham gia đấu giá. Dân chơi phải nắm rõ luật chơi chứ \"Con thầy, vợ bạn, gái cơ quan\", tụi mày ghép tao vậy là sai rồi... xin lỗi tao đi :v",
+   "author": ""
+  },
+  {
+   "name": "Buồn cười là buồn hay vui? Buồn cười với vui cười cái nào vui hơn cái nào buồn hơn???",
+   "author": ""
+  },
+  {
+   "name": "- Con gái thời nay nghĩ gì về đàn ông nghèo?\n- Họ không thèm nghĩ đến đâu",
+   "author": ""
+  },
+  {
+   "name": "Nhiều lúc tôi seen tin nhắn xong, quên rep, rồi ngồi đợi người ta trả lời.",
+   "author": ""
+  },
+  {
+   "name": "- Anh muốn cưới em hay muốn cưỡi em thôi?\n- Anh muốn cữới em",
+   "author": ""
+  },
+  {
+   "name": "Lớn mà xem phim hoạt hình thì gọi là trẻ con, thế tại sao trẻ con xem phim người lớn không được gọi là người lớn?",
+   "author": ""
+  },
+  {
+   "name": "- Anh đúng là đồ trẻ con!\n- Vậy được... chúng ta về nhà làm chuyện người lớn!",
+   "author": ""
+  },
+  {
+   "name": "Chiến tranh lạnh có thể khiến cho sự nóng lên toàn cầu dừng lại không?",
+   "author": ""
+  },
+  {
+   "name": "Bự: Mình thấy admin trả lời câu hỏi của các bạn rất hay, chắc bạn viết văn hay lắm?\nNo name: Hồi nhỏ Admin học giỏi ngữ văn lắm à?\n\n- Hix, trước giờ người có thẩm quyền chả ai công nhận mình viết văn hay cả, đi học toàn bị phê lạc đề :D Văn lan man, toán hỗn loạn, lý hoang mang, hóa bấn loạn, chỉ muốn nổi loạn thôi :D Mình cũng chắt lọc tinh hoa của người khác cả thui. Bạn có thể thấy câu mình viết hay chêm 1 chút vần cho dễ đọc, đó là thói quen viết rap ngày xưa, cộng thêm mấy năm gần đây mình hay mình học tiếng anh nên hay xem mấy ảnh chế page nước ngoài để học luôn nên các bạn thấy có các ngôn từ nó là lạ zậy thui :D",
+   "author": ""
+  },
+  {
+   "name": "Thiên hạ nói \"Phụ hồ\" là đi \"làm hồ\"\nNhưng mà \"Phụ tình\" là làm cái gì vậy?",
+   "author": ""
+  },
+  {
+   "name": "Ở Việt Nam có 18 vị vua Hùng. Tại sao lại được nghỉ 1 ngày 17 ngày còn lại đâu nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Yêu từ cái nhìn đầu tiên là cảm giác thế nào nhỉ?\n- Mở ví lôi pô li me ra nhìn là biết.",
+   "author": ""
+  },
+  {
+   "name": "- Rốt cuộc a thích tôi ở điểm nào? Tôi sửa là được chứ gì?\n- Anh thích em vì em không thích anh, em sửa đi!!!",
+   "author": ""
+  },
+  {
+   "name": "huế hâm: Kkk.còn mình gầy thì ăn gì cho béo ad?? :-))\n- Ăn nằm :v Bụng to ra liền :v",
+   "author": ""
+  },
+  {
+   "name": "Tại sao nói ngu như bò, lại uống sữa bò?",
+   "author": ""
+  },
+  {
+   "name": "- Có cách nào chê người khác béo một cách tế nhị không?\n- Khuôn mặt cậu chiếm trọn tầm nhìn của mình.",
+   "author": ""
+  },
+  {
+   "name": "- Vì sao Thích Tiểu Long vẫn sống giàu có, sung sướng dù danh tiếng tụt dốc, sự nghiệp bết bát?\n- Dễ hiểu thôi, tuy đầu tư thất bại nhưng đầu thai đúng nhà",
+   "author": ""
+  },
+  {
+   "name": "Beto-san: Nếu nó cười mk thì làm sao ad\n\nÁp dụng định luật 3 Newton. Khi vật A tác dụng lên vật B một lực, thì vật B cũng tác dụng lại vật A một lực có cùng giá trị, cùng độ lớn, nhưng ngược chiều. Bạn hãy cười lại nó y chang như vậy :v Bây giờ mình mới cảm thấy sự hữu ích của môn Lý, cám ơn thầy dạy Lý rất nhiều <3",
+   "author": ""
+  },
+  {
+   "name": "- Bạn sẽ đặt tên con là gì?\n- Lấy tên nyc ra đặt. Không làm vợ nó thì làm má nó cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Tao đi làm về, hôm ấy không có đèn. Tao cứ đi theo 1 cái xe rồi lẩm bẩm phải đi theo sát nó để sáng mới đi được chứ trời tối thế này. Đi được một lúc lâu tao mới bật tỉnh sao không mở đèn xe mình...",
+   "author": ""
+  },
+  {
+   "name": "- Cậu cho rằng từ xưa tới nay, nhân vật hư cấu nào là vĩ đại nhất?\n- Con nhà người ta.",
+   "author": ""
+  },
+  {
+   "name": "- Mày thật nhẫn tâm!\n- Ý mày là nhẫn nại và tâm lý đó hả.",
+   "author": ""
+  },
+  {
+   "name": "- Admin có nói nhiều không?\n- Không! Chỉ là mình thuộc cái loại nói dai, nói dài, nói hoài, nói mãi, nói lãi nhãi, nói lai rai, nói từ nay sang mai, nói từ thứ 2 tới thứ 6, từ kết cấu đến bên ngoài, từ chế độ công khai đến ẩn danh tự kỷ, nói mà không cần suy nghĩ mà vẫn tỉ mỉ đến chi tiết. Nói không cần biết rào cản của ngôn ngữ, từ chơi chữ tới chơi vần, đôi khi chả cần sự xuất hiện của người đối diện. Nói luôn miệng... thuận tiện là nói, như đói là ăn... giờ mình ăn đã xong rồi nói tiếp để bạn biết là mình không nói nhiều :v",
+   "author": ""
+  },
+  {
+   "name": "- Em có biết thổi kèn không?\n- Nhà anh có đám ma à?",
+   "author": ""
+  },
+  {
+   "name": "\"Thắng\" và \"Bại\" là 2 từ trái nghĩa... Vậy tại sao \"Đánh thắng quân thù\" và \"Đánh bại quân thù\" lại cùng 1 nghĩa?",
+   "author": ""
+  },
+  {
+   "name": "cha mạ ơi...: Add ơi, sao dạo này hiếm bài chém gió mới zậy. đợi hoài mà có mấy bài ak.\nđạt 1 lít: Add dao nay mất tích đi đâu thế?\n\nDạo trước mình có chút rãnh rỗi và hơi rãnh rang, thằng bạn rủ rê rong ruổi về quê. Tối nào cũng rót rượu rộn ràng rôm rả, rồi thân xác rả rời, ruột rà rủ rượi. Về lại SG thì gặp rắc rối rối ren rùng rợn, râu ria rầm rộ khiến cho nhan sắc rõ ràng gớm rõ rệt ghê. Kkkk, mới ở Đắklắk về... quay trở lại với rộn ràng Sài thành :v Chúc các bạn luôn zui zẻ :D",
+   "author": ""
+  },
+  {
+   "name": "bao duong: Nếu thấy một người rất đáng ghét thì nên làm gì?\n- Làm thinh",
+   "author": ""
+  },
+  {
+   "name": "- Ăn gì để không béo?\n- Ăn gì cũng được, đừng nuốt nha",
+   "author": ""
+  },
+  {
+   "name": "- Trên gói bim bim nó ghi là \"Mở ở đây\" mày ạ\n- Thì sao?\n- Thế không được mở ở nhà à",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao người con gái lúc nào cũng thơm vậy?\n- Đồ ăn không thơm thì chúng mày muốn ăn ko?",
+   "author": ""
+  },
+  {
+   "name": "Khi mày đang cầm cái máy khoan và chuẩn bị khoan. Bố mày đứng bên cạnh nói khoan. Thì mày khoan hay không khoan?",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để xì hơi ko phát ra tiếng?\n- Bịt tai lại.",
+   "author": ""
+  },
+  {
+   "name": "- Chân cậu bị cái gì thế kia?\n- À, lúc nãy đang đi bộ đạp phải cái đinh. Thế là tớ tức quá, quay lại đạp cho nó mấy cái.",
+   "author": ""
+  },
+  {
+   "name": "- Heo khác lợn ở điểm nào?\n- Heo ăn ngô... lợn ăn bắp",
+   "author": ""
+  },
+  {
+   "name": "- Sao nhiều đứa xấu cứ thích chụp ảnh tự sướng nhỉ?\n- Thì ngoài bản thân họ ra, đâu có ai muốn chụp dùm đâu.",
+   "author": ""
+  },
+  {
+   "name": "Đi ăn chả giò nếu chủ quán hỏi chả ngon không?\nNếu trả lời chả ngon thì ngon hay không ngon?",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để có gấu?\n- Hiển nhiên là cần tài năng, dĩ nhiên thêm vài tài lẻ, tất nhiên hiểu ấy thật tài tình, đương nhiên nhất quyết phải có tài chính. Còn nếu như bạn muốn được trả lời 1 cách nghiêm túc thì hãy sử dụng Google, giờ Google vẫn còn đang miễn phí, đó là tài sản chứa rất nhiều tài liệu giúp ta trở nên tài giỏi để trở thành tài xế, phi công trẻ j đó. Chúc bạn thành công kkkk!",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để hết mụn?\n- Hồi trước mặt t cũng nhiều mụn kinh khủng, nhưng bây giờ đỡ hẳn ra vì thường sử dụng photoshop =)) chứ mặt thì vẫn vậy.",
+   "author": ""
+  },
+  {
+   "name": "- Anh mua áo đôi vì muốn mặc chung với em à?\n- Không, áo mua 1 tặng 1 đấy.",
+   "author": ""
+  },
+  {
+   "name": "- Alo Uyên à, biết ai ko?\n- Ô người bí mật à, thế cứ giữ bí mật nhé, cúp máy đây.",
+   "author": ""
+  },
+  {
+   "name": "- Ngày mùng 8/3 mày không biết tặng quà cho gái à\n- Mày có thấy người ta câu cá xong rồi nhét giun vào mồm nó không?",
+   "author": ""
+  },
+  {
+   "name": "- Anh Khánh ơi. nên đặt tên gì trong game vừa bá đạo mà ko bị kì thị với\n- Sắp bỏ game Xin top 1",
+   "author": ""
+  },
+  {
+   "name": "- Sông Hồng nằm ở đâu?\n- Ở dòng thứ 6, trang 50, sách giáo khoa Địa lớp 12.",
+   "author": ""
+  },
+  {
+   "name": "Mình đang cần 1 card 50k, bạn nào có thể cho mình xin ko? Các bạn comment card bên dưới mình sẽ chọn ra 1 bạn may mắn để mình lấy card đó nhé.",
+   "author": ""
+  },
+  {
+   "name": "- Thế giờ mày thích hội đồng hay solo.\n- Hội động thì bọn tao đập mày, solo thì một mình mày đập bọn tao.",
+   "author": ""
+  },
+  {
+   "name": "- Giữa 1 chàng trai được bố mua cho và 1 chàng trai có thể tự kiếm tiền mua được wave, em sẽ chọn chàng nào?\n- Dạ, em xin chọn bố của chàng SH ạ.",
+   "author": ""
+  },
+  {
+   "name": "Có rất nhiều lần bạn bè trách móc tôi seen tin nhắn mà không trả lời. Thật tình lúc mở ra đọc tôi đã trả lời rồi nhưng rất lâu sau tôi mới nhận ra là mình trả lời trong đầu chứ chưa hề gõ ra và gửi đi.",
+   "author": ""
+  },
+  {
+   "name": "- Có nên yêu bạn cùng bàn không?\n- Nhỡ chia tay rồi ai chỉ bài",
+   "author": ""
+  },
+  {
+   "name": "- Trận Bồ với Áo mày chọn đội nào\n- Chọn Bồ chứ. Vì Bồ chưa có chứ Áo thì có nhiều rồi.",
+   "author": ""
+  },
+  {
+   "name": "Tao xấu trai hơn nó, lùn hơn nó, ngu hơn nó, cái gì tao cũng hơn nó. Tại sao mày không yêu tao?",
+   "author": ""
+  },
+  {
+   "name": "Hôm qua tôi đã thấy muốn cuốn sách \"Làm sao để giải quyết 50% vấn đề của bạn\". Tôi nhanh trí mua 2 cuốn.",
+   "author": ""
+  },
+  {
+   "name": "Tiểu tiểu: Cho mình hỏi tỏ tình thế nào mới lãng mạn?\n\nGiống trong phim á! Theo mình thấy, tỏ tình lãng mạn giờ thì vấn nạn khốn nạn trở thành bạn khá là cao. Nếu mà có lỡ dính vòng friendzone ấy, thì cứ vui vẻ thân thiện thể hiện bạn chính là bạn thân của nhỏ, rồi lúc nhỏ ko để ý cứ hun một phát rồi trình bày \"Hôn nhau chỉ là tình bạn. Vượt qua giới hạn mới là tình yêu\". Đây gọi là \"Thà một phút huy hoàng rồi chợt tắt Còn hơn buồn le lói suốt trăm năm\". =))",
+   "author": ""
+  },
+  {
+   "name": "- Xích mích đừng có xé to ra\n- Em tưởng càng xé càng nhỏ đi chứ",
+   "author": ""
+  },
+  {
+   "name": "- Khi hôn tay con trai nên để đâu?\n- Tùy lòng hảo tâm",
+   "author": ""
+  },
+  {
+   "name": "- Kẽ răng cậu có rau kìa.\n- Cậu muốn ăn à?",
+   "author": ""
+  },
+  {
+   "name": "Tại sao trong phim dao đâm vào bụng mà máu lại chạy ra từ miệng?",
+   "author": ""
+  },
+  {
+   "name": "- Bồ cũ và hình tròn khác nhau ở điểm gì?\n- Hình tròn có tâm.",
+   "author": ""
+  },
+  {
+   "name": "-Mầy chưa thấy mầy giống heo sao mà mầy ăn dữ vậy?\n-Thà ăn ngon mà mập còn hơn không ăn gì mà vẫn mập!",
+   "author": ""
+  },
+  {
+   "name": "- Cao thủ võ lâm làm cách nào để biết được có sát khí?\n- Nhạc nền",
+   "author": ""
+  },
+  {
+   "name": "- Làm gì để Crush nói chuyện với mình mỗi ngày?\n- Mượn tiền nó đi, không sớm thì muộn ngày nào nó cũng inbox mày đòi lại thôi.",
+   "author": ""
+  },
+  {
+   "name": "- Khi nào thích hợp yêu đương?\n- Học đại học ko có thời gian yêu đương thì ra trường rồi sẽ tốn thời gian đi xem mắt đấy.",
+   "author": ""
+  },
+  {
+   "name": "- Sao con gái lại hăm hở mua những chiếc túi xách cả vài chục triệu?\n- Vì họ chưa mua được túi xách vài trăm triệu",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao những người chỉ huy thường đứng khi đi thuyền?\n- Vì nếu ngồi xuống, ông ta sẽ phải chèo như những người khác.",
+   "author": ""
+  },
+  {
+   "name": "Nếu phải lựa chọn giữa gấu và 100 tỷ thì... sẽ mua chiếc Lamborghini màu gì nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Sau khi bị xe tông, bắn xa 10m, đứng dậy, nói câu gì nghe oách nhất?\n- Xe tiếp theo!",
+   "author": ""
+  },
+  {
+   "name": "Tại sao cứ đem con người ta ra nói??\nVậy con cha mẹ người ta thì sao???",
+   "author": ""
+  },
+  {
+   "name": "Con gà có trước hay quả trứng có trước?",
+   "author": ""
+  },
+  {
+   "name": "Tam giác có 3 cạnh, tứ giác có 4 cạnh, lục giác có 5 cạnh... vậy tê giác có mấy cạnh?",
+   "author": ""
+  },
+  {
+   "name": "- Của anh tổng cộng 69,96 triệu. Anh muốn thanh toán bằng tiền mặt hay bằng thẻ.\n- THẬN!",
+   "author": ""
+  },
+  {
+   "name": "\"Giặc đến nhà đàn bà cũng đánh\" vậy là đàn bà đánh giặc hay giặc đánh đàn bà vậy?",
+   "author": ""
+  },
+  {
+   "name": "- Sao xe anh bẩn thế!!\n- Hà Nội mét vuông 8 thằng ăn trộm em à, xe bẩn thế này biết đâu nó lại chừa mình ra =))",
+   "author": ""
+  },
+  {
+   "name": "- Mẫu bạn trai của e là gì??\n- Dạ e rất dễ, gì cũng được trừ thể loại quá bt không điểm nhấn, người quá nổi bật, quá tốt em không ưa. Còn cái dạng quá chìm chìm im im thì không thu hút được em!",
+   "author": ""
+  },
+  {
+   "name": "- 8/3 nên tặng bạn gái quà gì?\n- Heo đất. Rồi thổ lộ: \"Đây sẽ là tương lai của chúng ta, là những mãnh ghép của chúng ta vun đắp mỗi ngày. Em cứ việc nuôi heo đất, anh nuôi em!\"",
+   "author": ""
+  },
+  {
+   "name": "- Làm thế nào để quên người yêu cũ?\n- Tải ảnh hắn về đem in đen trắng, bỏ vào ví, tự dặn mình hắn đã chết rồi.",
+   "author": ""
+  },
+  {
+   "name": "*Tào Tháo*\nChúng mày đau bụng thì nói tao rượt\nthế tao đau bụng thì ai rượt @@",
+   "author": ""
+  },
+  {
+   "name": "- Em thích một người phải tin tưởng em\n- Bộ em lăng nhăng lắm hay sao mà bắt anh phải tin tưởng",
+   "author": ""
+  },
+  {
+   "name": "- 1 vé xem phim là bao nhiêu tiền thế anh?\n- 70k 1 vé\n- Em chỉ còn 35k thôi, hay anh bán cho em 1 vé rồi em xem 1 mắt có được không?",
+   "author": ""
+  },
+  {
+   "name": "Em mới đọc báo thấy tít: \"Bùi Tiến Dũng thổ lộ việc vợ có bầu với cựu HLV trưởng đội tuyển\"... nghĩa là sao nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Anh nghĩ tình yêu như thế nào?\n- Hãy đếm các vì sao và em sẽ hiểu được chút gì đó.\n- Ý anh là vĩnh hằng và vô tận?\n- Không, nó rất lãng phí thời gian.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao bình cứu hỏa lại dùng để dập lửa khi nó là bình \"cứu hỏa\"?",
+   "author": ""
+  },
+  {
+   "name": "Mẹ mới mua cho chiếc xe máy, em sợ cầm chìa khóa bị rơi nên em cất vào cốp xe cho khỏi quên.",
+   "author": ""
+  },
+  {
+   "name": "- Mày biết thích và yêu khác nhau như thế nào không?\n- Mày thích nhiều đứa cùng 1 lúc thì mày là người đa cảm. Còn mày yêu nhiều đứa cùng lúc thì mày là thằng mất dạy.",
+   "author": ""
+  },
+  {
+   "name": "- Làm thế nào để nhìn thấu được một người?\n- Đưa người đó đi chụp x-quang.",
+   "author": ""
+  },
+  {
+   "name": "- Tao đi guốc trong bụng mày mà\n- Ghê nha, mà mày đi guốc trong bụng tao rồi tới mày đi ra mày đi = đường nào?",
+   "author": ""
+  },
+  {
+   "name": "- Kết quả siêu âm thế nào ạ? Trai hay gái vậy bác sĩ?\n- Lớn lên để nó tự chọn nha em",
+   "author": ""
+  },
+  {
+   "name": "- Sao dạo này mày béo vậy?\n- Tao chỉ béo nhất thời thôi chứ mày thì xấu cả đời!",
+   "author": ""
+  },
+  {
+   "name": "\"Dạo gần đây\"... là bao nhiêu lâu nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Nước mặn có thể làm muối, vậy nước ngọt có thể làm đường không?",
+   "author": ""
+  },
+  {
+   "name": "Hường ra đường gặp đám 3D, Hường liền hát \"Bống bống bống bống bang bang lên ăn cơm vàng...\" Và đó là lần cuối cùng răng Hường được nhìn thấy nứu.",
+   "author": ""
+  },
+  {
+   "name": "- Không biết lúc nhắm mắt mặt mình trông như thế nào nữa?\n- Ngốc thế, lấy cái gương đặt trước mặt rồi mở mắt ra mà nhìn.",
+   "author": ""
+  },
+  {
+   "name": "tên tui là gì?: Cho mk hỏi cách chia tay người yêu mà k làm tổn thương người ta đi.??? mong sẽ trả lời, mong sẽ trả lời ×n. Admin k trả lời là tui buồn lắm đó.\n\n- Haiz, mình đâu có rành đóng vai ác đâu, hỏi sai người rồi... Đây là ý kiến chủ quan của mình, đối với mình thì khóc là quyền của phụ nữ (phải có 1 người mạnh mẽ, về phòng rồi khóc 1 mình cũng chả sao), và vì thế quyền chia tay cũng thuộc về phụ nữ luôn. Khi họ chia tay thì họ được chọn cách họ khóc... Mình ko nói những cuộc chia tay vội vàng vì yêu nhau vội vã nhé. Mình là người bị tình cảm chi phối nhiều... nên mình cũng hiểu được khi bị mất đi sự quan tâm từ một người quan trọng là như thế nào. Mình ko có thâm niên ở lĩnh vực chia tay đâu, trích sổ tay 1 câu vậy: \"Khi bạn sắp từ bỏ, hãy nhớ tới lý do khiến bạn bắt đầu\".",
+   "author": ""
+  },
+  {
+   "name": "- Bị muỗi chích à? Sao ko thoa thuốc chống muỗi vào?\n- Nhưng chưa tới giờ.\n-???\n- Trên bao bì có ghi: \"Có hiệu quả từ 6 đến 8 giờ\" mà bây giờ mới có 5 giờ thôi.",
+   "author": ""
+  },
+  {
+   "name": "Bộ sạc điện thoại, tai nghe bị hư. Mạnh ko đủ tiền mua nên Mạnh bán điện thoại để mua bộ sạc, tai nghe mới.",
+   "author": ""
+  },
+  {
+   "name": "- Em có biết nấu ăn không?\n- Đồ em nấu phải nói là chưa đặt vào môi là đã trôi vào mồm rồi.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao khi cầu hôn con trai lại quỳ một chân?\n- Quỳ hai chân thành ra viếng mộ rồi.",
+   "author": ""
+  },
+  {
+   "name": "Dũng thấy em mình nuốt phải đồng xu. Dũng nhanh trí cho em uống Axit H2SO4 để hòa tan đồng xu. Dũng nghĩ cô giáo dạy hóa rất tự hào về mình.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao chỉ có dâu tây, còn dâu nam, đông, bắc ở đâu ạ??",
+   "author": ""
+  },
+  {
+   "name": "70% cơ thể người là nước vậy có nuôi cá được không?",
+   "author": ""
+  },
+  {
+   "name": "Nước ta nằm ở phía đông. Thế tại sao lại đặt tên nước là Việt Nam nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Giết người là phạm tội. Thế tại sao làm ra người cũng phạm tội?",
+   "author": ""
+  },
+  {
+   "name": "- Em yêu, tại sao Thượng đế tạo ra em xinh đẹp mà ngốc nghếch thế?\n- Em xinh đẹp để anh yêu em, còn em ngốc nghếch để em yêu anh.",
+   "author": ""
+  },
+  {
+   "name": "- Sao không đến tham dự hôn lễ của mình thế?\n- Tại có việc bận đột xuất, lần sau nhất định đi mà.",
+   "author": ""
+  },
+  {
+   "name": "- Admin ở đâu zậy?\n- Mình ở Sài gòn nơi mài mòn sắc đẹp, nơi hạn hẹp nhân duyên, nơi luân phiên thả thính, nơi mà nhân vật chính không phải là mình :D Thật tình mà nói, mình mong trong tương lai mình sẽ có nhiều nhà hơn để có thể trả lời bạn dài hơn nữa. Hehe.",
+   "author": ""
+  },
+  {
+   "name": "Chả hiểu sao đêm hôm mình chơi cái game eighth note sáng hôm sau hàng xóm nhìn mình miết",
+   "author": ""
+  },
+  {
+   "name": "Nobita học dở và không chơi game. Vậy tại sao lại bị cận?",
+   "author": ""
+  },
+  {
+   "name": "Trên đường đi học về, thấy một họa sĩ đang vẽ phong cảnh.\n- Tội nghiệp chú quá.\n- Sao vậy?\n- Tại chú không có tiền mua máy ảnh nên phải ngồi vẽ, tội quá!",
+   "author": ""
+  },
+  {
+   "name": "Không biết là quả cam được gọi là quả cam vì nó có màu cam.\nHay là màu cam được gọi là màu cam vì nó có màu giống quả cam?",
+   "author": ""
+  },
+  {
+   "name": "Tại sao trúng 6 số được 12 tỷ, mà mình trúng 1 số mình lấy 2 tỷ thôi mà ra cửa hàng người ta nhất quyết không chịu. Thử hỏi công bằng ở đâu?",
+   "author": ""
+  },
+  {
+   "name": "Không biết ngựa vằn là ngựa đen vằn trắng hay là ngựa trắng vằn đen?",
+   "author": ""
+  },
+  {
+   "name": "Các bác cho em hỏi ngu. Mất bằng lái phải thi lại... vậy mất giấy khai sinh có phải đầu thai lại ko?",
+   "author": ""
+  },
+  {
+   "name": "Lên cấp 3 rồi. Có được xem phim cấp 3 không nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao có mấy câu nhàm, nhảm, nhí nha nhí nhảnh vậy mà Admin vẫn đưa vào?\n- Admin không phải BGK thách thức danh hài nên không sợ cười nhẹ 1 cái là mất 2 triệu :D Có thể là do lúc nào cũng vui vẻ nên tiêu chuẩn hài hước của mình hơi thấp, nhưng mình có làm chức năng \"Không thích\" bài viết để các bạn ẩn bài viết. Các bạn nào tìm không thấy thì cập nhật phiên bản mới nhé. Cám ơn các bạn :D",
+   "author": ""
+  },
+  {
+   "name": "-Nhà em ở đâu???\n-Ở cạnh nhà hàng xóm\n-Vậy nhà hàng xóm em ở đâu???\n-Ở cạnh nhà em :))",
+   "author": ""
+  },
+  {
+   "name": "Tại sao chuột Hamster bị bệnh mà không cho uống thuốc chuột được nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Phải chi em xinh xắn, da em trắng thì em đã có được anh\n- Nhưng anh ơi, sao óc anh ngắn và não anh xoắn vậy... Em mà được thế... thì đâu tới lượt anh",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói: tối lửa tắt đèn có nhau. Vậy trong lúc tắt đèn người ta làm gì?",
+   "author": ""
+  },
+  {
+   "name": "- Tối nay anh có rãnh không, mình đi chơi nhé?\n- Hoa đã có chủ xin đừng rũ đi đêm :v",
+   "author": ""
+  },
+  {
+   "name": "- Đồ vô duyên!!!\n- Cám ơn, vô duyên là viết tắt của vô tư của duyên dáng mà.",
+   "author": ""
+  },
+  {
+   "name": "Băng vệ sinh thì liên quan vẹo gì đến cá tính nhỉ???",
+   "author": ""
+  },
+  {
+   "name": "- Nếu trúng số hàng trăm tỷ, điều đầu tiên mày sẽ làm gì?\n- Tao sẽ mở mắt ra và cám ơn trời đã cho một giấc mơ đẹp",
+   "author": ""
+  },
+  {
+   "name": "Quân tử lông chân - Tiểu nhân lông bụng! Em có hai loại thì làm thế nào???",
+   "author": ""
+  },
+  {
+   "name": "Tại sao môn học giáo dục giới tính không có bài tập về nhà nhỉ???",
+   "author": ""
+  },
+  {
+   "name": "Hai tên trộm đang hì hục mở một cái két sắt trong nhà băng. Thấy lâu, một thằng hỏi:\n- Tại sao mày lại dùng chân để mở?\n- Làm thế này lâu hơn vài phút nhưng sẽ khiến cho bọn chuyên gia về dấu tay phải phát điên lên đấy!",
+   "author": ""
+  },
+  {
+   "name": "- Thanh ăn cái gì mà khùng quá zợ?\n- Uống nước mắm, tắm mắm tôm",
+   "author": ""
+  },
+  {
+   "name": "- Admin là nam hay nữ? Bao nhiêu tuổi? Đã có người yêu chưa? Facebook, Zalo của admin là j z???\n- Theo chứng minh thì mình là nam, tại việt nam thì mình hai bốn, nói từ tốn thì chưa ai yêu, hỏi điêu tui kiêu tui ứ cho facebook. Hehe, nói chứ fb với zalo nó hơi thông tin cá nhân, cứ liên hệ mail cho mình. Nếu hợp thì chúng ta sẽ ko còn là nhân tố bí ẩn trong thế giới của nhau nữa thôi mà :D",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao phía dưới mỗi bức tranh tác giả đều ký tên?\n- Để người ta phân biệt đâu là trên, đâu là dưới.",
+   "author": ""
+  },
+  {
+   "name": "Vô sinh có di truyền được không?",
+   "author": ""
+  },
+  {
+   "name": "- 5 năm sau, bạn hi vọng điều gì ở bản thân?\n- Chỉ hi vọng được cuộc sống bình thường như bao tỷ phú khác thôi =))",
+   "author": ""
+  },
+  {
+   "name": "Mình đọc báo biết được tắm sau 11h đêm sẽ ảnh hưởng tới sức khỏe, nên những lần có việc về muộn, mình toàn phải chỉnh đồng hồ xuống trước 9h để tắm cho đỡ sợ.",
+   "author": ""
+  },
+  {
+   "name": "XNXX là viết tắt của từ gì vậy?",
+   "author": ""
+  },
+  {
+   "name": "- Người yêu cũ quay lại nói câu gì ngầu nhất?\n- Nếu em đã ko ngại, đề nghị chuyện quay lại, thì anh chẳng chơi dại mà yêu em lần 2 :v",
+   "author": ""
+  },
+  {
+   "name": "Người ta nói bác sĩ tâm thần. Vậy ông ấy có bị tâm thần không?",
+   "author": ""
+  },
+  {
+   "name": "Cho em hỏi Iphone dịch ra tiếng Việt là gì vậy?",
+   "author": ""
+  },
+  {
+   "name": "Ai là người đầu tiên phát hiện ra dưới nước có cá nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Con gái xoa đầu con trai là có ý gì?\n- Con trai cưng của mẹ",
+   "author": ""
+  },
+  {
+   "name": "- Yêu điên cuồng là gì?\n- Cả hai đều xấu đau xấu đớn nhưng lúc nào cũng sợ đối phương bị kẻ khác cướp mất.",
+   "author": ""
+  },
+  {
+   "name": "- Làm sao để quên đi được cảm giác mất một thứ vô cùng giá trị?\n- Làm mất một thứ khác giá trị hơn.",
+   "author": ""
+  },
+  {
+   "name": "- Em giận tôi à? Giận thì giận đi, who care?\n- Thêm s vào kìa\n- Who scare?",
+   "author": ""
+  },
+  {
+   "name": "Trên đường gặp ngã 3, ngã 4 không biết ngã 1, ngã 2 trông như thế nào nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Cảm ơn anh đã chở em về\n- Ơn nghĩa gì... lấy thân mà báo đáp đi chứ :v",
+   "author": ""
+  },
+  {
+   "name": "Đi vệ sinh hết giấy, nhanh trí mặc quần vào ra lấy giấy vào chùi...",
+   "author": ""
+  },
+  {
+   "name": "- Bạn gái nói gì làm bạn thất vọng nhất?\n- Nói với người khác cô ấy còn FA.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao khi đc tỏ tình hoặc cầu hôn con gái thường đưa tay che miệng?\n- Để người ta ko đoán đc cô ấy đang nói Oh my god hay What the f*|%.",
+   "author": ""
+  },
+  {
+   "name": "Chết vào ngày sinh nhật thì làm đám gì nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Tại sau sâu răng mà không súc miệng bằng thuốc trừ sâu nhỉ",
+   "author": ""
+  },
+  {
+   "name": "- Nếu trúng xổ số 2 tỷ bạn sẽ làm gì?\n- Đợi Viettel khuyến mãi 50% nạp 2 tỷ vào mình lãi được 1 tỷ.",
+   "author": ""
+  },
+  {
+   "name": "- Mãi không có bạn gái, chẳng lẽ yêu cầu của mình quá cao sao?\n- Đừng ngốc nữa, là người ta yêu cầu cao đó.",
+   "author": ""
+  },
+  {
+   "name": "- Yêu một người thật khó...\n- Vậy thử yêu nhiều người xem sao?",
+   "author": ""
+  },
+  {
+   "name": "Trong trừơng hợp 1x0=0 thì số nào nhân 0 cũng bằng 0 hay số nào nhân 1 cũng bằng chính nó nhỉ!!!",
+   "author": ""
+  },
+  {
+   "name": "- Bạn biết nấu ăn không?\n- Tôi có chứ. Nhưng nếu thông minh thì bạn đừng nên ăn những gì tôi nấu.",
+   "author": ""
+  },
+  {
+   "name": "- Sao mày xấu thế?\n- Thế giới bây giờ, nhiều người đẹp quá rồi. Tao phải xấu cho nó đặc biệt.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu trái đất quay nhanh hơn gấp 30 lần thì chuyện gì sẽ xảy ra?\n- Chúng ta sẽ nhận lương mỗi ngày.",
+   "author": ""
+  },
+  {
+   "name": "- Mình chia tay đi...\n- Her... Tay anh mười ngón tay, em mười ngón... Chia làm sao nhỉ..",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi em đòi hoài mà nó không chịu trả?\n- Đổi ava thành \"Trả tiền đây\", rồi like tất cả status nó post.",
+   "author": ""
+  },
+  {
+   "name": "- Ước gì IQ của tao tăng gấp đôi nhỉ?\n- 0 x 2 = 0",
+   "author": ""
+  },
+  {
+   "name": "- Trả tiền cho tao\n- Ta bằng bản sự vay tiền. Tại sao phải trả?",
+   "author": ""
+  },
+  {
+   "name": "- Đặt câu với từ \"đỡ đần\"?\n- Đi học giúp em đỡ đần hơn",
+   "author": ""
+  },
+  {
+   "name": "Hốt hoảng đi tìm điện thoại vì không nhớ để ở đâu, bật cả flash soi gầm giường tìm.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao tán đổ con gái xong, thái độ con trai lại khác hẳn?\n- Thi xong cậu có đọc sách nữa không?",
+   "author": ""
+  },
+  {
+   "name": "-Bạn khâm phục một nửa của mình ở điểm nào nhất?\n-Trốn quá giỏi, tìm bao năm nay cũng chẳng thấy.",
+   "author": ""
+  },
+  {
+   "name": "bún: Lí do nào khiến admin nghĩ ra phầm mềm này?\n- Cấp 2 mình có sở thích nghe rap, rồi sưu tầm các câu hay ho của mấy anh rapper, rồi lúc lên sinh viên được học lập trình mình ấp ủ sẽ làm 1 cái thứ gì đại loại \"Từ điển rapper\", gõ cái từ muốn tìm vần một phát là ra các câu lyrics của các bài nhạc liên quan để tham khảo, hoặc là cách chơi vần, chơi chữ, nói lái các thứ... Nhưng thời gian trôi qua hối hả, nhạc rap ngày càng hẩm hiu hắt hủi, mình đã mất đi sự hăng hái, háo hức, hớn hở chỉ còn lại sự hiền hòa, hài hước, hóm hỉnh... Hehe, nhưng mà sở thích sưu tầm vẫn giữ nguyên, rồi 1 ngày mình thấy dữ liệu nhiều quá nên quyết định làm app cho dễ quản lý, ban đầu chỉ muốn quản lý phân theo danh mục cho dễ dàng xem lại thôi. :D Không ngờ giờ lại nhiều danh mục đến vậy =))",
+   "author": ""
+  },
+  {
+   "name": "Mình có 1 thắc mắc là gái ngoan có thẩm du không nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Nghe điện thoại nói câu gì cho ngầu?\n- Đây là đài tiếng nói Việt Nam",
+   "author": ""
+  },
+  {
+   "name": "- Em muốn lấy người như thế nào?\n- Ko vừa mắt thì phải tỷ phú còn vừa mắt thì triệu phú cũng lấy",
+   "author": ""
+  },
+  {
+   "name": "Lúc nhỏ tao thấy 200k rơi trên đường đi học về, tao về nhà hỏi mẹ xem có nên nhặt không?",
+   "author": ""
+  },
+  {
+   "name": "- Làm gì khi biết Crush sắp block facebook bạn?\n- Nhanh trí đổi ngay tên + avatar để nó không tìm ra mày",
+   "author": ""
+  },
+  {
+   "name": "- Đời không trả cát-sê nên em không cần phải diễn\n- Đời không trả cát-sê nhưng vì đam mê em vẫn cứ diễn =))",
+   "author": ""
+  },
+  {
+   "name": "Nam đánh 8 thằng lưu manh sang ngày hôm sau 8 thằng đó phải vào viện... để thăm Nam",
+   "author": ""
+  },
+  {
+   "name": "- Anh ở dơ quá! Đầu toàn gàu à!\n- Anh gom góp gàu cả một năm trời, chỉ vì em nói muốn nhìn tuyết rơi.",
+   "author": ""
+  },
+  {
+   "name": "- Nếu đối phương có kỹ thuật hôn điêu luyện, chứng tỏ hắn dày dặn kinh nghiệm tình trường nhỉ?\n- Hắn như nào thì mình ko chắc, mình chỉ chắc một điều, cậu phát hiện ra đc thì cũng chẳng vừa đâu.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao trai gái yêu nhau cứ nhất nhất là phải lên giường nhỉ... xuống đất trải chiếu cũng được mà",
+   "author": ""
+  },
+  {
+   "name": "- Thất bại của tạo hoá là gì?\n- Tạo \"Hoá\"",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi, em 2 vạch rồi\n- Chúc mừng em đã lên trung sĩ",
+   "author": ""
+  },
+  {
+   "name": "- Hôm nay đi dạo, tất cả những cô gái mình gặp đều xấu hơn mình.\n- Cậu đi dạo trong viện dưỡng lão hả?",
+   "author": ""
+  },
+  {
+   "name": "Thằng Tèo để quên điện thoại ở nhà mình mà mình gọi điện, nhắn tin cho nó... để nó quay lại lấy mà nó không thèm bắt máy cũng không trả lời tin nhắn, thằng khinh người!",
+   "author": ""
+  },
+  {
+   "name": "- Nếu có thể anh xin đổi cả thế giới này để có thể lấy được em\n- Vâng, vậy anh đã mất bao nhiêu thế giới rồi",
+   "author": ""
+  },
+  {
+   "name": "- Mình đang thích một anh chàng cùng công ty, không biết con trai nghĩ gì về những cô gái theo đuổi mình nhỉ?\n- Xinh mới gọi là người theo đuổi, không xinh thì là kẻ quấy nhiễu.",
+   "author": ""
+  },
+  {
+   "name": "- Admin đang làm việc j?\n- Một công việc nghe thì kinh hãi, nghĩ thì kinh hoàng, giờ làm thì nhiều kinh khủng, giờ giải trí ngắn kinh dị, lương bèo nghèo kinh điển, nói ko suy diễn... chứ đây là 1 nghề nguy hiểm... Lập trình viên mãn teen chính là tui :v",
+   "author": ""
+  },
+  {
+   "name": "- Thiếu anh, em không thể sống được\n- Em thích ăn gì để anh cúng",
+   "author": ""
+  },
+  {
+   "name": "- Đàn ông phóng túng quá thì suy thận, vậy đàn bà phóng túng quá thì sao?\n- Vẫn là đàn ông suy thận.",
+   "author": ""
+  },
+  {
+   "name": "Người giàu nhất thế giới là Bill Gates, vậy người nghèo nhất là ai?",
+   "author": ""
+  },
+  {
+   "name": "- Tiền đâu mà nhiều bạn trẻ uống trà sữa 50-60k một ly nhỉ?\n- Sinh viên đi làm thêm nhiều lắm, mình quét zalo thấy cả trăm người =))",
+   "author": ""
+  },
+  {
+   "name": "Năm lớp 4 tao bị đuổi ra khỏi nhà, tao bắt đầu nghĩ quẩn và tao đi tìm nhà nào giàu có để xin làm con nuôi nhưng họ lại đuổi tao?",
+   "author": ""
+  },
+  {
+   "name": "Khách vô order Capuchino. Tao đang nghe nhạc Chipu và hỏi khách \"Anh dùng Chipu nóng hay đá ạ?\" =_=",
+   "author": ""
+  },
+  {
+   "name": "- Béo quá ăn gì cho gầy ad\n- Ăn quỵt :v Ăn xong thể thao là gầy liền chứ gì :v",
+   "author": ""
+  },
+  {
+   "name": "- Anh đang làm gì vậy?\n- Làm biếng",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao nắp cống lại hình tròn?\n- Nếu nó hình vuông bạn sẽ lại hỏi tại sao nó hình vuông, cho mình xin đi, dù sao nó cũng cần một hình dạng nào đó mà.",
+   "author": ""
+  },
+  {
+   "name": "Tôi vừa xét nghiệm máu và biết được mình nhóm máu B+, nếu tôi cố gắng chăm chỉ học hành thì lần sau xét nghiệm tôi có thể được nhóm máu A không?",
+   "author": ""
+  },
+  {
+   "name": "Nếu ta nói cái này \"không đủ lớn\" thì là nó quá nhỏ hay quá lớn?",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao phụ nữ thường sống khỏe sống dai sống thoải mái hơn đàn ông?\n- Vì... phụ nữ không có vợ!",
+   "author": ""
+  },
+  {
+   "name": "Mẹ bảo em những quả cóc to những quả cóc ngon.\nThế quả cóc to có ngon hay không?",
+   "author": ""
+  },
+  {
+   "name": "Cho hỏi thi hoa hậu có được cộng điểm khu vực không các thím?",
+   "author": ""
+  },
+  {
+   "name": "Tuấn bị mất ngủ, bác sĩ khuyên trước khi ngủ đếm từ 1 đến 100. Tuấn đếm tới 69 thì buồn ngủ quá, Tuấn dậy rửa mặt cho tỉnh táo rồi nằm đếm tiếp. Tuấn thức tới sáng.",
+   "author": ""
+  },
+  {
+   "name": "- Mày rắc đường lên gối để làm gì?\n- Để có một giấc mơ ngọt ngào",
+   "author": ""
+  },
+  {
+   "name": "Duy Phạm: Sinh nhật nên tặng gấu gì bh?\n\nMình lười tặng quà lắm nên hay nói: \"Sinh nhật em, anh cũng không có gì quý giá hơn để tặng em ngoài tấm thân nhỏ bé này, phận trai 12 bến nước, em không rước sẽ có thiên thần khác làm thay em.\"\nNgười ta nói \"Quà tặng không quan trọng bằng cách tặng\". Cho nên là tặng quà nào chả được, miễn là đi kèm theo một câu chuyện :D Dưới đây là 1 số cách mà mình đã thử và...:\n- Qùa chắc em nhiều rồi, chỉ còn thiếu sự ngọt ngào thôi... ăn cây kẹo ngay và luôn đi\n- Lần đầu gặp em, anh nghĩ ai lại dắt con cái vào trường mà để lạc thế này, em nhìn như con nít... đi sinh nhật con nít thì cục xà bông là chuẩn oy :v\n- Heo đất :v đọc lại câu hỏi kỳ trước\n- Con gái mà ai mà chả có quyền được đẹp, quyền được đẹp hơn, mà để coi chiều này em có cái quyền đó không... nè tặng tờ vé số chứa đựng quyền đẹp của em =))\nÀ thôi, tham khảo thôi, ai đang mode nhây, lầy thì làm được chứ mode lịch lãm, lịch sự, thì coi như là truyện hài đi =))",
+   "author": ""
+  },
+  {
+   "name": "- Nhà em ở đâu?\n- Ở đâu còn lâu mới nói.",
+   "author": ""
+  },
+  {
+   "name": "Bố mẹ thường so sánh mình với con nhà người ta. Vậy con nhà người ta so sánh với ai?",
+   "author": ""
+  },
+  {
+   "name": "- Trước tao thấy mày nhà giàu, công tử lắm mà sao giờ này lại đi làm phục vụ rồi.\n- Ừ thì cuộc sống mà, đôi lúc cũng phải làm phục vụ chứ... vì đây là quán nhà tao mà =))",
+   "author": ""
+  },
+  {
+   "name": "- Hãy cố gắng biến thu nhập hàng ngày của bạn bằng số điện thoại\n- Ý bạn là 113...",
+   "author": ""
+  },
+  {
+   "name": "- Từ ngày có 360 độ, lên mạng tán gái thấy bất an quá. Chả biết em nào xinh thật em nào xinh giả.\n- Thế sao mày phải lên mạng tán gái, chẳng phải do mày xấu thật ư?",
+   "author": ""
+  },
+  {
+   "name": "PY: Sở thích của ad là gì?\n- Thích con gái là bản năng, thích lập trình vì bản chất, thích nghe rap do bản tính và tự thích bản thân bởi mình là bản gốc :D",
+   "author": ""
+  },
+  {
+   "name": "- Sao thấy gái mà cứ tươm tướp vậy hả?\n- Bò không ăn cỏ bò ngu. Trai không mê gái trai ngu hơn bò =))",
+   "author": ""
+  },
+  {
+   "name": "- Em biết không, thực ra anh yêu thầm em lâu lắm rồi!\n- Ồ, anh vẫn có thể tiếp tục mà",
+   "author": ""
+  },
+  {
+   "name": "Đề bài trắc nghiệm: \"Hãy chọn câu sai\". Thế tại sao chọn câu sai lại bị trừ điểm?",
+   "author": ""
+  },
+  {
+   "name": "- Con yêu, ở ngoài đường khô ráo lắm, làm gì có chỗ nào có bùn bẩn và vũng nước mà phải đi ủng?\n- Con sẽ tìm được những chỗ đó mẹ ạ.",
+   "author": ""
+  },
+  {
+   "name": "Sáng nhặt lá, trưa đá ống bơ, chiều làm thơ, đêm thẩn thờ chờ trời sáng",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao trẻ con đẻ ra lại khóc nhỉ?\n- Hi sinh cả trăm triệu huynh đệ để nó đc chào đời, ko đau lòng mới lạ.",
+   "author": ""
+  },
+  {
+   "name": "eya: Kiếm vợ tên gì cho đẹp?\n- Tên: Đẹp Đến Đây Để Đày Đọa Đời Đâu Đáng Được Đắn Đo Điên Đảo :v Haha, tỷ lệ chênh lệch giữa nam và nữ ngày càng lớn có vợ là may lắm rồi, giờ còn phải theo tên nữa chắc phải làm chồng bé mất. :D",
+   "author": ""
+  },
+  {
+   "name": "Phim giết người thì cho xem, zậy sao phim tạo ra người thì ko cho xem :p",
+   "author": ""
+  },
+  {
+   "name": "Tại sao người ta bắn pháo hoa vào ban đêm mà không phải ban ngày?",
+   "author": ""
+  },
+  {
+   "name": "Cần lắm: Đi nhầm tolet ns câu j ngầu nhất z ad!?\n\nHét lên, vợ ơi... anh biết em có trong đây... anh chỉ muốn nói với em 1 câu thôi: anh xin lỗi em đừng trốn tránh anh nữa, ra đây đi gặp anh đi... *quay qua nói xung quanh* Khi nào cô ấy ra nói cho em nha chị. Em cám ơn... Rồi cứ bước ra như soái ca :v",
+   "author": ""
+  },
+  {
+   "name": "- Gặp người mình từng Crush, cảm giác thế nào?\n- Không thể ngờ ngày xưa mắt thẩm mỹ của mình lại kém đến thế",
+   "author": ""
+  },
+  {
+   "name": "Nơi bắt đầu sẽ là nơi kết thúc. Vậy tại sao sinh ra ở bệnh viện mà cuối chùng lại nằm ngoài nghĩa địa?",
+   "author": ""
+  },
+  {
+   "name": "- Theo mày bao nhiêu tuổi thì thích hợp lên giường?\n- Từ trước giờ mày ngủ dưới đất sao! Khổ thân :(",
+   "author": ""
+  },
+  {
+   "name": "- Nước trong TV có chảy ra ngoài được không nhỉ?\n- Sao mày ngu vậy... mày không thấy màn hình nó ngăn nước rồi à.",
+   "author": ""
+  },
+  {
+   "name": "- Có cách nào kiếm 1 tỷ 1 năm mà không phạm pháp không?\n- Gửi ngân hàng 100 tỷ mỗi năm là mày có 7 tỷ, áp dụng quy tắc tam suất thì mày chỉ cần gửi ngân hàng khoảng 15 tỷ một năm thôi.",
+   "author": ""
+  },
+  {
+   "name": "- Nói một câu để chứng minh bạn đã từng xem Tây Du Ký?\n- Thấy một cô gái xinh đẹp, Đường Tăng sẽ gọi người ta là nữ Bồ Tát, không đẹp thì gọi là nữ thí chủ.",
+   "author": ""
+  },
+  {
+   "name": "Sáng ra đường, nhặt được tờ 2k bị rách. Suy nghĩ 1 hồi em quyết định ghé vào tạp hóa mua băng keo giá 3k để dán lại.",
+   "author": ""
+  },
+  {
+   "name": "cecilia: anh khánh đẹp trai ơi~~~~ em có thể mượn một vài (có thể nhiều) câu nói hay của anh đăng lên wappad ko??? em sẽ ghi nguồn đầy đủ >o<\n\nThoải mái đi em, càng nhiều người chém gió thế giới càng mát mẻ, zui zẻ mà :v",
+   "author": ""
+  },
+  {
+   "name": "- Sao con gái \"thơm\" thế?\n- Tao liệt lại cho nè: nước giặt, nước xả vải, sữa tắm, dầu gội, dưỡng tóc, body mist, nước hoa, nước cho cho tóc... có bấy nhiêu đó thôi mà bắt kể hoài",
+   "author": ""
+  },
+  {
+   "name": "Mua đồ 89k, dưa tờ 100k xong nhanh trí đưa thêm 1k nữa để cô bán hàng trả tròn 10k.",
+   "author": ""
+  },
+  {
+   "name": "- Cho mày một trăm triệu, có việc gì bảo mày làm mày cũng không làm không?\n- Trả lại cho mày!",
+   "author": ""
+  },
+  {
+   "name": "- Huhu, mày ơi, phải yêu ai để không bị phũ phàng, không bị lừa dối đây?\n- Yêu Tổ quốc, yêu đồng bào.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao em không làm bài tập về nhà?\n- Em vô gia cư ạ",
+   "author": ""
+  },
+  {
+   "name": "- Muốn nhắn tin chọc phá 1 bạn nam thì nên nhắn câu gì cho ngầu vậy ad?\n\nRiêng cái việc cọc tìm trâu là thấy là rất ngầu rồi :v Tùy vào độ xinh và tự tin bản thân có thể sử dụng vài câu:\n- Mẹ em bảo anh là của em! Sau tin nhắn này anh chính thức là của em!\n- Sự xuất hiện đường đột của 1 thiên thần như em có làm anh rung động?\n- Anh có muốn tâm sự với người lạ?\n- Em muốn chứng minh là mình ko vô hình trong mắt anh, anh có thấy tin nhắn này ko?",
+   "author": ""
+  },
+  {
+   "name": "- Nhạc sĩ Beethoven là người nước nào?\n- Nước ngoài",
+   "author": ""
+  },
+  {
+   "name": "Ghệ em đặt tên em trong danh bạ là \"Vietinbank\" là sao nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "Cái lỗ trên cái ghế nhựa dùng để làm gì?",
+   "author": ""
+  },
+  {
+   "name": "Mẹ Nga nấu cơm bị nhão, Nga quyết định đổ thêm nước để thành cháo. Nga cảm thấy mình thật thông minh.",
+   "author": ""
+  },
+  {
+   "name": "-Mày làm thế không thấy cắn rứt lương tâm sao?\n-Lương tâm tao có răng đâu mà cắn!",
+   "author": ""
+  },
+  {
+   "name": "Các cụ cho em hỏi phát! Ông thầy tu á. Ổng đã vào cửa phật thì ổng ko dc sát sinh. Thế cho cháu hỏi ổng có đáng răng hong hĩ =))",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao khi xoá ứng dụng trên iphone, đống biểu tượng lại run bần bật nhỉ?\n- Nó sợ cậu xoá nó chứ sao\n- Thế còn những ứng dụng có sẵn thì sao, đâu có xoá đc đâu mà nó cũng run?\n- Nó run đâu, nó đang rung đùi đắc ý trêu ngươi bọn khác đấy chứ!",
+   "author": ""
+  },
+  {
+   "name": "- Em có biết tại sao tôi lại quay ghế lại ko? (Giám khảo)\n- Vì chị bấm cái nút đỏ kia ạ. (Thí sinh)",
+   "author": ""
+  },
+  {
+   "name": "- Dép nhiu tiền chị ơi?\n- 40k\n- 20k thôi chị\n- Đuợc rồi, em thích đi chân trái hay chân phải?",
+   "author": ""
+  },
+  {
+   "name": "Một cục xà bông rơi vào một đống sh!t, thì cục xà bông bị nhiễm khuẩn hay đống sh!t bị diệt khuẩn?",
+   "author": ""
+  },
+  {
+   "name": "Minh thấy bố cúp cầu dao để sửa điện mà mồ hôi chảy từng dòng. Minh thương bố liên mở cầu dao bật quạt cho bố mát.",
+   "author": ""
+  },
+  {
+   "name": "- Anh ơi em có bầu rồi\n- Chờ xíu anh ra chợ mua ít tôm về nấu canh.",
+   "author": ""
+  },
+  {
+   "name": "Có đứa nào lớn rồi mà vẫn ăn cơm giống tao không",
+   "author": ""
+  },
+  {
+   "name": "Crush em nói thích trai hàn, thế là em bỏ học kinh doanh sang học làm thợ hàn...",
+   "author": ""
+  },
+  {
+   "name": "- Inbox vs 1 người mà người đó chỉ trả lời mình bằng 1 câu ukm, uk, vâng... thì mình nên trả lời lại là j ạ\n\nMột cuộc hội thoại mà 1 người làm MC, 1 khán giả giả bộ tỏ vẻ quan tâm thì... tại sao bạn phải 1 mình duy trì cái cuộc hội thoại ấy? Phải có bản lĩnh chứ :D",
+   "author": ""
+  },
+  {
+   "name": "- AD có bị 3D ko vậy?\n- 3D ko phải là \"bị\" mà chính là gia vị của cuộc sống. Nói luôn mình trai thẳng, cũng có gì lủng lẳng giống người ta =))",
+   "author": ""
+  },
+  {
+   "name": "- Em lại trễ tới nữa rồi!!??\n- Einstein nói thời gian là tương đối mà. Em không trễ đâu, có lẽ tại cô và các bạn đến sớm thôi.",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao bác sĩ khuyên phụ nữ không nên uống rượu bia trước khi mang thai?\n- Tại vì đó nguyên nhân rất dễ khiến họ mang thai =))",
+   "author": ""
+  },
+  {
+   "name": "- Cả thế giới này a chỉ iu mỗi mình e thôi.\n- Em iu cả thế giới này trừ mỗi mình a thôi.",
+   "author": ""
+  },
+  {
+   "name": "- Món ăn ưa thích lúc bé của cậu là?\n- Móng tay.",
+   "author": ""
+  },
+  {
+   "name": "Cho em hỏi ngu tí: số lẻ nào chia hết cho 2 vậy?",
+   "author": ""
+  },
+  {
+   "name": "Nếu có 1 tỷ tờ 1 nghìn đồng nghĩa là mình có 1 tỷ đồng hay 1 tỷ nghìn đồng?",
+   "author": ""
+  },
+  {
+   "name": "- Tại sao anh lại mặc số 21?\n- Vì tôi chơi tốt hơn Ronaldo 3 lần",
+   "author": ""
+  },
+  {
+   "name": "Name nO: Nhà em bán bia hà nội ạ. anh có câu tếu tếu nào hay hay để trêu khách ko ạ\n- Uống bia Hà Nội, vượt trội cả một đội hình :v Toàn làm khách đi trêu chủ ko thôi :v",
+   "author": ""
+  },
+  {
+   "name": "- Khi yêu đương cần chú ý điểm gì?\n- Lúc tranh luận con trai ko đc cất giọng cao hơn con gái.",
+   "author": ""
+  },
+  {
+   "name": "- Kiểu con trai thế nào sẽ khiến bạn say nắng?\n- Kiểu lạnh lùng, những chàng trai đi xe không đội nón bảo hiểm, cười phát là điêu đứng tâm hồn thiếu nữ của mình ngay. Ý mình là anh ấy đi ô tô ý.",
+   "author": ""
+  },
+  {
+   "name": "HƯNG ARMY: Anh..e đợi anh lâu rồi...a làm e cái tên hưng ạ..kiểu như chiến thó vậy á...rồi tân 1 cú..chú thợ điện vậy á anh\n\nNhiều câu hỏi quá nên anh random trả lời thôi :D Các từ tên Hưng mà anh có thể nghĩ được: hưng cáo, hưng tính, hưng phấn, hưng nám, hưng néo, hưng ko cú, hưng trối,... Anh ko có chuyên nói lái cho lắm, nhưng nếu e thích cứ pm fb a sẽ chỉ cách tìm từ nói lái, hoặc cách tìm vần, tìm chữ đầu,... hehe",
+   "author": ""
+  },
+  {
+   "name": "Đạt đi tắm sông bị đuối nước. Đạt kêu cứu không ai nghe... nên đã tự bơi vào bờ.",
+   "author": ""
+  },
+  {
+   "name": "Cần 1 cái tên: Cho em hỏi uống thuốc ngủ pha cafe thì sẽ tỉnh ngủ hay buồn ngủ ạ?\n\n- Theo nhận định ban đầu thì đây không phải là dạng câu hỏi giải nghiệm ăn điểm trong đề thi đại học, mà cần sự trưởng thành từ trải nghiệm, từ đó bằng kinh nghiệm bản thân tôi có thể dễ dàng đưa cho bạn câu trả lời trả lời đó là nếu bạn uống hỗn hợp 2 thứ trên thì sẽ tỉnh ngủ đến khi buồn ngủ :v",
+   "author": ""
+  },
+  {
+   "name": "- Giờ em thích cưa hay tự đổ\n- Giờ anh thích đuổi hay tự đi",
+   "author": ""
+  },
+  {
+   "name": "Nga được mẹ giao nấu cơm nhưng cơm bị nhão. Nga quyết định vứt gói hút ẩm vào nồi cơm để hút nước.",
+   "author": ""
+  },
+  {
+   "name": "Lúc các siêu nhân đang biến hình thì mấy tên quái vật nó làm j nhỉ?",
+   "author": ""
+  },
+  {
+   "name": "- Khi chết người ta làm gì?\n- Làm thinh",
+   "author": ""
+  },
+  {
+   "name": "- Sao con gái đi đâu làm gì cũng make up chải chuốt còn, con trai thì không làm gì cả?\n- Đơn giản vì con trai lúc nào cũng đẹp... còn con gái tôi không dám có ý kiến.",
+   "author": ""
+  },
+  {
+   "name": "Lọ lem đi giày thủy tinh size bao nhiêu mà cả vương quốc thử đều không vừa?",
+   "author": ""
+  },
+  {
+   "name": "Mai lấy tờ 100k để xuống đất, rồi chạy lại bảo con bạn ''mày làm rớt tiền kìa\" thế là con bạn nhặt tờ 100k lên bỏ vào túi và Mai cảm thấy rất vui vì đã dụ được con bạn.",
+   "author": ""
+  },
+  {
+   "name": "- Chú ca cải lương được không?\n- Chú ca cải lương giống cải lộn",
+   "author": ""
+  },
+  {
+   "name": "- Số điện thoại của em là gì?\n- 1900, một tông một dép, một tông vào mép, một dép vào mồm!",
+   "author": ""
+  },
+  {
+   "name": "- Tôi thấy cậu chẳng có tài năng gì cả. Cậu là đồ vô dụng!\n- Thưa thầy, thầy không nhìn thấy sao Mộc trên bầu trời, không có nghĩa là nó chẳng có ở đó.",
+   "author": ""
+  },
+  {
+   "name": "- Anh đang làm gì vậy?\n- Anh đang chat với mấy đứa rãnh đó mà.",
+   "author": ""
+  },
+  {
+   "name": "Cho em hỏi là 4-5 người bạn đi tù cùng lúc có được ở chung phòng không ạ?",
+   "author": ""
+  },
+  {
+   "name": "- Em mập như vậy anh sẽ không vứt bỏ em chứ?\n- Không bao giờ.\n- Tại sao vậy?\n- Nặng quá vứt không nổi.",
+   "author": ""
+  },
+  {
+   "name": "- Hồi học cấp 1, việc điên rồ nhất mày từng làm?\n- Ăn cắp tiền mua kẹo, mua không hết vứt tiền thừa đi phi tang vật chứng...",
+   "author": ""
+  },
+  {
+   "name": "Các bác cho em hỏi: bao giờ thời sự phát tập cuối!",
+   "author": ""
+  },
+  {
+   "name": "- Anh ở đâu?\n- Ở với bố mẹ.\n- Vậy bố mẹ anh ở đâu?\n- Ở với anh!...",
+   "author": ""
+  },
+  {
+   "name": "- Anh sang nước ngoài từ khi nào vậy?\n- Từ khi anh rời khỏi Việt Nam!!!",
+   "author": ""
+  },
+  {
+   "name": "- Bạn gái luôn mồm khen bạn trai của người khác, nên làm thế nào để cô ấy thay đổi?\n- Trở thành bạn trai của người khác.",
+   "author": ""
+  },
+  {
+   "name": "- Đang mua sịp, cạnh con gái nói câu gì ngầu nhất?\n- Loại XXL này vẫn nhỏ lắm cô ơi.",
+   "author": ""
+  },
+  {
+   "name": "Tại sao sông Hồng tên tiếng Anh lại là Red River, mà không phải là Pink River?",
+   "author": ""
+  },
+  {
+   "name": "Tại sao lại có nhà nước mà nhà lửa đâu rồi nhỉ",
+   "author": ""
+  }
+ ]
+}

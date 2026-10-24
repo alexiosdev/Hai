@@ -1,0 +1,426 @@
+{
+ "code": 200,
+ "message": "",
+ "isPassAppstore": false,
+ "isForceAppstoreReviewing": false,
+ "isPassAOSStore": true,
+ "isForceAOSReviewing": false,
+ "result": [
+  {
+   "name": "Con muốn cám ơn mẹ vì đã sinh ra một con người xinh đẹp giỏi giang hiền hậu thùy mị nết na không ai sánh bằng như con.",
+   "author": ""
+  },
+  {
+   "name": "20/11, cả lớp hát tặng cô một bài rất hay. Cô cảm động lắm, rồi hỏi: “Lời bài hát dài vậy mà thuộc hết, sao trả bài không thuộc?”",
+   "author": ""
+  },
+  {
+   "name": "Black Friday tôi tự hứa chỉ xem, không mua. Cuối ngày tôi giữ lời thật: chỉ ngồi xem… lịch sử 7 đơn hàng vừa đặt.",
+   "author": ""
+  },
+  {
+   "name": "Trung thu ngày xưa: rước đèn ông sao. Trung thu bây giờ: rước đèn flash điện thoại để chụp bánh cho đẹp.",
+   "author": ""
+  },
+  {
+   "name": "Đi chúc Tết, câu “Năm nay lương bao nhiêu?” đáng sợ hơn cả câu “Có người yêu chưa?”. Vì câu sau còn trả lời được là “sắp có”.",
+   "author": ""
+  },
+  {
+   "name": "Trung thu, cháu hỏi bà: “Trên cung trăng có wifi không bà?”. Bà bảo: “Không có, nên chú Cuội mới ngồi ngắm trời. Có wifi thì chú lướt điện thoại, cây đa bay đi lúc nào cũng không biết.”",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mùng 8 tháng 3\nChẳng hay anh đã mua quà hay chưa?\nEm hỏi thì anh xin thưa\nTiền net chưa có mua mua cái nồi.",
+   "author": ""
+  },
+  {
+   "name": "Ông già Noel mà làm việc thời nay chắc phải chạy giao hàng: một đêm giao cả triệu đơn, vẫn bị khách đánh giá 4 sao vì “tuần lộc đi hơi chậm”.",
+   "author": ""
+  },
+  {
+   "name": "- Bông đưa tiền lì xì mẹ giữ hộ cho.\n- Cô là ai? Cháu không biết, cô đi ra đi!!!",
+   "author": ""
+  },
+  {
+   "name": "Giao thừa cả nhà đếm ngược 10, 9, 8… Riêng tôi đang đếm lượt xem story chúc Tết.",
+   "author": ""
+  },
+  {
+   "name": "Ngày 14/2, em gái tôi nhắn bạn cùng lớp: “Cậu có định tặng ai socola không? Nếu chưa thì tớ xin nhận hộ.”. Cậu ấy đáp: “Tớ định tặng cậu, nhưng lỡ ăn mất một nửa trên đường đi rồi.”",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mùng 8 tháng 3\nVợ tôi hậm hực đi ra đi vào:\n“Lương đâu? Chả thấy đồng nào?”\nThế rồi tức giận... hết vào lại ra...!",
+   "author": ""
+  },
+  {
+   "name": "Trung thu, cô bạn tôi nhắn crush: “Trăng đêm nay đẹp quá, anh có muốn ngắm cùng không?”. Anh ấy gửi lại một tấm ảnh mặt trăng nét căng: “Anh ngắm rồi nè, đẹp thật.”",
+   "author": ""
+  },
+  {
+   "name": "Tết năm nay tôi dán bảng “Câu hỏi thường gặp” ngay cửa: Lương – đủ sống. Người yêu – đang tải. Cưới – chưa có lịch. Cân nặng – xin phép giữ bí mật.",
+   "author": ""
+  },
+  {
+   "name": "8/3 bố hỏi mẹ thích quà gì. Mẹ bảo: “Năm nay anh nhớ được hôm nay là ngày gì, thế là quà rồi.”",
+   "author": ""
+  },
+  {
+   "name": "Gói bánh chưng: chiếc của bà vuông như dùng thước, chiếc của mẹ đẹp chuẩn, còn chiếc của tôi luộc xong tự bung ra thành nồi cháo nếp.",
+   "author": ""
+  },
+  {
+   "name": "Chúc các bạn nữ hay cười như hít phải khí N2O, bay bổng như H2, thăng hoa như I2, bản lĩnh như N2, và hiền hòa như H2O.",
+   "author": ""
+  },
+  {
+   "name": "Valentine độc thân không buồn. Buồn là app giao đồ ăn gửi thông báo: “Combo cặp đôi giảm 30%, đặt ngay!”",
+   "author": ""
+  },
+  {
+   "name": "Dọn nhà đón Tết, mẹ tìm thấy 3 chiếc điều khiển TV cũ, 15 cái sạc không rõ của máy nào và tấm ảnh tốt nghiệp mẫu giáo của tôi. Mẹ bỏ hết, chỉ giữ tấm ảnh: “Cái này để Tết khoe họ hàng.”",
+   "author": ""
+  },
+  {
+   "name": "Tết về quê, bà ngoại hỏi: “Ở thành phố ăn uống đủ không con?”. Chưa kịp trả lời, cốp xe đã đầy gà, giò, bánh chưng và hai bao gạo.",
+   "author": ""
+  },
+  {
+   "name": "8/3 tôi tặng mẹ bó hoa. Mẹ hỏi giá, rồi mắng: “Lần sau đưa tiền mẹ đi chợ”. Mắng xong, mẹ chụp bó hoa đăng lên mạng 5 lần, mỗi lần một góc.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay ngày 8/3\nTôi giặt dùm bà cái áo của tôi\nThương bà tôi nấu nồi xôi\nThấy răng bà yếu tôi xơi giùm bà",
+   "author": ""
+  },
+  {
+   "name": "20/10 tôi tặng mẹ một ngày nghỉ: tôi vào bếp nấu cơm. Mẹ phải nghỉ thêm ngày 21 để… dọn bếp.",
+   "author": ""
+  },
+  {
+   "name": "20/10, bố tặng mẹ một lời hứa: “Cả tuần này anh rửa bát”. Mẹ cảm động hơn được tặng hoa, vì hoa thì vài hôm là héo, còn bát thì ngày nào cũng có.",
+   "author": ""
+  },
+  {
+   "name": "Lì xì năm 6 tuổi: mẹ giữ hộ. Năm 16 tuổi: mẹ vẫn giữ hộ. Năm 26 tuổi, ngày tôi cưới, mẹ đưa ra một phong bao dày cộm: “Tiền lì xì của con đây, mẹ giữ đủ hai mươi năm.”",
+   "author": ""
+  },
+  {
+   "name": "- 8/3 a có định mua quà cáp gì ko đấy?\n- Có! Nhưng mà a vẫn đang suy nghĩ ko biết em thích gì?\n- Mua làm gì cho tốn kém, mình có là gì của nhau đâu mà mua?",
+   "author": ""
+  },
+  {
+   "name": "Đêm 30, bố bắt cả nhà tắt điện thoại để quây quần. Đúng 0 giờ, người đầu tiên mở máy quay pháo hoa lại chính là bố.",
+   "author": ""
+  },
+  {
+   "name": "Tạm biệt tháng cô hồn, chào đón tháng cô Hằng.",
+   "author": ""
+  },
+  {
+   "name": "Mùng 1 ăn nhà nội, mùng 2 ăn nhà ngoại, mùng 3 ăn nhà thầy. Mùng 4 bước lên cân mới biết: Tết đi rồi, nhưng vẫn để lại kỷ niệm trên người.",
+   "author": ""
+  },
+  {
+   "name": "6/3 lẽ ra là ngày quốc tế phụ nữ nhưng vì các chị em phải make up nên đã chuyển thành 8/3",
+   "author": ""
+  },
+  {
+   "name": "- Bây giờ là tôi nói thiệt với cô là tôi không có nói giỡn nữa đó là tôi nhịn cô nhiều rồi, 1 năm 365 ngày mà tôi đã nhịn cô hết 1 ngày 8/3 rồi.\n- Vậy 364 ngày khác anh có nhịn đâu\n- Tôi nhịn đói. Cô làm vợ mà để tôi nhịn đói",
+   "author": ""
+  },
+  {
+   "name": "Valentine bạn trai hỏi muốn quà gì, tôi bảo “gì cũng được”. Anh ấy tặng cây bút bi. Từ đó tôi hiểu “gì cũng được” chưa bao giờ là gì cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Tết nhà tôi có 3 món không thể thiếu: bánh chưng, dưa hành, và câu “Xem con nhà người ta kìa”.",
+   "author": ""
+  },
+  {
+   "name": "Tiền lì xì là đồng tiền đi du lịch nhiều nhất: từ ví bác sang túi con, từ túi con sang ví mẹ, rồi từ ví mẹ lại sang túi con nhà bác.",
+   "author": ""
+  },
+  {
+   "name": "Giáng sinh nhà tôi: cây thông nhựa dùng năm thứ 8, dây đèn chỉ sáng một nửa, nhưng chụp lên story vẫn tuyệt đối điện ảnh.",
+   "author": ""
+  },
+  {
+   "name": "- Thím: Năm nay thi được mấy điểm cháu?\n- Cháu: Dạ, đủ để năm sau thím còn hỏi tiếp ạ.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay mùng 8 tháng 3\nXem lịch mới biết hoá ra ngày thường\nChị em ăn uống khẩn trương\nXong rồi làm việc bình thường nghe chưa",
+   "author": ""
+  },
+  {
+   "name": "11.11 bấm đặt hàng, 12.12 hàng vẫn đang trên đường, Tết nhận được thì đã quên mình mua gì.",
+   "author": ""
+  },
+  {
+   "name": "20/11 lớp tôi tặng cô một chậu cây kèm thiệp: “Chúc cô luôn xanh tươi như cây”. Cô cảm ơn, rồi giao bài tập: “Viết bài văn tả cây trong chậu này.”",
+   "author": ""
+  },
+  {
+   "name": "- Bác: Có người yêu chưa cháu?\n- Cháu: Dạ chưa ạ.\n- Bác: Sao chưa?\n- Cháu: Dạ tại Tết nào cháu cũng bận trả lời câu này, chưa có thời gian đi tìm ạ.",
+   "author": ""
+  },
+  {
+   "name": "Tết này tôi lì xì các cháu bằng chuyển khoản, nội dung ghi: “Chúc cháu học giỏi. Đừng hỏi cô bao giờ lấy chồng.”",
+   "author": ""
+  },
+  {
+   "name": "Giáng sinh tôi viết thư xin ông già Noel một người yêu. Ông gửi lại: “Mặt hàng tạm hết, vui lòng đặt trước Tết.”",
+   "author": ""
+  },
+  {
+   "name": "- 8/3 này anh chả biết tặng em quà gì cả...\n- Ôi không cần đâu anh ạ! Em không cần quà, chỉ cần... anh...\n- Sao em\n- Chỉ cần anh tránh xa em ra thôi. Không có người ta tưởng nhầm mình thích nhau bây giờ!",
+   "author": ""
+  },
+  {
+   "name": "Black Friday: thứ Sáu đen tối của ví tiền, thứ Bảy trắng tay, Chủ nhật ăn mì gói.",
+   "author": ""
+  },
+  {
+   "name": "Bé cháu 5 tuổi nhận lì xì, lễ phép cảm ơn rồi hỏi nhỏ: “Lần sau cô chuyển khoản cho cháu được không ạ? Để mẹ cháu không thu được.”",
+   "author": ""
+  },
+  {
+   "name": "Mùng 1 Tết cả nhà ai cũng nói lời hay ý đẹp. Đến mùng 4, mẹ hỏi: “Ai ăn hết hộp mứt mà để nguyên vỏ trong tủ?”. Và thế là Tết chính thức kết thúc.",
+   "author": ""
+  },
+  {
+   "name": "Valentine năm nay tôi được tặng hoa. Người tặng: mẹ. Kèm lời nhắn: “Con gái mẹ đẹp nhất. Nhưng năm sau dẫn về một người tặng thay mẹ nhé.”",
+   "author": ""
+  },
+  {
+   "name": "Cuối năm sếp nói: “Thưởng Tết năm nay không nhiều, nhưng tình cảm thì nhiều”. Tôi mang tình cảm đi trả tiền nhà, chủ trọ không nhận.",
+   "author": ""
+  },
+  {
+   "name": "Mùng 1 mẹ dặn không quét nhà kẻo quét mất lộc. Nhà ai cũng giữ lộc ba ngày, riêng phòng tôi giữ lộc… quanh năm.",
+   "author": ""
+  },
+  {
+   "name": "Tết ở nhà, mẹ bảo “cứ nghỉ ngơi cho khỏe”. Năm phút sau: “Lau giúp mẹ cái cửa kính”. Năm phút nữa: “Rảnh thì ra chợ mua bó hoa”. Nghỉ ngơi ngày Tết hóa ra là một danh sách việc nhà.",
+   "author": ""
+  },
+  {
+   "name": "Giáng sinh, em trai treo tất lên tường chờ ông già Noel. Sáng ra trong tất có tờ giấy của mẹ: “Tất bẩn thì bỏ vào máy giặt, không treo lên tường.”",
+   "author": ""
+  },
+  {
+   "name": "Tết ai cũng chúc an khang thịnh vượng. Mẹ chúc riêng tôi: “Bớt thức khuya, bớt mua online, bớt nói ‘để mai’.” Ba điều ước khó hơn cả thi đại học.",
+   "author": ""
+  },
+  {
+   "name": "8/3 mình chỉ chúc các bạn nữ sẽ đẹp như avatar facebook.",
+   "author": ""
+  },
+  {
+   "name": "Tết xưa có mứt có trà\nTết nay ăn nhậu say sưa suốt ngày\nTết xưa bánh tét bánh chưng\nTết nay ai pát (iPad), ai phôn (iPhone) kè kè\nTết xưa tiền lẻ lì xì\nTết nay tiền lẻ coi chừng khinh khi.\nTết xưa pháo nổ rộn ràng,\nTết nay người nổ nhà sang của nhiều.\nTết xưa đầm ấm sum vầy,\nTết nay ra quán... wifi pass gì?\nTết xưa đơn giản mà hay,\nTết nay phức tạp đắng cay lắm điều...",
+   "author": ""
+  },
+  {
+   "name": "Tiền đầy túi, tim đầy tình xăng đầy bình\nGạo đầy lu, muối đầy hủ vàng đầy tủ sức khỏe đầy đủ",
+   "author": ""
+  },
+  {
+   "name": "Thật ra TẾT... là viết tắt của cụm từ... Tui Ế Tiếp :(",
+   "author": ""
+  },
+  {
+   "name": "- Cháu nghĩ gì về việc bỏ Tết âm lịch cổ truyền?\n- Cháu nghĩ ăn một cái Tết là đủ rồi\n- Thế cháu nghĩ việc này nên thực hiện thế nào\n- Gộp 2 cái Tết làm 1, nghỉ từ Tết dương đến hết Tết âm",
+   "author": ""
+  },
+  {
+   "name": "- Một pha IQ căng cực của bạn?\n- Nhận làm thuê bài tập Tết cho các bạn. Vừa kiếm thêm vừa trốn việc nhà.",
+   "author": ""
+  },
+  {
+   "name": "- Hôm nay cháu được lì xì bao nhiêu?\n- Cháu ngủ cả ngày ạ :(",
+   "author": ""
+  },
+  {
+   "name": "Xưa: Thịt Mỡ - Dưa Hành - Câu Đối Đỏ\nNay: Ti Vi - Tủ Lạnh - Điện Máy Xanh",
+   "author": ""
+  },
+  {
+   "name": "Sếp nói: khi nào xem hết Cô dâu 8 tuổi thì mới thưởng tết!!",
+   "author": ""
+  },
+  {
+   "name": "Thu qua để lại lá vàng\nTết qua để lại cho nàng vài... cân",
+   "author": ""
+  },
+  {
+   "name": "Một năm cày cuốc mệt nhoài\nMiền Trung vào tận đất Sài mưu sinh\nTết về thăm lại gia đình\nThăm chùm khế ngọt đáp tình mẹ cha\nMấy ngày vất vả vào ra\nKhiến người xa xứ thật là khổ tâm\nMong là nghỉ Tết mỗi năm\nÍt ra cũng được khoảng tầm bảy hôm\nMột năm vất vả kiếm cơm\nĐừng nên rút ngắn dân ôm nỗi sầu.",
+   "author": ""
+  },
+  {
+   "name": "Tết này vẫn giống Tết xưa\nVẫn viêm màng túi vẫn chưa có bồ",
+   "author": ""
+  },
+  {
+   "name": "Lêu lêu bọn có gấu, tối nay ko đc chơi game.",
+   "author": ""
+  },
+  {
+   "name": "Chúc mọi người hay ăn chóng béo, tiền nhiều như kẹo, tình chặt như keo, dẻo dai như mèo, mịn màng trắng trẻo, sức khỏe như voi.",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay 8/3 em không phải làm gì cả, cứ nghỉ ngơi cho khỏe, việc nhà cứ để đấy... mai làm cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Năm mới em chẳng muốn gì\nThôi thì anh cứ lì xì mát tay",
+   "author": ""
+  },
+  {
+   "name": "Chúc bạn một ngày 8/3 thật ý nghĩa, vui tươi ngập tràn hạnh phúc. Chúc bạn luôn cười tươi, cười duyên, cười e thẹn, cười trẻ trung, ngập tràn các kiểu cười trong ngày hôm nay.",
+   "author": ""
+  },
+  {
+   "name": "Năm mới lever mới rank mới tướng mới nhưng đừng thay nick mới.",
+   "author": ""
+  },
+  {
+   "name": "Chúc các bạn Tết năm nay tiền đầy túi và tình đầy tim",
+   "author": ""
+  },
+  {
+   "name": "Năm mới càng sung sức, không bực tức, không đau nhức, gấp đôi lợi tức..tiền vào thơm phức.",
+   "author": ""
+  },
+  {
+   "name": "Tìm người làm việc. Độ tuổi từ 5-7 tuổi công việc chính là... kiếm tiền lì xì",
+   "author": ""
+  },
+  {
+   "name": "Năm mới 2017: Chúc luôn hoan hỉ, sức khỏe bền bỉ, công danh hết ý, tiền vào bạc tỉ, tiền ra ri rỉ, tình yêu thỏa chí, vạn sự như ý, luôn cười hi hi, cung hỷ cung hỷ...",
+   "author": ""
+  },
+  {
+   "name": "Tết ko chỉ đơn thuần là 30, 31, mùng 1, mùng 2 mà nó còn là ngày nghỉ",
+   "author": ""
+  },
+  {
+   "name": "Tết này vẫn giống tết xưa\nVẫn còn con nít vẫn ưa lì xì",
+   "author": ""
+  },
+  {
+   "name": "Giao thừa chúc các bạn không làm người thừa nữa nha!",
+   "author": ""
+  },
+  {
+   "name": "Trẻ trung như heo sữa\nBốc lửa như heo hơi\nChịu chơi như heo nái\nHăng hái như heo con\nSắc son như heo đất\nĐủ chất như..heo thịt!\nChúc mừng năm mới 2017!",
+   "author": ""
+  },
+  {
+   "name": "Chúc các bạn có nhiều người để ý. Tỏ tình nhiều ý. Tiền nhiều nặng ký. Công việc vừa ý. Miệng cười mắt ti hí. Sống Lâu Một tí.",
+   "author": ""
+  },
+  {
+   "name": "Mọi người xé lịch làm gì nhỉ? Cứ để mùng 1 đi nhỉ???",
+   "author": ""
+  },
+  {
+   "name": "2... người chung bát chung niêu\n0... bao giờ khóc vì nhiều tình thương\n1... tình yêu mãi tỏ tường\n7... em bé nhỏ tình thương dạt dào",
+   "author": ""
+  },
+  {
+   "name": "Ngày tháng ăn sắp kết thúc\nTháng ngày nghiêm túc lại bắt đầu",
+   "author": ""
+  },
+  {
+   "name": "Tết xưa cảm thấy nôn nao\nTết nay cảm xúc cho vào hư vô",
+   "author": ""
+  },
+  {
+   "name": "XƯA:.Thịt mỡ - dưa hành - câu đối đỏ\nNAY: Iphone - Chụp ảnh - nút like xanh",
+   "author": ""
+  },
+  {
+   "name": "Phụ nữ như những cánh hoa tươi. Rất đẹp, nhưng hoa chỉ nở trong 1 ngày rồi tàn trong 1 giây, mong các bạn nam trân trọng tuổi thanh xuân của các bạn nữ! Admin xin chúc các bạn nữ luôn vui vẻ, tươi trẻ trong ngày 8/3 và các ngày còn lại trong năm.",
+   "author": ""
+  },
+  {
+   "name": "Thấy vợ buồn buồn hỏi ra mới biết vợ làm mất đâu 40 triệu. Thế là mình đưa vợ 20 triệu cho vợ sắm tết, thấy vợ cười tươi lại hẳn, mình cũng nhẹ lòng đi nhiều. Thôi kệ, Tết mình tiêu 20 triệu cũng được.",
+   "author": ""
+  },
+  {
+   "name": "Năm mới: Đau đầu vì nhà giàu! Mệt mỏi vì học giỏi! Buồn phiền vì nhiều tiền! Ngang trái vì xinh gái! Mệt mỏi vì đẹp giai! Và mất ngủ vì không có đối thủ!",
+   "author": ""
+  },
+  {
+   "name": "- Thành đâu, chú lì xì cháu nè\n- Dạ, con lớn rồi chú... phải gấp đôi",
+   "author": ""
+  },
+  {
+   "name": "Hôm nay ai đẹp bằng em\nTóc xanh da trắng lại chen môi hồng\nMôi hồng da trắng tóc xanh\nAnh đây chẳng hiểu là em chuyện gì\nNgó lịch anh mới e dè\nThì ra là 8 tháng 3 lại về.",
+   "author": ""
+  },
+  {
+   "name": "Năm mới, anh chỉ chúc em được nhiều sức khỏe thôi. Còn về hạnh phúc và niềm vui, anh mong rằng chính mình sẽ là người mang những điều đó đến với em. Yêu em nhiều!",
+   "author": ""
+  },
+  {
+   "name": "Cung chúc tân niên.\nVạn sự bình yên.\nHạnh phúc vô biên.\nVui vẻ triền miên.\nKiếm được nhiều tiền.\nSung sướng như tiên",
+   "author": ""
+  },
+  {
+   "name": "Năm mới phát tài, phát lộc, phát tướng, phát tình nhưng đừng phát phì!",
+   "author": ""
+  },
+  {
+   "name": "Người ta ngày Tết có đôi\nTôi đây ngày Tết đơn côi 1 mình\nNgười ta ngày Tết tâm tình\nTôi đây ngày Tết một mình xem phim",
+   "author": ""
+  },
+  {
+   "name": "- Anh, hôm nay ngày gì mà ngta bán hoa đầy đường vậy nhỉ?\n- Mai mùng 1 âm lịch, họ bán hoa về thắp hương chứ gì nữa\n- Thắp hương sao lại là hoa hồng?\n- Chết trẻ thì cúng hoa hồng chứ gì. Năm nào chả có mấy vong bị đánh vì đòi quà 20-10.\n- Chia tay đi...\n- Ủa, em là ai vậy?",
+   "author": ""
+  },
+  {
+   "name": "Quyết không yêu từ giờ tớt tết\nĐể dành tiền mua hết đĩa siêu nhân",
+   "author": ""
+  },
+  {
+   "name": "Xuân này vẫn giống xuân xưa\nVẫn đi dép nhựa vẫn chưa có bồ\nTết này vẫn giống tết xưa\nVẫn đi xe số vẫn thừa ghế sau",
+   "author": ""
+  },
+  {
+   "name": "Năm mới 2017 chúc các bạn 4 chữ vàng:\nSống cho lẽ PHẢI\nSống cho cho chân THẬT\nSống biết kiên NHẪN\nSống bằng lương TÂM",
+   "author": ""
+  },
+  {
+   "name": "Ở Đức người ta không tôn cái ngày 8-3 lên cao như ở Việt nam vì phụ nữ bên đó ngày nào cũng được đề cao như 8-3 rồi. Còn ở Việt Nam ngày 8-3 là ngày đàn ông bị phân biệt đối xử =))",
+   "author": ""
+  },
+  {
+   "name": "Tết này vẫn giống tết xưa\nVẫn cứ được hỏi \"sao chưa lấy chồng\"",
+   "author": ""
+  },
+  {
+   "name": "- Năm nay con gì xông đất là hợp nhất?\n- Con ghệ",
+   "author": ""
+  },
+  {
+   "name": "Nhân dịp năm mới, xin chúc mọi người vạn sự như ý, giàu sang phú quý, bình an tâm trí, vui chơi thỏa chí, nhà nhà yêu quý, bạn bè nghĩa khí, được crush chú ý, cả năm rú rí ^^ Chúc mừng năm Canh Tý!",
+   "author": ""
+  },
+  {
+   "name": "Mừng ngày phụ nữ Việt Nam\nPhụ nam hãy nhớ chớ than thở gì\nNắng vừa chạm đến bờ mi\nKhoanh tay lễ phép \"ăn gì...anh mua\"",
+   "author": ""
+  },
+  {
+   "name": "Chúc bạn một năm mới vui vẻ, thêm tươi trẻ, luôn mới mẻ, càng mạnh khỏe. À... Luôn sạch sẽ. Không có... ghẻ nhé",
+   "author": ""
+  },
+  {
+   "name": "Năm mới chúc nhau sức khỏe nhiều.\nBạc tiền rủng rỉnh thoải mái tiêu.\nGia đình hạnh phúc bè bạn quý.\nThanh thản vui chơi mọi buổi chiều",
+   "author": ""
+  }
+ ]
+}
